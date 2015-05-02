@@ -1,0 +1,1979 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Stage>
+<Zone>
+<ZoneInfo Name = "0" Left = "35" Top = "76" Right = "39" Bottom = "79" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "1" Left = "39" Top = "91" Right = "42" Bottom = "94" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "2" Left = "43" Top = "92" Right = "49" Bottom = "95" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "3" Left = "50" Top = "91" Right = "55" Bottom = "94" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "4" Left = "52" Top = "95" Right = "53" Bottom = "96" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "5" Left = "44" Top = "85" Right = "46" Bottom = "88" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "6" Left = "44" Top = "89" Right = "49" Bottom = "91" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "7" Left = "51" Top = "87" Right = "55" Bottom = "88" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "8" Left = "53" Top = "89" Right = "57" Bottom = "90" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "9" Left = "51" Top = "82" Right = "55" Bottom = "86" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "10" Left = "46" Top = "82" Right = "48" Bottom = "84" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "11" Left = "46" Top = "76" Right = "52" Bottom = "79" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "12" Left = "53" Top = "78" Right = "55" Bottom = "81" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "13" Left = "54" Top = "73" Right = "56" Bottom = "74" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "14" Left = "56" Top = "71" Right = "58" Bottom = "72" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "15" Left = "59" Top = "69" Right = "61" Bottom = "70" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "16" Left = "61" Top = "68" Right = "63" Bottom = "69" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "17" Left = "58" Top = "74" Right = "59" Bottom = "76" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "18" Left = "63" Top = "74" Right = "65" Bottom = "76" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "19" Left = "66" Top = "74" Right = "69" Bottom = "76" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "20" Left = "63" Top = "72" Right = "69" Bottom = "73" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "21" Left = "71" Top = "77" Right = "72" Bottom = "78" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "22" Left = "72" Top = "79" Right = "73" Bottom = "80" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "23" Left = "73" Top = "81" Right = "74" Bottom = "82" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "24" Left = "75" Top = "83" Right = "79" Bottom = "86" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "25" Left = "74" Top = "75" Right = "77" Bottom = "76" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "26" Left = "75" Top = "77" Right = "78" Bottom = "78" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "27" Left = "77" Top = "79" Right = "80" Bottom = "80" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "28" Left = "77" Top = "73" Right = "80" Bottom = "75" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "29" Left = "79" Top = "76" Right = "81" Bottom = "78" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "30" Left = "81" Top = "79" Right = "84" Bottom = "80" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "31" Left = "85" Top = "80" Right = "86" Bottom = "81" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "32" Left = "83" Top = "81" Right = "85" Bottom = "83" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "33" Left = "80" Top = "81" Right = "81" Bottom = "85" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "34" Left = "86" Top = "83" Right = "87" Bottom = "84" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "35" Left = "81" Top = "89" Right = "83" Bottom = "91" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "36" Left = "77" Top = "89" Right = "79" Bottom = "90" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "37" Left = "76" Top = "93" Right = "77" Bottom = "96" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "38" Left = "78" Top = "95" Right = "80" Bottom = "96" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "39" Left = "82" Top = "84" Right = "84" Bottom = "88" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "40" Left = "85" Top = "85" Right = "87" Bottom = "86" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "41" Left = "74" Top = "68" Right = "79" Bottom = "72" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "42" Left = "65" Top = "70" Right = "68" Bottom = "71" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "43" Left = "66" Top = "65" Right = "68" Bottom = "66" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "44" Left = "72" Top = "64" Right = "73" Bottom = "67" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "45" Left = "77" Top = "63" Right = "79" Bottom = "66" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "46" Left = "73" Top = "61" Right = "77" Bottom = "63" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "47" Left = "79" Top = "59" Right = "81" Bottom = "64" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "48" Left = "72" Top = "57" Right = "78" Bottom = "60" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "49" Left = "73" Top = "55" Right = "78" Bottom = "56" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "50" Left = "79" Top = "57" Right = "82" Bottom = "58" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "51" Left = "81" Top = "54" Right = "84" Bottom = "55" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "52" Left = "74" Top = "53" Right = "80" Bottom = "54" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "53" Left = "81" Top = "49" Right = "83" Bottom = "51" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "54" Left = "68" Top = "58" Right = "70" Bottom = "64" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "55" Left = "67" Top = "49" Right = "69" Bottom = "53" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "56" Left = "63" Top = "48" Right = "65" Bottom = "53" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "57" Left = "59" Top = "47" Right = "61" Bottom = "53" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "58" Left = "53" Top = "46" Right = "57" Bottom = "48" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "59" Left = "47" Top = "46" Right = "50" Bottom = "52" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "60" Left = "51" Top = "35" Right = "54" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "61" Left = "47" Top = "39" Right = "51" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "62" Left = "45" Top = "34" Right = "50" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "63" Left = "41" Top = "33" Right = "44" Bottom = "39" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "64" Left = "35" Top = "36" Right = "38" Bottom = "40" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "65" Left = "40" Top = "40" Right = "46" Bottom = "45" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "66" Left = "35" Top = "46" Right = "37" Bottom = "51" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "67" Left = "39" Top = "46" Right = "46" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "68" Left = "34" Top = "52" Right = "38" Bottom = "57" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "69" Left = "38" Top = "58" Right = "42" Bottom = "61" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "70" Left = "39" Top = "53" Right = "44" Bottom = "57" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "71" Left = "42" Top = "51" Right = "46" Bottom = "54" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "72" Left = "73" Top = "48" Right = "74" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "73" Left = "51" Top = "49" Right = "58" Bottom = "51" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "74" Left = "69" Top = "45" Right = "72" Bottom = "48" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "75" Left = "70" Top = "33" Right = "72" Bottom = "37" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "76" Left = "70" Top = "38" Right = "72" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "77" Left = "73" Top = "36" Right = "74" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "78" Left = "73" Top = "39" Right = "74" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "79" Left = "73" Top = "42" Right = "74" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "80" Left = "73" Top = "45" Right = "74" Bottom = "47" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "81" Left = "79" Top = "32" Right = "85" Bottom = "35" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "82" Left = "81" Top = "36" Right = "83" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "83" Left = "81" Top = "42" Right = "83" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "84" Left = "84" Top = "44" Right = "87" Bottom = "48" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "85" Left = "40" Top = "76" Right = "45" Bottom = "79" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "86" Left = "47" Top = "96" Right = "48" Bottom = "97" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "87" Left = "60" Top = "74" Right = "62" Bottom = "76" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "88" Left = "75" Top = "36" Right = "76" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "89" Left = "75" Top = "39" Right = "76" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "90" Left = "75" Top = "42" Right = "76" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "91" Left = "75" Top = "45" Right = "76" Bottom = "47" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "92" Left = "75" Top = "48" Right = "76" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "93" Left = "77" Top = "36" Right = "78" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "94" Left = "77" Top = "39" Right = "78" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "95" Left = "77" Top = "42" Right = "78" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "96" Left = "77" Top = "45" Right = "78" Bottom = "47" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "97" Left = "77" Top = "48" Right = "78" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "98" Left = "79" Top = "36" Right = "80" Bottom = "38" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "99" Left = "79" Top = "39" Right = "80" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "100" Left = "79" Top = "42" Right = "80" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "101" Left = "79" Top = "45" Right = "80" Bottom = "47" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "102" Left = "79" Top = "48" Right = "80" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "103" Left = "81" Top = "39" Right = "83" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "104" Left = "81" Top = "45" Right = "83" Bottom = "48" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "105" Left = "70" Top = "42" Right = "72" Bottom = "44" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+</Zone>
+<Monster>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "51.0767" Y = "91.7189" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "50.9961" Y = "93.5542" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "52.006" Y = "91.9097" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "52.2032" Y = "93.0566" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "53.781" Y = "92.1947" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "53.9289" Y = "93.4833" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "54.9956" Y = "91.8971" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "54.861" Y = "93.0516" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "4" X = "52.6991" Y = "95.3414" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "4" X = "53" Y = "96" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "53.8391" Y = "89.8002" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "54.9297" Y = "89.8832" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "56.1109" Y = "89.9115" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "57" Y = "89.8478" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "55.7949" Y = "89.4858" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "44.0257" Y = "93.0849" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "44.1382" Y = "94.3541" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "45.0913" Y = "93.2546" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "45.335" Y = "94.5325" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "46.2482" Y = "93.1951" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "46.2373" Y = "94.31" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "47.0869" Y = "93.3771" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "47.0833" Y = "94.17" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "47.9458" Y = "93.0875" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "48.1771" Y = "94.778" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "49" Y = "92.8564" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "49" Y = "94.4461" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "47.8916" Y = "96.5045" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "40.469" Y = "92.3764" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "40.6376" Y = "93.3767" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "41.7924" Y = "92.0245" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "41.766" Y = "93.4924" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "45.1758" Y = "89.8079" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "45.3057" Y = "90.5975" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "46.361" Y = "90.0185" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "47.0351" Y = "91" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "48.2067" Y = "90.129" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "45.1648" Y = "86.3779" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "45.5634" Y = "87.5072" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "46" Y = "85.8506" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "46.8027" Y = "82.7851" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "48" Y = "83.8397" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "7" X = "52.277" Y = "87.8333" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "7" X = "53.6095" Y = "87.7506" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "7" X = "54.7037" Y = "87.8317" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "52.2007" Y = "83.1878" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "52.3495" Y = "84.8535" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "53.713" Y = "83.1111" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "54.2624" Y = "85.2212" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "55" Y = "83.5395" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "36.4189" Y = "77.3978" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "37.5625" Y = "78.7527" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "38.8078" Y = "77.3653" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "40.5898" Y = "77.5373" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "41.2413" Y = "78.7306" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "42.833" Y = "77.1521" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "44.6298" Y = "78.9283" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "47.4143" Y = "76.9617" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "47.7067" Y = "79" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "50.0153" Y = "76.9019" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "49.6872" Y = "78.498" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "52" Y = "76.7501" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "51.276" Y = "78.5903" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "12" X = "54.0365" Y = "78.6144" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "12" X = "54.7707" Y = "79.7392" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "12" X = "54.0201" Y = "80.7293" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "13" X = "55.0614" Y = "73.6703" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "13" X = "56" Y = "73.8044" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "14" X = "56.8701" Y = "71.8726" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "14" X = "58" Y = "71.8208" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "59.9069" Y = "69.8392" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "61" Y = "70" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "16" X = "61.9395" Y = "68.5705" RandRange = "true" Dir = "0" Index = "21131" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "63.1417" Y = "74.8717" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "63.2755" Y = "75.7737" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "63.9254" Y = "74.6663" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "64.4482" Y = "75.5664" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "65" Y = "74.6936" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "67.0867" Y = "75.0294" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "67.2714" Y = "75.8899" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "67.8385" Y = "74.9431" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "68.2339" Y = "76" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "69" Y = "74.9295" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "20" X = "66.525" Y = "72.7208" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "20" X = "67" Y = "72.8369" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "67.3105" Y = "70.6691" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "68" Y = "70.6588" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "67.643" Y = "71" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "66.6869" Y = "65.9024" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "68" Y = "65.7701" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "69.524" Y = "59.5978" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "69.6442" Y = "61.1251" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "69.0011" Y = "62.5541" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "69.6942" Y = "63.3102" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "68.9487" Y = "60.968" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "69.8601" Y = "60.5063" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "61.1238" Y = "74.5487" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "61.7456" Y = "74.6404" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "60.7496" Y = "75.2403" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "61.7597" Y = "76" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "62" Y = "75.7605" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "75.5244" Y = "68.8052" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "78.2313" Y = "68.8281" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "75.4126" Y = "69.9338" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "77.8609" Y = "70.0603" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "75.3703" Y = "71.2697" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "79" Y = "71.4227" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "76.9312" Y = "71.7704" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "77.0979" Y = "69.4978" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "72.7268" Y = "64.6063" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "73" Y = "64.83" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "72.5827" Y = "65.5517" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "73" Y = "65.9749" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "73" Y = "67" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "77.7893" Y = "64.3302" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "77.9818" Y = "65.3896" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "78.2683" Y = "64.7797" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "78.6085" Y = "65.6843" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "79" Y = "65.6967" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "78.8917" Y = "65.2303" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "78.3009" Y = "66" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "74.176" Y = "61.889" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "74.3612" Y = "62.7922" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "74.7667" Y = "61.7986" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "74.8477" Y = "62.9307" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "75.7169" Y = "62.2065" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "75.8033" Y = "62.7728" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "76.8531" Y = "61.8962" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "79.8921" Y = "60.5782" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "80.8467" Y = "60.8349" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "80.3688" Y = "61.6318" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "81" Y = "62.2662" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "81" Y = "63.467" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "72.9057" Y = "58.1165" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "73.8682" Y = "59.2195" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "74.8964" Y = "57.7576" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "75.0321" Y = "59.2052" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "76.2542" Y = "58.15" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "76.6927" Y = "59.6006" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "77.746" Y = "57.6588" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "77.7073" Y = "59.304" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "74.7213" Y = "59.2383" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "79.8852" Y = "57.5212" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "81.1344" Y = "57.6298" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "82" Y = "57.5754" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "74.0274" Y = "55.8406" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "75.3253" Y = "55.8692" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "76.8173" Y = "56" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "77.9654" Y = "55.6807" RandRange = "true" Dir = "0" Index = "21132" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "81.9916" Y = "49.9246" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "83" Y = "50.7724" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "85.0825" Y = "45.5197" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "85.3339" Y = "47.4727" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "86.1555" Y = "45.4994" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "86.0591" Y = "47.1708" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "86.9484" Y = "45.8922" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "70.9987" Y = "33.9768" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "72" Y = "34.3621" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "71.2265" Y = "35.1529" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "71.8359" Y = "35.444" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "70.9938" Y = "36.1215" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "72" Y = "36.7672" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "71.0939" Y = "37" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "70.9701" Y = "38.6496" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "72" Y = "38.885" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "70.6789" Y = "39.569" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "71.7374" Y = "39.6351" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "71.0983" Y = "40.4037" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "71.5477" Y = "40.4908" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "70.5155" Y = "34.8842" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "75" X = "70.7634" Y = "36.4496" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "73.9124" Y = "36.5878" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "74" Y = "36.7617" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "73.8913" Y = "37.4038" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "74" Y = "37.7759" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "73.9503" Y = "38" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "73.7494" Y = "39.569" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "73.9681" Y = "40.7983" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "105" X = "71.0768" Y = "42.7115" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "105" X = "71.9089" Y = "42.7198" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "76" Y = "39.9846" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "79" X = "74" Y = "42.893" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "79.8089" Y = "32.812" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "79.8874" Y = "33.7104" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "79.9613" Y = "34.4839" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "79.9503" Y = "35" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "80.8947" Y = "32.8813" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "80.9465" Y = "33.9559" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "80.9558" Y = "34.4128" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "81.8412" Y = "34.2532" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "82.1986" Y = "33.0693" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "82.783" Y = "34.2626" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "81.81" Y = "36.5592" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "82.6964" Y = "36.746" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "81.787" Y = "37.4137" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "82.9623" Y = "37.7945" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "82.6158" Y = "37.3404" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "79.8333" Y = "36.6967" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "79.8355" Y = "37.516" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "80" Y = "38" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "103" X = "82.1481" Y = "39.7346" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "103" X = "82.7545" Y = "39.7684" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "103" X = "81.9823" Y = "40.4799" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "103" X = "82.8975" Y = "40.7916" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "79.6979" Y = "39.7274" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "79.9059" Y = "40.3727" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "80" Y = "41" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "77.907" Y = "39.8875" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "77.7872" Y = "36.6318" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "82.006" Y = "42.7714" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "83" Y = "42.6689" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "80" Y = "42.8659" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "78" Y = "43.2968" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "70.2617" Y = "45.8531" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "71.3032" Y = "46.0858" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "70.5371" Y = "46.6592" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "71.7756" Y = "46.6716" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "69.8862" Y = "47.3396" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "71.2595" Y = "47.5448" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "70.2119" Y = "48" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "80" X = "73.7027" Y = "45.7199" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "80" X = "74" Y = "46.0318" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "80" X = "73.7022" Y = "47" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "73.7842" Y = "48.6399" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "74" Y = "48.8349" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "73.8354" Y = "49.9857" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "75.667" Y = "45.9101" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "76" Y = "47" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "85.7713" Y = "47.433" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "86.798" Y = "47.9833" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "104" X = "81.8806" Y = "46.0224" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "104" X = "82.8244" Y = "45.8542" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "104" X = "82.3555" Y = "46.9034" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "104" X = "82.9792" Y = "47.5771" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "104" X = "81.9918" Y = "48" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "102" X = "79.6884" Y = "48.806" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "102" X = "80" Y = "48.8983" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "101" X = "79.9481" Y = "45.8317" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "101" X = "80" Y = "45.9719" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "101" X = "80" Y = "46.9854" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "77.731" Y = "48.7038" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "75.8362" Y = "49.1972" RandRange = "true" Dir = "0" Index = "21133" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "82.9132" Y = "84.9425" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "83.936" Y = "84.8412" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "82.9976" Y = "85.5586" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "84" Y = "85.7086" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "83.0552" Y = "86.2217" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "83.9581" Y = "86.42" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "82.8392" Y = "87.0555" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "84" Y = "87.5308" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "82.6232" Y = "88" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "84" Y = "88" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "85.6744" Y = "85.4661" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "87" Y = "85.7477" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "85.7107" Y = "86" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "87" Y = "86" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "86.6771" Y = "83.5234" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "87" Y = "83.7853" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "87" Y = "84" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "83.6341" Y = "81.9453" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "83.8765" Y = "82.9991" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "84.4482" Y = "81.6333" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "84.7429" Y = "83" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "85" Y = "82.5977" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "85.8231" Y = "80.2628" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "86" Y = "80.3399" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "86" Y = "81" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "82.2263" Y = "79.8199" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "83.953" Y = "79.6822" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "84" Y = "80" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "80.6111" Y = "81.8183" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "81" Y = "81.8793" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "81" Y = "82.8923" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "81" Y = "83.6782" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "80.6643" Y = "84.5512" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "75.8134" Y = "84.1268" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "75.942" Y = "85.6798" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "77.1643" Y = "84.2922" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "77.1817" Y = "85.5879" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "77.7947" Y = "84.1736" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "78.1261" Y = "85.5124" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "78.5093" Y = "84.5424" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "81.1374" Y = "90.035" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "82.9831" Y = "89.6834" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "82.5097" Y = "90.6723" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "83" Y = "91" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "82.4093" Y = "91" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "36" X = "77.6135" Y = "89.7606" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "36" X = "79" Y = "89.7588" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "36" X = "79" Y = "90" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "76.6591" Y = "94.0027" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "77" Y = "93.9319" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "77" Y = "94.9671" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "76.7457" Y = "95.9637" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "77" Y = "96" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "77" Y = "95.2224" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "78.8007" Y = "95.4859" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "78.8524" Y = "96" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "79.2065" Y = "95.5811" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "79.1699" Y = "96" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "79.9148" Y = "95.5016" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "79.9564" Y = "95.9275" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "73.5835" Y = "81.4449" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "74" Y = "82" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "22" X = "72.4455" Y = "79.6125" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "22" X = "72.9419" Y = "80" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "22" X = "73" Y = "79.612" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "21" X = "71.4387" Y = "77.8844" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "21" X = "72" Y = "78" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "77.9331" Y = "79.6876" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "79.5027" Y = "79.7738" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "80" Y = "79.7931" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "80.02" Y = "77.0712" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "80.0517" Y = "78" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "81" Y = "76.7947" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "81" Y = "78" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "80.7279" Y = "77.4827" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "76.0753" Y = "77.8287" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "78" Y = "77.7341" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "78" Y = "77.4484" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "76.8524" Y = "77.6589" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "25" X = "75.1289" Y = "75.487" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "25" X = "76.8201" Y = "76" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "84" Y = "79.7801" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "79.1234" Y = "79.7557" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "40.2583" Y = "54.1684" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "41.3299" Y = "54.543" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "42.9429" Y = "55.7624" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "43.9582" Y = "55.8421" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "43.4093" Y = "56.6384" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "40.6842" Y = "56.6567" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "40.4438" Y = "55.1317" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "41.8335" Y = "56.375" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "34.967" Y = "53.0846" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "36.0341" Y = "53.1252" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "36.9488" Y = "53.16" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "37.8338" Y = "53.3624" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "37.7794" Y = "54.5328" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "36.9145" Y = "54.5831" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "35.2845" Y = "55.0182" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "36.8503" Y = "56.1039" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "69" X = "39.4843" Y = "59.1697" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "69" X = "40.2598" Y = "60.2553" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "69" X = "40.5413" Y = "58.9339" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "69" X = "41.0665" Y = "60.3637" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "69" X = "41.4626" Y = "58.9689" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "43.569" Y = "52.0568" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "46" Y = "52.0232" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "46" Y = "53.5304" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "44.3287" Y = "51.791" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "45.3491" Y = "53.5416" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "36.2276" Y = "46.9587" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "36.4007" Y = "48.7458" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "36.3706" Y = "50.1937" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "37" Y = "49.6666" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "45.509" Y = "35.6996" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "46.263" Y = "37.2239" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "46.6598" Y = "35.8265" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "47.2778" Y = "37.4674" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "48.9442" Y = "35.2714" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "48.9607" Y = "37.2362" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "49.9054" Y = "35.4009" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "49.8036" Y = "37.1414" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "52.7697" Y = "36.2521" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "53.9995" Y = "36.231" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "52.3841" Y = "37.4895" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "53.7465" Y = "37.7267" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "42.5368" Y = "34.8033" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "43.3908" Y = "34.9506" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "42.2169" Y = "36.0644" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "43.1051" Y = "36.3401" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "42.0492" Y = "37.0953" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "43.0168" Y = "37.8372" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "43.6357" Y = "38.6085" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "43.1869" Y = "36.6435" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "48.9581" Y = "40.4141" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "50.8643" Y = "40.4484" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "48.6985" Y = "42.015" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "50.4342" Y = "43.4078" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "49.5874" Y = "41.1899" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "50.741" Y = "41.9262" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "41.5434" Y = "40.9231" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "41.944" Y = "43.3153" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "42.5452" Y = "41.2931" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "42.8159" Y = "43.1198" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "44.4634" Y = "41.6124" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "44.5951" Y = "43.5737" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "45.9552" Y = "41.7685" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "45.6559" Y = "43.5507" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "43.3831" Y = "43.72" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "36.4999" Y = "36.804" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "37.8879" Y = "37.1032" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "36.4203" Y = "38.3449" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "37.4559" Y = "39.2577" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "40.5948" Y = "47.4073" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "40.7506" Y = "49.3667" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "42.9082" Y = "47.2379" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "43.0432" Y = "48.6227" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "45.9027" Y = "47.3763" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "48.5607" Y = "47.3397" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "49.6408" Y = "47.7385" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "48.3113" Y = "50.3212" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "73" X = "52.4473" Y = "50.038" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "73" X = "53.7379" Y = "50.5096" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "73" X = "55.477" Y = "49.9289" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "73" X = "57.0921" Y = "49.794" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "73" X = "57.0867" Y = "50.5699" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "54.4195" Y = "47.2447" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "56.3246" Y = "47.1519" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "55.5286" Y = "47.9393" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "60.7315" Y = "49.5955" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "60.5626" Y = "50.7718" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "60.6609" Y = "51.7709" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "56" X = "64.9167" Y = "50.4138" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "36.3266" Y = "37.5244" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "36.7549" Y = "39.66" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "36.2246" Y = "38.0179" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "47.7752" Y = "34.7748" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "48.1342" Y = "36.2506" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "46.3963" Y = "36.9481" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "52.1631" Y = "36.7211" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "48.4016" Y = "41.2462" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "49.7263" Y = "43.1278" RandRange = "true" Dir = "0" Index = "21135" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "76.5493" Y = "83.8209" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "77.8099" Y = "83.8663" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "76.5974" Y = "84.6435" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "77.6696" Y = "85.2078" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "76.7731" Y = "94.053" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "76.7435" Y = "94.9976" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "78.6381" Y = "95.4748" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "78.6672" Y = "95.7982" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "82.4241" Y = "89.6416" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "81.8765" Y = "90.7236" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "84.1125" Y = "82.7355" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "86.7574" Y = "85.3094" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "86.5943" Y = "83.9041" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "83.1536" Y = "79.5688" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "81.9393" Y = "79.5251" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "80.6522" Y = "83.0119" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "80.6758" Y = "83.6698" RandRange = "true" Dir = "0" Index = "21134" Number = "1" Relife = "77499" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+</Monster>
+</Stage>

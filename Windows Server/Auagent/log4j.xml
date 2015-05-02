@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+ 
+<log4j:configuration xmlns:log4j='http://jakarta.apache.org/log4j/'>
+	<appender name="ASYNC" class="org.apache.log4j.AsyncAppender">
+		<param name="BufferSize" value="102400"/> 
+		<appender-ref ref="SYSLOG" />
+	</appender>
+
+	<appender name="SYSLOG" class="org.apache.log4j.net.SyslogAppender">
+		<param name="facility" value="LOCAL0" />
+		<param name="SyslogHost" value="manager" />
+		<param name="Threshold" value="DEBUG" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="auagent: %-5p - %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+		<param name="Target" value="System.out" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="auagent: %d{yyyy-MM-dd HH:mm:ss} %-5p - %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="FILE" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="D:/output.log" />
+		<param name="Threshold" value="DEBUG" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="auagent: %d{yyyy-MM-dd HH:mm:ss,SSS} %-5p - %m%n" />
+		</layout>
+	</appender>
+	
+	<root>
+		<priority value ="debug" />
+		<appender-ref ref="FILE" />
+		<appender-ref ref="CONSOLE" />
+	</root>
+</log4j:configuration>
+

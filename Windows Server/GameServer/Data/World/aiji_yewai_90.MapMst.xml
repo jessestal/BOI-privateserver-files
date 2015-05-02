@@ -1,0 +1,2390 @@
+<Stage>
+<Zone>
+<ZoneInfo Name = "0" Left = "14" Top = "99" Right = "17" Bottom = "106" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "1" Left = "25" Top = "104" Right = "29" Bottom = "111" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "2" Left = "31" Top = "107" Right = "33" Bottom = "113" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "3" Left = "25" Top = "97" Right = "27" Bottom = "101" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "4" Left = "31" Top = "97" Right = "35" Bottom = "99" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "5" Left = "36" Top = "112" Right = "45" Bottom = "116" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "6" Left = "39" Top = "98" Right = "42" Bottom = "102" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "7" Left = "44" Top = "96" Right = "48" Bottom = "99" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "8" Left = "49" Top = "106" Right = "54" Bottom = "110" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "9" Left = "49" Top = "111" Right = "55" Bottom = "115" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "10" Left = "38" Top = "89" Right = "44" Bottom = "93" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "11" Left = "49" Top = "88" Right = "54" Bottom = "91" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "12" Left = "59" Top = "103" Right = "62" Bottom = "105" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "13" Left = "61" Top = "108" Right = "65" Bottom = "110" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "14" Left = "62" Top = "96" Right = "66" Bottom = "98" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "15" Left = "67" Top = "101" Right = "69" Bottom = "105" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "16" Left = "75" Top = "100" Right = "79" Bottom = "102" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "17" Left = "79" Top = "106" Right = "81" Bottom = "109" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "18" Left = "81" Top = "97" Right = "84" Bottom = "98" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "19" Left = "95" Top = "104" Right = "98" Bottom = "106" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "20" Left = "92" Top = "107" Right = "94" Bottom = "109" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "21" Left = "100" Top = "100" Right = "101" Bottom = "102" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "22" Left = "23" Top = "112" Right = "29" Bottom = "114" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "23" Left = "12" Top = "74" Right = "18" Bottom = "76" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "24" Left = "30" Top = "74" Right = "35" Bottom = "79" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "25" Left = "38" Top = "72" Right = "44" Bottom = "75" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "26" Left = "42" Top = "81" Right = "49" Bottom = "84" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "27" Left = "32" Top = "83" Right = "36" Bottom = "85" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "28" Left = "60" Top = "80" Right = "64" Bottom = "84" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "29" Left = "65" Top = "80" Right = "71" Bottom = "84" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "30" Left = "74" Top = "83" Right = "81" Bottom = "86" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "31" Left = "75" Top = "90" Right = "80" Bottom = "94" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "32" Left = "68" Top = "90" Right = "72" Bottom = "91" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "33" Left = "87" Top = "87" Right = "91" Bottom = "92" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "34" Left = "98" Top = "75" Right = "103" Bottom = "80" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "35" Left = "96" Top = "82" Right = "103" Bottom = "86" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "36" Left = "92" Top = "95" Right = "93" Bottom = "96" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "37" Left = "95" Top = "93" Right = "96" Bottom = "94" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "38" Left = "19" Top = "62" Right = "24" Bottom = "66" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "39" Left = "19" Top = "69" Right = "25" Bottom = "73" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "40" Left = "51" Top = "70" Right = "55" Bottom = "75" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "41" Left = "58" Top = "66" Right = "62" Bottom = "70" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "42" Left = "40" Top = "64" Right = "48" Bottom = "67" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "43" Left = "74" Top = "76" Right = "78" Bottom = "78" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "44" Left = "68" Top = "67" Right = "72" Bottom = "70" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "45" Left = "68" Top = "72" Right = "70" Bottom = "74" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "46" Left = "80" Top = "64" Right = "83" Bottom = "70" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "47" Left = "83" Top = "72" Right = "89" Bottom = "75" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "48" Left = "85" Top = "62" Right = "90" Bottom = "65" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "49" Left = "109" Top = "81" Right = "111" Bottom = "85" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "50" Left = "113" Top = "77" Right = "115" Bottom = "80" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "51" Left = "98" Top = "66" Right = "102" Bottom = "68" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "52" Left = "26" Top = "51" Right = "29" Bottom = "57" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "53" Left = "35" Top = "49" Right = "37" Bottom = "54" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "54" Left = "43" Top = "54" Right = "45" Bottom = "58" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "55" Left = "66" Top = "60" Right = "72" Bottom = "62" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "56" Left = "51" Top = "51" Right = "53" Bottom = "53" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "57" Left = "55" Top = "46" Right = "59" Bottom = "49" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "58" Left = "55" Top = "55" Right = "57" Bottom = "57" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "59" Left = "64" Top = "54" Right = "68" Bottom = "55" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "60" Left = "78" Top = "55" Right = "83" Bottom = "58" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "61" Left = "94" Top = "57" Right = "96" Bottom = "61" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "62" Left = "101" Top = "55" Right = "110" Bottom = "58" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "63" Left = "87" Top = "45" Right = "92" Bottom = "49" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "64" Left = "77" Top = "47" Right = "79" Bottom = "51" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "65" Left = "94" Top = "51" Right = "98" Bottom = "53" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "66" Left = "96" Top = "40" Right = "99" Bottom = "45" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "67" Left = "105" Top = "45" Right = "107" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "68" Left = "20" Top = "37" Right = "24" Bottom = "42" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "69" Left = "28" Top = "43" Right = "30" Bottom = "46" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "70" Left = "43" Top = "45" Right = "46" Bottom = "47" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "71" Left = "35" Top = "29" Right = "38" Bottom = "32" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "72" Left = "33" Top = "38" Right = "36" Bottom = "40" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "73" Left = "16" Top = "25" Right = "19" Bottom = "29" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "74" Left = "20" Top = "33" Right = "22" Bottom = "34" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "75" Left = "14" Top = "17" Right = "16" Bottom = "20" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "76" Left = "22" Top = "19" Right = "24" Bottom = "22" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "77" Left = "29" Top = "20" Right = "31" Bottom = "24" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "78" Left = "23" Top = "26" Right = "25" Bottom = "27" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "79" Left = "33" Top = "22" Right = "34" Bottom = "25" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "80" Left = "29" Top = "33" Right = "31" Bottom = "35" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "81" Left = "46" Top = "26" Right = "48" Bottom = "28" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "82" Left = "41" Top = "20" Right = "43" Bottom = "22" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "83" Left = "57" Top = "14" Right = "59" Bottom = "20" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "84" Left = "52" Top = "17" Right = "54" Bottom = "20" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "85" Left = "55" Top = "28" Right = "59" Bottom = "30" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "86" Left = "45" Top = "33" Right = "47" Bottom = "37" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "87" Left = "57" Top = "37" Right = "61" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "88" Left = "68" Top = "46" Right = "72" Bottom = "50" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "89" Left = "69" Top = "37" Right = "72" Bottom = "41" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "90" Left = "63" Top = "43" Right = "65" Bottom = "45" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "91" Left = "63" Top = "26" Right = "65" Bottom = "28" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "92" Left = "80" Top = "36" Right = "84" Bottom = "40" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "93" Left = "76" Top = "31" Right = "78" Bottom = "34" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "94" Left = "89" Top = "34" Right = "92" Bottom = "37" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "95" Left = "91" Top = "27" Right = "94" Bottom = "30" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "96" Left = "83" Top = "30" Right = "87" Bottom = "32" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "97" Left = "102" Top = "32" Right = "107" Bottom = "35" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "98" Left = "98" Top = "18" Right = "103" Bottom = "22" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "99" Left = "99" Top = "25" Right = "104" Bottom = "28" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "100" Left = "107" Top = "23" Right = "110" Bottom = "30" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+<ZoneInfo Name = "101" Left = "20" Top = "17" Right = "21" Bottom = "18" AIStep = "0" CanPK = "false" CanPrivateShop = "false" EnterScript = "NULL" LeaveScript = "NULL">
+</ZoneInfo>
+</Zone>
+<Monster>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "15.1429" Y = "100.653" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "16.7285" Y = "100.807" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "15.4434" Y = "102.575" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "16.8394" Y = "103.541" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "15.1587" Y = "105.418" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "0" X = "16.9504" Y = "105.861" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "26.0038" Y = "105.527" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "27.6265" Y = "105.612" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "28.6382" Y = "108.683" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "25.9727" Y = "108.266" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "26.2091" Y = "110.511" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "1" X = "28.1862" Y = "110.731" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "31.9379" Y = "107.738" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "33" Y = "108.129" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "32.8265" Y = "110.461" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "32.027" Y = "112.801" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "2" X = "33" Y = "112.248" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "26.8007" Y = "98.631" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "3" X = "25.9337" Y = "99.6755" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "22" X = "24.6988" Y = "113.027" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "22" X = "27.0208" Y = "113.199" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "22" X = "28.676" Y = "114" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "4" X = "32.1821" Y = "98.317" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "4" X = "35" Y = "98.2892" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "37.4595" Y = "112.993" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "37.5407" Y = "116" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "39.5046" Y = "115.718" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "40.2209" Y = "113.182" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "42.2746" Y = "113.361" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "42.2561" Y = "115.56" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "44.6928" Y = "115.686" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "5" X = "44.9664" Y = "113.319" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "40.5009" Y = "100.509" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "42" Y = "102" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "6" X = "40.0387" Y = "102" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "7" X = "45.0213" Y = "97.2813" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "7" X = "48" Y = "97.6492" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "7" X = "47.6945" Y = "98.7727" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "49.9679" Y = "107.569" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "51.4568" Y = "107.528" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "53.244" Y = "107.62" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "53.511" Y = "109.713" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "51.5496" Y = "109.404" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "8" X = "50.4713" Y = "109.832" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "49.9046" Y = "112.531" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "53.0822" Y = "112.544" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "54.5863" Y = "113.699" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "50.3723" Y = "114.136" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "9" X = "53.3497" Y = "114.587" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "39.4207" Y = "90.3391" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "39.3924" Y = "92.5065" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "41.1941" Y = "90.6229" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "41.3318" Y = "92.3913" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "43.1096" Y = "92.8959" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "10" X = "44" Y = "90.1663" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "50.6691" Y = "89.1113" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "50.8493" Y = "91" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "53.0512" Y = "91" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "53.9686" Y = "89.2551" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "11" X = "52.2713" Y = "89.1063" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "12" X = "60.9649" Y = "103.684" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "12" X = "62" Y = "104.192" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "12" X = "61.3769" Y = "105" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "13" X = "62.32" Y = "109.948" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "13" X = "64.4797" Y = "110" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "13" X = "62.9592" Y = "109.233" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "14" X = "64.1436" Y = "97.1123" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "14" X = "66" Y = "97.3262" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "14" X = "65.8621" Y = "98" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "14" X = "62.8048" Y = "98" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "69" Y = "102.059" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "69" Y = "103.958" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "67.897" Y = "102.414" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "67.8741" Y = "103.927" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "15" X = "68.7132" Y = "105" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "33.7132" Y = "84.4727" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "35.0919" Y = "84.2521" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "36" Y = "84.9077" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "27" X = "34.0088" Y = "85" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "43.9265" Y = "83.2091" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "45.716" Y = "82.7744" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "46.7873" Y = "83.8872" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "49" Y = "83.8256" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "26" X = "49" Y = "82.0874" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "31.3699" Y = "77.6901" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "31.7609" Y = "75.8553" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "33.9759" Y = "76.015" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "33.3514" Y = "78.2879" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "24" X = "34.9223" Y = "76.6805" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "25" X = "39.1616" Y = "73.4816" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "25" X = "41.9148" Y = "73.6621" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "25" X = "43.5111" Y = "74.7078" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "25" X = "40.3972" Y = "75" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "16" X = "76.6967" Y = "101.109" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "16" X = "77.7954" Y = "101.104" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "16" X = "78.9376" Y = "101.753" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "16" X = "76.7406" Y = "101.842" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "17" X = "80.6765" Y = "107.407" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "17" X = "79.9378" Y = "108.446" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "17" X = "81" Y = "108.552" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "17" X = "81" Y = "107.063" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "82.2355" Y = "97.9298" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "84" Y = "97.9174" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "18" X = "83.5813" Y = "97.5492" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "20" X = "94" Y = "107.832" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "20" X = "93.0812" Y = "107.899" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "20" X = "93.0052" Y = "109" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "20" X = "94" Y = "109" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "95.7491" Y = "104.883" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "96.85" Y = "105.902" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "19" X = "98" Y = "106" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "21" X = "100.859" Y = "100.989" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "21" X = "101" Y = "101.241" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "21" X = "101" Y = "102" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "21" X = "101" Y = "102" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "28" X = "61.3026" Y = "81.1146" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "28" X = "63.2057" Y = "81.3408" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "28" X = "63.9003" Y = "82.8141" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "28" X = "61.2785" Y = "83.0853" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "28" X = "63.7271" Y = "83.8446" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "66.9018" Y = "81.6932" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "66.435" Y = "83.4259" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "67.9172" Y = "83.7641" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "68.6884" Y = "81.9829" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "70.7258" Y = "80.693" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "29" X = "71" Y = "83.107" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "69.2671" Y = "90.9044" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "70.5591" Y = "90.9569" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "71.3911" Y = "91" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "32" X = "72" Y = "90.7298" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "76.107" Y = "91.0908" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "76.1162" Y = "93.5411" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "77.6144" Y = "94" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "77.6484" Y = "91.6364" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "80" Y = "91.2802" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "80" Y = "92.8519" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "31" X = "78.0356" Y = "91.6353" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "75.0066" Y = "83.9984" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "74.9497" Y = "85.3986" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "76.742" Y = "85.619" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "77.6045" Y = "84.5497" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "80.0044" Y = "84.5275" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "81" Y = "85.6359" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "30" X = "76.7605" Y = "86" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "88.6306" Y = "88.4754" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "88.4482" Y = "90.404" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "88.4304" Y = "91.7929" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "89.5233" Y = "91.787" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "90.4062" Y = "88.6568" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "91" Y = "91.1921" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "33" X = "90.6162" Y = "91.9267" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "36" X = "92.4671" Y = "95.4634" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "36" X = "93" Y = "95.7934" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "95.8057" Y = "93.798" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "37" X = "96" Y = "94" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "12.9172" Y = "75.0094" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "13.4459" Y = "75.79" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "14.3337" Y = "75.9732" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "14.6174" Y = "74.7779" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "16.0055" Y = "74.8141" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "17.2589" Y = "75.5714" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "23" X = "18" Y = "75.6367" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "20.3811" Y = "70.3875" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "22.8137" Y = "70.3138" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "25" Y = "70.6812" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "25" Y = "72.3795" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "23.4245" Y = "72.7748" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "39" X = "21.0456" Y = "72.8555" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "20.6708" Y = "63.3196" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "20.1395" Y = "65.2283" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "21.3345" Y = "65.6837" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "22.2698" Y = "63.7104" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "23.9587" Y = "63.5707" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "38" X = "23.6158" Y = "65.9549" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "97.8435" Y = "83.9548" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "99.7598" Y = "83.374" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "98.2728" Y = "85.5824" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "102.012" Y = "85.5153" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "102.436" Y = "83.0753" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "35" X = "103" Y = "85.3978" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "98.8131" Y = "76.1864" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "99.318" Y = "79.1092" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "101.382" Y = "79.2681" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "102.977" Y = "76.2528" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "34" X = "102.873" Y = "79.5249" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "110.49" Y = "82.5828" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "111" Y = "84.1863" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "49" X = "110.326" Y = "84.6981" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "114.048" Y = "77.5896" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "115" Y = "77.8923" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "113.912" Y = "79.3968" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "50" X = "115" Y = "79.8768" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "51" X = "99.7317" Y = "66.5579" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "51" X = "99.0793" Y = "67.8672" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "51" X = "100.872" Y = "68" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "51" X = "102" Y = "68" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "51" X = "102" Y = "66.6861" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "84.8482" Y = "73.0568" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "87.0636" Y = "73.1474" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "88.7008" Y = "73.1718" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "88.8075" Y = "75" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "85.8064" Y = "74.5879" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "47" X = "84.2348" Y = "74.6295" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "80.9395" Y = "65.2006" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "82.7109" Y = "65.2295" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "81.5774" Y = "66.9567" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "81.0495" Y = "69.3706" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "82.7287" Y = "69.8915" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "46" X = "83" Y = "68.0569" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "86.7183" Y = "63.5224" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "85.7997" Y = "64.7422" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "87.9488" Y = "64.8682" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "88.6754" Y = "62.6168" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "89.8914" Y = "62.7602" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "48" X = "89.994" Y = "64.811" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "75.5776" Y = "77.3733" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "74.9364" Y = "76.6102" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "78" Y = "76.5257" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "78" Y = "78" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "43" X = "76.8531" Y = "78" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "68.9295" Y = "72.8495" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "68.8352" Y = "74" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "69.8661" Y = "74" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "45" X = "70" Y = "72.9667" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "68.6225" Y = "68.2403" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "68.8827" Y = "70" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "70.5469" Y = "70" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "70.2186" Y = "68.5158" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "72" Y = "68.3479" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "44" X = "72" Y = "69.6522" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "52.0106" Y = "71.4276" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "53.8454" Y = "71.4587" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "55" Y = "71.6065" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "55" Y = "74.2087" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "52.9943" Y = "73.3121" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "51.5927" Y = "74.7291" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "40" X = "54.9889" Y = "74.8776" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "59.8461" Y = "67.3682" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "58.357" Y = "67.6338" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "59.6984" Y = "70" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "61.1978" Y = "69.7624" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "61.3241" Y = "67.4361" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "41" X = "62" Y = "69.2611" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "41.3403" Y = "65.2413" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "41.3008" Y = "66.7141" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "44.1346" Y = "67" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "43.9979" Y = "65.0846" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "46.4126" Y = "65.0501" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "47.2133" Y = "66.9834" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "42" X = "48" Y = "65.5945" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "27.0171" Y = "52.1082" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "27.1207" Y = "54.2077" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "27.1944" Y = "56.6408" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "28.9427" Y = "56.7818" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "28.7207" Y = "54.5246" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "29" Y = "52.3292" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "52" X = "29" Y = "54.2021" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "36.2414" Y = "49.9424" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "36.4407" Y = "50.6776" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "36.9622" Y = "52.2129" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "36.0593" Y = "53.0757" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "37" Y = "53.9839" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "53" X = "35.5125" Y = "53.9356" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "44.1459" Y = "54.8509" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "45" Y = "55.2496" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "44.4803" Y = "55.6575" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "43.6852" Y = "56.9706" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "44.9106" Y = "58" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "54" X = "45" Y = "57.0005" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "44.5797" Y = "45.7835" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "43.9734" Y = "46.5832" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "45.7185" Y = "47" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "46" Y = "45.9522" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "70" X = "44.9721" Y = "45.4989" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "56" X = "51.8859" Y = "51.5433" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "56" X = "51.8771" Y = "52.9845" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "56" X = "53" Y = "53" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "56.3953" Y = "55.845" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "55.833" Y = "56.682" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "57" Y = "57" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "58" X = "57" Y = "55.53" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "66.6229" Y = "60.6969" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "67.7776" Y = "62" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "69.8038" Y = "62" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "71.6224" Y = "62" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "72" Y = "60.6712" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "70.7125" Y = "60.6698" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "55" X = "68.101" Y = "60.7578" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "65.3755" Y = "54.7847" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "64.9028" Y = "55" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "66.7288" Y = "55" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "68" Y = "54.4703" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "59" X = "66.9902" Y = "54.5439" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "79.4967" Y = "55.5897" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "79.5702" Y = "57.4382" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "78.9527" Y = "58" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "80.4734" Y = "58" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "80.7363" Y = "56.8388" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "82.3324" Y = "55.6768" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "82.0317" Y = "57.5724" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "60" X = "83" Y = "57.9075" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "94.6023" Y = "57.6519" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "95.5099" Y = "58.0571" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "96" Y = "58.6418" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "95.1592" Y = "59.6704" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "94.9383" Y = "61" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "61" X = "96" Y = "61" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "102.145" Y = "55.8914" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "102.082" Y = "57.1848" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "102.491" Y = "58" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "103.858" Y = "58" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "103.73" Y = "56.4051" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "106.033" Y = "55.8927" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "105.981" Y = "57.293" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "107.833" Y = "58" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "107.21" Y = "56.6452" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "109.832" Y = "55.8919" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "62" X = "110" Y = "57.7357" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "94.7512" Y = "52.1562" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "95.031" Y = "53" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "96.3983" Y = "51.7967" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "96.4193" Y = "53" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "97.4354" Y = "52.622" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "98" Y = "51.7626" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "65" X = "98" Y = "53" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "105.476" Y = "45.8713" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "107" Y = "45.9007" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "105.867" Y = "47.0599" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "107" Y = "47.8652" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "106.037" Y = "48.2752" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "106.134" Y = "49.8903" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "67" X = "107" Y = "50" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "96.5429" Y = "40.9888" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "96.522" Y = "42.4778" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "96.6605" Y = "44.9044" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "97.7859" Y = "44.8986" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "97.6797" Y = "43.7561" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "97.9019" Y = "41.5353" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "99" Y = "41.5548" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "99" Y = "43.4373" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "66" X = "99" Y = "44.8806" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "87.8415" Y = "46.13" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "89.8378" Y = "46.4039" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "91.4996" Y = "46.276" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "92" Y = "47.4855" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "90.581" Y = "47.4627" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "88.4151" Y = "47.4886" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "87.7817" Y = "48.7018" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "89.9287" Y = "48.7748" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "63" X = "91.5872" Y = "49" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "77.8975" Y = "47.6222" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "79" Y = "47.9251" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "78.213" Y = "49.6769" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "79" Y = "49.6985" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "77.7656" Y = "51" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "64" X = "79" Y = "51" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "56.2745" Y = "46.7682" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "58.0573" Y = "46.7451" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "59" Y = "46.8035" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "59" Y = "48.3261" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "57.0973" Y = "48.3448" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "56.2643" Y = "49" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "57" X = "58.2755" Y = "49" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "20.9139" Y = "38.0363" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "22.6078" Y = "38.2498" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "24" Y = "38.2929" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "24" Y = "39.5957" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "22.6126" Y = "39.7487" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "21.2695" Y = "40.0515" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "21.2468" Y = "41.7714" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "22.5389" Y = "41.867" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "68" X = "24" Y = "42" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "33.9641" Y = "38.7931" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "34.1477" Y = "40" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "35.5273" Y = "40" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "35.5614" Y = "38.7301" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "72" X = "36" Y = "39.5829" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "80" X = "30.0664" Y = "33.775" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "80" X = "30.2016" Y = "35" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "80" X = "31" Y = "35" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "20.687" Y = "33.7028" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "20.8409" Y = "34" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "21.6241" Y = "33.848" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "74" X = "22" Y = "34" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "35.9183" Y = "30.2894" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "37.4923" Y = "30.2582" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "38" Y = "29.9496" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "38" Y = "31.3829" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "37.0184" Y = "31.304" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "71" X = "37.3899" Y = "32" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "23.7184" Y = "26.3206" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "23.7957" Y = "27" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "24.9797" Y = "27" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "24.577" Y = "26.6288" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "25" Y = "26.6572" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "78" X = "25" Y = "27" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "22.4422" Y = "19.8566" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "22.5201" Y = "20.7487" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "22.5857" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "23.2861" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "23.1578" Y = "21.3734" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "23.1218" Y = "20.3826" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "23.1354" Y = "19.5354" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "24" Y = "19.5697" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "24" Y = "20.8663" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "76" X = "24" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "29.8304" Y = "20.988" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "29.8726" Y = "22.627" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "30.0809" Y = "24" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "31" Y = "24" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "31" Y = "22.7505" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "31" Y = "20.865" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "77" X = "30.5492" Y = "20.4656" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "79" X = "34" Y = "22.6014" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "41.9384" Y = "20.8803" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "43" Y = "20.8989" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "43" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "41.9891" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "41.9753" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "82" X = "43" Y = "22" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "46.5645" Y = "26.4714" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "48" Y = "26.9694" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "48" Y = "27.962" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "46.7088" Y = "28" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "81" X = "47.55" Y = "27.6497" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "52.8581" Y = "17.8322" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "54" Y = "17.9021" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "52.7253" Y = "19.1526" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "53.5665" Y = "19.1932" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "54" Y = "20" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "84" X = "53.2139" Y = "20" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "57.9349" Y = "15.2286" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "59" Y = "15.3447" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "58.7039" Y = "16.659" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "58.0265" Y = "18.1415" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "57.8042" Y = "19.6367" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "83" X = "59" Y = "20" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "46.1763" Y = "34.2016" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "45.9771" Y = "35.7648" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "46.1621" Y = "37" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "47" Y = "37" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "46.838" Y = "35.6101" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "86" X = "47" Y = "34.1" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "58.3006" Y = "37.8717" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "58.3104" Y = "39.9383" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "59.7141" Y = "41" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "59.776" Y = "39.7878" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "59.6443" Y = "37.9139" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "60.8183" Y = "37.9221" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "61" Y = "39.8076" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "87" X = "61" Y = "41" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "56.9162" Y = "29.0999" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "56.1964" Y = "29.7873" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "57.7568" Y = "30" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "59" Y = "28.9412" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "59" Y = "29.8399" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "85" X = "57.5403" Y = "28.8142" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "63.7319" Y = "26.7304" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "63.816" Y = "27.658" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "65" Y = "28" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "64.796" Y = "26.6912" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "91" X = "65" Y = "26.6977" RandRange = "true" Dir = "0" TemplateName = "Glacier Eye 2 (Burning Eye)" Index = "10173" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "90" X = "63.9064" Y = "43.7266" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "90" X = "63.9123" Y = "44.9824" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "90" X = "64.9945" Y = "45" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "90" X = "65" Y = "43.7212" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "68.8325" Y = "46.5938" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "69.3392" Y = "48.8354" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "69.2644" Y = "50" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "69.9327" Y = "50" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "70.008" Y = "49.0267" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "71.2009" Y = "47.2142" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "72" Y = "47.1332" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "88" X = "72" Y = "49.6595" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "69.6949" Y = "38.3427" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "69.6518" Y = "40.2941" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "70.5997" Y = "41" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "71.9212" Y = "41" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "72" Y = "38.2299" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "89" X = "71.4264" Y = "38.6344" RandRange = "true" Dir = "0" TemplateName = "Dark Metal Blazing Knight" Index = "10174" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "81.5295" Y = "36.8357" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "83.3951" Y = "37.01" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "84" Y = "37.021" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "84" Y = "38.8794" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "82.9108" Y = "38.2918" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "81.2899" Y = "38.6789" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "81.2661" Y = "39.8925" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "82.6217" Y = "40" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "92" X = "84" Y = "40" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "76.8104" Y = "31.8576" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "76.8137" Y = "33.0098" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "76.8254" Y = "34" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "78" Y = "31.5729" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "78" Y = "32.8363" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "93" X = "78" Y = "34" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "96" X = "84.0386" Y = "30.8039" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "96" X = "84.3156" Y = "32" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "96" X = "85.8407" Y = "32" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "96" X = "86.1607" Y = "30.9899" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "96" X = "87" Y = "31.0214" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "90.3648" Y = "34.9201" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "90.2177" Y = "36.3032" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "90.8016" Y = "37" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "92" Y = "37" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "92" Y = "34.7201" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "94" X = "91.419" Y = "35.0194" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "92.1037" Y = "28.0116" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "92.1418" Y = "29.5882" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "93.4333" Y = "29.8915" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "93.9207" Y = "28.1219" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "94" Y = "29.7313" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "95" X = "92.0054" Y = "29.9886" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "102.738" Y = "32.7437" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "103.056" Y = "34.3012" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "103.014" Y = "35" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "104.815" Y = "35" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "104.216" Y = "33.8587" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "105.513" Y = "33.3632" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "106.477" Y = "32.8586" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "97" X = "107" Y = "34.6641" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "100.015" Y = "26.1985" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "101.735" Y = "26.331" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "103.497" Y = "26.4338" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "104" Y = "27.3944" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "102.775" Y = "27.2517" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "100.548" Y = "27.1482" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "100.435" Y = "28" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "102.182" Y = "28" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "99" X = "103.967" Y = "28" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "99.2229" Y = "18.9498" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "101.205" Y = "19.1226" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "103" Y = "19.2587" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "103" Y = "20.1795" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "100.916" Y = "20.3316" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "98.9439" Y = "20.4133" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "99.1367" Y = "21.864" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "101.089" Y = "21.9125" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "98" X = "103" Y = "21.9448" RandRange = "true" Dir = "0" TemplateName = "Crystal Scarlet Trapper" Index = "10171" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "108.166" Y = "24.1617" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "109.512" Y = "24.1876" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "109.575" Y = "26.0928" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "107.888" Y = "26.8075" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "107.896" Y = "29.0806" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "100" X = "109.75" Y = "29.4046" RandRange = "true" Dir = "0" TemplateName = "Flame Statue" Index = "10172" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+<MonsterGroup>
+<MonsterGroupInfo ZoneId = "101" X = "20.9898" Y = "18" RandRange = "true" Dir = "0" TemplateName = "Efreet" Index = "30008" Number = "1" Relife = "20000" County = "0" Enable = "true" Hide = "false" DeadScript = "NULL" LuaScript = "NULL" AIValue = "1000">
+</MonsterGroupInfo>
+</MonsterGroup>
+</Monster>
+</Stage>

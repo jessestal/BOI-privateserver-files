@@ -1,0 +1,32 @@
+	//****************************************
+	//
+	//		Copyright:PERFECT WORLD
+	//		Modified:2010/08/09
+	//		Author:??
+	//		TaskName:Ectype-leftmachine-59263.s
+	//		TaskID: ????????1??
+	//
+	//****************************************
+
+	
+	function OnDead(){
+		//????CharID
+		$charID = GetMonsterCharID()
+		// ??Char?????MapID
+		$mapID = GetMonsterMapID($charID)
+		//???????????
+		$zhanchang = GetPlayerDomainWarSide(-1 , -1)
+		//??????????????
+		#name = GetPlayerInfo( -1 , "name") 
+		
+		//???????????,?????????
+		SetGuildDomainMonsterDead($charID)
+		AddGuildDomainMonster( 59271 , 1 , $mapID , 57 , 163 , 0 , 0  , 1 , 1 )
+		//???????????0??????0
+		SetEctypeVar($mapID , 4 , 1)
+		BC( "screen" , "map" , $mapID , "A Vehicle Workbench has been " , #name , " attacked. The Defenders have taken a workbench!" )
+
+		
+
+	}
+	
