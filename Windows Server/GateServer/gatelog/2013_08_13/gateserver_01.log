@@ -1,0 +1,17 @@
+2013-08-13 01:28:44 lv1:AU通知当前账号[1]是gm标志
+2013-08-13 01:28:50 lv1:Send Merchant info to client charid=14
+2013-08-13 01:32:21 lv1:AU通知当前账号[1]是gm标志
+2013-08-13 01:32:24 lv1:Send Merchant info to client charid=14
+2013-08-13 01:36:15 lv2:Client Disconnect [AccountID:1]
+2013-08-13 01:36:23 lv2:Client Disconnect [AccountID:2381]
+2013-08-13 01:36:34 lv1:AU通知当前账号[1]是gm标志
+2013-08-13 01:36:36 lv1:Send Merchant info to client charid=14
+2013-08-13 01:45:55 lv2:Client Disconnect [AccountID:2382]
+2013-08-13 01:47:05 lv1:Send Merchant info to client charid=21
+2013-08-13 01:47:59 lv2:CGateWorld::CreateEctype < uEctypeID = 15051 >
+2013-08-13 01:50:45 lv1:AU通知当前账号[1]是gm标志
+2013-08-13 01:50:47 lv1:Send Merchant info to client charid=14
+2013-08-13 01:54:20 lv1:AU通知当前账号[1]是gm标志
+2013-08-13 01:54:22 lv1:Send Merchant info to client charid=14
+2013-08-13 01:58:38 lv1:AU通知当前账号[1]是gm标志
+2013-08-13 01:58:40 lv1:Send Merchant info to client charid=14

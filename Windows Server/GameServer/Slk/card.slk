@@ -1,0 +1,436 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$?-2]\ #,##0.00_);;[Red]\([$?-2]\ #,##0.00\)
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M220;L9
+P;E??;M360;SB;L57
+P;E??;M300;SB;L57
+P;E??;M260;SB;L57
+P;E??;M220;SB;L57
+P;E??;M220;L18
+P;E??;M220;L21
+P;E??;M220;L61
+P;E??;M220;L63
+P;E??;M220;SB;L64
+P;E??;M220;SB;L53
+P;E??;M220;L53
+P;E??;M220;SB;L10
+P;E??;M220;L11
+P;E??;M220;SI;L24
+P;E??;M220;SB;L9
+P;E??;M220;L10
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M200
+P;E??;M200
+P;E??;M220
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;M285
+B;Y92;X6;D0 0 91 5
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W3 3 20
+F;P0;FG0R;SM49;C1
+F;SM48;C2
+F;SM48;C3
+F;SM49;C4
+F;SM49;C5
+F;SM49;C6
+C;Y1;X1;K"Card Type"
+F;P0;FG0C;X2
+C;K"Reward"
+F;P0;FG0C;X3
+C;K"Topic"
+F;P0;FG0C;X4
+C;K"Content"
+C;Y2;X1;K"CardType"
+F;P0;FG0C;X2
+C;K"ItemID"
+F;P0;FG0C;X3
+C;K"MailTitle"
+F;P0;FG0C;X4
+C;K"MailContent"
+C;Y3;X1;K"A1"
+C;X2;K63778
+C;X3;K"N/A173????(??)??? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y4;X1;K"A2"
+C;X2;K63774
+C;X3;K"N/A173??????? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y5;X1;K"A3"
+C;X2;K63779
+C;X3;K"N/A??????(??)??? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y6;X1;K"A4"
+C;X2;K63775
+C;X3;K"N/A????????? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y7;X1;K"A5"
+C;X2;K63780
+C;X3;K"N/A??????(??)??? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y8;X1;K"A6"
+C;X2;K63776
+C;X3;K"N/A????????? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y9;X1;K"A7"
+C;X2;K63781
+C;X3;K"N/A52PK????(??)??? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y10;X1;K"A8"
+C;X2;K63777
+C;X3;K"N/A52PK??????? "
+C;X4;K"Thanks for join in the exploratory Event, please receive the items in affix, then you can receive the event reward."
+C;Y12;X1;K"D1"
+C;X2;K59635
+C;X3;K"BOI Prestige Card"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y13;X1;K"D2"
+C;X2;K59640
+C;X3;K"N/A???????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y14;X1;K"D3"
+C;X2;K59623
+C;X3;K"N/A17173?????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y15;X1;K"D4"
+C;X2;K59655
+C;X3;K"N/A178?????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y16;X1;K"D5"
+C;X2;K59645
+C;X3;K"N/A???????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y17;X1;K"D6"
+C;X2;K59665
+C;X3;K"N/A???????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y18;X1;K"D7"
+C;X2;K59650
+C;X3;K"N/A52PK?????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y19;X1;K"D8"
+C;X2;K59660
+C;X3;K"N/A?????????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y20;X1;K"D9"
+C;X2;K59629
+C;X3;K"N/A???????Pack "
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y22;X1;K"L1"
+C;X2;K44015
+C;X3;K"Eastern Treasure Gift Pack"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y23;X1;K"L2"
+C;X2;K44001
+C;X3;K"N/A17173??????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y24;X1;K"L3"
+C;X2;K44008
+C;X3;K"N/A????????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y25;X1;K"L4"
+C;X2;K44027
+C;X3;K"N/A????????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y26;X1;K"L5"
+C;X2;K44033
+C;X3;K"N/A????????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y27;X1;K"L6"
+C;X2;K44021
+C;X3;K"N/A????????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y28;X1;K"L7"
+C;X2;K44039
+C;X3;K"BOI Eastern Treasure"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y29;X1;K"L8"
+C;X2;K44071
+C;X3;K"N/ACherry????Pack "
+C;X4;K"N/AYou are the legend! Thanks for using the N/ACherry??Pack ,?????????,?????????"
+C;Y30;X1;K"L9"
+C;X2;K44057
+C;X3;K"Magic Hat"
+C;X4;K"You are a legend! Thanks for using the Magical Hat. Your Eastern Treasure is in an attachment in your mail."
+F;SM48;Y31
+C;Y32;X1;K"N1"
+C;X2;K44060
+C;X3;K"Eastern Warrior Pack"
+C;X4;K"You are a legend! Thanks for using the Eastern Warrior Pack. Your Eastern Treasure is in an attachment in your mail."
+C;Y33;X1;K"N2"
+C;X2;K44061
+C;X3;K"Eastern Warrior Exclusive Pack"
+C;X4;K"You are a legend! Thanks for using the Eastern Warrior Exclusive Pack. Your Eastern Treasure is in an attachment in your mail."
+C;Y34;X1;K"N3"
+C;X2;K44062
+C;X3;K"Eastern Warrior Honor Pack"
+C;X4;K"You are a legend! Thanks for using the Eastern Warrior Honor Pack. Your Eastern Treasure is in an attachment in your mail."
+C;Y36;X1;K"J2"
+C;X2;K44103
+C;X3;K"Reward Box"
+C;X4;K"N/A????,????????Carnival ,?????!???????Pack ,????????"
+C;Y37;X1;K"J3"
+C;X2;K44102
+C;X3;K"Gift Pack"
+C;X4;K"N/A????,????????Carnival ,?????!?????????Pack ,????????"
+C;Y38;X1;K"J4"
+C;X2;K44105
+C;X3;K"Provision Pack"
+C;X4;K"N/A????,????????Carnival ,?????!???????Pack ,????????"
+C;Y39;X1;K"J5"
+C;X2;K44106
+C;X3;K"Commendation Pack"
+C;X4;K"N/A????,????????Carnival ,?????!???????Pack ,????????"
+C;Y40;X1;K"J6"
+C;X2;K44001
+C;X3;K"N/A17173??????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y41;X1;K"J7"
+C;X2;K44027
+C;X3;K"N/A????????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y42;X1;K"J8"
+C;X2;K44033
+C;X3;K"N/A????????"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y44;X1;K"J9"
+C;X2;K44148
+C;X3;K"BOI Warrior's Return Pack"
+C;X4;K"You are a legend! Long have we awaited the return of our hero. Your Warrior's Return Pack is included in an attachment in your mail."
+C;Y46;X1;K"Q1"
+C;X2;K44171
+C;X3;K"17173 Anniversary Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y47;X1;K"Q2"
+C;X2;K44178
+C;X3;K"Duowan Anniversary Royal Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y48;X1;K"Q3"
+C;X2;K44185
+C;X3;K"Duowan Anniversary Highborn Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y49;X1;K"Q4"
+C;X2;K44192
+C;X3;K"Duowan Anniversary Citizen Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y50;X1;K"Q5"
+C;X2;K44210
+C;X3;K"163.com Anniversary Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y51;X1;K"Q6"
+C;X2;K44204
+C;X3;K"Sina Anniversary Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y52;X1;K"Q7"
+C;X2;K44222
+C;X3;K"360 Media Anniversary Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y53;X1;K"Q8"
+C;X2;K44216
+C;X3;K"Tencent Anniversary Prestige Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y54;X1;K"Q9"
+C;X2;K44198
+C;X3;K"Anniversary Celebration Chest"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y56;X1;K"H6"
+C;X2;K44228
+C;X3;K"Anniversary Battle Pet Prestige Pack"
+C;X4;K"You are a legend! Thanks for using your Prestige Card. Your reward is in an attachment in your mail."
+C;Y58;X1;K"T1"
+C;X2;K44287
+C;X3;K"17173 Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the 17173 Fate Prestige Card."
+C;Y59;X1;K"T2"
+C;X2;K44294
+C;X3;K"Duowan Royal Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Duowan Royal Fate Prestige Card."
+C;Y60;X1;K"T3"
+C;X2;K44301
+C;X3;K"Duowan Noble Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Duowan Noble Fate Prestige Card."
+C;Y61;X1;K"T4"
+C;X2;K44308
+C;X3;K"Duowan Civil Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Duowan Civil Fate Prestige Card."
+C;Y62;X1;K"T5"
+C;X2;K44338
+C;X3;K"360 Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the 360 Fate Prestige Card."
+C;Y63;X1;K"T6"
+C;X2;K44320
+C;X3;K"Sina Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Sina Fate Prestige Card."
+C;Y64;X1;K"T7"
+C;X2;K44326
+C;X3;K"163 Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the 163 Fate Prestige Card."
+C;Y65;X1;K"T8"
+C;X2;K44332
+C;X3;K"Tencent Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Tencent Fate Prestige Card."
+C;Y66;X1;K"T9"
+C;X2;K44314
+C;X3;K"Gate of Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Gate of Fate Prestige Card."
+C;Y68;X1;K"U1"
+C;X2;K44364
+C;X3;K"Fate Revelation Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Fate Revelation Card."
+C;Y69;X1;K"U2"
+C;X2;K44363
+C;X3;K"Goddess of Fate Prestige Card"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Goddess of Fate Prestige Card."
+C;Y71;X1;K"V1"
+C;X2;K44445
+C;X3;K"Fate Guild Pack "
+C;X4;K"You're a legend! Congratulations, you received a Fate Guild Pack! Check the attachment to receive your item."
+C;Y72;X1;K"V2"
+C;X2;K44483
+C;X3;K"Fate Guild Deluxe Pack"
+C;X4;K"You're a legend! Congratulations, you received a Fate Guild Deluxe Pack! Check the attachment to receive your item."
+C;Y74;X1;K"Y1"
+C;X2;K65482
+C;X3;K"17173 Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y75;X1;K"Y2"
+C;X2;K65488
+C;X3;K"Duowan Imperial Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y76;X1;K"Y3"
+C;X2;K65494
+C;X3;K"Duowan Noble Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y77;X1;K"Y4"
+C;X2;K65500
+C;X3;K"Duowan Citizen Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y78;X1;K"Y5"
+C;X2;K65524
+C;X3;K"360 Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y79;X1;K"Y6"
+C;X2;K65512
+C;X3;K"Sina Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y80;X1;K"Y7"
+C;X2;K65518
+C;X3;K"Tencent Celestial Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y81;X1;K"Y8"
+C;X2;K65506
+C;X3;K"Pantheon Prestige Chest"
+C;X4;K"You're a legend! Thank you for using this Prestige Card. Check the attachment to receive the Celestial Prestige Chest."
+C;Y82;X1;K"Y9"
+C;X2;K44567
+C;X3;K"Divine Deity Chest"
+C;X4;K"You're a legend! Congratulations, you received a Divine Deity Chest! Check the attachment to receive your item."
+C;Y84;X1;K"X1"
+C;X2;K44513
+C;X3;K"Glory Palace Golden Key"
+C;X4;K"You're a legend! Congratulations, you received a Glory Palace Golden Key! Check the attachment to receive your item."
+C;Y85;X1;K"X2"
+C;X2;K44506
+C;X3;K"Glory Guild Pack"
+C;X4;K"You're a legend! Congratulations, you received a Glory Guild Pack! Check the attachment to receive your item."
+C;Y86;X1;K"X3"
+C;X2;K44509
+C;X3;K"Glory Guild Deluxe Pack"
+C;X4;K"You're a legend! Congratulations, you received a Glory Guild Deluxe Pack! Check the attachment to receive your item."
+C;Y88;X1;K"Z2"
+C;X2;K44506
+C;X3;K"Glory Guild Pack"
+C;X4;K"You're a legend! Congratulations, you received a Glory Guild Pack! Check the attachment to receive your item."
+C;Y89;X1;K"Z3"
+C;X2;K44509
+C;X3;K"Glory Guild Deluxe Pack"
+C;X4;K"You're a legend! Congratulations, you received a Glory Guild Deluxe Pack! Check the attachment to receive your item."
+C;Y91;X1;K"Z4"
+C;X2;K44565
+C;X3;K"Blue Dragon Card"
+C;X4;K"You're a legend! Congratulations, you received a Blue Dragon Card! Check the attachment to receive your item."
+C;Y92;X1;K"Z5"
+C;X2;K44566
+C;X3;K"Pufferfish Card"
+C;X4;K"You're a legend! Congratulations, you received a Pufferfish Card! Check the attachment to receive your item."
+E

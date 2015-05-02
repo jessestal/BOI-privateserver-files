@@ -1,0 +1,117 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;M285
+B;Y7;X7;D0 0 6 6
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W2 2 11
+F;W3 4 16
+F;W5 5 20
+F;W6 6 14
+F;W7 8 16
+C;Y1;X1;K"Level"
+C;X2;K"Quest at Maximum"
+C;X3;K"N/A????????"
+C;X4;K"EXP Acquired"
+C;X5;K"EXP required to upgrade"
+C;X6;K"Quest ID Start"
+C;X7;K"Quest ID End"
+C;Y2;X1;K"Level"
+C;X2;K"TaskNum"
+C;X3;K"GetMedalRate"
+C;X4;K"TaskExp"
+C;X5;K"LevelupExp"
+C;X6;K"TaskIDBegin"
+C;X7;K"TaskIDEnd"
+C;Y3;X1;K1
+C;X2;K150
+C;X3;K100
+C;X4;K5
+C;X5;K100
+C;X6;K4600
+C;X7;K4999
+C;Y4;X1;K2
+C;X2;K151
+C;X3;K105
+C;X4;K13
+C;X5;K100
+C;X6;K4600
+C;X7;K4999
+C;Y5;X1;K3
+C;X2;K152
+C;X3;K110
+C;X4;K20
+C;X5;K100
+C;X6;K4600
+C;X7;K4999
+C;Y6;X1;K4
+C;X2;K153
+C;X3;K115
+C;X4;K30
+C;X5;K100
+C;X6;K4600
+C;X7;K4999
+C;Y7;X1;K5
+C;X2;K154
+C;X3;K120
+C;X4;K50
+C;X5;K100
+C;X6;K4600
+C;X7;K4999
+E

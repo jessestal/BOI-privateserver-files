@@ -1,0 +1,15 @@
+	//****************************************
+	//
+	//		Copyright：PERFECT WORLD
+	//		Modified：2008/12/25
+	//		Author：祁晶
+	//		TaskName：QUEST-jiangli747
+	//		TaskID：新手卡任务20级奖励
+	//
+	//****************************************
+	
+	
+	function OnTaskDone(){
+	
+		AddPlayerInfo(-1 , "givepoint" , 1888)
+	}

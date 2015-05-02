@@ -1,0 +1,1746 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M240;SB
+P;E??;M200
+P;E??;M210;L11
+P;E??;M220
+F;P0;DG0G8;M285
+B;Y423;X13;D0 0 422 12
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 9
+F;W3 3 14
+F;SM40;R348
+F;SM40;R349
+F;SM40;R350
+F;SM40;R351
+F;SM40;R352
+F;SM40;R353
+F;SM40;R354
+C;Y1;X1;K"Item ID"
+C;X2;K"Skill ID"
+C;Y2;X1;K"ItemID"
+C;X2;K"SkillID"
+C;Y3;X1;K60511
+C;X2;K9001
+C;X3;K"Toughness LV1"
+C;Y4;X1;K60512
+C;X2;K9002
+C;X3;K"Stoneskin LV1"
+C;Y5;X1;K60513
+C;X2;K9003
+C;X3;K"Rapidness LV1"
+C;Y6;X1;K60514
+C;X2;K9004
+C;X3;K"Understanding LV1"
+C;Y7;X1;K60515
+C;X2;K9005
+C;X3;K"Concentration LV1"
+C;Y8;X1;K60516
+C;X2;K9006
+C;X3;K"Demon Killer LV1"
+C;Y9;X1;K60517
+C;X2;K9007
+C;X3;K"Fauna Killer LV1"
+C;Y10;X1;K60518
+C;X2;K9008
+C;X3;K"Flora Killer LV1"
+C;Y11;X1;K60519
+C;X2;K9009
+C;X3;K"Mecha Killer LV1"
+C;Y12;X1;K60520
+C;X2;K9010
+C;X3;K"Undead Killer LV1"
+C;Y13;X1;K60521
+C;X2;K9011
+C;X3;K"Humanoid Killer LV1"
+C;Y14;X1;K60522
+C;X2;K9012
+C;X3;K"Vigilance LV1"
+C;Y15;X1;K60523
+C;X2;K9013
+C;X3;K"Rampage LV1"
+C;Y16;X1;K60524
+C;X2;K9014
+C;X3;K"Basic Magery"
+C;Y17;X1;K60525
+C;X2;K9015
+C;X3;K"Bash LV1"
+C;Y18;X1;K60526
+C;X2;K9016
+C;X3;K"Fireforce LV1"
+C;Y19;X1;K60527
+C;X2;K9017
+C;X3;K"Ice Strike LV1"
+C;Y20;X1;K60528
+C;X2;K9018
+C;X3;K"Holylight LV1"
+C;Y21;X1;K60529
+C;X2;K9019
+C;X3;K"Darkshadow LV1"
+C;Y22;X1;K60530
+C;X2;K9020
+C;X3;K"Basic Power"
+C;Y23;X1;K60531
+C;X2;K9021
+C;X3;K"Guard LV1"
+C;Y24;X1;K60532
+C;X2;K9022
+C;X3;K"Basic Mobility"
+C;Y25;X1;K60533
+C;X2;K9023
+C;X3;K"Basic Intellect"
+C;Y26;X1;K60534
+C;X2;K9024
+C;X3;K"Basic Focus"
+C;Y27;X1;K60535
+C;X2;K9025
+C;X3;K"Basic Weaken"
+C;Y28;X1;K60536
+C;X2;K9026
+C;X3;K"Mind Numb LV1"
+C;Y29;X1;K60537
+C;X2;K9027
+C;X3;K"Basic Sunder"
+C;Y30;X1;K60538
+C;X2;K9028
+C;X3;K"Basic Blind"
+C;Y31;X1;K60539
+C;X2;K9029
+C;X3;K"Mudtangle LV1"
+C;Y32;X1;K60540
+C;X2;K9030
+C;X3;K"Fire Weaken LV1"
+C;Y33;X1;K60541
+C;X2;K9031
+C;X3;K"Ice Weaken LV1"
+C;Y34;X1;K60542
+C;X2;K9032
+C;X3;K"Light Weaken LV1"
+C;Y35;X1;K60543
+C;X2;K9033
+C;X3;K"Darkness Weaken LV1"
+C;Y36;X1;K60544
+C;X2;K9034
+C;X3;K"Slow LV1"
+C;Y37;X1;K60545
+C;X2;K9035
+C;X3;K"Barrier LV1"
+C;Y38;X1;K60546
+C;X2;K9036
+C;X3;K"Fire Shield LV1"
+C;Y39;X1;K60547
+C;X2;K9037
+C;X3;K"Ice Shield LV1"
+C;Y40;X1;K60548
+C;X2;K9038
+C;X3;K"Light Shield LV1"
+C;Y41;X1;K60549
+C;X2;K9039
+C;X3;K"Darkness Shield LV1"
+C;Y42;X1;K60550
+C;X2;K9040
+C;X3;K"XP Wound LV1"
+C;Y43;X1;K60551
+C;X2;K9041
+C;X3;K"MP Loss LV1"
+C;Y44;X1;K60552
+C;X2;K9042
+C;X3;K"Guard LV1"
+C;Y45;X1;K60553
+C;X2;K9043
+C;X3;K"Energize LV1"
+C;Y46;X1;K60554
+C;X2;K9044
+C;X3;K"Heal LV1"
+C;Y47;X1;K60555
+C;X2;K9045
+C;X3;K"Refresh LV1"
+C;Y48;X1;K60556
+C;X2;K9046
+C;X3;K"Basic Phy. AOE LV1"
+C;Y49;X1;K60557
+C;X2;K9047
+C;X3;K"Basic Massive Flamestrike"
+C;Y50;X1;K60558
+C;X2;K9048
+C;X3;K"Basic Massive Storm"
+C;Y51;X1;K60559
+C;X2;K9049
+C;X3;K"Basic Massive Blizzard"
+C;Y52;X1;K60560
+C;X2;K9050
+C;X3;K"Basic Massive Shadowshroud"
+C;Y53;X1;K60561
+C;X2;K9051
+C;X3;K"Frozen Recover LV1"
+C;Y54;X1;K60562
+C;X2;K9052
+C;X3;K"Silence Recover LV1"
+C;Y55;X1;K60563
+C;X2;K9053
+C;X3;K"Sleep Recover LV1"
+C;Y56;X1;K60564
+C;X2;K9054
+C;X3;K"Stun Recover LV1"
+C;Y57;X1;K60565
+C;X2;K9055
+C;X3;K"Silence LV1"
+C;Y58;X1;K60566
+C;X2;K9056
+C;X3;K"Kamikaze LV1"
+C;Y59;X1;K60567
+C;X2;K9057
+C;X3;K"Basic Flesh Ream"
+C;Y60;X1;K60568
+C;X2;K9058
+C;X3;K"Stealth"
+C;Y61;X1;K60569
+C;X2;K9059
+C;X3;K"Taunt LV1"
+C;Y62;X1;K60570
+C;X2;K9060
+C;X3;K"Retaliate LV1"
+C;Y63;X1;K60571
+C;X2;K9061
+C;X3;K"Spirit Impulse LV1"
+C;Y64;X1;K60572
+C;X2;K9062
+C;X3;K"Encourage LV1"
+C;Y65;X1;K60573
+C;X2;K9063
+C;X3;K"Mana Fountain LV1"
+C;Y66;X1;K60574
+C;X2;K9064
+C;X3;K"Life Fountain LV1"
+C;Y67;X1;K60575
+C;X2;K9065
+C;X3;K"Speed Fountain LV1"
+C;Y68;X1;K60576
+C;X2;K9066
+C;X3;K"Anger LV1"
+C;Y69;X1;K60577
+C;X2;K9067
+C;X3;K"Meditate LV1"
+C;Y70;X1;K60578
+C;X2;K9068
+C;X3;K"Point Strike LV1"
+C;Y71;X1;K60579
+C;X2;K9069
+C;X3;K"Penetrate Magic LV1"
+C;Y72;X1;K60580
+C;X2;K9070
+C;X3;K"Illusion Blade LV1"
+C;Y73;X1;K60581
+C;X2;K9071
+C;X3;K"Impact LV1"
+C;Y74;X1;K60582
+C;X2;K9072
+C;X3;K"Shadow Strike LV1"
+C;Y75;X1;K60583
+C;X2;K9073
+C;X3;K"Spirit Slash LV1"
+C;Y76;X1;K60584
+C;X2;K9074
+C;X3;K"Head Smash LV1"
+C;Y77;X1;K60585
+C;X2;K9075
+C;X3;K"Refrigerate LV1"
+C;Y78;X1;K60586
+C;X2;K9076
+C;X3;K"Repel LV1"
+C;Y79;X1;K60587
+C;X2;K9077
+C;X3;K"Massive Lightheal LV1"
+C;Y80;X1;K60588
+C;X2;K9078
+C;X3;K"Sleep LV1"
+C;Y81;X1;K60589
+C;X2;K9079
+C;X3;K"Massive Grip Icecircle LV1"
+C;Y82;X1;K60590
+C;X2;K9080
+C;X3;K"Taurus Roar LV1"
+C;Y83;X1;K60591
+C;X2;K9081
+C;X3;K"Basic Health Transfer (HP to HP)"
+C;Y84;X1;K60592
+C;X2;K9082
+C;X3;K"Basic Mana Transfer (MP to HP)"
+C;Y85;X1;K60595
+C;X2;K9085
+C;X3;K"Gemini Storm"
+C;Y86;X1;K60596
+C;X2;K9087
+C;X3;K"Cancer Judgement"
+C;Y87;X1;K60597
+C;X2;K9090
+C;X3;K"Basic Health Transfer (HP to MP)"
+C;Y88;X1;K60598
+C;X2;K9091
+C;X3;K"Basic Mana Transfer (MP to MP)"
+C;Y89;X1;K60599
+C;X2;K9092
+C;X3;K"Basic Health Sacrifice"
+C;Y90;X1;K60600
+C;X2;K9093
+C;X3;K"Basic Mana Sacrifice"
+C;Y91;X1;K60603
+C;X2;K9094
+C;X3;K"Virgo Prayer"
+C;Y92;X1;K60604
+C;X2;K9195
+C;X3;K"Sagittarius Shadow Hit"
+C;Y93;X1;K60699
+C;X2;K9095
+C;X3;K"Scorpio Sting"
+C;Y94;X1;K60605
+C;X2;K9098
+C;X3;K"Basic Mana Recovery"
+C;Y95;X1;K60607
+C;X2;K9099
+C;X3;K"Capricorn Domineer"
+C;Y96;X1;K60611
+C;X2;K9101
+C;X3;K"Toughness LV2"
+C;Y97;X1;K60612
+C;X2;K9102
+C;X3;K"Stoneskin LV2"
+C;Y98;X1;K60613
+C;X2;K9103
+C;X3;K"Rapidness LV2"
+C;Y99;X1;K60614
+C;X2;K9104
+C;X3;K"Understanding LV2"
+C;Y100;X1;K60615
+C;X2;K9105
+C;X3;K"Concentration LV2"
+C;Y101;X1;K60616
+C;X2;K9106
+C;X3;K"Demon Killer LV2"
+C;Y102;X1;K60617
+C;X2;K9107
+C;X3;K"Fauna Killer LV2"
+C;Y103;X1;K60618
+C;X2;K9108
+C;X3;K"Flora Killer LV2"
+C;Y104;X1;K60619
+C;X2;K9109
+C;X3;K"Mecha Killer LV2"
+C;Y105;X1;K60620
+C;X2;K9110
+C;X3;K"Undead Killer LV2"
+C;Y106;X1;K60621
+C;X2;K9111
+C;X3;K"Humanoid Killer LV2"
+C;Y107;X1;K60622
+C;X2;K9112
+C;X3;K"Vigilance LV2"
+C;Y108;X1;K60623
+C;X2;K9113
+C;X3;K"Rampage LV2"
+C;Y109;X1;K60624
+C;X2;K9114
+C;X3;K"Advanced Magery"
+C;Y110;X1;K60625
+C;X2;K9115
+C;X3;K"Bash LV2"
+C;Y111;X1;K60626
+C;X2;K9116
+C;X3;K"Fireforce LV2"
+C;Y112;X1;K60627
+C;X2;K9117
+C;X3;K"Ice Strike LV2"
+C;Y113;X1;K60628
+C;X2;K9118
+C;X3;K"Holylight LV2"
+C;Y114;X1;K60629
+C;X2;K9119
+C;X3;K"Darkshadow LV2"
+C;Y115;X1;K60630
+C;X2;K9120
+C;X3;K"Advanced Power"
+C;Y116;X1;K60631
+C;X2;K9121
+C;X3;K"Advanced Surge"
+C;Y117;X1;K60632
+C;X2;K9122
+C;X3;K"Advanced Mobility"
+C;Y118;X1;K60633
+C;X2;K9123
+C;X3;K"Advanced Intellect"
+C;Y119;X1;K60634
+C;X2;K9124
+C;X3;K"Advanced Focus"
+C;Y120;X1;K60635
+C;X2;K9125
+C;X3;K"Advanced Weaken"
+C;Y121;X1;K60636
+C;X2;K9126
+C;X3;K"Mind Numb LV2"
+C;Y122;X1;K60637
+C;X2;K9127
+C;X3;K"Advanced Sunder"
+C;Y123;X1;K60638
+C;X2;K9128
+C;X3;K"Advanced Blind"
+C;Y124;X1;K60639
+C;X2;K9129
+C;X3;K"Mudtangle LV2"
+C;Y125;X1;K60640
+C;X2;K9130
+C;X3;K"Fire Weaken LV2"
+C;Y126;X1;K60641
+C;X2;K9131
+C;X3;K"Ice Weaken LV2"
+C;Y127;X1;K60642
+C;X2;K9132
+C;X3;K"Light Weaken LV2"
+C;Y128;X1;K60643
+C;X2;K9133
+C;X3;K"Darkness Weaken LV2"
+C;Y129;X1;K60644
+C;X2;K9134
+C;X3;K"Slow LV2"
+C;Y130;X1;K60645
+C;X2;K9135
+C;X3;K"Barrier LV2"
+C;Y131;X1;K60646
+C;X2;K9136
+C;X3;K"Fire Shield LV2"
+C;Y132;X1;K60647
+C;X2;K9137
+C;X3;K"Ice Shield LV2"
+C;Y133;X1;K60648
+C;X2;K9138
+C;X3;K"Light Shield LV2"
+C;Y134;X1;K60649
+C;X2;K9139
+C;X3;K"Darkness Shield LV2"
+C;Y135;X1;K60650
+C;X2;K9140
+C;X3;K"XP Wound LV2"
+C;Y136;X1;K60651
+C;X2;K9141
+C;X3;K"MP Loss LV2"
+C;Y137;X1;K60652
+C;X2;K9142
+C;X3;K"Vitalize LV2"
+C;Y138;X1;K60653
+C;X2;K9143
+C;X3;K"Energize LV2"
+C;Y139;X1;K60654
+C;X2;K9144
+C;X3;K"Heal LV2"
+C;Y140;X1;K60655
+C;X2;K9145
+C;X3;K"Refresh LV2"
+C;Y141;X1;K60656
+C;X2;K9146
+C;X3;K"Phy. AOE LV2"
+C;Y142;X1;K60657
+C;X2;K9147
+C;X3;K"Advanced Massive Flamestrike"
+C;Y143;X1;K60658
+C;X2;K9148
+C;X3;K"Advanced Massive Storm"
+C;Y144;X1;K60659
+C;X2;K9149
+C;X3;K"Advanced Massive Blizzard"
+C;Y145;X1;K60660
+C;X2;K9150
+C;X3;K"Advanced Massive Shadowshroud"
+C;Y146;X1;K60661
+C;X2;K9151
+C;X3;K"Frozen Recover LV2"
+C;Y147;X1;K60662
+C;X2;K9152
+C;X3;K"Silence Recover LV2"
+C;Y148;X1;K60663
+C;X2;K9153
+C;X3;K"Sleep Recover LV2"
+C;Y149;X1;K60664
+C;X2;K9154
+C;X3;K"Stun Recover LV2"
+C;Y150;X1;K60665
+C;X2;K9155
+C;X3;K"Silence LV2"
+C;Y151;X1;K60666
+C;X2;K9156
+C;X3;K"Kamikaze LV2"
+C;Y152;X1;K60667
+C;X2;K9157
+C;X3;K"Advanced Flesh Ream"
+C;Y153;X1;K60668
+C;X2;K9158
+C;X3;K"Stealth"
+C;Y154;X1;K60669
+C;X2;K9159
+C;X3;K"Taunt LV2"
+C;Y155;X1;K60670
+C;X2;K9160
+C;X3;K"Retaliate LV2"
+C;Y156;X1;K60671
+C;X2;K9161
+C;X3;K"Spirit Impulse LV2"
+C;Y157;X1;K60672
+C;X2;K9162
+C;X3;K"Encourage LV2"
+C;Y158;X1;K60673
+C;X2;K9163
+C;X3;K"Mana Fountain LV2"
+C;Y159;X1;K60674
+C;X2;K9164
+C;X3;K"Life Fountain LV2"
+C;Y160;X1;K60675
+C;X2;K9165
+C;X3;K"Speed Fountain LV2"
+C;Y161;X1;K60676
+C;X2;K9166
+C;X3;K"Anger LV2"
+C;Y162;X1;K60677
+C;X2;K9167
+C;X3;K"Meditate LV2"
+C;Y163;X1;K60678
+C;X2;K9168
+C;X3;K"Point Strike LV2"
+C;Y164;X1;K60679
+C;X2;K9169
+C;X3;K"Penetrate Magic LV2"
+C;Y165;X1;K60680
+C;X2;K9170
+C;X3;K"Illusion Blade LV2"
+C;Y166;X1;K60681
+C;X2;K9171
+C;X3;K"Impact LV2"
+C;Y167;X1;K60682
+C;X2;K9172
+C;X3;K"Shadowstrike LV2"
+C;Y168;X1;K60683
+C;X2;K9173
+C;X3;K"Spirit Slash LV2"
+C;Y169;X1;K60684
+C;X2;K9174
+C;X3;K"Head Smash LV2"
+C;Y170;X1;K60685
+C;X2;K9175
+C;X3;K"Refrigerate LV2"
+C;Y171;X1;K60686
+C;X2;K9176
+C;X3;K"Repel LV2"
+C;Y172;X1;K60687
+C;X2;K9177
+C;X3;K"Massive Lightheal LV2"
+C;Y173;X1;K60688
+C;X2;K9178
+C;X3;K"Sleep LV2"
+C;Y174;X1;K60689
+C;X2;K9179
+C;X3;K"Multi-target Grip Icecircle LV2"
+C;Y175;X1;K60690
+C;X2;K9180
+C;X3;K"Taurus Roar LV2"
+C;Y176;X1;K60691
+C;X2;K9181
+C;X3;K"Adv. Health Transfer (HP to HP)"
+C;Y177;X1;K60692
+C;X2;K9182
+C;X3;K"Advanced Mana Transfer (MP to HP)"
+C;Y178;X1;K60693
+C;X2;K9190
+C;X3;K"Adv. Health Transfer (HP to MP)"
+C;Y179;X1;K60694
+C;X2;K9191
+C;X3;K"Advanced Mana Transfer (MP to MP)"
+C;Y180;X1;K60695
+C;X2;K9186
+C;X3;K"Lion Star"
+C;Y181;X1;K60696
+C;X2;K9192
+C;X3;K"Advanced Health Sacrifice"
+C;Y182;X1;K60697
+C;X2;K9193
+C;X3;K"Advanced Mana Sacrifice"
+C;Y183;X1;K60698
+C;X2;K9194
+C;X3;K"Libra's Aegis"
+C;Y184;X1;K60606
+C;X2;K9198
+C;X3;K"Advanced Mana Recovery"
+C;Y186;X1;K60711
+C;X2;K9201
+C;X3;K"Toughness LV3"
+C;Y188;X1;K60801
+C;X2;K9101
+C;X3;K"Toughness LV2"
+C;Y189;X1;K60802
+C;X2;K9102
+C;X3;K"Stoneskin LV2"
+C;Y190;X1;K60803
+C;X2;K9103
+C;X3;K"Rapidness LV2"
+C;Y191;X1;K60804
+C;X2;K9104
+C;X3;K"Understanding LV2"
+C;Y192;X1;K60805
+C;X2;K9105
+C;X3;K"Concentration LV2"
+C;Y193;X1;K60806
+C;X2;K9112
+C;X3;K"Vigilance LV2"
+C;Y194;X1;K60807
+C;X2;K9113
+C;X3;K"Rampage LV2"
+C;Y195;X1;K60808
+C;X2;K9114
+C;X3;K"Advanced Magery"
+C;Y196;X1;K60809
+C;X2;K9115
+C;X3;K"Bash LV2"
+C;Y197;X1;K60810
+C;X2;K9120
+C;X3;K"Advanced Power"
+C;Y198;X1;K60811
+C;X2;K9121
+C;X3;K"Advanced Surge"
+C;Y199;X1;K60812
+C;X2;K9122
+C;X3;K"Advanced Mobility"
+C;Y200;X1;K60813
+C;X2;K9123
+C;X3;K"Advanced Intellect"
+C;Y201;X1;K60814
+C;X2;K9124
+C;X3;K"Advanced Focus"
+C;Y202;X1;K60815
+C;X2;K9125
+C;X3;K"Advanced Weaken"
+C;Y203;X1;K60816
+C;X2;K9126
+C;X3;K"Mind Numb LV2"
+C;Y204;X1;K60817
+C;X2;K9127
+C;X3;K"Advanced Sunder"
+C;Y205;X1;K60818
+C;X2;K9128
+C;X3;K"Advanced Blind"
+C;Y206;X1;K60819
+C;X2;K9134
+C;X3;K"Slow LV2"
+C;Y207;X1;K60820
+C;X2;K9135
+C;X3;K"Barrier LV2"
+C;Y208;X1;K60821
+C;X2;K9142
+C;X3;K"Vitalize LV2"
+C;Y209;X1;K60822
+C;X2;K9143
+C;X3;K"Energize LV2"
+C;Y210;X1;K60823
+C;X2;K9144
+C;X3;K"Heal LV2"
+C;Y211;X1;K60824
+C;X2;K9145
+C;X3;K"Refresh LV2"
+C;Y212;X1;K60825
+C;X2;K9157
+C;X3;K"Advanced Flesh Ream"
+C;Y213;X1;K60826
+C;X2;K9170
+C;X3;K"Illusion Blade LV2"
+C;Y214;X1;K60827
+C;X2;K9171
+C;X3;K"Impact LV2"
+C;Y215;X1;K60828
+C;X2;K9172
+C;X3;K"Shadowstrike LV2"
+C;Y216;X1;K60829
+C;X2;K9173
+C;X3;K"Spirit Slash LV2"
+C;Y218;X1;K60830
+C;X2;K9101
+C;X3;K"Toughness LV2"
+C;Y219;X1;K60831
+C;X2;K9102
+C;X3;K"Stoneskin LV2"
+C;Y220;X1;K60832
+C;X2;K9103
+C;X3;K"Rapidness LV2"
+C;Y221;X1;K60833
+C;X2;K9104
+C;X3;K"Understanding LV2"
+C;Y222;X1;K60834
+C;X2;K9105
+C;X3;K"Concentration LV2"
+C;Y223;X1;K60835
+C;X2;K9112
+C;X3;K"Vigilance LV2"
+C;Y224;X1;K60836
+C;X2;K9113
+C;X3;K"Rampage LV2"
+C;Y225;X1;K60837
+C;X2;K9114
+C;X3;K"Advanced Magery"
+C;Y226;X1;K60838
+C;X2;K9115
+C;X3;K"Bash LV2"
+C;Y227;X1;K60839
+C;X2;K9120
+C;X3;K"Advanced Power"
+C;Y228;X1;K60840
+C;X2;K9121
+C;X3;K"Advanced Surge"
+C;Y229;X1;K60841
+C;X2;K9122
+C;X3;K"Advanced Mobility"
+C;Y230;X1;K60842
+C;X2;K9123
+C;X3;K"Advanced Intellect"
+C;Y231;X1;K60843
+C;X2;K9124
+C;X3;K"Advanced Focus"
+C;Y232;X1;K60844
+C;X2;K9125
+C;X3;K"Advanced Weaken"
+C;Y233;X1;K60845
+C;X2;K9126
+C;X3;K"Mind Numb LV2"
+C;Y234;X1;K60846
+C;X2;K9127
+C;X3;K"Advanced Sunder"
+C;Y235;X1;K60847
+C;X2;K9128
+C;X3;K"Advanced Blind"
+C;Y236;X1;K60848
+C;X2;K9134
+C;X3;K"Slow LV2"
+C;Y237;X1;K60849
+C;X2;K9135
+C;X3;K"Barrier LV2"
+C;Y238;X1;K60850
+C;X2;K9142
+C;X3;K"Vitalize LV2"
+C;Y239;X1;K60851
+C;X2;K9143
+C;X3;K"Energize LV2"
+C;Y240;X1;K60852
+C;X2;K9144
+C;X3;K"Heal LV2"
+C;Y241;X1;K60853
+C;X2;K9145
+C;X3;K"Refresh LV2"
+C;Y242;X1;K60854
+C;X2;K9157
+C;X3;K"Advanced Flesh Ream"
+C;Y243;X1;K60855
+C;X2;K9170
+C;X3;K"Illusion Blade LV2"
+C;Y244;X1;K60856
+C;X2;K9171
+C;X3;K"Impact LV2"
+C;Y245;X1;K60857
+C;X2;K9172
+C;X3;K"Shadowstrike LV2"
+C;Y246;X1;K60858
+C;X2;K9173
+C;X3;K"Spirit Slash LV2"
+C;Y247;X1;K60591
+C;X2;K9081
+C;X3;K"Basic Health Transfer"
+C;Y248;X1;K60592
+C;X2;K9082
+C;X3;K"Basic Mana Transfer"
+C;Y249;X1;K60594
+C;X2;K9084
+C;X3;K"Basic Abnormality Remove"
+C;Y250;X1;K60601
+C;X2;K9181
+C;X3;K"Adv. Health Transfer (HP to HP)"
+C;Y251;X1;K60602
+C;X2;K9182
+C;X3;K"Advanced Mana Transfer (MP to HP)"
+C;Y252;X1;K60608
+C;X2;K9285
+C;X3;K"Deep Freezing"
+C;Y253;X1;K60609
+C;X2;K9286
+C;X3;K"Pisces Rotation"
+C;Y254;X1;K60610
+C;X2;K9288
+C;X3;K"Aries Nebula "
+C;Y255;X1;K60700
+C;X2;K9257
+C;X3;K"Ultimate Thump"
+C;Y256;X1;K60926
+C;X2;K12
+C;X3;K"Soul Press"
+C;Y257;X1;K60927
+C;X2;K12
+C;X3;K"Soul Press"
+C;Y258;X1;K60901
+C;X2;K1
+C;X3;K"zippo"
+C;Y259;X1;K60902
+C;X2;K2
+C;X3;K"zippo"
+C;Y260;X1;K60903
+C;X2;K3
+C;X3;K"Death Whirl"
+C;Y261;X1;K60904
+C;X2;K5
+C;X3;K"Spray "
+C;Y262;X1;K60905
+C;X2;K7
+C;X3;K"Rock"
+C;Y263;X1;K60906
+C;X2;K8
+C;X3;K"Scissors"
+C;Y264;X1;K60907
+C;X2;K9
+C;X3;K"Paper"
+C;Y265;X1;K60908
+C;X2;K11
+C;X3;K"Maid's Enchantment"
+C;Y266;X1;K60909
+C;X2;K9100
+C;X3;K"Bomblast"
+C;Y267;X1;K60910
+C;X2;K9185
+C;X3;K"Leave Me Alone"
+C;Y268;X1;K60911
+C;X2;K9197
+C;X3;K"Soul Chain"
+C;Y269;X1;K60912
+C;X2;K9199
+C;X3;K"Body Building"
+C;Y270;X1;K60913
+C;X2;K9200
+C;X3;K"Aura of the King"
+C;Y271;X1;K60914
+C;X2;K9202
+C;X3;K"Ultimate Stoneskin"
+C;Y272;X1;K60915
+C;X2;K9203
+C;X3;K"Ultimate Rapidness"
+C;Y273;X1;K60916
+C;X2;K9204
+C;X3;K"Ultimate Understanding"
+C;Y274;X1;K60917
+C;X2;K9214
+C;X3;K"Ultimate Magery"
+C;Y275;X1;K60918
+C;X2;K9217
+C;X3;K"Ultimate Icestrike"
+C;Y276;X1;K60919
+C;X2;K9218
+C;X3;K"Ultimate Holylight"
+C;Y277;X1;K60920
+C;X2;K9279
+C;X3;K"Venom Strike"
+C;Y278;X1;K60921
+C;X2;K9280
+C;X3;K"Scales of Protection"
+C;Y279;X1;K60922
+C;X2;K9281
+C;X3;K"Ice Smasher"
+C;Y280;X1;K60923
+C;X2;K9282
+C;X3;K"Thrust"
+C;Y281;X1;K60924
+C;X2;K9283
+C;X3;K"Volcano"
+C;Y282;X1;K60925
+C;X2;K9825
+C;X3;K"Throw Snowball"
+C;Y283;X1;K60928
+C;X2;K9085
+C;X3;K"Gemini Storm"
+C;Y284;X1;K60929
+C;X2;K9087
+C;X3;K"Cancer Judgement"
+C;Y285;X1;K60930
+C;X2;K9094
+C;X3;K"Virgo Prayer"
+C;Y286;X1;K60931
+C;X2;K9195
+C;X3;K"Sniper"
+C;Y287;X1;K60932
+C;X2;K9180
+C;X3;K"Taurus Roar"
+C;Y288;X1;K60933
+C;X2;K9099
+C;X3;K"Capricorn Domineer"
+C;Y289;X1;K60934
+C;X2;K9285
+C;X3;K"Deep Freezing"
+C;Y290;X1;K60935
+C;X2;K9286
+C;X3;K"Pisces Rotation"
+C;Y291;X1;K60936
+C;X2;K9288
+C;X3;K"Aries Nebula "
+C;Y292;X1;K60937
+C;X2;K9186
+C;X3;K"Leo Conscious"
+C;Y293;X1;K60938
+C;X2;K9194
+C;X3;K"Libra's Favor"
+C;Y294;X1;K60939
+C;X2;K9095
+C;X3;K"Scorpio Sting"
+C;Y295;X1;K60940
+C;X2;K13
+C;X3;K"Spirit Shield"
+C;Y296;X1;K60941
+C;X2;K13
+C;X3;K"Spirit Shield"
+C;Y297;X1;K60942
+C;X2;K15
+C;X3;K"Shadow Sting"
+C;Y298;X1;K60943
+C;X2;K15
+C;X3;K"Shadow Sting"
+C;Y299;X1;K60944
+C;X2;K16
+C;X3;K"Lullaby"
+C;Y300;X1;K60945
+C;X2;K18
+C;X3;K"Light of Ward"
+C;Y301;X1;K60946
+C;X2;K19
+C;X3;K"Ethereal Spiderweb"
+F;SM45;Y302;X1
+C;K60947
+C;X2;K23
+C;X3;K"Sacrificial Burn"
+F;SM45;Y303;X1
+C;K60948
+C;X2;K26
+C;X3;K"Hasty Rampage"
+C;Y304;X1;K60949
+C;X2;K27
+C;X3;K"Cloudleap"
+C;Y305;X1;K60950
+C;X2;K28
+C;X3;K"Darkflame Abyss"
+C;Y306;X1;K60951
+C;X2;K33
+C;X3;K"Tiger's Roar"
+C;Y307;X1;K60952
+C;X2;K34
+C;X3;K"Cascaded Hit"
+C;Y308;X1;K60953
+C;X2;K36
+C;X3;K"Ironshield"
+C;Y309;X1;K60954
+C;X2;K37
+C;X3;K"Iceshard Break"
+C;Y310;X1;K60955
+C;X2;K39
+C;X3;K"Suffocating Bash"
+C;Y312;X1;K60956
+F;SM40;X2
+C;K155
+C;X3;K"Advanced Toughness (Soul+)"
+C;X4;K"N/A???"
+F;SM35;X6
+F;SM35;X7
+F;SM35;X8
+C;Y313;X1;K60957
+F;SM40;X2
+C;K156
+C;X3;K"Advanced Stoneskin (Soul+)"
+C;X4;K"N/A???"
+F;SM35;X6
+F;SM35;X7
+F;SM35;X8
+C;Y314;X1;K60958
+F;SM40;X2
+C;K157
+C;X3;K"Advanced Swiftness (Soul+)"
+C;X4;K"N/A???"
+F;SM35;X6
+F;SM35;X7
+F;SM35;X8
+C;Y315;X1;K60959
+F;SM40;X2
+C;K158
+C;X3;K"Advanced Understanding (Soul+)"
+C;X4;K"N/A???"
+F;SM35;X6
+F;SM35;X7
+F;SM35;X8
+C;Y316;X1;K60960
+F;SM40;X2
+C;K159
+C;X3;K"Advanced Concentration (Soul+)"
+C;X4;K"N/A???"
+F;SM35;X6
+F;SM35;X7
+F;SM35;X8
+F;SM92;Y317;X1
+C;K60961
+F;SM35;X2
+C;K160
+C;X3;K"Gemini's Duel"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y318;X1
+C;K60962
+F;SM35;X2
+C;K164
+C;X3;K"Pisces' Flash"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y319;X1
+C;K60963
+F;SM35;X2
+C;K169
+C;X3;K"Scorpio's Strike"
+C;X4;K"N/A???"
+F;SM35;X6
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y320;X1
+C;K60964
+F;SM35;X2
+C;K176
+C;X3;K"Sagittarius' Shot"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y321;X1
+C;K60965
+F;SM35;X2
+C;K174
+C;X3;K"Leo's Pride"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y322;X1
+C;K60966
+F;SM35;X2
+C;K178
+C;X3;K"Capricorn's Spirit"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y323;X1
+C;K60967
+F;SM35;X2
+C;K172
+C;X3;K"Taurus' Rage"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y324;X1
+C;K60968
+F;SM35;X2
+C;K168
+C;X3;K"Virgo's Call"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y325;X1
+C;K60969
+F;SM35;X2
+C;K175
+C;X3;K"Libra's Prayer"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y326;X1
+C;K60970
+F;SM35;X2
+C;K166
+C;X3;K"Aries' Might"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y327;X1
+C;K60971
+F;SM35;X2
+C;K179
+C;X3;K"Cancer's Spite"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y328;X1
+C;K60972
+F;SM35;X2
+C;K163
+C;X3;K"Aquarius' Seal"
+C;X4;K"N/A???"
+F;SM35;X7
+F;SM35;X8
+F;SM92;X9
+F;SM92;X11
+F;SM35;X12
+F;SM35;X13
+F;SM92;Y330;X1
+C;K60973
+F;SM40;X2
+C;K155
+F;SM40;X3
+C;K"Advanced Toughness (Soul+)"
+C;X4;K"N/A???"
+F;SM92;Y331;X1
+C;K60974
+F;SM40;X2
+C;K156
+F;SM40;X3
+C;K"Advanced Stoneskin (Soul+)"
+C;X4;K"N/A???"
+F;SM92;Y332;X1
+C;K60975
+F;SM40;X2
+C;K157
+F;SM40;X3
+C;K"Advanced Swiftness (Soul+)"
+C;X4;K"N/A???"
+F;SM92;Y333;X1
+C;K60976
+F;SM40;X2
+C;K158
+F;SM40;X3
+C;K"Advanced Understanding (Soul+)"
+C;X4;K"N/A???"
+F;SM92;Y334;X1
+C;K60977
+F;SM40;X2
+C;K159
+F;SM40;X3
+C;K"Advanced Concentration (Soul+)"
+C;X4;K"N/A???"
+F;SM92;Y335;X1
+C;K60978
+F;SM35;X2
+C;K160
+F;SM40;X3
+C;K"Gemini's Duel"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y336;X1
+C;K60979
+F;SM35;X2
+C;K164
+F;SM40;X3
+C;K"Pisces' Flash"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y337;X1
+C;K60980
+F;SM35;X2
+C;K169
+F;SM40;X3
+C;K"Scorpio's Strike"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y338;X1
+C;K60981
+F;SM35;X2
+C;K176
+F;SM40;X3
+C;K"Sagittarius' Shot"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y339;X1
+C;K60982
+F;SM35;X2
+C;K174
+F;SM40;X3
+C;K"Leo's Pride"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y340;X1
+C;K60983
+F;SM35;X2
+C;K178
+F;SM40;X3
+C;K"Capricorn's Spirit"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y341;X1
+C;K60984
+F;SM35;X2
+C;K172
+F;SM40;X3
+C;K"Taurus' Rage"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y342;X1
+C;K60985
+F;SM35;X2
+C;K168
+F;SM40;X3
+C;K"Virgo's Call"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y343;X1
+C;K60986
+F;SM35;X2
+C;K175
+F;SM40;X3
+C;K"Libra's Prayer"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y344;X1
+C;K60987
+F;SM35;X2
+C;K166
+F;SM40;X3
+C;K"Aries' Might"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y345;X1
+C;K60988
+F;SM35;X2
+C;K179
+F;SM40;X3
+C;K"Cancer's Spite"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y346;X1
+C;K60989
+F;SM35;X2
+C;K163
+F;SM40;X3
+C;K"Aquarius' Seal"
+C;X4;K"N/A???"
+F;SM92;X5
+F;SM36;X6
+F;SM36;X7
+F;SM92;Y347;X1
+F;SM40;X2
+F;SM40;X3
+F;SM39;Y348;X1
+C;K60859
+C;X2;K40
+C;X3;K"Hellfire Chop"
+C;X4;K"Netherworld Warlord Skill"
+F;SM39;Y349;X1
+C;K60860
+C;X2;K41
+C;X3;K"Crescent Moon"
+C;X4;K"Netherworld Priest Skill"
+F;SM39;Y350;X1
+C;K60861
+C;X2;K42
+C;X3;K"Bastion of Iron"
+C;X4;K"Steel Giant Skill"
+F;SM39;Y351;X1
+C;K60862
+C;X2;K43
+C;X3;K"Soulfire Blast"
+C;X4;K"Heart Loser Skill"
+F;SM39;Y352;X1
+C;K60863
+C;X2;K44
+C;X3;K"Infernal Might"
+C;X4;K"Rebirth Nether Lord Skill"
+C;Y353;X1;K60864
+C;X2;K45
+C;X3;K"Ultimate Rampage"
+C;X4;K"Rebirth Dragon Skill"
+C;Y354;X1;K60865
+C;X2;K46
+C;X3;K"Cut to the Core"
+C;X4;K"Spider Queen Skill"
+F;SM40;Y355;X1
+C;K60866
+F;SM40;X2
+C;K47
+F;SM40;X3
+C;K"Black Justice"
+F;SM40;X4
+C;K"Evil Judge Skill"
+F;SM40;Y356;X1
+F;SM40;X2
+F;SM40;X3
+F;SM40;Y357;X1
+C;K60867
+C;X2;K9176
+F;SM40;X3
+C;K"Advanced Repel"
+F;SM40;Y358;X1
+C;K60868
+C;X2;K9160
+F;SM40;X3
+C;K"Advanced Retaliate"
+F;SM40;Y359;X1
+C;K60869
+C;X2;K9130
+F;SM40;X3
+C;K"Advanced Singe"
+F;SM40;Y360;X1
+C;K60870
+C;X2;K9131
+F;SM40;X3
+C;K"Advanced Frostbite"
+F;SM40;Y361;X1
+C;K60871
+C;X2;K9132
+F;SM40;X3
+C;K"Advanced Flash"
+F;SM40;Y362;X1
+C;K60872
+C;X2;K9133
+F;SM40;X3
+C;K"Advanced Darkness"
+F;SM40;Y364;X1
+C;K60873
+C;X2;K48
+F;SM40;X3
+C;K"Golden Curse"
+F;SM40;Y365;X1
+C;K60874
+C;X2;K49
+F;SM40;X3
+C;K"Perfect Pitch"
+F;SM40;Y366;X1
+C;K60875
+C;X2;K70
+F;SM40;X3
+C;K"Blood of Poseidon"
+F;SM40;Y367;X1
+C;K60876
+C;X2;K71
+F;SM40;X3
+C;K"Ocean God Storm"
+F;SM40;Y368;X1
+C;K60877
+C;X2;K9048
+F;SM40;X3
+C;K"Storm"
+F;SM24;Y370;X1
+C;K60878
+F;SM24;X2
+C;K73
+F;SM24;X3
+C;K"Avalanche"
+F;SM24;X4
+C;K"Yeti Chief Ultimate"
+F;SM24;Y371;X1
+C;K60879
+F;SM24;X2
+C;K74
+F;SM24;X3
+C;K"Sunflare Vigor"
+F;SM24;X4
+C;K"Kingoni Grantara Ultimate"
+F;SM24;Y372;X1
+C;K60880
+F;SM24;X2
+C;K75
+F;SM24;X3
+C;K"Boulder Smash"
+F;SM24;X4
+C;K"Dwarf Lord Ultimate"
+F;SM24;Y373;X1
+C;K60881
+F;SM24;X2
+C;K76
+F;SM24;X3
+C;K"Midnight Stride"
+F;SM24;X4
+C;K"Werewolf Lord Ultimate"
+F;SM24;Y374;X1
+C;K60882
+F;SM24;X2
+C;K77
+F;SM24;X3
+C;K"Tempest Counter"
+F;SM24;X4
+C;K"King of Desert Ultimate"
+F;SM24;Y375;X1
+C;K60883
+F;SM24;X2
+C;K79
+F;SM24;X3
+C;K"Headshot"
+F;SM24;X4
+C;K"Gator Lord Ultimate"
+F;SM24;Y376;X1
+C;K60884
+F;SM24;X2
+C;K80
+F;SM24;X3
+C;K"Energy Flow"
+F;SM24;X4
+C;K"Banshee Baroness Ultimate"
+F;SM24;Y377;X1
+C;K60885
+F;SM24;X2
+C;K82
+F;SM24;X3
+C;K"Witches' Dance"
+F;SM24;X4
+C;K"Elite Medusa Ultimate"
+F;SM24;Y378;X1
+C;K60886
+F;SM24;X2
+C;K83
+F;SM24;X3
+C;K"Unyielding Strength"
+F;SM24;X4
+C;K"Centaur Lord Ultimate"
+F;SM24;Y379;X1
+C;K60887
+F;SM24;X2
+C;K84
+F;SM24;X3
+C;K"Degenerate's Shriek"
+F;SM24;X4
+C;K"Night Witch Ultimate"
+F;SM24;Y380;X1
+C;K60888
+F;SM24;X2
+C;K85
+F;SM24;X3
+C;K"Drunken Master"
+F;SM24;X4
+C;K"Panda Guru Ultimate"
+F;SM24;Y381;X1
+C;K60889
+F;SM24;X2
+C;K86
+F;SM24;X3
+C;K"Undertow"
+F;SM24;X4
+C;K"Tide Elf Ultimate"
+C;Y382;X1;K60890
+F;SM24;X2
+C;K88
+F;SM24;X3
+C;K"Behead"
+C;Y383;X1;K60891
+F;SM24;X2
+C;K87
+F;SM24;X3
+C;K"Corrupted Doctrine"
+F;SM21;Y385;X1
+C;K60990
+C;X2;K9147
+C;X3;K"Advanced Massive Flamestrike"
+F;SM21;Y386;X1
+C;K60991
+C;X2;K9148
+C;X3;K"Advanced Massive Storm"
+F;SM21;Y387;X1
+C;K60992
+C;X2;K9149
+C;X3;K"Advanced Massive Blizzard"
+F;SM21;Y388;X1
+C;K60993
+C;X2;K9150
+C;X3;K"Advanced Massive Shadowshroud"
+C;Y390;X1;K60892
+F;SM20;X2
+C;K89
+C;X3;K"Violet Source Power"
+C;Y391;X1;K60893
+F;SM20;X2
+C;K90
+C;X3;K"Red Source Power"
+C;Y392;X1;K60894
+F;SM20;X2
+C;K91
+C;X3;K"Green Source Power"
+C;Y393;X1;K60895
+F;SM20;X2
+C;K92
+C;X3;K"Blue Source Power"
+C;Y394;X1;K60896
+F;SM20;X2
+C;K93
+C;X3;K"Yellow Source Power"
+C;Y395;X1;K60897
+F;SM20;X2
+C;K94
+F;SM20;X3
+C;K"Colored Neon"
+C;Y397;X1;K60898
+F;SM20;X2
+C;K96
+F;SM20;X3
+C;K"Ode to the Fate"
+F;SM20;Y398;X2
+F;SM20;X3
+C;Y399;X1;K60899
+F;SM20;X2
+C;K184
+F;SM20;X3
+C;K"Valkyrie's Ultimate Strength"
+C;Y400;X1;K60900
+F;SM20;X2
+C;K185
+F;SM20;X3
+C;K"Valkyrie's Ultimate Intelligence"
+C;Y401;X1;K60994
+F;SM20;X2
+C;K186
+F;SM20;X3
+C;K"Bigmoss Ultimate"
+C;Y403;X1;K60995
+C;X2;K187
+C;X3;K"Invincible"
+C;X4;K"Strength Rankings 1st Reward"
+C;Y404;X1;K60996
+C;X2;K188
+C;X3;K"Dauntless"
+C;X4;K"Strength Rankings 2nd-5th Reward"
+C;Y405;X1;K60997
+C;X2;K189
+C;X3;K" Mighty Supreme"
+C;X4;K"Strength Rankings 6th-15th Reward"
+C;Y407;X1;K60998
+C;X2;K9290
+C;X3;K"Ultimate Volcano"
+C;X4;K"3.71 True Dragon Emperor Ultimate Skill"
+C;Y409;X1;K60712
+C;X2;K202
+C;X3;K"Chaos Arbitration"
+C;X4;K"2 Yuan Chest Source of Chaos Grand Prize"
+C;Y410;X1;K60713
+C;X2;K207
+C;X3;K"Ghost Area"
+C;X4;K"2 Yuan Chest Soul Eater Grand Prize"
+C;Y412;X1;K60714
+C;X2;K209
+C;X3;K"Soul of Valkyrie"
+C;X4;K"Valkyrie Ultimate"
+C;Y413;X1;K60715
+C;X2;K210
+C;X3;K"Sacred Glow"
+C;X4;K"Valkyrie Ultimate"
+C;Y415;X1;K60716
+C;X2;K212
+C;X3;K"Snowmanify You"
+C;X4;K"Snowman Ultimate"
+C;Y416;X1;K60717
+C;X2;K213
+C;X3;K"Snowmanify You"
+C;X4;K"Snowman Ultimate"
+C;Y417;X1;K60718
+C;X2;K214
+C;X3;K"Snowmanify You"
+C;X4;K"Snowman Ultimate"
+C;Y418;X1;K60719
+C;X2;K215
+C;X3;K"Snowmanify You"
+C;X4;K"Snowman Ultimate"
+C;Y420;X1;K60720
+C;X2;K216
+C;X3;K"Death Grip"
+C;X4;K"Death Knight Egg"
+C;Y421;X1;K60721
+C;X2;K217
+C;X3;K"Abyssal Impact"
+C;X4;K"Abyss Egg"
+C;Y423;X1;K60722
+C;X2;K219
+C;X3;K"Aether Wrath"
+C;X4;K"Forest Goddess"
+E

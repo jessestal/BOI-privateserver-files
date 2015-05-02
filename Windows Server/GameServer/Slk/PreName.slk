@@ -1,0 +1,294 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"$"#,##0;;\-"$"#,##0
+P;P"$"#,##0;;[Red]\-"$"#,##0
+P;P"$"#,##0.00;;\-"$"#,##0.00
+P;P"$"#,##0.00;;[Red]\-"$"#,##0.00
+P;Phh:mm\ AM/PM
+P;Phh:mm:ss\ AM/PM
+P;Phh:mm
+P;Phh:mm:ss
+P;Pyyyy/m/d\ hh:mm
+P;P_-"$"* #,##0_-;;\-"$"* #,##0_-;;_-"$"* "-"_-;;_-@_-
+P;P_-* #,##0_-;;\-* #,##0_-;;_-* "-"_-;;_-@_-
+P;P_-"$"* #,##0.00_-;;\-"$"* #,##0.00_-;;_-"$"* "-"??_-;;_-@_-
+P;P_-* #,##0.00_-;;\-* #,##0.00_-;;_-* "-"??_-;;_-@_-
+P;Phh"?"mm"?"
+P;Phh"?"mm"?"ss"?"
+P;P??/??hh"?"mm"?"
+P;P??/??hh"?"mm"?"ss"?"
+P;P"?";;"?";;"?"
+P;P"?";;"?";;"?"
+P;P"?";;"?";;"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M220;L9
+P;E??;M360;SB;L57
+P;E??;M300;SB;L57
+P;E??;M260;SB;L57
+P;E??;M220;SB;L57
+P;E??;M220;L18
+P;E??;M220;L21
+P;E??;M220;L61
+P;E??;M220;L63
+P;E??;M220;SB;L64
+P;E??;M220;SB;L53
+P;E??;M220;L53
+P;E??;M220;SB;L10
+P;E??;M220;L11
+P;E??;M220;SI;L24
+P;E??;M220;SB;L9
+P;E??;M220;L10
+P;E??;M220;L9
+P;E??;M360;SB;L57
+P;E??;M300;SB;L57
+P;E??;M260;SB;L57
+P;E??;M220;SB;L57
+P;E??;M220;L18
+P;E??;M220;L21
+P;E??;M220;L61
+P;E??;M220;L63
+P;E??;M220;SB;L64
+P;E??;M220;SB;L53
+P;E??;M220;L53
+P;E??;M220;SB;L10
+P;E??;M220;L11
+P;E??;M220;SI;L24
+P;E??;M220;SB;L9
+P;E??;M220;L10
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;ETimes New Roman;M240
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+P;EPMingLiU;M240
+P;EPMingLiU;M210
+P;E??;M210
+P;ETimes New Roman;M210
+P;E??;M240;L19
+P;ETimes New Roman;M180
+P;E????;M180
+F;P0;DG0G8;M285
+B;Y13;X5;D0 0 12 4
+O;F;D;V0;K47;T0;G100 0.001
+F;W1 2 13
+F;W3 3 22
+F;W4 4 19
+F;W5 5 34
+F;W6 9 10
+F;W10 12 12
+F;W13 13 14
+F;W14 14 12
+F;W15 15 14
+F;W16 16 13
+F;W17 19 12
+F;W20 20 11
+F;W21 21 12
+F;M315;R1
+F;M315;R2
+F;M315;R3
+F;Y1;X1
+C;K"Prefix ID"
+F;X2
+C;K"Duration Time (seconds)"
+F;X3
+C;K"N/A??????"
+F;X4
+C;K"Name Prefix Color"
+F;X5
+C;K"Name Prefix Tip"
+F;Y2;X1
+C;K"Id"
+F;X2
+C;K"Time"
+F;X3
+C;K"Name"
+F;X4
+C;K"Color"
+F;X5
+C;K"Tip"
+F;Y3;X1
+C;K19912
+F;X2
+C;K1814400
+F;SM39;X3
+C;K"Peak Clan"
+F;P3;FI0G;X4
+C;K"FFFF6A07"
+F;X5
+C;K"The champion in the God of War knockout match.\nCan be acquired by using Champion's Gift Pack (God of War.)\nExpires after 21 days."
+C;Y4;X1;K19913
+C;X2;K1814400
+C;X3;K"Hades' Slayer"
+C;X4;K"FFFF6A07"
+C;X5;K"In the Netherworld Returns event, you are the first one to kill Hades. \n Duration: 21 days"
+C;Y5;X1;K19914
+C;X2;K7776000
+C;X3;K"Blood-soaked"
+C;X4;K"FFFF6A07"
+C;X5;K"Given to players who ranked 1st in the Arena of Equality.\nExpires After: 90 day(s)"
+C;Y6;X1;K19915
+C;X2;K7776000
+C;X3;K"Drop-dead Gorgeous"
+C;X4;K"FFFF0080"
+F;SM39;X5
+C;K"Given to players who rank 1st on the Glamour Rank in the Valentine's Day.\nExpires After: 90 day(s)"
+C;Y7;X1;K19916
+C;X2;K7776000
+F;SM39;X3
+C;K"Rouged and Rarin'"
+C;X4;K"FFFF6A09"
+F;SM39;X5
+C;K"Given to players who rank 2nd on the Glamour Rank in the Valentine's Day.\nExpires After: 90 day(s)"
+C;Y8;X1;K19917
+C;X2;K7776000
+F;SM39;X3
+C;K"Love Boat"
+C;X4;K"FFFF6A10"
+F;SM39;X5
+C;K"Given to players who rank 3rd on the Glamour Rank in the Valentine's Day.\nExpires After: 90 day(s)"
+F;SM39;Y11;X3
+F;SM39;Y12
+F;SM39;Y13
+E

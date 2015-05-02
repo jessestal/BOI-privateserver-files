@@ -1,0 +1,17 @@
+2013-08-12 20:11:06 lv2:connect to manager successed
+2013-08-12 20:13:07 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 20:13:23 lv2:Client Disconnect [AccountID:1]
+2013-08-12 20:13:40 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 20:13:51 lv2:Client Disconnect [AccountID:1]
+2013-08-12 20:14:18 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 20:14:44 lv2:Client Disconnect [AccountID:1]
+2013-08-12 20:15:14 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-12 20:15:26 lv2:connect to manager successed
+2013-08-12 20:18:34 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 20:18:36 lv1:Send Merchant info to client charid=14
+2013-08-12 20:19:13 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 20:19:15 lv1:Send Merchant info to client charid=14
+2013-08-12 20:26:38 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-12 20:45:40 lv1:Send Merchant info to client charid=20
+2013-08-12 20:58:51 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 20:58:54 lv1:Send Merchant info to client charid=14

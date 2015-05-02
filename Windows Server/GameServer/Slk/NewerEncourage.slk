@@ -1,0 +1,90 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y6;X5;D0 0 5 4
+O;L;S;F;D;V0;K47;T0;G100 0.001
+C;Y1;X1;K"Event ID"
+C;X2;K"Event Time (Minute)"
+C;X3;K"Reward Item ID"
+C;X4;K"Reward Pet ID"
+C;X5;K"Expanded Bag Rows"
+C;Y2;X1;K"EnID"
+C;X2;K"OpenTime"
+C;X3;K"ItemID"
+C;X4;K"PetID"
+C;X5;K"BagGirds"
+C;Y3;X1;K1
+C;X2;K5
+C;X3;K6319
+C;X4;K0
+C;X5;K0
+C;Y4;X1;K2
+C;X2;K15
+C;X3;K0
+C;X4;K0
+C;X5;K1
+C;Y5;X1;K3
+C;X2;K30
+C;X3;K63759
+C;X4;K0
+C;X5;K0
+C;Y6;X1;K4
+C;X2;K50
+C;X3;K36532
+C;X4;K0
+C;X5;K0
+E

@@ -1,0 +1,299 @@
+2013-08-14 01:34:04 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:09 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:14 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:19 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:24 lv1:MS:socket err:10060 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:24 lv2:MS:socket err:10060 -- CLogsrvConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:24 lv1:MS:socket err:10060 -- CNameServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:24 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:25 lv3:MS:CDBServerListener::OnAcceptNewSession -- Accpect New DBSession!
+2013-08-14 01:34:28 lv3:MS:Last Herostatue calculation time 112--7--9 17:0 
+2013-08-14 01:34:29 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:34 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:39 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:44 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:49 lv2:MS:socket err:10060 -- CLogsrvConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:49 lv1:MS:socket err:10060 -- CNameServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:49 lv1:MS:socket err:10060 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:49 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:54 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:34:58 lv1:MS:Last Herostatue calculation time 113--8--12 6:0 
+2013-08-14 01:34:58 lv3:MS:Last Herostatue calculation time 113--8--12 6:0 
+2013-08-14 01:34:59 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:04 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:09 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:14 lv2:MS:socket err:10060 -- CLogsrvConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:14 lv1:MS:socket err:10060 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:14 lv1:MS:socket err:10060 -- CNameServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:14 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:19 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:24 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:29 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:34 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:39 lv2:MS:socket err:10060 -- CLogsrvConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:39 lv1:MS:socket err:10060 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:39 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:39 lv1:MS:socket err:10060 -- CNameServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:44 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:49 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:54 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:35:59 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:04 lv2:MS:socket err:10060 -- CLogsrvConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:04 lv1:MS:socket err:10060 -- CNameServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:04 lv1:MS:socket err:10060 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:04 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:09 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:14 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:19 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:24 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:36:25 lv2:MS:socket err:64 -- CGameServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:36:25 lv3:MS:Session IsClose Line[4]
+2013-08-14 01:36:25 lv2:MS:err:64 CGateServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:36:25 lv2:MS:Gate: 1 disconnect
+2013-08-14 01:36:25 lv2:MS:err:64 CLocalServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:38:10 lv3:MS:CDBServerListener::OnAcceptNewSession -- Accpect New DBSession!
+2013-08-14 01:38:14 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:14 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:18 lv3:MS:Last Herostatue calculation time 113--8--12 6:0 
+2013-08-14 01:38:19 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:19 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:24 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:24 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:29 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:29 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:34 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:34 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:38:37 lv2:MS:socket err:64 -- CGameServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:38:37 lv3:MS:Session IsClose Line[4]
+2013-08-14 01:38:38 lv2:MS:err:64 CGateServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:38:38 lv2:MS:Gate: 1 disconnect
+2013-08-14 01:38:38 lv2:MS:err:64 CLocalServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:41:04 lv3:MS:CDBServerListener::OnAcceptNewSession -- Accpect New DBSession!
+2013-08-14 01:41:05 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:05 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:09 lv3:MS:Last Herostatue calculation time 113--8--12 6:0 
+2013-08-14 01:41:10 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:10 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:15 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:15 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:20 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:20 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:25 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:25 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:30 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:30 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:35 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:35 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:41:35 lv2:MS:socket err:64 -- CGameServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:41:35 lv3:MS:Session IsClose Line[0]
+2013-08-14 01:41:35 lv2:MS:err:64 CGateServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:41:35 lv2:MS:Gate: 1 disconnect
+2013-08-14 01:41:35 lv2:MS:err:64 CLocalServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:42:44 lv3:MS:CDBServerListener::OnAcceptNewSession -- Accpect New DBSession!
+2013-08-14 01:42:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:42:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:42:51 lv3:MS:Last Herostatue calculation time 113--8--12 6:0 
+2013-08-14 01:42:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:42:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:42:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:42:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:43:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:07 lv3:MS:Ping TimeOut Line[0] time[60000]
+2013-08-14 01:44:07 lv2:MS:socket err:64 -- CGameServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:44:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:44:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:45:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:12 lv3:MS:New Account[1] Login
+2013-08-14 01:46:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:46:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:00 lv3:MS:Account[1] Char[1] Enter World Line[4]
+2013-08-14 01:47:00 lv3:MS:SendAuPrivilege: OnlineInit: uCharacterID 1 , authorizeResult 0 
+2013-08-14 01:47:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:17 lv3:MS:Account[1] Char[1] Logout
+2013-08-14 01:47:17 lv3:MS:MSG_DMM_NOTIFY_SAVE_ROLE 1
+2013-08-14 01:47:17 lv3:MS:Account[1] Char[1] Save Completed
+2013-08-14 01:47:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:47:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:08 lv3:MS:New Account[1] Login
+2013-08-14 01:48:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:12 lv3:MS:KickAccout id: 1 reason: 2
+2013-08-14 01:48:12 lv3:MS:New Account[1] Login
+2013-08-14 01:48:14 lv3:MS:Account[1] Char[1] Enter World Line[4]
+2013-08-14 01:48:14 lv3:MS:SendAuPrivilege: OnlineInit: uCharacterID 1 , authorizeResult 0 
+2013-08-14 01:48:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:27 lv3:MS:MSG_DMM_NOTIFY_SAVE_ROLE 1
+2013-08-14 01:48:29 lv3:MS:KickAccout id: 1 reason: 2
+2013-08-14 01:48:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:32 lv3:MS:New Account[1] Login
+2013-08-14 01:48:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:37 lv3:MS:KickAccout id: 1 reason: 2
+2013-08-14 01:48:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:53 lv3:MS:New Account[1] Login
+2013-08-14 01:48:56 lv3:MS:Account[1] Char[1] Enter World Line[4]
+2013-08-14 01:48:56 lv3:MS:SendAuPrivilege: OnlineInit: uCharacterID 1 , authorizeResult 0 
+2013-08-14 01:48:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:48:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:11 lv3:MS:Account[1] Char[1] Logout
+2013-08-14 01:49:11 lv3:MS:MSG_DMM_NOTIFY_SAVE_ROLE 1
+2013-08-14 01:49:11 lv3:MS:Account[1] Char[1] Save Completed
+2013-08-14 01:49:12 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:12 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:17 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:17 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:22 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:22 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:27 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:27 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:32 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:32 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:37 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:37 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:42 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:42 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:47 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:47 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:52 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:52 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:57 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:49:57 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:50:02 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:50:02 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:50:07 lv1:MS:socket err:10061 -- CGACDConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:50:07 lv1:MS:socket err:10061 -- CKManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-14 01:50:10 lv2:MS:socket err:64 -- CGameServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:50:10 lv3:MS:Session IsClose Line[4]
+2013-08-14 01:50:10 lv2:MS:err:64 CGateServerSession::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-14 01:50:10 lv2:MS:Gate: 1 disconnect
+2013-08-14 01:50:10 lv2:MS:err:64 CLocalServerSession::OnError -- CIOCPSession::OnIOCompleteFailed

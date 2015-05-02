@@ -1,0 +1,150 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"年"m"月"d"日"
+P;Ph"时"mm"分"
+P;Ph"时"mm"分"ss"秒"
+P;Pyyyy"年"m"月"
+P;Pm"月"d"日"
+P;P上午/下午h"时"mm"分"
+P;P上午/下午h"时"mm"分"ss"秒"
+P;P0_ 
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$�-2]\ #,##0.00_);;[Red]\([$�-2]\ #,##0.00\)
+P;F宋体;M240
+P;F宋体;M240
+P;F宋体;M240
+P;F宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M240
+P;E宋体;M180
+P;ETimes New Roman;M200
+P;ETimes New Roman;M210
+P;E宋体;M210
+P;E宋体;M160
+F;P0;DG0L8;SM30;M225
+B;Y3;X17;D0 0 2 16
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W2 4 10
+F;W5 5 7
+F;W7 8 7
+F;W9 9 6
+F;W10 11 9
+F;W12 12 10
+F;W16 16 13
+C;Y1;X1;K"随身仓库价格"
+C;X2;K"升级普通背包价格"
+C;X3;K"升级材料背包价格"
+C;X4;K"升级仓库价格"
+C;X5;K"60级前完美复活价格（含）"
+C;X6;K"90级前价格（含）"
+C;X7;K"120级前价格（含）"
+C;X8;K"150级前价格（含）"
+C;X9;K"150级后价格"
+C;X10;K"每手元宝数"
+C;X11;K"购买手续费率"
+C;X12;K"出售手续费率"
+C;X13;K"兑换战场元宝最大手数"
+C;X14;K"杀戮大於20复活元宝"
+C;X15;K"杀戮大於100复活元宝"
+C;X16;K"高级领取所需元宝"
+C;X17;K"完美领取所需元宝"
+C;Y2;X1;K"gvors"
+C;X2;K"gvepb"
+C;X3;K"gvemb"
+C;X4;K"gvesb"
+C;X5;K"gvr2"
+C;X6;K"gvr3"
+C;X7;K"gvr4"
+C;X8;K"gvr5"
+C;X9;K"gvr6"
+C;X10;K"numofonehand"
+C;X11;K"goldbuyrate"
+C;X12;K"goldsellrate"
+C;X13;K"maxtransbattlenum"
+C;X14;K"g20gvr"
+C;X15;K"g100gvr"
+C;X16;K"AdvanceFetchgvr"
+C;X17;K"PerfectFetchgvr"
+C;Y3;X1;K50
+C;X2;K500
+C;X3;K200
+C;X4;K150
+C;X5;K50
+C;X6;K100
+C;X7;K100
+C;X8;K100
+C;X9;K100
+C;X10;K100
+C;X11;K3
+C;X12;K1
+C;X13;K10
+C;X14;K100
+C;X15;K300
+C;X16;K100
+C;X17;K200
+E

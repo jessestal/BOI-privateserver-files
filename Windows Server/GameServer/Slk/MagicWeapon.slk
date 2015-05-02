@@ -1,0 +1,842 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$?-2]\ #,##0.00_);;[Red]\([$?-2]\ #,##0.00\)
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;ETahoma;M180
+P;ETahoma;M210
+P;E??;M240;L11
+P;E??;M200
+P;E??;M200;L9
+P;EArial;M180
+P;E??;M240;L9
+P;E??;M240
+F;P0;DG0G8;M285
+B;Y30;X20;D0 0 29 19
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 13
+F;W4 4 9
+F;W5 5 21
+F;W6 6 12
+F;W7 7 10
+F;W8 8 23
+F;W9 10 12
+F;W11 11 24
+F;W12 12 14
+F;W13 14 18
+F;W15 15 24
+F;W16 16 13
+F;W17 17 90
+F;W18 18 13
+F;W19 19 70
+F;W20 20 22
+C;Y1;X13;A?2????3????; :??????????1????X??,?????
+C;X1;K"ID"
+C;X2;K"Name"
+C;X3;K"Level"
+C;X4;K"Max Level"
+C;X5;K"Additional Skill"
+C;X6;K"Skill Level"
+C;X7;K"N/A????"
+C;X8;K"N/A????RelicID"
+C;X9;K"N/A????(??)"
+C;X10;K"N/A??(??)"
+C;X11;K"Cost Materials"
+C;X12;K"Requisite Material Qty."
+C;X13;K"N/A??????(????)"
+C;X14;K"Minimum Activation Level"
+C;X15;K"icon File"
+C;X16;K"N/A??ID (Depleted)"
+C;X17;K"N/A????(????)"
+C;X18;K"N/A?????? (Depleted)"
+C;X19;K"EFX Path"
+C;X20;K"Corresponding Area (on the world map)"
+C;Y2;X1;K"ID"
+C;X2;K"Name"
+C;X3;K"Rank"
+C;X4;K"MaxLevel"
+C;X5;K"Skill"
+C;X6;K"SkillLevel"
+C;X7;K"HolySeries"
+C;X8;K"SynReqTrumpID"
+C;X9;K"SuitSkill"
+C;X10;K"Suit"
+C;X11;K"Material"
+C;X12;K"MaterialCount"
+C;X13;K"MaterialSpeed"
+C;X14;K"ActiveRank"
+C;X15;K"IconFile"
+C;X16;K"ModelID"
+C;X17;K"Tip"
+C;X18;K"Coord"
+C;X19;K"Effect"
+C;X20;K"AreaIndex"
+C;Y3;X1;K11001
+C;X2;K"Golden Horn"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y4;X1;K11002
+C;X2;K"Fallen Angel Feather"
+C;X3;K2
+C;X4;K6
+C;X5;K"9303;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11002;;"
+C;X11;K"4002;;4012;;4022;;4032"
+C;X12;K"10;;10;;10;;10"
+C;X13;K"1;;10"
+C;X14;K60
+C;X15;K"\UI\Icon\equip\59019.tga"
+C;X16;K11001
+C;X17;K"A feather plucked from a willing servant of\ngood. It's said this Relic can protect the\nwearer from enemy attacks."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\helusizhiyu\helusizhiyu.ini"
+C;X20;K0
+C;Y5;X1;K11003
+C;X2;K"Soul of Valkyrie"
+C;X3;K5
+C;X4;K5
+C;X5;K"9301;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11003;;"
+C;X11;K"4042;;4062;;4072;;4052"
+C;X12;K"1;;1;;1;;1"
+C;X13;K"1;;10"
+C;X14;K60
+C;X15;K"\UI\Icon\skill\71088.dds"
+C;X16;K11001
+C;X17;K"A Valkyrie has personally chosen you to\nreceive her divine protection. Wearing this\nRelic will increase your Max HP."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Nvwushen\Nvwushen.ini"
+C;X20;K0
+C;Y6;X1;K11004
+C;X2;K"Ashura's Ring"
+C;X3;K2
+C;X4;K10
+C;X5;K"9304;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11004;;"
+C;X11;K"4002;;4012;;4022;;4032"
+C;X12;K"4;;4;;4;;4"
+C;X13;K"1;;10"
+C;X14;K80
+C;X15;K"\UI\Icon\equip\59004.tga"
+C;X16;K11001
+C;X18;K"0;;0"
+C;X19;K"magicweapon\hit\tx_taoist_huoyandun_hit.ini"
+C;X20;K0
+C;Y7;X1;K11005
+C;X2;K"Clown's Magic Wand"
+C;X3;K2
+C;X4;K4
+C;X5;K"9318;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11005;;"
+C;X11;K"4002;;4012;;4022;;4032"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K60
+C;X15;K"\UI\Icon\skill\71089.dds"
+C;X16;K11001
+C;X17;K"A strange and oddly hypnotic item. This Relic\nallows the wearer to change the appearance\nof a friendly target."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\bianshenxiaochou\bianshenxiaochou.ini"
+C;X20;K0
+C;Y8;X1;K11006
+C;X2;K"Master's Care"
+C;X3;K3
+C;X4;K5
+C;X5;K"9319;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11006;;"
+C;X11;K"4001;;4011;;4091;;4534"
+C;X12;K"10;;10;;1;;5"
+C;X13;K"1;;10"
+C;X14;K1
+C;X15;K"\UI\Icon\skill\71090.dds"
+C;X16;K11001
+C;X17;K"A powerful item that emits an aura of authority and wisdom. This Relic increases the wearer's Physical and Magic Resistance."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\shidederongyao\shidederongyao.ini"
+C;X20;K0
+C;Y9;X1;K11007
+C;X2;K"Arcane Fingerband"
+C;X3;K1
+C;X4;K10
+C;X5;K"9320;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11007;;"
+C;X11;K"4021;;4031;;4091;;4535"
+C;X12;K"10;;10;;10;;10"
+C;X13;K"1;;10"
+C;X14;K1
+C;X15;K"\UI\Icon\other\80101.dds"
+C;X16;K11001
+C;X17;K"A ring of great might. Wearing this Relic\nincreases Vitality, Spirit, Strength, Intellect\nand Dexterity."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\molizhihuan\molizhihuan.ini"
+C;X20;K0
+C;Y10;X1;K11008
+C;X2;K"Thor's Enhance"
+C;X3;K1
+C;X4;K10
+C;X5;K"9321;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11008;;"
+C;X11;K"4122;;4142;;4091;;4650"
+C;X12;K"1;;1;;1;;1"
+C;X13;K"1;;10"
+C;X14;K1
+C;X15;K"\UI\Icon\status\41047.dds"
+C;X16;K11001
+C;X17;K"A faithful follower will be guarded by the\nmight of Thor. Equip this Relic to obtain the\nskill: Thor Possession. Using it will increase the\nwearer's Status Resistances."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\leitingbati\leitingbati.ini"
+C;X20;K0
+C;Y11;X1;K11009
+C;X2;K"Lightning"
+C;X3;K5
+C;X4;K1
+C;X5;K"9322;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11003;;"
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K115
+C;X15;K"\UI\Icon\skill\71088.dds"
+C;X16;K11001
+C;X17;K"Zeus has been known to lend a bit of his\npower to those who faithfully worship him.\nEquip this Relic to obtain the skill: Lightning.\nUsing it will increase movement speed by\n30% and all Elemental Attacks by 200 for 12\nsec."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Nvwushen\Nvwushen.ini"
+C;X20;K0
+C;Y12;X1;K11010
+C;X2;K"Scarlet Phoenix Heart"
+C;X3;K5
+C;X4;K4
+C;X5;K"9323;;9324;;9326;;"
+C;X6;K"1;;1;;1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11003;;"
+C;X11;K"4123;;4143;;63691;;59781"
+C;X12;K"5;;5;;10;;1"
+C;X13;K"1;;10"
+C;X14;K100
+C;X15;K"\UI\Icon\other\82436.dds"
+C;X16;K11001
+C;X17;K"Refining the Relic requires 5 Flawless Aquamarines, 5 Fine Silvers, 10 Aura of Souljades, and 1 Burning Feather.\n<#FF3A9FFD=Collect a Scarlet Phoenix Heart, Emerald Dragon Soul, White Tiger Might, and Obsidian Turtle Soul to obtain the Kirin's Radiance."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\faqizhuque\tx_faqizhuque.ini"
+C;X20;K0
+C;Y13;X1;K11011
+C;X2;K"Emerald Dragon Soul"
+C;X3;K5
+C;X4;K4
+C;X5;K"9328;;9329;;9331;;"
+C;X6;K"1;;1;;1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11003;;"
+C;X11;K"4153;;4143;;63691;;59803"
+C;X12;K"5;;5;;10;;1"
+C;X13;K"1;;10"
+C;X14;K100
+C;X15;K"\UI\Icon\other\82469.dds"
+C;X16;K11001
+C;X17;K"Refining the Relic requires 5 Flawless Aquamarines, 5 Cotton Cloths, 10 Aura of Souljades, and 1 Frozen Scale.\n<#FF3A9FFD=Collect a Scarlet Phoenix Heart, Emerald Dragon Soul, White Tiger Might, and Obsidian Turtle Soul to obtain the Kirin's Radiance."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\faqiqinglong\tx_shengcunzhuanjia.ini"
+C;X20;K0
+C;Y14;X1;K11012
+C;X2;K"Test 1"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y15;X1;K11013
+C;X2;K"Test 2"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y16;X1;K11014
+C;X2;K"Test 3"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y17;X1;K11015
+C;X2;K"Test 4"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y18;X1;K11016
+C;X2;K"Test 5"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y19;X1;K11017
+C;X2;K"Test 6"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y20;X1;K11018
+C;X2;K"Test 7"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y21;X1;K11019
+C;X2;K"Test 8"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y22;X1;K11020
+C;X2;K"Test 9"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y23;X1;K11021
+C;X2;K"Test 10"
+C;X3;K1
+C;X4;K10
+C;X5;K"9302;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K"4001;;4011;;4021;;4031"
+C;X12;K"5;;5;;5;;5"
+C;X13;K"1;;10"
+C;X14;K35
+C;X15;K"\UI\Icon\equip\59002.tga"
+C;X16;K11001
+C;X17;K"A triumphant song of horns and brass allows\nthe listener to earn EXP every 15 seconds."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Huangjinhaojiao\Huangjinhaojiao.ini"
+C;X20;K0
+C;Y24;X1;K11022
+C;X2;K"White Tiger Might"
+C;X3;K5
+C;X4;K4
+C;X5;K"9333;;9334;;9336;;"
+C;X6;K"1;;1;;1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11003;;"
+C;X11;K"4153;;4133;;63691;;59821"
+C;X12;K"5;;5;;10;;1"
+C;X13;K"1;;10"
+C;X14;K100
+C;X15;K"\UI\Icon\other\82470.dds"
+C;X16;K11001
+C;X17;K"Refining the Relic requires 5 Prepared Violet Lotus', 5 Cotton Cloths, 10 Aura of Souljades, and 1 Shining Skin.\n<#FF3A9FFD=Collect a Scarlet Phoenix Heart, Emerald Dragon Soul, White Tiger Might, and Obsidian Turtle Soul to obtain the Kirin's Radiance."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\faqibaihu\bbrd_tx_faqibaihu.ini"
+C;X20;K0
+C;Y25;X1;K11023
+C;X2;K"Obsidian Turtle Soul"
+C;X3;K5
+C;X4;K4
+C;X5;K"9338;;9339;;9341;;"
+C;X6;K"1;;1;;1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11003;;"
+C;X11;K"4123;;4133;;63691;;59835"
+C;X12;K"5;;5;;10;;1"
+C;X13;K"1;;10"
+C;X14;K100
+C;X15;K"\UI\Icon\other\82471.dds"
+C;X16;K11001
+C;X17;K"Refining the Relic requires 5 Prepared Violet Lotus', 5 Fine Silvers, 10 Aura of Souljades, and 1 Ancient Darkness Pillar.\n<#FF3A9FFD=Collect a Scarlet Phoenix Heart, Emerald Dragon Soul, White Tiger Might, and Obsidian Turtle Soul to obtain the Kirin's Radiance."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\faqixuanwu\faqixuanwu.ini"
+C;X20;K0
+C;Y26;X1;K11024
+C;X2;K"Kirin's Radiance"
+C;X3;K5
+C;X4;K4
+C;X5;K"9343;;9344;;9345;;9346;;"
+C;X6;K"1;;1;;1;;1;;"
+C;X7;K1
+C;X8;K"11010;;11011;;11022;;11023"
+C;X9;K"0;;"
+C;X10;K"11008;;"
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K100
+C;X15;K"\UI\Icon\other\82511.dds"
+C;X16;K11001
+C;X17;K"A rare weapon available only to true believers.\n<#FF3A9FFD=After equipping this sacred weapon, Deity's Charity, Heart of Holy Power, Boundless Crack, and Kirin's Defense can be obtained. The Scared Weapon cannot be refined or upgraded. The higher level the Magic weapons used to create it are, the better the Scared Weapons will be."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\magicweapon_qiling\tx_magicweapon_qiling.ini"
+C;X20;K0
+C;Y27;X1;K11025
+C;X2;K"Earth Fury"
+C;X3;K3
+C;X4;K1
+C;X5;K"9349;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11001;;"
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K100
+C;X15;K"\UI\Icon\other\80097.dds"
+C;X16;K11001
+C;X17;K"Obtained by combining 3 fragments in the Ancient Tomb.\nIncreases Defense and attack speed."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\dadizhinu\dadizhinu.ini"
+C;X20;K0
+C;Y28;X1;K11026
+C;X2;K"Creator's Shield"
+C;X3;K3
+C;X4;K5
+C;X5;K"9355;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11002;;"
+C;X11;K"4681;;63691"
+C;X12;K"1;;20"
+C;X13;K"1;;10"
+C;X14;K120
+C;X15;K"\UI\Icon\other\84121.dds"
+C;X16;K11001
+C;X17;K"This is a shield created by the worldmaker using\nthe light of Genesis. It can mold light to create\nan attack that hits all enemies around you."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Chuangshizhezhidun\chuangshizhezhidun.ini"
+C;X20;K0
+C;Y29;X1;K11027
+C;X2;K"Fate Goddess"
+C;X3;K3
+C;X4;K4
+C;X5;K"9351;;"
+C;X6;K"1;;"
+C;X7;K0
+C;X8;K0
+C;X9;K"0;;"
+C;X10;K"11002;;"
+C;X11;K"4682;;4012;;4022;;4032"
+C;X12;K"1;;10;;10;;10"
+C;X13;K"1;;10"
+C;X14;K75
+C;X15;K"\UI\Icon\task\20533.dds"
+C;X16;K11001
+C;X17;K"The Goddess of Fate possesses great\ncompassion towards adventurers. When\nyou encounter any difficulties, the\nGoddess will hear your prayer and\naid you."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\Mingyunnvshen\tx_Mingyunnvshen.ini"
+C;X20;K0
+C;Y30;X1;K11028
+C;X2;K"Purifying Protection"
+C;X3;K5
+C;X4;K5
+C;X5;K"9352;;9353;;"
+C;X6;K"1;;1;;"
+C;X7;K1
+C;X8;K"11002;;11006;;11027"
+C;X9;K"0;;"
+C;X10;K"11008;;"
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K75
+C;X15;K"\UI\Icon\other\84125.dds"
+C;X16;K11001
+C;X17;K"There will be a Goddess protecting you. \n <#FF3A9FFD=Once the weapon is equipped, Ice Purity and Wind Barrier can be obtained. Sacred Weapons do not need to be upgraded. The higher the weapon's level, the more powerful the Scared Weapon will be."
+C;X18;K"0;;0"
+C;X19;K"magicweapon\shidederongyao\shidederongyao.ini"
+C;X20;K0
+E

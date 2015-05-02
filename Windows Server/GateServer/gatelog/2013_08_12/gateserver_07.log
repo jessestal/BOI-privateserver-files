@@ -1,0 +1,56 @@
+2013-08-12 07:57:04 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:04 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:05 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:05 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:06 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:06 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:07 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:07 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:08 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:08 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:09 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:09 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:10 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:10 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:11 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:11 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:12 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:12 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:13 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:13 lv1:gate-manager session err num > 10
+2013-08-12 07:57:13 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:14 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:14 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:15 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:15 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:16 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:16 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:17 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:17 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:18 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:18 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:19 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:19 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:20 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:20 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:21 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:21 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:22 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:22 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:23 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:23 lv1:gate-manager session err num > 10
+2013-08-12 07:57:23 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:24 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:24 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:25 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:25 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:26 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:26 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:27 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:27 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:28 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:28 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:29 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 07:57:29 lv2:CGateServer::OnDissconnectManager
+2013-08-12 07:57:30 lv2:connect to manager successed
+2013-08-12 07:57:47 lv2:connect to manager successed

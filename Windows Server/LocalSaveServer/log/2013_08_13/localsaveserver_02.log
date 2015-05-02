@@ -1,0 +1,978 @@
+2013-08-13 02:00:02 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:07 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:12 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:17 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:22 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:27 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:32 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:37 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:42 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:47 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:52 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:00:57 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:02 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:07 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:12 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:17 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:22 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:27 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:32 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:37 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:42 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:47 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:52 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:01:57 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:02 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:05 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:02:07 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:12 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:17 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:22 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:27 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:32 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:37 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:42 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:47 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:52 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:02:57 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:02 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:07 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:17 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:03:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:03:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:04:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:04 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:05:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:12 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:05:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:05:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:17 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:06:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:06:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:03 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:07:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:05 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:07:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:07:57 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:07:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:08:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:08:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:15 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:09:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:09:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:12 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:10:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:28 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:10:29 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:10:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:10:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:11:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:05 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:09 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:10 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:11 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:53 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:12:55 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:56 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:12:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:13:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:13:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:14:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:15:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:16:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:05 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:17:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:17:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:06 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:18:07 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:18:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:18:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:18:57 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:18:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:19:59 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:20:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:06 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:20:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:20:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:15 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:21:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:21:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:05 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:22:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:37 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:22:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:39 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:22:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:22:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:23:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:23:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:17 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:24:18 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:24:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:20 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:24:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:24:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:08 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:25:08 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:25:08 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:25:08 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:25:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:23 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:25:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:25:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:18 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:26:18 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:26:18 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:26:18 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:26:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:53 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:26:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:26:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:32 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:27:32 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:27:32 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:27:32 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:27:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:27:56 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:27:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:35 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:28:35 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:28:35 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:28:35 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:28:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:40 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:28:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:28:54 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:28:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:33 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:43 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:48 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:53 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:29:58 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:03 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:08 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:13 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:18 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:23 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:28 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:37 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:30:37 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:30:37 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:30:37 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:30:38 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:30:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:26 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:31:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:31:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:32:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:40 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:33:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:33:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:02 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:34:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:33 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:34:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:34:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:35:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:26 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:36:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:36:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:31 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:37:32 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:37:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:45 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:37:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:37:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:40 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:38:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:38:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:39:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:40:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:00 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:41:00 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:41:00 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:41:00 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:41:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:41:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:42:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:43:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:43:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:11 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:44:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:44:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:00 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:45:00 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:45:01 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:45:01 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:45:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:12 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:45:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:45:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:25 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:46:25 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:46:25 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:46:25 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:46:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:36 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:46:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:46:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:35 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:47:35 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:47:35 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:47:35 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:47:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:49 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:47:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:47:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:48:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:54 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:48:54 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:48:54 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:48:54 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:48:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:48:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:18 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:49:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:49:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:11 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:50:11 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:50:11 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:50:11 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:50:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:15 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:50:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:50:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:26 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:51:26 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:51:26 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:51:26 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:51:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:37 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:51:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:51:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:52:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:07 lv4:LS:Send SaveCharacter 22
+
+2013-08-13 02:53:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:53:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:53:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:05 lv3:LS:Player Offline ID : [22].
+
+2013-08-13 02:54:05 lv4:LS:Send SaveCharacter 22
+
+2013-08-13 02:54:05 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:54:05 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:54:05 lv3:LS:Save Success ID : [22].
+
+2013-08-13 02:54:05 lv3:LS:Wait for Ack List Size : [1].
+
+2013-08-13 02:54:05 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:54:05 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:54:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:16 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:54:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:54:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:07 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:55:07 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:55:07 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:55:07 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:55:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:14 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:19 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:24 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:29 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:55:29 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:34 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:39 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:44 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:49 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:54 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:55:59 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:04 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:09 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:15 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:20 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:25 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:25 lv3:LS:Player Offline ID : [21].
+
+2013-08-13 02:56:25 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:56:25 lv3:LS:Save Success ID : [21].
+
+2013-08-13 02:56:25 lv3:LS:Wait for Ack List Size : [0].
+
+2013-08-13 02:56:30 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:31 lv4:LS:Send SaveCharacter 21
+
+2013-08-13 02:56:35 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:40 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:45 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:50 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:56:55 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:00 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:05 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:10 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:15 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:20 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:25 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:30 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:35 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:40 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:45 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:50 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:57:55 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:00 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:05 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:10 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:15 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:20 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:25 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:30 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:35 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:40 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:41 lv4:LS:Send SaveCharacter 14
+
+2013-08-13 02:58:45 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:50 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:58:55 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:00 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:05 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:10 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:15 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:20 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:25 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:30 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:35 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:40 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:45 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:50 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 02:59:55 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008
+2013-08-13 03:00:00 lv2:LS:socket err:11004 -- CLogsrvConnector::OnError -- SetAddress failed! Addr:(ubuntu) Port:9008

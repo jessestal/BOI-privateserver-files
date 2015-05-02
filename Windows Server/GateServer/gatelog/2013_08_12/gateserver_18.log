@@ -1,0 +1,43 @@
+2013-08-12 18:00:06 lv2:connect to manager successed
+2013-08-12 18:11:56 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 18:12:01 lv1:Send Merchant info to client charid=14
+2013-08-12 18:23:43 lv1:socket err:64 -- CManagerServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-12 18:23:44 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:44 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:45 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:45 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:46 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:46 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:47 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:47 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:48 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:48 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:49 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:49 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:50 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:50 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:51 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:51 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:52 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:52 lv1:gate-manager session err num > 10
+2013-08-12 18:23:52 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:53 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:53 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:54 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:54 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:55 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:56 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:57 lv1:socket err:10061 -- CManagerServerConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-08-12 18:23:57 lv2:CGateServer::OnDissconnectManager
+2013-08-12 18:23:57 lv2:connect to manager successed
+2013-08-12 18:29:14 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 18:29:17 lv1:Send Merchant info to client charid=14
+2013-08-12 18:29:59 lv2:Client Disconnect [AccountID:1 CharID:14]
+2013-08-12 18:36:43 lv2:connect to manager successed
+2013-08-12 18:39:49 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 18:39:53 lv1:Send Merchant info to client charid=14
+2013-08-12 18:42:54 lv1:Game Server is Time out! LineID is 4
+2013-08-12 18:46:26 lv2:connect to manager successed
+2013-08-12 18:49:43 lv1:Send Merchant info to client charid=20
+2013-08-12 18:50:30 lv2:CGateWorld::CreateEctype < uEctypeID = 15051 >
+2013-08-12 18:55:49 lv2:CGateWorld::CreateEctype < uEctypeID = 10501 >

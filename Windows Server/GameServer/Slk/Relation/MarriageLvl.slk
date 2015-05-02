@@ -1,0 +1,403 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y5;X30;D0 0 4 29
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 11
+F;W2 2 13
+F;W3 3 14
+F;W4 12 18
+F;W13 13 24
+F;W14 14 17
+F;W15 15 15
+F;W16 17 17
+F;W18 18 40
+F;W19 19 14
+F;W20 20 34
+F;W21 21 28
+F;W22 22 21
+F;W23 23 38
+F;W24 24 27
+F;W25 25 29
+F;W26 26 27
+F;W27 27 30
+F;W28 28 28
+F;W29 30 11
+F;M465;R2
+F;M1395;R3
+F;M1335;R4
+F;M1290;R5
+C;Y1;X1;Agordan: :0-255 :???????????0 ID :0?????? :
+C;X3;Agordan: :(???;??)
+C;X4;Agordan: :(?)
+C;X5;Agordan: :-1:????????
+C;X6;Agordan: :x
+C;X7;Agordan: :x
+C;X9;Agordan: :x
+C;X10;Agordan: :x
+C;X13;Agordan: :(0:? 1:?) :
+C;X20;Agordan: :??????? :?????%S?%d?????? :
+C;X21;Agordan: :???????
+C;X28;Agordan: :????????
+C;X1;K"N/A????"
+C;X2;K"N/A????"
+C;X3;K"N/A????"
+C;X4;K"N/A??????"
+C;X5;K"N/A??????"
+C;X6;K"N/A???????X"
+C;X7;K"N/A???????Y"
+C;X8;K"N/A??????"
+C;X9;K"N/A???????X"
+C;X10;K"N/A???????Y"
+C;X11;K"N/A????"
+C;X12;K"N/A???????"
+C;X13;K"N/A??????"
+C;X14;K"N/A??????EXP"
+C;X15;K"N/A?????ID"
+C;X16;K"N/A??????ID"
+C;X17;K"N/A??ID"
+C;X18;K"N/A??????????"
+C;X19;K"N/A??????????"
+C;X20;K"N/A????????"
+C;X21;K"N/A????????"
+C;X22;K"N/A????????"
+C;X23;K"N/A????????"
+C;X24;K"N/A??????????"
+C;X25;K"N/A??????????"
+C;X26;K"N/A??????????"
+C;X27;K"N/A??????????"
+C;X28;K"N/A??????"
+C;X29;K"N/A??????SLKID"
+C;X30;K"N/A?????????"
+F;Y2;X1
+C;K"MarriageLvl"
+F;X2
+C;K"MarriageName"
+F;X3
+C;K"MarriageCost"
+F;X4
+C;K"MarriageDuration"
+F;X5
+C;K"MarriageSceneID"
+F;X6
+C;K"ScenePortalInX"
+F;X7
+C;K"ScenePortalInY"
+F;X8
+C;K"OutSceneID"
+F;X9
+C;K"ScenePortalOutX"
+F;X10
+C;K"ScenePortalOutY"
+F;X11
+C;K"FreeEnter"
+F;X12
+C;K"AnnouncementTime"
+F;X13
+C;K"CapitalSFX"
+F;X14
+C;K"ExpBonus"
+F;X15
+C;K"FormItemID"
+F;X16
+C;K"TokenItemID"
+F;X17
+C;K"InvitationItemID"
+F;X18
+C;K"MarriedReserveMailTitle"
+F;X19
+C;K"ReserveMailTitle"
+F;X20
+C;K"Invitation"
+F;X21
+C;K"MarriedInvitation"
+F;X22
+C;K"CeremonyBeginMailTitle"
+F;X23
+C;K"CeremonyBeginMailContent"
+F;X24
+C;K"MarriedCeremonyCompleteMailTitle"
+F;X25
+C;K"CeremonyCompleteMailTitle"
+F;X26
+C;K"MarriedCeremonyCompleteMailContent"
+F;X27
+C;K"CeremonyCompleteMailContent"
+F;X28
+C;K"Announcement"
+F;X29
+C;K"CompleteSLKID"
+F;X30
+C;K"CompleteScriptFun"
+F;Y3;X1
+C;K0
+F;X2
+C;K"N/A????"
+F;X3
+C;K100
+F;X4
+C;K0
+F;X5
+C;K-1
+F;X6
+C;K0
+F;X7
+C;K0
+F;X8
+C;K0
+F;X9
+C;K0
+F;X10
+C;K0
+F;X11
+C;K0
+F;X12
+C;K0
+F;X13
+C;K"common\LevelUp.ini"
+F;X14
+C;K0
+F;X15
+C;K52010
+F;X16
+C;K52100
+F;X17
+C;K-1
+F;X18
+C;K"Banquet Invitation"
+F;X19
+C;K"Wedding Invitation"
+F;X20
+C;K"%s and %s have been engaged. Their majestic wedding will be held in the year %d on %d - %d. We hope you can be present at this wedding and provide your blessings. "
+F;X21
+C;K"The honor of your presence is cordially requested at the marriage of %s and %s in the year %d on %d - %d.  The bride and groom would be eternally grateful if you could witness their day of love and bliss."
+F;X22
+C;K"Target time is approaching."
+F;X23
+C;K"May you have a happy marriage."
+F;X24
+C;K"The banquet has started."
+F;X25
+C;K"Happily Married"
+F;X26
+C;K"%s and %s's wedding is ready. Go and join them."
+F;X27
+C;K"With the blessings of the gods, %s and %s are officially married! Thanks for attending, and may the bride and groom live happily ever after!"
+F;X28
+C;K"With the blessings of the gods, %s and %s are officially married! Thanks for attending, and may the bride and groom live happily ever after!"
+F;X29
+C;K10001
+F;X30
+C;K"OnRequest"
+F;Y4;X1
+C;K1
+F;X2
+C;K"Basic Wedding"
+F;X3
+C;K100
+F;X4
+C;K600
+F;X5
+C;K94
+F;X6
+C;K63
+F;X7
+C;K78
+F;X8
+C;K475
+F;X9
+C;K39
+F;X10
+C;K55
+F;X11
+C;K1
+F;X12
+C;K1
+F;X13
+C;K"common\LevelUp.ini"
+F;X14
+C;K0
+F;X15
+C;K52010
+F;X16
+C;K52100
+F;X17
+C;K-1
+F;X18
+C;K"Banquet Invitation"
+F;X19
+C;K"Wedding Invitation"
+F;X20
+C;K"%s and %s have been engaged. Their majestic wedding will be held in the year %d on %d - %d. We hope you can be present at this wedding and provide your blessings. "
+F;X21
+C;K"The honor of your presence is cordially requested at the marriage of %s and %s in the year %d on %d - %d.  The bride and groom would be eternally grateful if you could witness their day of love and bliss."
+F;X22
+C;K"Target time is approaching."
+F;X23
+C;K"May you have a happy marriage."
+F;X24
+C;K"The banquet has started."
+F;X25
+C;K"Happily Married"
+F;X26
+C;K"%s and %s's wedding is ready. Go and join them."
+F;X27
+C;K"With the blessings of the gods, %s and %s are officially married! Thanks for attending, and may the bride and groom live happily ever after!"
+F;X28
+C;K"With the blessings of the gods, %s and %s are officially married! Thanks for attending, and may the bride and groom live happily ever after!"
+F;X29
+C;K0
+F;X30
+C;K"OnCeremony"
+F;Y5;X1
+C;K2
+F;X2
+C;K"Advanced Wedding"
+F;X3
+C;K100
+F;X4
+C;K1800
+F;X5
+C;K208
+F;X6
+C;K63
+F;X7
+C;K75
+F;X8
+C;K475
+F;X9
+C;K39
+F;X10
+C;K55
+F;X11
+C;K1
+F;X12
+C;K1
+F;X13
+C;K"common\LevelUp.ini"
+F;X14
+C;K0
+F;X15
+C;K52010
+F;X16
+C;K52100
+F;X17
+C;K-1
+F;X18
+C;K"Banquet Invitation"
+F;X19
+C;K"Wedding Invitation"
+F;X20
+C;K"%s and %s have completed Testimony of Love have cordially invited you to their wedding ceremony. It will be held in the Garden of Gentleness, in the year %d, on the date %d  %d at %d %d, on realm %d. They hope you can attend the wedding and give them your blessing."
+F;X21
+C;K"%s and %s decide to  hold wedding ceremony in Garden of Gentleness on realm %d at the time %d  %d on %d %d, %d to mark their love, hope you can attend."
+F;X22
+C;K"It's time to start the wedding."
+F;X23
+C;K"The time for your wedding on realm %d is near!\nTalk to Dygoria in Atlantis and enter the Garden of\nGentleness, where the ceremony will be held.\nOnce married, on the Friends Interface, a 'Marry'\nbutton will appear. Click it to open the marriage\ninterface. Have a great marriage!"
+F;X24
+C;K"The banquet has started."
+F;X25
+C;K"Happily Married"
+F;X26
+C;K"Feast is held by %s and %s on realm %d starts, go to attend."
+F;X27
+C;K"With the blessings of the gods, %s and %s are officially married! Thanks for attending, and may the bride and groom live happily ever after!"
+F;X28
+C;K"With the blessings of the gods, %s and %s are officially married! Thanks for attending, and may the bride and groom live happily ever after!"
+F;X29
+C;K10000
+F;X30
+C;K"OnRequest"
+E

@@ -1,0 +1,20 @@
+2013-09-24 00:01:26 lv2:Client Disconnect [AccountID:1]
+2013-09-24 00:01:54 lv1:Send Merchant info to client charid=1
+2013-09-24 00:02:37 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-09-24 00:04:32 lv2:connect to manager successed
+2013-09-24 00:07:00 lv1:AU通知当前账号[1]是gm标志
+2013-09-24 00:07:03 lv2:Client Disconnect [AccountID:1]
+2013-09-24 00:07:03 lv1:AU通知当前账号[1]是gm标志
+2013-09-24 00:07:04 lv1:Send Merchant info to client charid=1
+2013-09-24 00:09:17 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-09-24 00:24:42 lv2:connect to manager successed
+2013-09-24 00:24:52 lv1:socket err:64 -- CAuagentConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-09-24 00:24:58 lv1:socket err:10061 -- CAuagentConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-09-24 00:25:03 lv1:socket err:10061 -- CAuagentConnector::OnError -- CTcpSocket::Connect -- ::connect function return SOCKET_ERROR
+2013-09-24 00:25:07 lv1:Receive discount announce , size = 0
+2013-09-24 00:26:28 lv1:AU通知当前账号[32]是gm标志
+2013-09-24 00:26:30 lv2:Client Disconnect [AccountID:32]
+2013-09-24 00:26:30 lv1:AU通知当前账号[32]是gm标志
+2013-09-24 00:26:32 lv1:Send Merchant info to client charid=3
+2013-09-24 00:29:01 lv2:socket err:64 -- CLogsrvConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-09-24 00:29:15 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed

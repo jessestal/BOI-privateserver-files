@@ -1,0 +1,166 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M220
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y3;X15;D0 0 2 14
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 17
+F;W2 3 11
+F;W4 4 12
+F;W5 5 24
+F;W6 8 17
+F;W9 9 14
+F;W10 10 17
+F;SM17;Y1;X1
+C;K"Starting Week"
+F;SM17;X2
+C;K"Starting Time"
+F;SM17;X3
+C;K"Ending Week"
+F;SM17;X4
+C;K"Ending Time"
+F;SM17;X5
+C;K"Starting Week of Knockout Match"
+F;SM17;X6
+C;K"1st Round Time"
+F;SM17;X7
+C;K"2nd Round Time"
+F;SM17;X8
+C;K"3rd Round Time"
+F;SM17;X9
+C;K"4th Round Time"
+F;SM17;X10
+C;K"5th Round Time"
+F;SM17;X11
+C;K"Knockout Match Apply Time"
+F;SM17;X12
+C;K"Minimum Matches"
+F;SM17;X13
+C;K"Minimum Participant Rate"
+F;SM17;X14
+C;K"6v6 Participant Number"
+F;SM17;X15
+C;K"3v3 Participant Number"
+F;SM17;Y2;X1
+C;K"LeagueStartWeekDay"
+F;SM17;X2
+C;K"LeagueStartHour"
+F;SM17;X3
+C;K"LeagueEndWeekDay"
+F;SM17;X4
+C;K"LeagueEndHour"
+F;SM17;X5
+C;K"LeagueFinalStartWeekDay"
+F;SM17;X6
+C;K"Round1StartHour"
+F;SM17;X7
+C;K"Round2StartHour"
+F;SM17;X8
+C;K"Round3StartHour"
+F;SM17;X9
+C;K"Round4StartHour"
+F;SM17;X10
+C;K"Round5StartHour"
+F;SM17;X11
+C;K"LeagueFinalParticipateTime"
+F;SM17;X12
+C;K"BattleTimesMin"
+F;SM17;X13
+C;K"ParticipateRateMin"
+C;X14;K"6V6Member"
+C;X15;K"3V3Member"
+F;SM17;Y3;X1
+C;K6
+F;SM17;X2
+C;K12
+F;SM17;X3
+C;K0
+F;SM17;X4
+C;K0
+F;SM17;X5
+C;K6
+F;SM17;X6
+C;K14
+F;SM17;X7
+C;K15
+F;SM17;X8
+C;K16
+F;SM17;X9
+C;K17
+F;SM17;X10
+C;K20
+F;SM17;X11
+C;K600000
+F;SM17;X12
+C;K10
+F;SM17;X13
+C;K0.3
+F;SM17;X14
+C;K1
+F;SM17;X15
+C;K3
+E

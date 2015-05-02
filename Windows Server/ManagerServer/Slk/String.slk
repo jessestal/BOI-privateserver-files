@@ -1,0 +1,3806 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;ETimes New Roman;M240
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;M285
+B;Y2060;X2;D0 0 2059 1
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W2 2 60
+F;M570;R3
+F;M570;R4
+F;M315;R1442
+C;Y1;X1;K"ID"
+C;X2;K"String"
+C;Y2;X1;K"ID"
+C;X2;K"String"
+F;Y3;X1
+C;K0
+F;X2
+C;K"Failed to log in:[color=FFd8ea62]Unknown error!  Please check your ID or password!"
+F;Y4;X1
+C;K1
+F;X2
+C;K"Failed to log in: [color=FFd8ea62]Client version does not match server version."
+C;Y5;X1;K2
+C;X2;K"Failed to log in: [color=FFd8ea62]ID and password do not match."
+C;Y6;X1;K3
+C;X2;K"Failed to log in: [color=FFd8ea62]ID and password do not match."
+C;Y7;X1;K4
+C;X2;K"Warning: [color=FFd8ea62]This account is already logged in. Please log-in again!"
+C;Y8;X1;K5
+C;X2;K"Failed to log in: [color=FFd8ea62]ID and password do not match."
+C;Y9;X1;K6
+C;X2;K"Failed to log in: [color=FFd8ea62]Unknown error!"
+C;Y10;X1;K7
+C;X2;K"Failed to create character: [color=FFd8ea62]There is already a character by that name!"
+C;Y11;X1;K8
+C;X2;K"System Message"
+C;Y12;X1;K9
+C;X2;K"Failed to delete"
+C;Y13;X1;K10
+C;X2;K"[color=FFFFD940]%s wants to trade with you.  Accept?"
+C;Y14;X1;K11
+C;X2;K"Confirm trade?"
+C;Y15;X1;K12
+C;X2;K"Your trade partner has left."
+C;Y16;X1;K13
+C;X2;K"Cannot join trade, other party is already trading."
+C;Y17;X1;K14
+C;X2;K"Trade refused."
+C;Y18;X1;K15
+C;X2;K"Trade canceled by other party."
+C;Y19;X1;K16
+C;X2;K"Bag is full!"
+C;Y20;X1;K17
+C;X2;K"Trade failed!"
+C;Y21;X1;K18
+C;X2;K"Trade timed out."
+C;Y22;X1;K19
+C;X2;K"Specific item amount required."
+C;Y23;X1;K20
+C;X2;K"You don't have enough cash to use this action."
+C;Y24;X1;K21
+C;X2;K"Please input a correct amount."
+C;Y25;X1;K22
+C;X2;K"Insufficient bag slots."
+C;Y26;X1;K23
+C;X2;K"Enter the amount of items"
+C;Y27;X1;K24
+C;X2;K"Enter the amount of items"
+C;Y28;X1;K25
+C;X2;K"Confirm deletion?"
+C;Y29;X1;K26
+C;X2;K"Enter the amount of items"
+C;Y30;X1;K27
+C;X2;K"Input field"
+C;Y31;X1;K28
+C;X2;K"Enter the amount of items"
+C;Y32;X1;K29
+C;X2;K"Trade"
+C;Y33;X1;K30
+C;X2;K"Add"
+C;Y34;X1;K31
+C;X2;K"Party"
+C;Y35;X1;K32
+C;X2;K"Follow"
+C;Y36;X1;K33
+C;X2;K"Failed to use item"
+C;Y37;X1;K34
+C;X2;K"Failure"
+C;Y38;X1;K35
+C;X2;K"Failed to equip or remove item."
+C;Y39;X1;K36
+C;X2;K"Price"
+C;Y40;X1;K37
+C;X2;K"Exit Game"
+C;Y41;X1;K38
+C;X2;K"Please input your name."
+C;Y42;X1;K39
+C;X2;K"Character list is full."
+C;Y43;X1;K40
+C;X2;K"Confirm purchase?"
+C;Y44;X1;K41
+C;X2;K"You have gained a level"
+C;Y45;X1;K42
+C;X2;K"Confirm discard?"
+C;Y46;X1;K43
+C;X2;K"You cannot buy that now."
+C;Y47;X1;K44
+C;X2;K"Shop does not have that many items."
+C;Y48;X1;K45
+C;X2;K"Skill upgraded!"
+C;Y49;X1;K46
+C;X2;K"Common"
+C;Y50;X1;K47
+C;X2;K"Common"
+C;Y51;X1;K48
+C;X2;K"Improved"
+C;Y52;X1;K49
+C;X2;K"Rare"
+C;Y53;X1;K50
+C;X2;K"Mystical"
+C;Y54;X1;K51
+C;X2;K"Unknown 1"
+C;Y55;X1;K52
+C;X2;K"Unknown 2"
+C;Y56;X1;K53
+C;X2;K"Unknown 3"
+C;Y57;X1;K54
+C;X2;K"Unknown 4"
+C;Y58;X1;K55
+C;X2;K"Unknown 5"
+C;Y59;X1;K56
+C;X2;K"Unknown 6"
+C;Y60;X1;K57
+C;X2;K"Sword"
+C;Y61;X1;K58
+C;X2;K"Two-hand Sword"
+C;Y62;X1;K59
+C;X2;K"Bow"
+C;Y63;X1;K60
+C;X2;K"Crossbow"
+C;Y64;X1;K61
+C;X2;K"Wand"
+C;Y65;X1;K62
+C;X2;K"Dagger"
+C;Y66;X1;K63
+C;X2;K"Shield"
+C;Y67;X1;K64
+C;X2;K"Fist Weapon"
+C;Y68;X1;K65
+C;X2;K"Axe"
+C;Y69;X1;K66
+C;X2;K"Two-hand Axe"
+C;Y70;X1;K67
+C;X2;K"Durability"
+C;Y71;X1;K68
+C;X2;K"Required Level"
+C;Y72;X1;K69
+C;X2;K"Male"
+C;Y73;X1;K70
+C;X2;K"Female"
+C;Y74;X1;K71
+C;X2;K"Required gender"
+C;Y75;X1;K72
+C;X2;K"Required Strength"
+C;Y76;X1;K73
+C;X2;K"Required Dexterity"
+C;Y77;X1;K74
+C;X2;K"Required Vitality"
+C;Y78;X1;K75
+C;X2;K"Required Mana"
+C;Y79;X1;K76
+C;X2;K"Required Perception"
+C;Y80;X1;K77
+C;X2;K"Required Luck"
+C;Y81;X1;K78
+C;X2;K"Unknown"
+C;Y82;X1;K79
+C;X2;K"Unknown"
+C;Y83;X1;K80
+C;X2;K"Assassin"
+C;Y84;X1;K81
+C;X2;K"N/A??"
+C;Y85;X1;K82
+C;X2;K"Hunter"
+C;Y86;X1;K83
+C;X2;K"N/A??"
+C;Y87;X1;K84
+C;X2;K"Wizard"
+C;Y88;X1;K85
+C;X2;K"Unknown"
+C;Y89;X1;K86
+C;X2;K"Class Requirement:"
+C;Y90;X1;K87
+C;X2;K"Physical Attack"
+C;Y91;X1;K88
+C;X2;K"Magic Attack"
+C;Y92;X1;K89
+C;X2;K"Yes"
+C;Y93;X1;K90
+C;X2;K"No"
+C;Y94;X1;K91
+C;X2;K"HP increases"
+C;Y95;X1;K92
+C;X2;K"MP increases"
+C;Y96;X1;K93
+C;X2;K"EXP increases"
+C;Y97;X1;K94
+C;X2;K"Additional Function: Unknown"
+C;Y98;X1;K95
+C;X2;K"Attack Rate"
+C;Y99;X1;K96
+C;X2;K"Fire Attack"
+C;Y100;X1;K97
+C;X2;K"Ice Attack"
+C;Y101;X1;K98
+C;X2;K"Lightning Attack"
+C;Y102;X1;K99
+C;X2;K"Poison Attack"
+C;Y103;X1;K100
+C;X2;K"Physical Attack"
+C;Y104;X1;K101
+C;X2;K"Magic Attack"
+C;Y105;X1;K102
+C;X2;K"Bonus attack"
+C;Y106;X1;K103
+C;X2;K"Magic attack"
+C;Y107;X1;K104
+C;X2;K"Ice Attack"
+C;Y108;X1;K105
+C;X2;K"Fire Attack"
+C;Y109;X1;K106
+C;X2;K"Lightning Attack"
+C;Y110;X1;K107
+C;X2;K"Poison Attack"
+C;Y111;X1;K108
+C;X2;K"Accuracy"
+C;Y112;X1;K109
+C;X2;K"Critstrike"
+C;Y113;X1;K110
+C;X2;K"Critstrike damage"
+C;Y114;X1;K111
+C;X2;K"Luck"
+C;Y115;X1;K112
+C;X2;K"Channel speed"
+C;Y116;X1;K113
+C;X2;K"Attack Rate"
+C;Y117;X1;K114
+C;X2;K"Fire Attack"
+C;Y118;X1;K115
+C;X2;K"Ice Attack"
+C;Y119;X1;K116
+C;X2;K"Lightning Attack"
+C;Y120;X1;K117
+C;X2;K"Poison Attack"
+C;Y121;X1;K118
+C;X2;K"Physical Defense"
+C;Y122;X1;K119
+C;X2;K"Fire Resistance"
+C;Y123;X1;K120
+C;X2;K"Ice Resistance"
+C;Y124;X1;K121
+C;X2;K"Lightning Resistance"
+C;Y125;X1;K122
+C;X2;K"Poison Resistance"
+C;Y126;X1;K123
+C;X2;K"Maximum HP"
+C;Y127;X1;K124
+C;X2;K"Maximum HP"
+C;Y128;X1;K125
+C;X2;K"Maximum Energy"
+C;Y129;X1;K126
+C;X2;K"Maximum Energy"
+C;Y130;X1;K127
+C;X2;K"HP Regen"
+C;Y131;X1;K128
+C;X2;K"Energy Regen"
+C;Y132;X1;K129
+C;X2;K"Physical Rebound"
+C;Y133;X1;K130
+C;X2;K"Evasion"
+C;Y134;X1;K131
+C;X2;K"Luck"
+C;Y135;X1;K132
+C;X2;K"Combination rate"
+C;Y136;X1;K133
+C;X2;K"Movement speed"
+C;Y137;X1;K134
+C;X2;K"Channel time"
+C;Y138;X1;K135
+C;X2;K"N/A??????"
+C;Y139;X1;K136
+C;X2;K"Consume HP"
+C;Y140;X1;K137
+C;X2;K"Consume MP"
+C;Y141;X1;K138
+C;X2;K"Damage Range"
+C;Y142;X1;K139
+C;X2;K"N/A??????"
+C;Y143;X1;K140
+C;X2;K"N/A??????"
+C;Y144;X1;K141
+C;X2;K"Cooldown"
+C;Y145;X1;K142
+C;X2;K"Clearable Status"
+C;Y146;X1;K143
+C;X2;K"N/A????"
+C;Y147;X1;K144
+C;X2;K"Ignore Evasion"
+C;Y148;X1;K145
+C;X2;K"Attack Rate"
+C;Y149;X1;K146
+C;X2;K"Effect Duration"
+C;Y150;X1;K147
+C;X2;K"The effect will be dismissed when attacked"
+C;Y151;X1;K148
+C;X2;K"Attacking will dismiss the effect"
+C;Y152;X1;K149
+C;X2;K"Alter Strength"
+C;Y153;X1;K150
+C;X2;K"Alter Dexterity"
+C;Y154;X1;K151
+C;X2;K"Alter Vitality"
+C;Y155;X1;K152
+C;X2;K"Alter Mana"
+C;Y156;X1;K153
+C;X2;K"Alter Perception"
+C;Y157;X1;K154
+C;X2;K"Alter Luck"
+C;Y158;X1;K155
+C;X2;K"Alter EXP"
+C;Y159;X1;K156
+C;X2;K"Alter Physical Attack Rate"
+C;Y160;X1;K157
+C;X2;K"Alter Magic Attack Rate"
+C;Y161;X1;K158
+C;X2;K"Alter Ice Attack Rate"
+C;Y162;X1;K159
+C;X2;K"Alter Fire Attack Rate"
+C;Y163;X1;K160
+C;X2;K"Alter Lightning Attack Rate"
+C;Y164;X1;K161
+C;X2;K"Alter Poison Attack Rate"
+C;Y165;X1;K162
+C;X2;K"Physical Attack"
+C;Y166;X1;K163
+C;X2;K"Magic Attack"
+C;Y167;X1;K164
+C;X2;K"Ice Attack"
+C;Y168;X1;K165
+C;X2;K"Fire Attack"
+C;Y169;X1;K166
+C;X2;K"Lightning Attack"
+C;Y170;X1;K167
+C;X2;K"Poison Attack"
+C;Y171;X1;K168
+C;X2;K"Physical Defense"
+C;Y172;X1;K169
+C;X2;K"Physical Defense"
+C;Y173;X1;K170
+C;X2;K"Magic Defense"
+C;Y174;X1;K171
+C;X2;K"Ice Resistance"
+C;Y175;X1;K172
+C;X2;K"Fire Resistance"
+C;Y176;X1;K173
+C;X2;K"Lightning Resistance"
+C;Y177;X1;K174
+C;X2;K"Poison Resistance"
+C;Y178;X1;K175
+C;X2;K"Change Weapon Attribute"
+C;Y179;X1;K176
+C;X2;K"Proper Weapon Attribute"
+C;Y180;X1;K177
+C;X2;K"Alter Final Damage Rate"
+C;Y181;X1;K178
+C;X2;K"Alter Final Damage"
+C;Y182;X1;K179
+C;X2;K"Magic Offsets Damage"
+C;Y183;X1;K180
+C;X2;K"Magic Offsets Damage Rate"
+C;Y184;X1;K181
+C;X2;K"Maximum HP"
+C;Y185;X1;K182
+C;X2;K"Maximum HP Rate"
+C;Y186;X1;K183
+C;X2;K"Maximum Energy"
+C;Y187;X1;K184
+C;X2;K"Maximum Energy Rate"
+C;Y188;X1;K185
+C;X2;K"HP Regen"
+C;Y189;X1;K186
+C;X2;K"Energy Regen"
+C;Y190;X1;K187
+C;X2;K"Alter HP"
+C;Y191;X1;K188
+C;X2;K"Alter Energy"
+C;Y192;X1;K189
+C;X2;K"Alter attack range"
+C;Y193;X1;K190
+C;X2;K"Alter Accuracy"
+C;Y194;X1;K191
+C;X2;K"Alter Critstrike"
+C;Y195;X1;K192
+C;X2;K"N/A??????"
+C;Y196;X1;K193
+C;X2;K"Damage Reflect"
+C;Y197;X1;K194
+C;X2;K"Immunity to Physical damage"
+C;Y198;X1;K195
+C;X2;K"Immunity to Magic damage"
+C;Y199;X1;K196
+C;X2;K"Immunity to Ice damage"
+C;Y200;X1;K197
+C;X2;K"Immunity to Fire damage"
+C;Y201;X1;K198
+C;X2;K"Immunity to Lightning damage"
+C;Y202;X1;K199
+C;X2;K"Immunity to Poison damage"
+C;Y203;X1;K200
+C;X2;K"Immunity to Status change"
+C;Y204;X1;K201
+C;X2;K"Status change resistance Rate"
+C;Y205;X1;K202
+C;X2;K"Ignore Evasion"
+C;Y206;X1;K203
+C;X2;K"N/A????"
+C;Y207;X1;K204
+C;X2;K"N/A???"
+C;Y208;X1;K205
+C;X2;K"N/A????"
+C;Y209;X1;K206
+C;X2;K"N/A???"
+C;Y210;X1;K207
+C;X2;K"Movement speed"
+C;Y211;X1;K208
+C;X2;K"Attack Rate"
+C;Y212;X1;K209
+C;X2;K"Movement speed"
+C;Y213;X1;K210
+C;X2;K"Channel speed"
+C;Y214;X1;K211
+C;X2;K"N/A?????"
+C;Y215;X1;K212
+C;X2;K"N/A???????"
+C;Y216;X1;K213
+C;X2;K"N/A???????"
+C;Y217;X1;K214
+C;X2;K"N/A???????"
+C;Y218;X1;K215
+C;X2;K"N/A????"
+C;Y219;X1;K216
+C;X2;K"Frost damage"
+C;Y220;X1;K217
+C;X2;K"Fire damage"
+C;Y221;X1;K218
+C;X2;K"Lighting damage"
+C;Y222;X1;K219
+C;X2;K"Poison damage"
+C;Y223;X1;K220
+C;X2;K"Physical attack increased by "
+C;Y224;X1;K221
+C;X2;K"Physical attack increased by a percentage"
+C;Y225;X1;K222
+C;X2;K"Frost damage Rate"
+C;Y226;X1;K223
+C;X2;K"Fire damage Rate"
+C;Y227;X1;K224
+C;X2;K"Lighting damage Rate"
+C;Y228;X1;K225
+C;X2;K"Poison damage Rate"
+C;Y229;X1;K226
+C;X2;K"Next Level"
+C;Y230;X1;K227
+C;X2;K"Requirement"
+C;Y231;X1;K228
+C;X2;K"Volume"
+C;Y232;X1;K229
+C;X2;K"Density"
+C;Y233;X1;K230
+C;X2;K"Rigidityÿ"
+C;Y234;X1;K231
+C;X2;K"Tenacity"
+C;Y235;X1;K232
+C;X2;K"Weight"
+C;Y236;X1;K233
+C;X2;K"You got %d gold %d copper"
+C;Y237;X1;K234
+C;X2;K"EXP"
+C;Y238;X1;K235
+C;X2;K"Skill EXP"
+C;Y239;X1;K236
+C;X2;K"You lost %d gold %d copper"
+C;Y240;X1;K237
+C;X2;K"copper"
+C;Y241;X1;K238
+C;X2;K"Target is out of range"
+C;Y242;X1;K239
+C;X2;K"Disconnected from server."
+C;Y243;X1;K240
+C;X2;K"You must face the target."
+C;Y244;X1;K241
+C;X2;K"You are already in a party."
+C;Y245;X1;K242
+C;X2;K"Target is in a party already."
+C;Y246;X1;K243
+C;X2;K"Can not find desired player."
+C;Y247;X1;K244
+C;X2;K"The party is full."
+C;Y248;X1;K245
+C;X2;K"Failed to party."
+C;Y249;X1;K246
+C;X2;K"Party joined."
+C;Y250;X1;K247
+C;X2;K"wants to join your party. Do you agree?"
+C;Y251;X1;K248
+C;X2;K"invites you to join the party. Agree to join?"
+C;Y252;X1;K249
+C;X2;K"Please select"
+C;Y253;X1;K250
+C;X2;K"Combat initiated."
+C;Y254;X1;K251
+C;X2;K"Combat concluded."
+C;Y255;X1;K252
+C;X2;K"[System Info] "
+C;Y256;X1;K253
+C;X2;K"[Personal Chat] "
+C;Y257;X1;K254
+C;X2;K"[Trade] "
+C;Y258;X1;K255
+C;X2;K"[Party] "
+C;Y259;X1;K256
+C;X2;K"[Guild] "
+C;Y260;X1;K257
+C;X2;K"[Warcry] "
+C;Y261;X1;K258
+C;X2;K"[World] "
+C;Y262;X1;K259
+C;X2;K"[Common] "
+C;Y263;X1;K260
+C;X2;K"Trade canceled by partner."
+C;Y264;X1;K261
+C;X2;K"Unknown error. Trade failed."
+C;Y265;X1;K262
+C;X2;K"Trade successful!"
+C;Y266;X1;K263
+C;X2;K"Trade failed!"
+C;Y267;X1;K264
+C;X2;K"asks to join the guild."
+C;Y268;X1;K265
+C;X2;K"asks to join the guild."
+C;Y269;X1;K266
+C;X2;K"invites you to join the guild."
+C;Y270;X1;K267
+C;X2;K"Guild Invitation"
+C;Y271;X1;K268
+C;X2;K"Not enough MP."
+C;Y272;X1;K269
+C;X2;K"Failed to send trade request."
+C;Y273;X1;K270
+C;X2;K"You asked"
+C;Y274;X1;K271
+C;X2;K"Sending trade request... "
+C;Y275;X1;K272
+C;X2;K"Failed to send party invitation... "
+C;Y276;X1;K273
+C;X2;K"Sending party invitation... "
+C;Y277;X1;K274
+C;X2;K"Failed to request to view the vending."
+C;Y278;X1;K275
+C;X2;K"Sending request to view the vending... "
+C;Y279;X1;K276
+C;X2;K"Failed to join the room"
+C;Y280;X1;K277
+C;X2;K"Sending request... "
+C;Y281;X1;K278
+C;X2;K"Invalid input."
+C;Y282;X1;K279
+C;X2;K"Input the amount to deposit."
+C;Y283;X1;K280
+C;X2;K"You don't have sufficient cash."
+C;Y284;X1;K281
+C;X2;K"Input the amount to withdraw."
+C;Y285;X1;K282
+C;X2;K"Insufficient cash.  Cannot upgrade the bank."
+C;Y286;X1;K283
+C;X2;K"Inquiry"
+C;Y287;X1;K284
+C;X2;K"You need to pay "
+C;Y288;X1;K285
+C;X2;K"copper to upgrade your bank. Confirm upgrade?"
+C;Y289;X1;K286
+C;X2;K" sec."
+C;Y290;X1;K287
+C;X2;K"Temporarily banned from chat for repeated input.  Ban lifts in "
+C;Y291;X1;K288
+C;X2;K"Invalid name!"
+C;Y292;X1;K289
+C;X2;K"Logging in... "
+C;Y293;X1;K290
+C;X2;K"Connection failed!"
+C;Y294;X1;K291
+C;X2;K"Failure"
+C;Y295;X1;K292
+C;X2;K"[Select a server] "
+C;Y296;X1;K293
+C;X2;K"Note"
+C;Y297;X1;K294
+C;X2;K"Please input your user name or password."
+C;Y298;X1;K295
+C;X2;K"Items in the shop have changed while you were buying."
+C;Y299;X1;K296
+C;X2;K"Price"
+C;Y300;X1;K297
+C;X2;K"Input sale price."
+C;Y301;X1;K298
+C;X2;K"Change item price."
+C;Y302;X1;K299
+C;X2;K"Vending cannot start without any items to sell."
+C;Y303;X1;K300
+C;X2;K"Please name your vending."
+C;Y304;X1;K301
+C;X2;K"Sale price per unit."
+C;Y305;X1;K302
+C;X2;K"Confirm deletion?"
+C;Y306;X1;K303
+C;X2;K"Please put the material for combining in"
+C;Y307;X1;K304
+C;X2;K"Please remove the items in the target slots"
+C;Y308;X1;K305
+C;X2;K"Please input an amount"
+C;Y309;X1;K306
+C;X2;K"Combined successfully"
+C;Y310;X1;K307
+C;X2;K"Combination failed"
+C;Y311;X1;K308
+C;X2;K"Materials do not match"
+C;Y312;X1;K309
+C;X2;K"Gem is already of the highest quality"
+C;Y313;X1;K310
+C;X2;K"and"
+C;Y314;X1;K311
+C;X2;K"Trading... "
+C;Y315;X1;K312
+C;X2;K"Input an amount"
+C;Y316;X1;K313
+C;X2;K"Do you want to embed a gem?"
+C;Y317;X1;K314
+C;X2;K"Input an amount"
+C;Y318;X1;K315
+C;X2;K"Use item"
+C;Y319;X1;K316
+C;X2;K"Next Level"
+C;Y320;X1;K317
+C;X2;K"Do you want to abandon this quest?"
+C;Y321;X1;K318
+C;X2;K"Proceed?"
+C;Y322;X1;K319
+C;X2;K"Quest item required"
+C;Y323;X1;K320
+C;X2;K"Completed"
+C;Y324;X1;K321
+C;X2;K"Strength"
+C;Y325;X1;K322
+C;X2;K"Vitality"
+C;Y326;X1;K323
+C;X2;K"Dexterity"
+C;Y327;X1;K324
+C;X2;K"Perception"
+C;Y328;X1;K325
+C;X2;K"Mana"
+C;Y329;X1;K326
+C;X2;K"Luck"
+C;Y330;X1;K327
+C;X2;K"Not enough HP"
+C;Y331;X1;K328
+C;X2;K"Not enough MP."
+C;Y332;X1;K329
+C;X2;K"Cannot channel while moving"
+C;Y333;X1;K330
+C;X2;K"Cannot charge while jumping"
+C;Y334;X1;K331
+C;X2;K"Skill unavailable without required weapon"
+C;Y335;X1;K332
+C;X2;K"Passive skills can not be used."
+C;Y336;X1;K333
+C;X2;K"You have to learn Mining skill first."
+C;Y337;X1;K334
+C;X2;K"You have to learn Herbalism skill first."
+C;Y338;X1;K335
+C;X2;K"You have to learn Woodcutting skill first."
+C;Y339;X1;K336
+C;X2;K"You have to learn Lockpick skill first."
+C;Y340;X1;K337
+C;X2;K"Please input an amount for the items you want to store"
+C;Y341;X1;K338
+C;X2;K"You learned the skill "
+C;Y342;X1;K339
+C;X2;K"This amount is too large."
+C;Y343;X1;K340
+C;X2;K"A specific item is required to use this skill."
+C;Y344;X1;K341
+C;X2;K"Unable to use passive skills."
+C;Y345;X1;K342
+C;X2;K"Skill unavailable in your current state."
+C;Y346;X1;K343
+C;X2;K"Skill is on cooldown... "
+C;Y347;X1;K344
+C;X2;K"Your bag is full."
+C;Y348;X1;K345
+C;X2;K"Attack rate gain"
+C;Y349;X1;K346
+C;X2;K"To take this item, you must first pay"
+C;Y350;X1;K347
+C;X2;K" copper. Proceed?"
+C;Y351;X1;K348
+C;X2;K"Target is out of range."
+C;Y352;X1;K349
+C;X2;K"Enemy"
+C;Y353;X1;K350
+C;X2;K"Select a mode."
+C;Y354;X1;K351
+C;X2;K"Please input item lock password."
+C;Y355;X1;K352
+C;X2;K"Please input password again."
+C;Y356;X1;K353
+C;X2;K"Passwords do not match."
+C;Y357;X1;K354
+C;X2;K"Disconnected from server!"
+C;Y358;X1;K355
+C;X2;K"Connecting to server... "
+C;Y359;X1;K356
+C;X2;K"Connection established. Preparing for verification... "
+C;Y360;X1;K357
+C;X2;K"Acquiring Gate of lower capacity... "
+C;Y361;X1;K358
+C;X2;K"Gate info acquired. Preparing to connect... "
+C;Y362;X1;K359
+C;X2;K"Delivering verification info... "
+C;Y363;X1;K360
+C;X2;K"Awaiting server acknowledgement. Please stand by... "
+C;Y364;X1;K361
+C;X2;K"Confirm fortification?"
+C;Y365;X1;K362
+C;X2;K"Incorrect password!"
+C;Y366;X1;K363
+C;X2;K"Confirm to sell?"
+C;Y367;X1;K364
+C;X2;K"Input an amount."
+C;Y368;X1;K365
+C;X2;K"[color=FFd8ea62]Note: Stores will buy your items at a reduced price."
+C;Y369;X1;K366
+C;X2;K"You don't have enough cash to use this action."
+C;Y370;X1;K367
+C;X2;K"Item lock password cannot be blank."
+C;Y371;X1;K368
+C;X2;K"Item has been locked already."
+C;Y372;X1;K369
+C;X2;K"Unable to equip two-handed weapon. You have an item in your off-hand already"
+C;Y373;X1;K370
+C;X2;K"Unable to equip two-handed weapon. You have two swords in your hands already"
+C;Y374;X1;K371
+C;X2;K"Unable to equip shield. You have a two-handed weapon equipped already"
+C;Y375;X1;K372
+C;X2;K"Do you want to apply for password removal?"
+C;Y376;X1;K373
+C;X2;K"Request approved.  Item lock password will removed in 15 days."
+C;Y377;X1;K374
+C;X2;K"You have already applied for password removal."
+C;Y378;X1;K375
+C;X2;K"You don't have enough cash to use this action."
+C;Y379;X1;K376
+C;X2;K"Price per unit: %ld gold %ld copper"
+C;Y380;X1;K377
+C;X2;K"All classes"
+C;Y381;X1;K378
+C;X2;K"point"
+C;Y382;X1;K379
+C;X2;K"Fortify rate"
+C;Y383;X1;K380
+C;X2;K"Unable to add yourself to friend list."
+C;Y384;X1;K381
+C;X2;K"Player is already in your friend list."
+C;Y385;X1;K382
+C;X2;K"Character does not exist or is currently offline."
+C;Y386;X1;K383
+C;X2;K"Your friend is offline."
+C;Y387;X1;K384
+C;Y388;K385
+C;Y389;K386
+C;X2;K"Congratulations, this character name is available!"
+C;Y390;X1;K387
+C;X2;K"Unable to use this name."
+C;Y391;X1;K388
+C;X2;K"Loot mode changed.  Failed to join party."
+C;Y392;X1;K389
+C;X2;K"Player is already in a party."
+C;Y393;X1;K390
+C;X2;K"Player is being invited."
+C;Y394;X1;K391
+C;X2;K"Only the leader can invite other players."
+C;Y395;X1;K392
+C;X2;K"Party joined."
+C;Y396;X1;K393
+C;X2;K"Party dismissed."
+C;Y397;X1;K394
+C;X2;K"You have left the party."
+C;Y398;X1;K395
+C;X2;K"Invitation refused."
+C;Y399;X1;K396
+C;X2;K"%s was promoted to the party leader."
+C;Y400;X1;K397
+C;X2;K"Failed to promote %s as party leader."
+C;Y401;X1;K398
+C;Y402;K399
+C;Y403;K400
+C;X2;K"PvP not allowed on current server."
+C;Y404;X1;K401
+C;X2;K"Note: You have "
+C;Y405;X1;K402
+C;X2;K"days to clear the lock password."
+C;Y406;X1;K403
+C;X2;K"Item cannot be stored in stash."
+C;Y407;X1;K404
+C;X2;K"Bank trade successful."
+C;Y408;X1;K405
+C;X2;K"Bank limit exceeded."
+C;Y409;X1;K406
+C;X2;K"Player does not have sufficient money."
+C;Y410;X1;K407
+C;X2;K"Not enough money in your bank."
+C;Y411;X1;K408
+C;X2;K"Your bank has achieved the highest grade!"
+C;Y412;X1;K409
+C;X2;K"Unknown error"
+C;Y413;X1;K410
+C;X2;K"This item can not be locked"
+C;Y414;X1;K411
+C;X2;K"Strength increases"
+C;Y415;X1;K412
+C;X2;K"Dexterity increases"
+C;Y416;X1;K413
+C;X2;K"Vitality increases"
+C;Y417;X1;K414
+C;X2;K"Perception increases"
+C;Y418;X1;K415
+C;X2;K"Mana increases"
+C;Y419;X1;K416
+C;X2;K"increases by "
+C;Y420;X1;K417
+C;X2;K"Maximum amount available: "
+C;Y421;X1;K418
+C;X2;K"Item cannot be discarded"
+C;Y422;X1;K419
+C;X2;K"Target blocked"
+C;Y423;X1;K420
+C;X2;K"Item cannot be moved"
+C;Y424;X1;K421
+C;X2;K"Character is dead. Revives in "
+C;Y425;X1;K422
+C;X2;K"Password changed."
+C;Y426;X1;K423
+C;X2;K"Please set the password of this item first."
+C;Y427;X1;K424
+C;X2;K"[color=9bffffff][Current version : %d]"
+C;Y428;X1;K425
+C;X2;K"You can not use this item at your current level."
+C;Y429;X1;K426
+C;Y430;K427
+C;Y431;K428
+C;Y432;K429
+C;Y433;K430
+C;Y434;K431
+C;Y435;K432
+C;Y436;K433
+C;Y437;K434
+C;Y438;K435
+C;Y439;K436
+C;Y440;K437
+C;Y441;K438
+C;Y442;K439
+C;Y443;K440
+C;Y444;K441
+C;Y445;K442
+C;Y446;K443
+C;Y447;K444
+C;Y448;K445
+C;Y449;K446
+C;Y450;K447
+C;Y451;K448
+C;Y452;K449
+C;Y453;K450
+C;X2;K"Raw material"
+C;Y454;X1;K451
+C;X2;K"Consumable item"
+C;Y455;X1;K452
+C;X2;K"Gem"
+C;Y456;X1;K453
+C;X2;K"Quest item"
+C;Y457;X1;K454
+C;Y458;K455
+C;Y459;K456
+C;Y460;K457
+C;Y461;K458
+C;Y462;K459
+C;Y463;K460
+C;X2;K"HP"
+C;Y464;X1;K461
+C;X2;K"Energy"
+C;Y465;X1;K462
+C;X2;K" sec."
+C;Y466;X1;K463
+C;Y467;K464
+C;Y468;K465
+C;Y469;K466
+C;Y470;K467
+C;Y471;K468
+C;Y472;K469
+C;Y473;K470
+C;Y474;K471
+C;Y475;K472
+C;Y476;K473
+C;Y477;K474
+C;Y478;K475
+C;Y479;K476
+C;Y480;K477
+C;Y481;K478
+C;Y482;K479
+C;Y483;K480
+C;Y484;K481
+C;Y485;K482
+C;Y486;K483
+C;Y487;K484
+C;Y488;K485
+C;Y489;K486
+C;Y490;K487
+C;Y491;K488
+C;Y492;K489
+C;Y493;K490
+C;Y494;K491
+C;Y495;K492
+C;Y496;K493
+C;Y497;K494
+C;Y498;K495
+C;Y499;K496
+C;Y500;K497
+C;Y501;K498
+C;Y502;K499
+C;Y503;K500
+C;X2;K"Hair"
+C;Y504;X1;K501
+C;X2;K"Helm"
+C;Y505;X1;K502
+C;X2;K"Face"
+C;Y506;X1;K503
+C;X2;K"Chest"
+C;Y507;X1;K504
+C;X2;K"Gloves"
+C;Y508;X1;K505
+C;X2;K"Boots"
+C;Y509;X1;K506
+C;X2;K"Right Hand"
+C;Y510;X1;K507
+C;X2;K"Left Hand"
+C;Y511;X1;K508
+C;X2;K"Head"
+C;Y512;X1;K509
+C;X2;K"Shield"
+C;Y513;X1;K510
+C;X2;K"Pauldrons"
+C;Y514;X1;K511
+C;X2;K"Greaves"
+C;Y515;X1;K512
+C;X2;K"Charm"
+C;Y516;X1;K513
+C;X2;K"Ring"
+C;Y517;X1;K514
+C;X2;K"Bracer"
+C;Y518;X1;K515
+C;X2;K"Necklace"
+C;Y519;X1;K516
+C;X2;K"Belt"
+C;Y520;X1;K517
+C;X2;K"Relic"
+C;Y521;X1;K518
+C;Y522;K519
+C;Y523;K520
+C;X2;K"Currently unavailable"
+C;Y524;X1;K521
+C;X2;K"[color=ffffe400]Fortify failed."
+C;Y525;X1;K522
+C;X2;K"[color=ffffe400]Equipment fortified!"
+C;Y526;X1;K523
+C;X2;K"[color=ffafb4bd]Slot level too low"
+C;Y527;X1;K524
+C;X2;K"[color=ffafb4bd]Equipment and slot not match"
+C;Y528;X1;K525
+C;X2;K"[color=ffafb4bd] Equipment has been fortified to highest grade"
+C;Y529;X1;K526
+C;X2;K"Old password can not be blank!"
+C;Y530;X1;K527
+C;X2;K"New password can not be blank!"
+C;Y531;X1;K528
+C;X2;K"Lock"
+C;Y532;X1;K529
+C;X2;K"Unlearned"
+C;Y533;X1;K530
+C;X2;K"Status lasts: %0.1f (%0.1f) second"
+C;Y534;X1;K531
+C;X2;K"Status lasts: %0.1f second"
+C;Y535;X1;K532
+C;X2;K"Every  %0.1f (%0.1f) second decreases enemy's HP by : %d (%d) point"
+C;Y536;X1;K533
+C;X2;K"Every %0.1f second decreases enemy's HP by: %d point"
+C;Y537;X1;K534
+C;X2;K"Every  %0.1f (%0.1f) second drains enemy's energy by : %d (%d) point"
+C;Y538;X1;K535
+C;X2;K"Every  %0.1f second drains enemy's energy by : %d  point"
+C;Y539;X1;K536
+C;X2;K"Every %0.1f (%0.1f) second recover HP by: %d (%d) point"
+C;Y540;X1;K537
+C;X2;K"Every %0.1f second recover HP by: %d  point"
+C;Y541;X1;K538
+C;X2;K"Every %0.1f (%0.1f) second recover energy : %d (%d) point"
+C;Y542;X1;K539
+C;X2;K"Every %0.1f second recover energy by: %d  point"
+C;Y543;X1;K540
+C;X2;K"HP Regen increased by: %d (%d)point"
+C;Y544;X1;K541
+C;X2;K"HP Regen increased by: %d point"
+C;Y545;X1;K542
+C;X2;K"Maximum absorb value"
+C;Y546;X1;K543
+C;X2;K"Energy cost per damage absorbed : %d (%d)?"
+C;Y547;X1;K544
+C;X2;K"Energy cost per damage absorbed : %d ?"
+C;Y548;X1;K545
+C;X2;K"Full damage"
+C;Y549;X1;K546
+C;X2;K"HP Regen speed increased: %d %% (%d %%)"
+C;Y550;X1;K547
+C;X2;K"HP Regen speed increased: %d %%"
+C;Y551;X1;K548
+C;X2;K"Energy Regen increased: %d (%d)point"
+C;Y552;X1;K549
+C;X2;K"Energy Regen increased: %d point"
+C;Y553;X1;K550
+C;X2;K"Energy Regen speed increased: %d %% (%d %%)"
+C;Y554;X1;K551
+C;X2;K"Energy Regen speed increased: %d %%"
+C;Y555;X1;K552
+C;X2;K"HP Regen (Base value) : %d (%d) point"
+C;Y556;X1;K553
+C;X2;K"HP Regen (Base value) : %d %"
+C;Y557;X1;K554
+C;X2;K"Damage dealt: %d (%d) point"
+C;Y558;X1;K555
+C;X2;K"Damage dealt: %d %"
+C;Y559;X1;K556
+C;X2;K"Damage reflected: %d%% (%d%%)"
+C;Y560;X1;K557
+C;X2;K"Damage reflected: %d%%"
+C;Y561;X1;K558
+C;X2;K"Left hand physical damage : +%d (+%d)"
+C;Y562;X1;K559
+C;X2;K"Left hand physical damage : +%d"
+C;Y563;X1;K560
+C;X2;K"Left hand physical damage : %d (%d)"
+C;Y564;X1;K561
+C;X2;K"Left hand physical damage : %d"
+C;Y565;X1;K562
+C;X2;K"Left hand physical damage : +%d %% (+%d) %%"
+C;Y566;X1;K563
+C;X2;K"Left hand physical damage : +%d %%"
+C;Y567;X1;K564
+C;X2;K"Left hand physical damage : %d %% (%d) %%"
+C;Y568;X1;K565
+C;X2;K"Left hand physical damage : %d %%"
+C;Y569;X1;K566
+C;X2;K"Critstrike rate"
+C;Y570;X1;K567
+C;X2;K"Critstrike damage"
+C;Y571;X1;K568
+C;X2;K"HP absorbed: %d (%d) point"
+C;Y572;X1;K569
+C;X2;K"HP absorbed: %d  point"
+C;Y573;X1;K570
+C;X2;K"Energy absorbed: %d (%d) point"
+C;Y574;X1;K571
+C;X2;K"Energy absorbed: %d  point"
+C;Y575;X1;K572
+C;X2;K"Back damage increased by: %d%% (%d%%)"
+C;Y576;X1;K573
+C;X2;K"Back damage increased by: %d%%"
+C;Y577;X1;K574
+C;X2;K"Physical damage increased by: %d (%d)"
+C;Y578;X1;K575
+C;X2;K"Physical damage increased by: %d"
+C;Y579;X1;K576
+C;X2;K"Physical damage increased  by: %d%% (%d%%)"
+C;Y580;X1;K577
+C;X2;K"Physical damage increased  by: %d%%"
+C;Y581;X1;K578
+C;X2;K"Channel time : %0.1f (%0.1f)second"
+C;Y582;X1;K579
+C;X2;K"Channel time : %0.1f second"
+C;Y583;X1;K580
+C;X2;K"Energy Cost : %d (%d)"
+C;Y584;X1;K581
+C;X2;K"Energy Cost : %d"
+C;Y585;X1;K582
+C;X2;K"Energy Cost : %d %% (%d %%)"
+C;Y586;X1;K583
+C;X2;K"Energy Cost : %d %%"
+C;Y587;X1;K584
+C;X2;K"HP Cost : %d (%d)"
+C;Y588;X1;K585
+C;X2;K"HP Cost : %d"
+C;Y589;X1;K586
+C;X2;K"HP Cost : %d %% (%d %%)"
+C;Y590;X1;K587
+C;X2;K"HP Cost : %d %%"
+C;Y591;X1;K588
+C;X2;K"Skill Cooldown : %0.1f (%0.1f)second"
+C;Y592;X1;K589
+C;X2;K"Skill Cooldown : %0.1f seconds"
+C;Y593;X1;K590
+C;X2;K"Max Cast Range : %d (%d) Meters"
+C;Y594;X1;K591
+C;X2;K"Max Cast Range : %d  Meters"
+C;Y595;X1;K592
+C;X2;K"Min Cast Range : %d (%d) Meters"
+C;Y596;X1;K593
+C;X2;K"Min Cast Range : %d  Meters"
+C;Y597;X1;K594
+C;X2;K"Base HP : %d (%d)"
+C;Y598;X1;K595
+C;X2;K"Base HP : %d"
+C;Y599;X1;K596
+C;X2;K"Base Physical Attack : %d (%d) points"
+C;Y600;X1;K597
+C;X2;K"Base Physical Attack : %d"
+C;Y601;X1;K598
+C;X2;K"Base Physical Defense : %d (%d) "
+C;Y602;X1;K599
+C;X2;K"Base Physical Defense : %d"
+C;Y603;X1;K600
+C;X2;K"You are not in a Guild."
+C;Y604;X1;K601
+C;X2;K"You are not in a Party."
+C;Y605;X1;K602
+C;X2;K"You are not in a Clan."
+C;Y606;X1;K603
+C;Y607;K604
+C;Y608;K605
+C;Y609;K606
+C;Y610;K607
+C;Y611;K608
+C;Y612;K609
+C;Y613;K610
+C;X2;K"Weapon requirements do not match."
+C;Y614;X1;K611
+C;X2;K"Left hand weapon does not match."
+C;Y615;X1;K612
+C;X2;K"Passive skills can not be used."
+C;Y616;X1;K613
+C;X2;K"Incorrect target."
+C;Y617;X1;K614
+C;X2;K"%s has closed vending."
+C;Y618;X1;K615
+C;X2;K"Unable to move while vending."
+C;Y619;X1;K616
+C;X2;K"Quest <%s> completed."
+C;Y620;X1;K617
+C;X2;K"Failed to equip."
+C;Y621;X1;K618
+C;X2;K"Failure"
+C;Y622;X1;K619
+C;X2;K"Nothing happened."
+C;Y623;X1;K620
+C;X2;K"Unable to delete this item!"
+C;Y624;X1;K621
+C;X2;K"[color=FFFFD940]%s invited you to join the guild [color=FFd8ea62]%s!"
+C;Y625;X1;K622
+C;X2;K"[color=FFFFD940]%s invited you to join a party. Agree?\nLoot mode : [color=FFFFD940]Free for All"
+C;Y626;X1;K623
+C;X2;K"[color=FFFFD940]%s invited you to join a party. Agree?\nLoot mode : [color=FFFFD940]By Class"
+C;Y627;X1;K624
+C;X2;K"[color=FFFFD940]%s invited you to join a party. Agree?\nLoot mode : [color=FFFFD940]Random"
+C;Y628;X1;K625
+C;X2;K"[color=FFFFD940]%s invited you to join a party. Agree?\nLoot mode : [color=FFFFD940]Leader assign"
+C;Y629;X1;K626
+C;X2;K"Current loot mode: [color=FFFFD940]Free for All"
+C;Y630;X1;K627
+C;X2;K"Current loot mode: [color=FFFFD940]By Class"
+C;Y631;X1;K628
+C;X2;K"Current loot mode: [color=FFFFD940]Random"
+C;Y632;X1;K629
+C;X2;K"Current loot mode: [color=FFFFD940]Leader assign"
+C;Y633;X1;K630
+C;X2;K"Trade failed!"
+C;Y634;X1;K631
+C;X2;K"[color=FFFFD940]%s is challenging you to a duel.\nTake the challenge?"
+C;Y635;X1;K632
+C;X2;K"Duel request."
+C;Y636;X1;K633
+C;X2;K"Duel starts."
+C;Y637;X1;K634
+C;X2;K"You defeated %s in a duel."
+C;Y638;X1;K635
+C;X2;K"You were defeated by %s in a duel."
+C;Y639;X1;K636
+C;X2;K"Interrupted."
+C;Y640;X1;K637
+C;Y641;K638
+C;Y642;K639
+C;Y643;K640
+C;X2;K"Mode changed : Free for All"
+C;Y644;X1;K641
+C;X2;K"Mode changed : By Class"
+C;Y645;X1;K642
+C;X2;K"Mode changed : Random"
+C;Y646;X1;K643
+C;X2;K"Mode changed : Leader assign"
+C;Y647;X1;K644
+C;X2;K"%s refused to change the mode."
+C;Y648;X1;K645
+C;X2;K"All abandoned. %s belongs to the party."
+C;Y649;X1;K646
+C;X2;K"%s belongs to %s"
+C;Y650;X1;K647
+C;X2;K"%s agreed to change the mode."
+C;Y651;X1;K648
+C;X2;K"%s chose to demand!"
+C;Y652;X1;K649
+C;X2;K"%s chose to abandon!"
+C;Y653;X1;K650
+C;X2;K"Target is too far away for a trade."
+C;Y654;X1;K651
+C;X2;K"Target is too far away for a duel."
+C;Y655;X1;K652
+C;X2;K"Acquire."
+C;Y656;X1;K653
+C;X2;K"Skill at max level. Please select another skill to master."
+C;Y657;X1;K654
+C;X2;K"Skill upgraded to level ."
+C;Y658;X1;K655
+C;X2;K"Unable to acquire skill EXP. The skill that needs to be trained has not been set."
+C;Y659;X1;K656
+C;X2;K"<#ffd1c39d]EXP<%d/%dú%0.2f%>"
+C;Y660;X1;K657
+C;X2;K"<#ffd1c39d]Skill Proficiency<%d/%dú%0.2f%>"
+C;Y661;X1;K658
+C;X2;K"<#ffffc600] [The skill is being mastered] "
+C;Y662;X1;K659
+C;X2;K"<#ffd1c39d] [Please select a skill you want to master] "
+C;Y663;X1;K660
+C;X2;K"Target too far. Unable to examine."
+C;Y664;X1;K661
+C;X2;K"Trade canceled."
+C;Y665;X1;K662
+C;X2;K"Unable to trade while riding. Trade canceled!"
+C;Y666;X1;K663
+C;X2;K"Trade partner is too far. Trade canceled!"
+C;Y667;X1;K664
+C;X2;K"Invalid guild name!"
+C;Y668;X1;K665
+C;X2;K"Do you want to delete [color=FFFFD940]%s?"
+C;Y669;X1;K666
+C;X2;K"Equipment repaired. Paid a fee of %d gold %d copper."
+C;Y670;X1;K667
+C;X2;K"You need to pay a repair fee of %d gold %d copper. Proceed?"
+C;Y671;X1;K668
+C;X2;K"-- Current Equipment --"
+C;Y672;X1;K669
+C;X2;K"You got %d %s"
+C;Y673;X1;K670
+C;X2;K"You got %d %s"
+C;Y674;X1;K671
+C;X2;K"Unable to use. Character is in deletion."
+C;Y675;X1;K672
+C;X2;K"Character data will be cleared in [color=FFd8ea62] 7 days\nYou can restore it during this period."
+C;Y676;X1;K673
+C;X2;K"Guild leader cannot be deleted in the character selection screen."
+C;Y677;X1;K674
+C;X2;K"Do you want to restore this character?"
+C;Y678;X1;K675
+C;X2;K"Character restored!"
+C;Y679;X1;K676
+C;X2;K"Failed to restore character!"
+C;Y680;X1;K677
+C;X2;K"Current party: [color=FFFFD940]Free for All"
+C;Y681;X1;K678
+C;X2;K"Current party: [color=FFFFD940]By Class"
+C;Y682;X1;K679
+C;X2;K"Current party: [color=FFFFD940]Random"
+C;Y683;X1;K680
+C;X2;K"Current party: [color=FFFFD940]Leader assign"
+C;Y684;X1;K681
+C;X2;K"Current loot mode: [color=FFFFD940]Free for All"
+C;Y685;X1;K682
+C;X2;K"Current loot mode: [color=FFFFD940]By Class"
+C;Y686;X1;K683
+C;X2;K"Current loot mode: [color=FFFFD940]Random"
+C;Y687;X1;K684
+C;X2;K"Current loot mode: [color=FFFFD940]Leader assign"
+C;Y688;X1;K685
+C;X2;K"Friend list is full."
+C;Y689;X1;K686
+C;X2;K"Current party has been turned into a team!Loot mode: Free for All"
+C;Y690;X1;K687
+C;X2;K"Current party has been turned into a team!Loot mode: By Class"
+C;Y691;X1;K688
+C;X2;K"Current party has been turned into a team!Loot mode: Random"
+C;Y692;X1;K689
+C;X2;K"Current party has been turned into a team!Loot mode: Leader assign"
+C;Y693;X1;K690
+C;X2;K"Current loot mode: [color=FFFFD940]Free for All"
+C;Y694;X1;K691
+C;X2;K"Current loot mode: [color=FFFFD940]By Class"
+C;Y695;X1;K692
+C;X2;K"Current loot mode: [color=FFFFD940]Random"
+C;Y696;X1;K693
+C;X2;K"Current loot mode: [color=FFFFD940]Leader assign"
+C;Y697;X1;K694
+C;Y698;K695
+C;Y699;K696
+C;Y700;K697
+C;Y701;K698
+C;Y702;K699
+C;Y703;K700
+C;X2;K"Unauthorized to banish guild members."
+C;Y704;X1;K701
+C;X2;K"Confirm to banish [color=FFFFD940]%s from the guild?"
+C;Y705;X1;K702
+C;X2;K"Are you sure you want to leave the guild?"
+C;Y706;X1;K703
+C;X2;K"Guild leader cannot leave the guild."
+C;Y707;X1;K704
+C;X2;K"Unauthorized to dismiss the guild."
+C;Y708;X1;K705
+C;X2;K"Are you sure you want to dismiss the guild?"
+C;Y709;X1;K706
+C;X2;K"Please banish all members before dismissing the guild!"
+C;Y710;X1;K707
+C;X2;K"Unauthorized to change the position of guild member."
+C;Y711;X1;K708
+C;X2;K"Do you want to change [color=FFFFD940]%s's position?"
+C;Y712;X1;K709
+C;X2;K"Unauthorized to invite new members."
+C;Y713;X1;K710
+C;X2;K"Guild name contains invalid character."
+C;Y714;X1;K711
+C;X2;K"Guild name is too long."
+C;Y715;X1;K712
+C;X2;K"Guild name cannot not be void."
+C;Y716;X1;K713
+C;X2;K"League cannot be void."
+C;Y717;X1;K714
+C;X2;K"Please choose a league."
+C;Y718;X1;K715
+C;X2;K"N/A??"
+C;Y719;X1;K716
+C;X2;K"N/A??"
+C;Y720;X1;K717
+C;X2;K"Unauthorized to change the title of a guild member"
+C;Y721;X1;K718
+C;X2;K"Do you want to give [color=FFFFD940]%s the title [color=FFd8ea62]%s?"
+C;Y722;X1;K719
+C;Y723;K720
+C;X2;K"Leader"
+C;Y724;X1;K721
+C;X2;K"Lieutenant"
+C;Y725;X1;K722
+C;X2;K"Member"
+C;Y726;X1;K723
+C;X2;K"N/A??"
+C;Y727;X1;K724
+C;X2;K"N/A??"
+C;Y728;X1;K725
+C;X2;K"N/A??"
+C;Y729;X1;K726
+C;X2;K"N/A??"
+C;Y730;X1;K727
+C;X2;K"N/A??"
+C;Y731;X1;K728
+C;X2;K"N/A??"
+C;Y732;X1;K729
+C;X2;K"N/A??"
+C;Y733;X1;K730
+C;X2;K"Elder."
+C;Y734;X1;K731
+C;X2;K"<#FFD1C39d]Displays the EXP contribution you need\n<#FFD1C39d]to make for earning one Honor point."
+C;Y735;X1;K732
+C;X2;K"<#FFD1C39dDisplays the total Honor you have contributed.\n<#FFD1C39d](Each Honor point you made for your guild provides you with one contribution point)."
+C;Y736;X1;K733
+C;X2;K"<#FFD1C39d]You can set a EXP contribution rate,\n<#FFD1C39d]by which the EXP you gain in combats.\n<#FFD1C39d]will be given to your guild."
+C;Y737;X1;K734
+C;X2;K"<#FFD1C39d]Your current EXP contribution setting."
+C;Y738;X1;K735
+C;X2;K"<#FFD1C39d]You can contribute your EXP of your current level to the guild\n<#FFD1C39d]Change the value by using the scroll bar."
+C;Y739;X1;K736
+C;X2;K"<#FFD1C39d]Displays EXP you have confirmed to contribute to your guild."
+C;Y740;X1;K737
+C;X2;K"Your guild gets %d EXP."
+C;Y741;X1;K738
+C;X2;K"Do you want to contribute [color=FFd8ea62]%d EXP to the guild?"
+C;Y742;X1;K739
+C;X2;K"<#ffd1c39d]Guild Upgrading Honor.<%d/%dú%0.2f%>"
+C;Y743;X1;K740
+C;X2;K"%s was assigned to the %s position."
+C;Y744;X1;K741
+C;X2;K"%s has been dismissed from the position as %s"
+C;Y745;X1;K742
+C;Y746;K743
+C;Y747;K744
+C;Y748;K745
+C;Y749;K746
+C;Y750;K747
+C;Y751;K748
+C;Y752;K749
+C;Y753;K750
+C;X2;K"Bonus Physical Damage."
+C;Y754;X1;K751
+C;X2;K"Bonus Magic Damage."
+C;Y755;X1;K752
+C;X2;K"Bonus Ice Damage."
+C;Y756;X1;K753
+C;X2;K"Bonus Fire Damage."
+C;Y757;X1;K754
+C;X2;K"Bonus Lightning Damage."
+C;Y758;X1;K755
+C;X2;K"Bonus Poison Damage"
+C;Y759;X1;K756
+C;X2;K"Do you want to combine this item?"
+C;Y760;X1;K757
+C;X2;K"Do you want to Quick Revive?"
+C;Y761;X1;K758
+C;X2;K"Select a way to revive now, or wait for the help from other players."
+C;Y762;X1;K759
+C;X2;K"Insufficient cash."
+C;Y763;X1;K760
+C;X2;K"Battle of the Immortals Online<%s>[Version : %d]"
+C;Y764;X1;K761
+C;X2;K"<#ffd1c39d]Current Rage Value<%d/%d>"
+C;Y765;X1;K762
+C;X2;K"Exchange finished: You exchanged [color=FFFFD940]%d ZEN for [color=FFFFD940]%d Silver Note"
+C;Y766;X1;K763
+C;X2;K"You got %d Silver Note."
+C;Y767;X1;K764
+C;X2;K"You lost %d Silver Note."
+C;Y768;X1;K765
+C;X2;K"You got %d ZEN."
+C;Y769;X1;K766
+C;X2;K"You lost %d ZEN."
+C;Y770;X1;K767
+C;X2;K"Do you want to exchange ZEN for Silver Note?(One ZEN per exchange)\n[color=FFFFD940]Note: 1 ZEN = 500 Silver Note."
+C;Y771;X1;K768
+C;X2;K"ZEN: %d Silver Note: %d"
+C;Y772;X1;K769
+C;X2;K"Price : %d Discount : %f"
+C;Y773;X1;K770
+C;X2;K"VIP Price: %d Discount: %f"
+C;Y774;X1;K771
+C;X2;K"Damage per second."
+C;Y775;X1;K772
+C;X2;K"Please input your Party No."
+C;Y776;X1;K773
+C;X2;K"Hotkey already assigned!"
+C;Y777;X1;K774
+C;X2;K"Set description:"
+C;Y778;X1;K775
+C;X2;K"Target:"
+C;Y779;X1;K776
+C;X2;K"No target."
+C;Y780;X1;K777
+C;X2;K"Yourself."
+C;Y781;X1;K778
+C;X2;K"Yourself/Party member."
+C;Y782;X1;K779
+C;X2;K"Common player."
+C;Y783;X1;K780
+C;X2;K"Enemy"
+C;Y784;X1;K781
+C;X2;K"Dead target."
+C;Y785;X1;K782
+C;X2;K"Herb."
+C;Y786;X1;K783
+C;X2;K"Mine."
+C;Y787;X1;K784
+C;X2;K"target_wood  //target on wood"
+C;Y788;X1;K785
+C;X2;K"target_treasure  //target on treasure"
+C;Y789;X1;K786
+C;X2;K"target_All"
+C;Y790;X1;K787
+C;X2;K"target_UnKonw"
+C;Y791;X1;K788
+C;X2;K"target_UnKonw"
+C;Y792;X1;K789
+C;X2;K"target_UnKonw"
+C;Y793;X1;K790
+C;X2;K"target_UnKonw"
+C;Y794;X1;K791
+C;X2;K"target_UnKonw"
+C;Y795;X1;K792
+C;X2;K"target_UnKonw"
+C;Y796;X1;K793
+C;X2;K"target_UnKonw"
+C;Y797;X1;K794
+C;X2;K"target_UnKonw"
+C;Y798;X1;K795
+C;X2;K"target_UnKonw"
+C;Y799;X1;K796
+C;X2;K"This item will be bound upon equipping[color=FFFFD939](Unable to be traded to players).\nContinue?"
+C;Y800;X1;K797
+C;X2;K"Unable to use this action. Item is bound."
+C;Y801;X1;K798
+C;X2;K"Rage consumed: %d "
+C;Y802;X1;K799
+C;X2;K"Rage consumed: %d(%d)"
+C;Y803;X1;K800
+C;X2;K"%s is promoted to the rank of  %d leader."
+C;Y804;X1;K801
+C;X2;K"%s is demoted to the rank of party member."
+C;Y805;X1;K802
+C;X2;K"You can do this only to a single player."
+C;Y806;X1;K803
+C;X2;K"You can do this only to a single player."
+C;Y807;X1;K804
+C;X2;K"%s purchased %s from your vending."
+C;Y808;X1;K805
+C;X2;K"%s purchased %d %s(s) from your vending."
+C;Y809;X1;K806
+C;X2;K"[color=FFFFD940]%s invites you to join [color=FFFFD939]%s guild."
+C;Y810;X1;K807
+C;X2;K"Do you want to check [color=FFFFD939]%s's vending?"
+C;Y811;X1;K808
+C;X2;K"Connected IP: %s Port: %d"
+C;Y812;X1;K809
+C;X2;K"Unallocated."
+C;Y813;X1;K810
+C;X2;K" - Bound - "
+C;Y814;X1;K811
+C;X2;K"%s adds you to Blocked."
+C;Y815;X1;K812
+C;X2;K"%s invite you as a friend."
+C;Y816;X1;K813
+C;X2;K"Block rate increased."
+C;Y817;X1;K814
+C;X2;K"Damage blocked."
+C;Y818;X1;K815
+C;X2;K"<#ffd0c29c=Level: %d <#ffd0c29c=Class: %s <#ffd0c29c=Gender: %s\n<#ffd0c29c=Current location: %s\n<#ffd0c28c=Current PvP status: %s"
+C;Y819;X1;K816
+C;X2;K"%2.2f%"
+C;Y820;X1;K817
+C;X2;K"%-16s%-8d%-8s"
+C;Y821;X1;K818
+C;X2;K"%-16s%-8s%-8s"
+C;Y822;X1;K819
+C;X2;K"Unable to use this action. You have not selected any friend."
+C;Y823;X1;K820
+C;X2;K"You need select a friend before performing this action!"
+C;Y824;X1;K821
+C;X2;K"You need select a friend before performing this action!"
+C;Y825;X1;K822
+C;X2;K"You need select a friend before performing this action!"
+C;Y826;X1;K823
+C;X2;K"Invalid input. Please try again."
+C;Y827;X1;K824
+C;X2;K"You added %s to your friend list"
+C;Y828;X1;K825
+C;X2;K"%s is online."
+C;Y829;X1;K826
+C;X2;K"Battle of the Immortals"
+C;Y830;X1;K827
+C;X2;K"N/A?"
+C;Y831;X1;K828
+C;X2;K"N/A?"
+C;Y832;X1;K829
+C;X2;K"N/A?"
+C;Y833;X1;K830
+C;X2;K"N/A?"
+C;Y834;X1;K831
+C;X2;K"N/A?"
+C;Y835;X1;K832
+C;X2;K"Character list is full."
+C;Y836;X1;K833
+C;X2;K"[color=ffa7b58e=Please wait for loading character info......"
+C;Y837;X1;K834
+C;X2;K"All"
+C;Y838;X1;K835
+C;X2;K"Guild"
+C;Y839;X1;K836
+C;X2;K"Party"
+C;Y840;X1;K837
+C;X2;K"PM"
+C;Y841;X1;K838
+C;X2;K"GM"
+C;Y842;X1;K839
+C;X2;K"Character ?C?"
+C;Y843;X1;K840
+C;X2;K"Bag ?B?"
+C;Y844;X1;K841
+C;X2;K"Quest ?T?"
+C;Y845;X1;K842
+C;X2;K"Skill?N?"
+C;Y846;X1;K843
+C;X2;K"Guild ?G?"
+C;Y847;X1;K844
+C;X2;K"Friend ?F?"
+C;Y848;X1;K845
+C;X2;K"Keyboard/Mouse"
+C;Y849;X1;K846
+C;X2;K"Vertical View Lock"
+C;Y850;X1;K847
+C;X2;K"Marketplace ?V?"
+C;Y851;X1;K848
+C;X2;K"System ?Esc?"
+C;Y852;X1;K849
+C;X2;K"[color=ff00ccff]%s\n[color=ff00ccff]Level %d"
+C;Y853;X1;K850
+C;X2;K"[color=ff00f800]%s\n[color=ff00f800]Level %d"
+C;Y854;X1;K851
+C;X2;K"[color=ff898989]%s\n[color=ff898989]Level %d"
+C;Y855;X1;K852
+C;X2;K"[color=ffffb4bd]%s\n[color=ffffb4bd]Level %d"
+C;Y856;X1;K853
+C;X2;K"[color=FFff808f]%s\n[color=FFff808f]Level %d"
+C;Y857;X1;K854
+C;X2;K"[color=ffff3a51]%s\n[color=ffff3a51]Level %d"
+C;Y858;X1;K855
+C;X2;K"[color=ffff001e]%s\n[color=ffff001e]Level %d"
+C;Y859;X1;K856
+C;X2;K"[color=ffff0000]%s\n[color=ffff0000]Level %d"
+C;Y860;X1;K857
+C;X2;K"[color=fff1c100]%s\n[color=fff1c100]Level %d"
+C;Y861;X1;K858
+C;X2;K"[color=ffa2ff00]%s\n[color=ffa2ff00]Level %d"
+C;Y862;X1;K859
+C;X2;K"[color=ffff3c00]%s\n[color=ffff3c00]Level %d"
+C;Y863;X1;K860
+C;X2;K"[color=ffd7ecff]%s\n[color=ffd7ecff]Level %d"
+C;Y864;X1;K861
+C;X2;K"PvP Mode: Off"
+C;Y865;X1;K862
+C;X2;K"PvP Mode: Guild member protected"
+C;Y866;X1;K863
+C;X2;K"PvP Mode: On"
+C;Y867;X1;K864
+C;X2;K" - Countdown : %d minute %d second - "
+C;Y868;X1;K865
+C;X2;K"Off"
+C;Y869;X1;K866
+C;X2;K"Guild member protected"
+C;Y870;X1;K867
+C;X2;K"On"
+C;Y871;X1;K868
+C;X2;K"You used [color=FFd8ea62]loudspeaker"
+C;Y872;X1;K869
+C;X2;K"You used [color=FFd8ea62]microphone"
+C;Y873;X1;K870
+C;X2;K"You used [color=FFd8ea62]???"
+C;Y874;X1;K871
+C;X2;K"You used [color=FFd8ea62]????1"
+C;Y875;X1;K872
+C;X2;K"You used [color=FFd8ea62]????2"
+C;Y876;X1;K873
+C;X2;K"You used [color=FFd8ea62]????3"
+C;Y877;X1;K874
+C;X2;K"You used [color=FFd8ea62]????"
+C;Y878;X1;K875
+C;X2;K"You used [color=FFd8ea62]????5"
+C;Y879;X1;K876
+C;X2;K"You used [color=FFd8ea62]????6"
+C;Y880;X1;K877
+C;X2;K"You used [color=FFd8ea62]????7"
+C;Y881;X1;K878
+C;X2;K"You used [color=FFd8ea62]????8"
+C;Y882;X1;K879
+C;X2;K"You used [color=FFd8ea62]????9"
+C;Y883;X1;K880
+C;X2;K"You used [color=FFd8ea62]????10"
+C;Y884;X1;K881
+C;X2;K"%s joined the party."
+C;Y885;X1;K882
+C;X2;K"[color=FFFFD940]%s invites you to join a team. Agree?\nLoot mode : [color=FFFFD940]Free for All"
+C;Y886;X1;K883
+C;X2;K"[color=FFFFD940]%s invites you to join a team. Agree?\nLoot mode : [color=FFFFD940]By Class"
+C;Y887;X1;K884
+C;X2;K"[color=FFFFD940]%s invites you to join a team. Agree?\nLoot mode : [color=FFFFD940]Random"
+C;Y888;X1;K885
+C;X2;K"[color=FFFFD940]%s invites you to join a team. Agree?\nLoot mode : [color=FFFFD940]Leader assign"
+C;Y889;X1;K886
+C;X2;K"PvP Mode: Team member protected."
+C;Y890;X1;K887
+C;X2;K"Team member protected."
+C;Y891;X1;K888
+C;Y892;K889
+C;Y893;K890
+C;Y894;K891
+C;Y895;K892
+C;Y896;K893
+C;Y897;K894
+C;Y898;K895
+C;Y899;K896
+C;Y900;K897
+C;Y901;K898
+C;Y902;K899
+C;Y903;K900
+C;X2;K"Do you want to turn the party into a team?\n[color=FFFFD940]You will be the team leader and can invite at most 20 players to join you"
+C;Y904;X1;K901
+C;X2;K"Unable to use this action!"
+C;Y905;X1;K902
+C;X2;K"Unable to use this action!"
+C;Y906;X1;K903
+C;X2;K"Failed to promote a team leader!"
+C;Y907;X1;K904
+C;X2;K"This action needs to select two targets first (Press Ctrl can select more)"
+C;Y908;X1;K905
+C;X2;K"Unauthorized to use this action"
+C;Y909;X1;K906
+C;X2;K"Target added you to Blocked"
+C;Y910;X1;K907
+C;X2;K"Target refused your duel request "
+C;Y911;X1;K908
+C;X2;K"Bonus Damage per star %d %%"
+C;Y912;X1;K909
+C;X2;K"Parry Value increased by %d"
+C;Y913;X1;K910
+C;X2;K"Parry rate increased by %d %%"
+C;Y914;X1;K911
+C;X2;K"Lasting Ice damage every %d (%d) second: %d (%d)point"
+C;Y915;X1;K912
+C;X2;K"Lasting Ice damage every %d second : %d point"
+C;Y916;X1;K913
+C;X2;K"Lasting Fire damage every %d (%d) second : %d (%d)point"
+C;Y917;X1;K914
+C;X2;K"Lasting Fire damage every %d second : %d point"
+C;Y918;X1;K915
+C;X2;K"Lasting Lightning damage every %d (%d) second : %d (%d)point"
+C;Y919;X1;K916
+C;X2;K"Lasting Lightning damage every %d second : %d point"
+C;Y920;X1;K917
+C;X2;K"Lasting Poison damage every %d (%d) second : %d (%d)point"
+C;Y921;X1;K918
+C;X2;K"Lasting Poison damage every %d second : %d point"
+C;Y922;X1;K919
+C;X2;K"%s got married with you."
+C;Y923;X1;K920
+C;X2;K"%s and you became brothers."
+C;Y924;X1;K921
+C;X2;K"%s enrolled you as a Disciple."
+C;Y925;X1;K922
+C;X2;K"%s acknowledged you as a master."
+C;Y926;X1;K923
+C;Y927;K924
+C;X2;K"Parry Value increased by %d(%d)"
+C;Y928;X1;K925
+C;X2;K"Parry rate increased by %d %%(%d %%)"
+C;Y929;X1;K926
+C;X2;K"Bonus Damage per star %d %%(%d %%)"
+C;Y930;X1;K927
+C;Y931;K928
+C;Y932;K929
+C;Y933;K930
+C;X2;K"<#ffd1c39d]Unable to change PvP mode before character level 30"
+C;Y934;X1;K931
+C;X2;K"<#ffd1c39d]PvP Mode: Off"
+C;Y935;X1;K932
+C;X2;K"<#ffd1c39d]PvP Mode: Guild member protected"
+C;Y936;X1;K933
+C;X2;K"<#ffd1c39d]PvP Mode: On"
+C;Y937;X1;K934
+C;X2;K"<#ffd1c39d]PvP Mode: Team member protected"
+C;Y938;X1;K935
+C;X2;K"Succeed to remove bound status of this item!"
+C;Y939;X1;K936
+C;X2;K"This item has not been bound!"
+C;Y940;X1;K937
+C;Y941;K938
+C;X2;K"Required [color=FF6be611]%s [color=ffFFD940]%d\nRequired [color=FF6be611]%s [color=ffFFD940]%d\nCost [color=ffFFD940]%d copper\n"
+C;Y942;X1;K939
+C;X2;K"Required [color=FF6be611]%s [color=ffFFD940]%d\nRequired [color=FF6be611]%s [color=ffFFD940]%d\n"
+C;Y943;X1;K940
+C;X2;K"Required [color=FF6be611]%s [color=ffFFD940]%d\nRequired [color=FF6be611]%s [color=ffFFD940]%d\nRequired [color=FF6be611]%s [color=ffFFD940]%d\nCost [color=ffFFD940]%d copper\n"
+C;Y944;X1;K941
+C;X2;K"Required [color=FF6be611]%s [color=ffFFD940]%d\nRequired [color=FF6be611]%s [color=ffFFD940]%d\nRequired [color=FF6be611]%s [color=ffFFD940]%d\n"
+C;Y945;X1;K942
+C;Y946;K943
+C;Y947;K944
+C;Y948;K945
+C;X2;K"You need pay [color=FFFFD940]%d Silver Notes and repair fee of [color=FFFFD940]%d gold %d copper\nConfirm?"
+C;Y949;X1;K946
+C;Y950;K947
+C;Y951;K948
+C;Y952;K949
+C;X2;K"[color=FFd8ea62]'Revive on Site' can make you revive on the site you died\nTo use this function, you need pay [color=FFFFD940]%d Silver Note, proceed?"
+C;Y953;X1;K950
+C;X2;K"[color=FFd8ea62]'Perfect Revive' can make you revive on site with full HP and Mana\nTo use this function, you need pay [color=FFFFD940]%d Silver Note, proceed?"
+C;Y954;X1;K951
+C;Y955;K952
+C;X2;K"Status remained after character died"
+C;Y956;X1;K953
+C;X2;K"EXP increased by: %0.2f times"
+C;Y957;X1;K954
+C;X2;K"Skill EXP increased by: %0.2f times"
+C;Y958;X1;K955
+C;Y959;K956
+C;Y960;K957
+C;Y961;K958
+C;Y962;K959
+C;Y963;K960
+C;Y964;K961
+C;Y965;K962
+C;Y966;K963
+C;Y967;K964
+C;Y968;K965
+C;Y969;K966
+C;Y970;K967
+C;Y971;K968
+C;Y972;K969
+C;Y973;K970
+C;Y974;K971
+C;Y975;K972
+C;Y976;K973
+C;Y977;K974
+C;Y978;K975
+C;Y979;K976
+C;Y980;K977
+C;Y981;K978
+C;Y982;K979
+C;Y983;K980
+C;Y984;K981
+C;Y985;K982
+C;Y986;K983
+C;Y987;K984
+C;Y988;K985
+C;Y989;K986
+C;Y990;K987
+C;Y991;K988
+C;Y992;K989
+C;Y993;K990
+C;Y994;K991
+C;Y995;K992
+C;Y996;K993
+C;Y997;K994
+C;Y998;K995
+C;Y999;K996
+C;Y1000;K997
+C;Y1001;K998
+C;Y1002;K999
+C;Y1003;K1000
+C;X2;K"You drew %d %s "
+C;Y1004;X1;K1001
+C;X2;K"You have nothing to draw now"
+C;Y1005;X1;K1002
+C;X2;K"Failed to submit, please confirm that %d %s are in your bag"
+C;Y1006;X1;K1003
+C;X2;K"Succeed to submit %d %s"
+C;Y1007;X1;K1004
+C;X2;K"Exit Game?"
+C;Y1008;X1;K1005
+C;X2;K"%d"
+C;Y1009;X1;K1006
+C;X2;K"%d gold"
+C;Y1010;X1;K1007
+C;X2;K"%d gold"
+C;Y1011;X1;K1008
+C;X2;K"%d Silver Note"
+C;Y1012;X1;K1009
+C;X2;K"%d Silver Note"
+C;Y1013;X1;K1010
+C;X2;K"Current Server: %s"
+C;Y1014;X1;K1011
+C;X2;K"Server: [color=FFd8ea62]%s"
+C;Y1015;X1;K1012
+C;X2;K"%s used bot in the game"
+C;Y1016;X1;K1013
+C;X2;K"%s is blocked at %s"
+C;Y1017;X1;K1014
+C;X2;K"N/A%s ? %s ? %s ???????"
+C;Y1018;X1;K1015
+C;X2;K"Your message has sent to Service Center successfully!"
+C;Y1019;X1;K1016
+C;X2;K"Shorter than Chatting Cooldown of Warcry channel, %d seconds left."
+C;Y1020;X1;K1017
+C;X2;K"Shorter than Chatting Cooldown of World channel, %d seconds left."
+C;Y1021;X1;K1018
+C;X2;K"Unauthorized to use additional bags."
+C;Y1022;X1;K1019
+C;X2;K"Confirm to delete?"
+C;Y1023;X1;K1020
+C;X2;K"Unable to trade this item to player!"
+C;Y1024;X1;K1021
+C;X2;K"Sorry, this item can not be sold!"
+C;Y1025;X1;K1022
+C;X2;K"Sorry, this store just reclaims Recovery Potion!"
+C;Y1026;X1;K1023
+C;X2;K"Sorry, this store just reclaims Weapon!"
+C;Y1027;X1;K1024
+C;X2;K"Sorry, this store just reclaims Armor!"
+C;Y1028;X1;K1025
+C;X2;K"Sorry, this store just reclaims Raw Material!"
+C;Y1029;X1;K1026
+C;X2;K"Sorry, this store just reclaims Gem!"
+C;Y1030;X1;K1027
+C;X2;K"Sorry, this store just reclaims Recipe!"
+C;Y1031;X1;K1028
+C;X2;K"Sorry, this store does not reclaim item of this kind!"
+C;Y1032;X1;K1029
+C;X2;K"Stop riding?"
+C;Y1033;X1;K1030
+C;X2;K"You got the quest %s"
+C;Y1034;X1;K1031
+C;X2;K"DATA\Sound\UI\NewTask.wav"
+C;Y1035;X1;K1032
+C;X2;K"[Excellent] "
+C;Y1036;X1;K1033
+C;X2;K"[Excellent] "
+C;Y1037;X1;K1034
+C;X2;K"[Great] "
+C;Y1038;X1;K1035
+C;X2;K"[Great] "
+C;Y1039;X1;K1036
+C;X2;K"[Great] "
+C;Y1040;X1;K1037
+C;X2;K"[Great] "
+C;Y1041;X1;K1038
+C;X2;K"[Busy] "
+C;Y1042;X1;K1039
+C;X2;K"[Busy] "
+C;Y1043;X1;K1040
+C;X2;K"[Busy] "
+C;Y1044;X1;K1041
+C;X2;K"[Full] "
+C;Y1045;X1;K1042
+C;X2;K"Unable to connect to server\nThe server you selected may be offline! "
+C;Y1046;X1;K1043
+C;X2;K"Current Server is busy\nYou may select another server."
+C;Y1047;X1;K1044
+C;X2;K"N/A [????] "
+C;Y1048;X1;K1045
+C;X2;K"N/A [????2] "
+C;Y1049;X1;K1046
+C;X2;K"N/A [????3] "
+C;Y1050;X1;K1047
+C;X2;K"N/A [????4] "
+C;Y1051;X1;K1048
+C;X2;K"N/A [????5] "
+C;Y1052;X1;K1049
+C;X2;K"N/A [????6] "
+C;Y1053;X1;K1050
+C;X2;K"N/A [????7] "
+C;Y1054;X1;K1051
+C;X2;K"N/A [????8] "
+C;Y1055;X1;K1052
+C;X2;K"N/A [????9] "
+C;Y1056;X1;K1053
+C;X2;K"N/A [????10] "
+C;Y1057;X1;K1054
+C;Y1058;K1055
+C;Y1059;K1056
+C;Y1060;K1057
+C;Y1061;K1058
+C;Y1062;K1059
+C;Y1063;K1060
+C;X2;K"Expired time: %d/%d/%d %d : %d"
+C;Y1064;X1;K1061
+C;X2;K"ú%s in your [Bag] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1065;X1;K1062
+C;X2;K"ú%s in your [Store] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1066;X1;K1063
+C;X2;K"ú%s in your [Vending] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1067;X1;K1064
+C;X2;K"ú%s in your [Combine Bag] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1068;X1;K1065
+C;X2;K"ú%s in your [Fortify Bag] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1069;X1;K1066
+C;X2;K"ú%s in your [Decompose Bag] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1070;X1;K1067
+C;X2;K"ú%s in your [Unbind Bag] expired úExpired time : %d/%d/%d %d : %d"
+C;Y1071;X1;K1068
+C;X2;K"úYour equipped item %s expired úExpired time : %d/%d/%d %d : %d"
+C;Y1072;X1;K1069
+C;X2;K"The goods you buy from the Marketplace can be seen by pressing this button\n[color=FFFFD940] Do you want to view new goods now?"
+C;Y1073;X1;K1070
+C;Y1074;K1071
+C;X2;K"Valid at night."
+C;Y1075;X1;K1072
+C;X2;K"Channel speed increased by: %d%%"
+C;Y1076;X1;K1073
+C;X2;K"Channel speed increased by: %d%% (%d%%)"
+C;Y1077;X1;K1074
+C;X2;K"Charge succeed: %s %d/%d/%d %d : %d"
+C;Y1078;X1;K1075
+C;X2;K"Charge failed: Insufficient Silver Note"
+C;Y1079;X1;K1076
+C;X2;K"Incorrect charge: %s is not expired and can not be charged."
+C;Y1080;X1;K1077
+C;X2;K"Expired goods can not be bought and sold."
+C;Y1081;X1;K1078
+C;X2;K"Expired item can not be fortified."
+C;Y1082;X1;K1079
+C;X2;K"Expired item can not be combined."
+C;Y1083;X1;K1080
+C;X2;K"Following activities are in progress  :\n[color=ff90ff00]"
+C;Y1084;X1;K1081
+C;Y1085;K1082
+C;Y1086;K1083
+C;X2;K"[color=FFd8ea62]%d items locked, you still can lock. [color=FFd8ea62]%d items!"
+C;Y1087;X1;K1084
+C;X2;K"No more items can be locked."
+C;Y1088;X1;K1085
+C;X2;K"Do you want to fortify this equipment?"
+C;Y1089;X1;K1086
+C;X2;K"Activity reminder:\n[color=ff90ff00]%s Activity starts"
+C;Y1090;X1;K1087
+C;X2;K"No ZEN in your bag\nUnable to exchange for Silver Note"
+C;Y1091;X1;K1088
+C;X2;K"The goods you bought from Marketplace can get by pressing this button\n[color=FFFFD940]No goods can be delivered!"
+C;Y1092;X1;K1089
+C;Y1093;K1090
+C;X2;K"Have been fortified to the highest level already, unable to fortify any more!"
+C;Y1094;X1;K1091
+C;Y1095;K1092
+C;X2;K"Grade locked."
+C;Y1096;X1;K1093
+C;X2;K"Invalid Grade."
+C;Y1097;X1;K1094
+C;X2;K"Succeed to lock the equipment's Grade!\n[color=FFFFD940](Punishment of demotion caused by failure can be avoided once)."
+C;Y1098;X1;K1095
+C;X2;K"Failed to lock equipment's Grade!"
+C;Y1099;X1;K1096
+C;X2;K"[color=ffffea00]Remote Repair\n[color=ffc5da9f=You can repair your equipment at all times and places via this service. When the Durability is too low and the Repair Store is too far away, this service is your first choice."
+C;Y1100;X1;K1097
+C;X2;K"Purchase succeed, thanks for your purchasing!"
+C;Y1101;X1;K1098
+C;X2;K"Sorry, insufficient stock\nPlease try later."
+C;Y1102;X1;K1099
+C;X2;K"Sorry, insufficient Silver Note\nUnable to buy this item!"
+C;Y1103;X1;K1100
+C;X2;K"[color=ff8dc725=Price : %d Silver Note(The price of Silver Note increased with character level, excluding repair cost)"
+C;Y1104;X1;K1101
+C;X2;K"%d Silver Note"
+C;Y1105;X1;K1102
+C;X2;K"Sorry, you do not have enough gold.\nUnable to use this action!"
+C;Y1106;X1;K1103
+C;Y1107;K1104
+C;Y1108;K1105
+C;Y1109;K1106
+C;Y1110;K1107
+C;Y1111;K1108
+C;Y1112;K1109
+C;Y1113;K1110
+C;X2;K"N/A??????? : ???? %d ??,?????!"
+C;Y1114;X1;K1111
+C;X2;K"N/A??????? : ??????? %d%% ???? %d%% ?????!"
+C;Y1115;X1;K1112
+C;X2;K"N/A??????? : ???????,?????????????!"
+C;Y1116;X1;K1113
+C;X2;K"N/A??????? : ???? %d ?? %d ??,?????!"
+C;Y1117;X1;K1114
+C;X2;K"<#FFFFD940] [Level Title] \n<#ffafb4bd]Each kind of Titles can be divided by different levels. You need\n<#ffafb4bd]to complete some special tasks or meet some needs according to\n<#ffafb4bd]the guide, in order to acquire a higher Title.\n<#FFFFD940]Press this button for more information."
+C;Y1118;X1;K1115
+C;X2;K"<#FFFFD940] [Social Title] \n<#ffafb4bd]When you form a social bond, such as through marriage, becoming one's sibling,\n<#ffafb4bd]establishing a master/disciple player relationship, and so on,\n<#ffafb4bd]you will get a corresponding title. You can view and select them.\n<#FFFFD940]Press this button to learn more."
+C;Y1119;X1;K1116
+C;Y1120;K1117
+C;X2;K"Combination Rate Increased: %d%%"
+C;Y1121;X1;K1118
+C;X2;K"Fortify Rate Increased: %d%%"
+C;Y1122;X1;K1119
+C;Y1123;K1120
+C;X2;K"[color=ffafb4bd] Please embed Equipment first."
+C;Y1124;X1;K1121
+C;X2;K"[color=ffafb4bd]Please input it into corresponding slot."
+C;Y1125;X1;K1122
+C;X2;K"Item in Fortified Lock Bag has expired. The system will automatically delete it."
+C;Y1126;X1;K1123
+C;Y1127;K1124
+C;Y1128;K1125
+C;Y1129;K1126
+C;Y1130;K1127
+C;Y1131;K1128
+C;Y1132;K1129
+C;Y1133;K1130
+C;Y1134;K1131
+C;Y1135;K1132
+C;Y1136;K1133
+C;Y1137;K1134
+C;Y1138;K1135
+C;Y1139;K1136
+C;Y1140;K1137
+C;Y1141;K1138
+C;Y1142;K1139
+C;Y1143;K1140
+C;Y1144;K1141
+C;Y1145;K1142
+C;Y1146;K1143
+C;Y1147;K1144
+C;Y1148;K1145
+C;Y1149;K1146
+C;Y1150;K1147
+C;Y1151;K1148
+C;Y1152;K1149
+C;Y1153;K1150
+C;Y1154;K1151
+C;Y1155;K1152
+C;Y1156;K1153
+C;Y1157;K1154
+C;Y1158;K1155
+C;Y1159;K1156
+C;Y1160;K1157
+C;Y1161;K1158
+C;Y1162;K1159
+C;Y1163;K1160
+C;Y1164;K1161
+C;Y1165;K1162
+C;Y1166;K1163
+C;Y1167;K1164
+C;Y1168;K1165
+C;Y1169;K1166
+C;Y1170;K1167
+C;Y1171;K1168
+C;Y1172;K1169
+C;Y1173;K1170
+C;Y1174;K1171
+C;Y1175;K1172
+C;Y1176;K1173
+C;Y1177;K1174
+C;Y1178;K1175
+C;Y1179;K1176
+C;Y1180;K1177
+C;Y1181;K1178
+C;Y1182;K1179
+C;Y1183;K1180
+C;Y1184;K1181
+C;Y1185;K1182
+C;Y1186;K1183
+C;Y1187;K1184
+C;Y1188;K1185
+C;Y1189;K1186
+C;Y1190;K1187
+C;Y1191;K1188
+C;Y1192;K1189
+C;Y1193;K1190
+C;Y1194;K1191
+C;Y1195;K1192
+C;Y1196;K1193
+C;Y1197;K1194
+C;Y1198;K1195
+C;Y1199;K1196
+C;Y1200;K1197
+C;Y1201;K1198
+C;Y1202;K1199
+C;Y1203;K1200
+C;X2;K"The target is not your guild member."
+C;Y1204;X1;K1201
+C;X2;K"Vice-leader at maximum."
+C;Y1205;X1;K1202
+C;X2;K"Unable to use this action on yourself."
+C;Y1206;X1;K1203
+C;X2;K"Guild creation successful."
+C;Y1207;X1;K1204
+C;X2;K"Unable to disband the guild."
+C;Y1208;X1;K1205
+C;X2;K"Guilds registered for Glacier City War cannot be disbanded."
+C;Y1209;X1;K1206
+C;X2;K"Unable to disband the guild, as you are not the leader."
+C;Y1210;X1;K1207
+C;X2;K"Please banish all members before disbanding the guild!"
+C;Y1211;X1;K1208
+C;X2;K"Guilds cannot invite new players once in the Glacier City War."
+C;Y1212;X1;K1209
+C;X2;K"Your target has joined a guild already."
+C;Y1213;X1;K1210
+C;X2;K"The guild has reached the maximum member %s."
+C;Y1214;X1;K1211
+C;X2;K"Unable to invite player, as you are not the leader of the guild."
+C;Y1215;X1;K1212
+C;X2;K"Unable to banish member while target is in the Glacier City War."
+C;Y1216;X1;K1213
+C;X2;K"Unable to banish member, as you are not the guild leader."
+C;Y1217;X1;K1214
+C;X2;K"Unable to quit guild while in the Glacier City War."
+C;Y1218;X1;K1215
+C;X2;K"Guild leader cannot quit guild directly."
+C;Y1219;X1;K1216
+C;X2;K"Guild has reached maximum number of members."
+C;Y1220;X1;K1217
+C;X2;K"You joined party <%s>"
+C;Y1221;X1;K1218
+C;X2;K"%s joined the guild."
+C;Y1222;X1;K1219
+C;X2;K"%s is banished from the guild."
+C;Y1223;X1;K1220
+C;X2;K"%s left the guild."
+C;Y1224;X1;K1221
+C;X2;K"Your guild has been disbanded."
+C;Y1225;X1;K1222
+C;X2;K"Failed to establish guild! Guild name cannot be void."
+C;Y1226;X1;K1223
+C;X2;K"Failed to establish guild! Guild name contains an invalid character."
+C;Y1227;X1;K1224
+C;X2;K"Failed to establish guild! Guild name too long."
+C;Y1228;X1;K1225
+C;X2;K"Failed to establish guild! Guild name cannot contain a space."
+C;Y1229;X1;K1226
+C;X2;K"Failed to establish guild! Please select a League."
+C;Y1230;X1;K1227
+C;X2;K"Failed to establish guild! You have joined a guild already."
+C;Y1231;X1;K1228
+C;X2;K"Failed to establish guild! There is already a guild by that name!"
+C;Y1232;X1;K1229
+C;X2;K"%s Our guild was founded today. We are calling for heroes around the world to join us!"
+C;Y1233;X1;K1230
+C;X2;K"You have not joined a guild."
+C;Y1234;X1;K1231
+C;X2;K"Level required: %ld"
+C;Y1235;X1;K1232
+C;X2;K"Money required: %ld"
+C;Y1236;X1;K1233
+C;X2;K"Skill required: %ld"
+C;Y1237;X1;K1234
+C;X2;K"Skill proficiency<%d/%dú%0.2f%>"
+C;Y1238;X1;K1235
+C;Y1239;K1236
+C;Y1240;K1237
+C;Y1241;K1238
+C;Y1242;K1239
+C;Y1243;K1240
+C;Y1244;K1241
+C;Y1245;K1242
+C;Y1246;K1243
+C;Y1247;K1244
+C;Y1248;K1245
+C;Y1249;K1246
+C;Y1250;K1247
+C;Y1251;K1248
+C;Y1252;K1249
+C;Y1253;K1250
+C;Y1254;K1251
+C;Y1255;K1252
+C;Y1256;K1253
+C;Y1257;K1254
+C;Y1258;K1255
+C;Y1259;K1256
+C;Y1260;K1257
+C;Y1261;K1258
+C;Y1262;K1259
+C;Y1263;K1260
+C;Y1264;K1261
+C;Y1265;K1262
+C;Y1266;K1263
+C;Y1267;K1264
+C;Y1268;K1265
+C;Y1269;K1266
+C;Y1270;K1267
+C;Y1271;K1268
+C;Y1272;K1269
+C;Y1273;K1270
+C;Y1274;K1271
+C;Y1275;K1272
+C;Y1276;K1273
+C;Y1277;K1274
+C;Y1278;K1275
+C;Y1279;K1276
+C;Y1280;K1277
+C;Y1281;K1278
+C;Y1282;K1279
+C;Y1283;K1280
+C;Y1284;K1281
+C;Y1285;K1282
+C;Y1286;K1283
+C;Y1287;K1284
+C;Y1288;K1285
+C;Y1289;K1286
+C;Y1290;K1287
+C;Y1291;K1288
+C;Y1292;K1289
+C;Y1293;K1290
+C;Y1294;K1291
+C;Y1295;K1292
+C;Y1296;K1293
+C;Y1297;K1294
+C;Y1298;K1295
+C;Y1299;K1296
+C;Y1300;K1297
+C;Y1301;K1298
+C;Y1302;K1299
+C;Y1303;K1300
+C;Y1304;K1301
+C;X2;K"Invalid target."
+C;Y1305;X1;K1302
+C;X2;K"Unable to attack guild members."
+C;Y1306;X1;K1303
+C;X2;K"Unable to attack team members."
+C;Y1307;X1;K1304
+C;X2;K"Team is full."
+C;Y1308;X1;K1305
+C;X2;K"You can add up to 3 Item Links!"
+C;Y1309;X1;K1306
+C;X2;K"You have added this item already!"
+C;Y1310;X1;K1307
+C;X2;K"You can not whisper yourself."
+C;Y1311;X1;K1308
+C;X2;K"You can not change mode frequently."
+C;Y1312;X1;K1309
+C;X2;K"You have not joined any guild."
+C;Y1313;X1;K1310
+C;X2;K"No repairable items."
+C;Y1314;X1;K1311
+C;X2;K"Interrupted"
+C;Y1315;X1;K1312
+C;X2;K"Unable to equip while in combat."
+C;Y1316;X1;K1313
+C;X2;K"Unable to go offline while in combat."
+C;Y1317;X1;K1314
+C;X2;K"Confirm deletion?"
+C;Y1318;X1;K1315
+C;X2;K"The shop does not have that much, please try back later."
+C;Y1319;X1;K1316
+C;X2;K"Inquiry"
+C;Y1320;X1;K1317
+C;X2;K"EXP contribution successful!"
+C;Y1321;X1;K1318
+C;X2;K"Incorrect icon format, please use *.tga."
+C;Y1322;X1;K1319
+C;X2;K"Failed to create, Icon size is not 32px*32px."
+C;Y1323;X1;K1320
+C;X2;K"Failed to create, Icon color is not 32 bit."
+C;Y1324;X1;K1321
+C;X2;K"Succeeded at creating guild symbol!"
+C;Y1325;X1;K1322
+C;X2;K"Failed to create guild symbol."
+C;Y1326;X1;K1323
+C;X2;K"Note"
+C;Y1327;X1;K1324
+C;X2;K"Inquiry"
+C;Y1328;X1;K1325
+C;X2;K"Unable to trade while riding!"
+C;Y1329;X1;K1326
+C;X2;K"Please set item lock password first."
+C;Y1330;X1;K1327
+C;X2;K"Confirm to delete?"
+C;Y1331;X1;K1328
+C;X2;K"Delete"
+C;Y1332;X1;K1329
+C;X2;K"Unable to trade this item to player!"
+C;Y1333;X1;K1330
+C;X2;K"Please close your vending window first!"
+C;Y1334;X1;K1331
+C;X2;K"Unable to trade this item to player!"
+C;Y1335;X1;K1332
+C;X2;K"Unable to vend while riding."
+C;Y1336;X1;K1333
+C;X2;K"Unable to check item, target player is too far away."
+C;Y1337;X1;K1334
+C;X2;K"Sorry, unable to trade this item to player!"
+C;Y1338;X1;K1335
+C;X2;K"Sorry, this item can not be sold!"
+C;Y1339;X1;K1336
+C;X2;K"Sorry, this store only reclaims Recovery Potions!"
+C;Y1340;X1;K1337
+C;X2;K"Sorry, this store only reclaims Weapons!"
+C;Y1341;X1;K1338
+C;X2;K"Sorry, this store only reclaims Armor!"
+C;Y1342;X1;K1339
+C;X2;K"Sorry, this store only reclaims Raw Materials!"
+C;Y1343;X1;K1340
+C;X2;K"Sorry, this store only reclaims Gems!"
+C;Y1344;X1;K1341
+C;X2;K"Sorry, this store only reclaims Recipes!"
+C;Y1345;X1;K1342
+C;X2;K"Sorry, this store does not reclaim items of this kind!"
+C;Y1346;X1;K1343
+C;X2;K"Please set item lock password first."
+C;Y1347;X1;K1344
+C;X2;K"Instance log full."
+C;Y1348;X1;K1345
+C;X2;K"Quest <%s>"
+C;Y1349;X1;K1346
+C;X2;K"Sorry, you have reached the maximum number of Instances."
+C;Y1350;X1;K1347
+C;X2;K"Instance log full."
+C;Y1351;X1;K1348
+C;X2;K"Unable to cast, please input the verification codes displayed above."
+C;Y1352;X1;K1349
+C;X2;K"Unable to move, please input the verification codes displayed above."
+C;Y1353;X1;K1350
+C;X2;K"Validation successful."
+C;Y1354;X1;K1351
+C;X2;K"Verification codes will change in few minutes, please input it later."
+C;Y1355;X1;K1352
+C;X2;K"Unable to use this item while vending!"
+C;Y1356;X1;K1353
+C;X2;K"Unable to use expired item!"
+C;Y1357;X1;K1354
+C;X2;K"Unable to vend while riding."
+C;Y1358;X1;K1355
+C;X2;K"Unable to attack while vending."
+C;Y1359;X1;K1356
+C;X2;K"Unable to Mount in this map."
+C;Y1360;X1;K1357
+C;X2;K"Unable to Mount while vending."
+C;Y1361;X1;K1358
+C;X2;K"Unable to Mount in Stealth status."
+C;Y1362;X1;K1359
+C;X2;K"Unable to Mount when in combat."
+C;Y1363;X1;K1360
+C;X2;K"Too short an interval after dismounting."
+C;Y1364;X1;K1361
+C;X2;K"Bag is full."
+C;Y1365;X1;K1362
+C;X2;K"Abandoned Quest <%s>"
+C;Y1366;X1;K1363
+C;X2;K"Register list is full. Please try again next time."
+C;Y1367;X1;K1364
+C;X2;K"Unable to enroll, you have not joined a guild."
+C;Y1368;X1;K1365
+C;X2;K"Unable to enroll, you are not leader or vice-leader of the guild."
+C;Y1369;X1;K1366
+C;X2;K"Register list is full. Please try again next time."
+C;Y1370;X1;K1367
+C;X2;K"Unable to enroll, you have not joined a guild."
+C;Y1371;X1;K1368
+C;X2;K"Unable to enroll, you guild is protecting the main city."
+C;Y1372;X1;K1369
+C;X2;K"Unable to enroll, you are not leader or vice-leader of the guild."
+C;Y1373;X1;K1370
+C;X2;K"Unable to enroll again, as your guild has already enrolled successfully."
+C;Y1374;X1;K1371
+C;X2;K"You will disconnect from server soon. Account is logged in at another location."
+C;Y1375;X1;K1372
+C;X2;K"You will be teleported out of the instance, which will be reset soon."
+C;Y1376;X1;K1373
+C;X2;K"You will be teleported out of the team instance, which dose not belong to you."
+C;Y1377;X1;K1374
+C;X2;K"You will be teleported out of the multi-team instance, which does not belong to you."
+C;Y1378;X1;K1375
+C;X2;K"Target's money will exceed the upper limit %d."
+C;Y1379;X1;K1376
+C;X2;K"Your money will exceed the upper limit %d."
+C;Y1380;X1;K1377
+C;X2;K"Unable to purchase expired items."
+C;Y1381;X1;K1378
+C;X2;K"Unable to move in current status."
+C;Y1382;X1;K1379
+C;X2;K"Credit increased by %d points, current credit: %d."
+C;Y1383;X1;K1380
+C;X2;K"Unable to move now."
+C;Y1384;X1;K1381
+C;X2;K"You moved so quickly, please wait for a while."
+C;Y1385;X1;K1382
+C;X2;K"You moved so quickly, please wait for a while."
+C;Y1386;X1;K1383
+C;X2;K"You moved so quickly, please wait for a while! %d"
+C;Y1387;X1;K1384
+C;X2;K"%s refused to join guild."
+C;Y1388;X1;K1385
+C;X2;K"You will disconnect from server soon. Account is logged in at another location."
+C;Y1389;X1;K1386
+C;X2;K"%s used item %s toward you."
+C;Y1390;X1;K1387
+C;X2;K"Target is too far for a trade."
+C;Y1391;X1;K1388
+C;X2;K"Current Map ID: %ld Character Amount: %d Play Amount: %d"
+C;Y1392;X1;K1389
+C;X2;K"Dead monsters on this map: %d"
+C;Y1393;X1;K1390
+C;X2;K"Save Interval %d"
+C;Y1394;X1;K1391
+C;X2;K"Hatred displayed on-off: %d"
+C;Y1395;X1;K1392
+C;X2;K"Server coordinates on-off: %d"
+C;Y1396;X1;K1393
+C;X2;K"N/A????????????"
+C;Y1397;X1;K1394
+C;X2;K"N/A????????????"
+C;Y1398;X1;K1395
+C;X2;K"Player coordinates: Map : %d | X : %d | Y : %d"
+C;Y1399;X1;K1396
+C;X2;K"Unable to find player %s."
+C;Y1400;X1;K1397
+C;X2;K"Negative EXP"
+C;Y1401;X1;K1398
+C;X2;K"Increased EXP of Player %s by %d"
+C;Y1402;X1;K1399
+C;X2;K"No selected monster."
+C;Y1403;X1;K1400
+C;X2;K"Failed to seek monster! Current monster ID: %d"
+C;Y1404;X1;K1401
+C;X2;K"You did not select a monster."
+C;Y1405;X1;K1402
+C;X2;K"Monster's AI: %d"
+C;Y1406;X1;K1403
+C;X2;K"Monster ID: %d, Monster's Target ID: %d"
+C;Y1407;X1;K1404
+C;X2;K"Monster's skill ID: %d, Skill Grade: %d"
+C;Y1408;X1;K1405
+C;X2;K"Monster Map ID: %d,X : %d,Y : %d"
+C;Y1409;X1;K1406
+C;X2;K"Monster's Destination: X : %d,Y : %d"
+C;Y1410;X1;K1407
+C;X2;K"Monster's Hatred toward you: %d"
+C;Y1411;X1;K1408
+C;X2;K"Player gained hatred from monster: %d"
+C;Y1412;X1;K1409
+C;X2;K"Monster Target Map: %d,X : %d,Y : %d"
+C;Y1413;X1;K1410
+C;X2;K"No selected target."
+C;Y1414;X1;K1411
+C;X2;K"Unable to invite player, you don't have a guild."
+C;Y1415;X1;K1412
+C;X2;K"Player you invited does not exist or is offline."
+C;Y1416;X1;K1413
+C;X2;K"Map Reset Time: %d ms"
+C;Y1417;X1;K1414
+C;X2;K"Target is too far to scan."
+C;Y1418;X1;K1415
+C;X2;K"Unable to send a duel request, target is too far away."
+C;Y1419;X1;K1416
+C;X2;K"Target is already in a duel."
+C;Y1420;X1;K1417
+C;X2;K"Unable to decompose expired item."
+C;Y1421;X1;K1418
+C;X2;K"Damage Hatred reduced by: %d Current Hatred: %d"
+C;Y1422;X1;K1419
+C;X2;K"Hatred reduced by: %d Current Hatred: %d"
+C;Y1423;X1;K1420
+C;X2;K"%s is promoted to the rank of  %d leader!"
+C;Y1424;X1;K1421
+C;X2;K"Battle of the Immortals Online [Version : %d] "
+C;Y1425;X1;K1422
+C;X2;K"%s<left %d seconds>"
+C;Y1426;X1;K1423
+C;X2;K"You will be teleported to (%s)"
+C;Y1427;X1;K1424
+C;X2;K"Please select the Combination Item."
+C;Y1428;X1;K1425
+C;X2;K"Quest <%s> "
+C;Y1429;X1;K1426
+C;X2;K"%s %d second "
+C;Y1430;X1;K1427
+C;X2;K"%s defeated %s in a duel."
+C;Y1431;X1;K1428
+C;X2;K"Unknown target."
+C;Y1432;X1;K1429
+C;X2;K"You are leaving the duel area. You will lose the duel in %d seconds."
+C;Y1433;X1;K1430
+C;X2;K"Validation Time left: %d second(s)"
+C;Y1434;X1;K1431
+C;X2;K"Time up."
+C;Y1435;X1;K1432
+C;X2;K"Male"
+C;Y1436;X1;K1433
+C;X2;K"Female"
+C;Y1437;X1;K1434
+C;X2;K"Guild <%s>'s credit is %d"
+C;Y1438;X1;K1435
+C;X2;K"Guild <%s> has become the new master of the main city."
+C;Y1439;X1;K1436
+C;X2;K"Players online=%ld"
+C;Y1440;X1;K1437
+C;X2;K"%s joined the party."
+C;Y1441;X1;K1438
+C;X2;K"%s left the party."
+F;Y1442;X1
+C;K1439
+F;SM173;X2
+C;K"%s is struck by %s, dealing %d."
+C;Y1443;X1;K1440
+C;X2;K"Guild members have reached maximum member %d."
+C;Y1444;X1;K1441
+C;X2;K"Shorter than Chatting Cooldown of Warcry channel, %d seconds left."
+C;Y1445;X1;K1442
+C;X2;K"Shorter than Chatting Cooldown of World channel, %d seconds left."
+C;Y1446;X1;K1443
+C;X2;K"Money earned: %d"
+C;Y1447;X1;K1444
+C;X2;K"EXP earned: %d"
+C;Y1448;X1;K1445
+C;X2;K"Skill EXP earned: %d"
+C;Y1449;X1;K1446
+C;X2;K"Item earned: %d"
+C;Y1450;X1;K1447
+C;X2;K"[url=1%d]%s[/url] whispers: %s"
+C;Y1451;X1;K1448
+C;X2;K"You whisper to [url=1%d]%s[/url]: %s"
+C;Y1452;X1;K1449
+C;X2;K"Character does not exist or is offline."
+C;Y1453;X1;K1450
+C;X2;K"Glacier City War is over! The main city is breached."
+C;Y1454;X1;K1451
+C;X2;K"Nothing happened."
+C;Y1455;X1;K1452
+C;Y1456;K1453
+C;Y1457;K1454
+C;Y1458;K1455
+C;Y1459;K1456
+C;Y1460;K1457
+C;Y1461;K1458
+C;Y1462;K1459
+C;Y1463;K1460
+C;Y1464;K1461
+C;Y1465;K1462
+C;Y1466;K1463
+C;Y1467;K1464
+C;Y1468;K1465
+C;Y1469;K1466
+C;Y1470;K1467
+C;Y1471;K1468
+C;Y1472;K1469
+C;Y1473;K1470
+C;X2;K"You make friends with %s."
+C;Y1474;X1;K1471
+C;X2;K"%s refused your request."
+C;Y1475;X1;K1472
+C;X2;K"You have deleted your friend %s."
+C;Y1476;X1;K1473
+C;X2;K"You have added %s to Blocked."
+C;Y1477;X1;K1474
+C;X2;K"%s has become your Foe."
+C;Y1478;X1;K1475
+C;X2;K"Your Friend, %s, is online."
+C;Y1479;X1;K1476
+C;X2;K"Your Friend, %s, is offline."
+C;Y1480;X1;K1477
+C;X2;K"Player has a special relationship with you and cannot be deleted."
+C;Y1481;X1;K1478
+C;X2;K"Player has a special relationship with you cannot be added to your Blocked list."
+C;Y1482;X1;K1479
+C;Y1483;K1480
+C;X2;K"You are banned from chatting by a GM."
+C;Y1484;X1;K1481
+C;X2;K"Insufficient energy to speak."
+C;Y1485;X1;K1482
+C;X2;K"Speaking time left: %d seconds."
+C;Y1486;X1;K1483
+C;X2;K"Unable to speak in Warcry channel without a Warcry Trumpet."
+C;Y1487;X1;K1484
+C;Y1488;K1485
+C;Y1489;K1486
+C;Y1490;K1487
+C;Y1491;K1488
+C;Y1492;K1489
+C;Y1493;K1490
+C;X2;K"Your pet list is full. Dismiss a pet or buy a Pet Slot Extension."
+C;Y1494;X1;K1491
+C;X2;K"Skillbook can not be used on a Pet while in combat."
+C;Y1495;X1;K1492
+C;X2;K"Pets in combat cannot be melded."
+C;Y1496;X1;K1493
+C;X2;K"Pet level is too low to meld."
+C;Y1497;X1;K1494
+C;X2;K"Unable to meld. Meld times at Maximum."
+C;Y1498;X1;K1495
+C;X2;K"Unable to meld. Insufficient Loyalty."
+C;Y1499;X1;K1496
+C;X2;K"Unable to meld. Gender does not match."
+C;Y1500;X1;K1497
+C;X2;K"Unable to meld. Race does not match."
+C;Y1501;X1;K1498
+C;X2;K"You character level is too low to summon this Pet."
+C;Y1502;X1;K1499
+C;X2;K"Unable to begin combat. Insufficient Loyalty."
+C;Y1503;X1;K1500
+C;X2;K"Unable to get Pet right now."
+C;Y1504;X1;K1501
+C;X2;K"No Pet in Stash."
+C;Y1505;X1;K1502
+C;X2;K"Unable to use this action. The Pet is in combat."
+C;Y1506;X1;K1503
+C;X2;K"Meld succeeded. Please ask NPC to accept it in 5 hours."
+C;Y1507;X1;K1504
+C;X2;K"Pet Level is too high to get EXP."
+C;Y1508;X1;K1505
+C;X2;K"Pets of different generations can not be melded."
+C;Y1509;X1;K1506
+C;X2;K"Unable to meld Mutated Pet."
+C;Y1510;X1;K1507
+C;X2;K"Pet Level is too low to learn."
+C;Y1511;X1;K1508
+C;X2;K"Pet got EXP: %d"
+C;Y1512;X1;K1509
+C;X2;K"Your Pet's Loyalty is full."
+C;Y1513;X1;K1510
+C;X2;K"Please fortify it after cancelling Mount."
+C;Y1514;X1;K1511
+C;X2;K"Target's Mount cannot carry more players."
+C;Y1515;X1;K1512
+C;X2;K"Unable to fortify this Mount."
+C;Y1516;X1;K1513
+C;X2;K"Insufficient Fortify Materials."
+C;Y1517;X1;K1514
+C;X2;K"Failed to fortify Mount."
+C;Y1518;X1;K1515
+C;X2;K"Succeeded at fortifying Mount."
+C;Y1519;X1;K1516
+C;X2;K"Unable to use other class' exclusive Mount."
+C;Y1520;X1;K1517
+C;X2;K"After making a continuous efforts, The hero [url=1%d]%s[/url] has finally fortified the Mount [color=FFFFD323]<%s> to Grade %d [color=FFFFD323]<%s>."
+C;Y1521;X1;K1518
+C;X2;K"Target in riding, vending, or PvP status cannot invite other players to ride."
+C;Y1522;X1;K1519
+C;Y1523;K1520
+C;X2;K"Only party can apply."
+C;Y1524;X1;K1521
+C;X2;K"There must be two players in a party."
+C;Y1525;X1;K1522
+C;X2;K"You are not qualified to be a master. You need to complete the quest of Gallaja in Atlantis at level 45."
+C;Y1526;X1;K1523
+C;X2;K"Target level is too high to be your Disciple."
+C;Y1527;X1;K1524
+C;X2;K"Target level is higher than you."
+C;Y1528;X1;K1525
+C;X2;K"Target has a master already."
+C;Y1529;X1;K1526
+C;X2;K"You must be friends to establish a master/apprentice relationship."
+C;Y1530;X1;K1527
+C;X2;K"You are siblings or a couple already. You cannot establish a tutorship."
+C;Y1531;X1;K1528
+C;X2;K"Your Disciple List is full."
+C;Y1532;X1;K1529
+C;X2;K"%s becomes your Master."
+C;Y1533;X1;K1530
+C;X2;K"%s becomes your Disciple."
+C;Y1534;X1;K1531
+C;X2;K"Target is not your Disciple."
+C;Y1535;X1;K1532
+C;X2;K"Target is not your Master."
+C;Y1536;X1;K1533
+C;X2;K"You and %s peacefully dissolved your Tutorship."
+C;Y1537;X1;K1534
+C;X2;K"You expelled Disciple <%s>."
+C;Y1538;X1;K1535
+C;X2;K"Your master <%s> expelled you."
+C;Y1539;X1;K1536
+C;X2;K"You rebelled against your master."
+C;Y1540;X1;K1537
+C;X2;K"Your Disciple <%s> rebelled against you."
+C;Y1541;X1;K1538
+C;X2;K"You are not the party leader. Please call your leader here."
+C;Y1542;X1;K1539
+C;X2;K"Target refused to be your Master."
+C;Y1543;X1;K1540
+C;X2;K"Target refused to be your Disciple."
+C;Y1544;X1;K1541
+C;X2;K"Please let your Master lead you here to finish your apprenticeship."
+C;Y1545;X1;K1542
+C;X2;K"Target's level is too low to be your Disciple."
+C;Y1546;X1;K1543
+C;X2;K"Your Disciple refused to dissolve the Tutorship."
+C;Y1547;X1;K1544
+C;X2;K"Your target is too far away to use this action."
+C;Y1548;X1;K1545
+C;X2;K"Your character level is lower than the Relic Activation Grade."
+C;Y1549;X1;K1546
+C;X2;K"After making a continuous efforts, The hero [url=1%d]%s[/url] has finally fortified the Relic [color=FFFFD323]<%s> to Grade %d."
+C;Y1550;X1;K1547
+C;Y1551;K1548
+C;Y1552;K1549
+C;Y1553;K1550
+C;X2;K"Unable to send a mail without an envelope."
+C;Y1554;X1;K1551
+C;X2;K"Failed to send mail."
+C;Y1555;X1;K1552
+C;X2;K"Unable to send mail to players in your Blocked list."
+C;Y1556;X1;K1553
+C;X2;K"System busy, please try again later."
+C;Y1557;X1;K1554
+C;X2;K"Failed to send mail. Player does not exist or is offline."
+C;Y1558;X1;K1555
+C;Y1559;K1556
+C;Y1560;K1557
+C;Y1561;K1558
+C;Y1562;K1559
+C;Y1563;K1560
+C;X2;K"Your Safety Settings are currently active."
+C;Y1564;X1;K1561
+C;X2;K"Your Safety Settings have been changed."
+C;Y1565;X1;K1562
+C;X2;K"New Safety Settings will be valid in 3 days."
+C;Y1566;X1;K1563
+C;X2;K"Incorrect Safety Password."
+C;Y1567;X1;K1564
+C;X2;K"Protection Settings set successfully."
+C;Y1568;X1;K1565
+C;X2;K"Temporary Cancel succeeded."
+C;Y1569;X1;K1566
+C;X2;K"Safety Password changed successful"
+C;Y1570;X1;K1567
+C;X2;K"Safety Password set successful"
+C;Y1571;X1;K1568
+C;X2;K"Password will be cancelled in 7 days."
+C;Y1572;X1;K1569
+C;X2;K"Password has already been restored."
+C;Y1573;X1;K1570
+C;X2;K"day"
+C;Y1574;X1;K1571
+C;X2;K"hour"
+C;Y1575;X1;K1572
+C;X2;K"minute"
+C;Y1576;X1;K1573
+C;X2;K"Your Safety Settings will in "
+C;Y1577;X1;K1574
+C;X2;K"Your Safety Password in "
+C;Y1578;X1;K1575
+C;X2;K"will be changed."
+C;Y1579;X1;K1576
+C;X2;K" will be cleared."
+C;Y1580;X1;K1577
+C;Y1581;K1578
+C;Y1582;K1579
+C;Y1583;K1580
+C;X2;K"You do not have a Trainer License."
+C;Y1584;X1;K1581
+C;X2;K"Your Pet acquired %d points Loyalty."
+C;Y1585;X1;K1582
+C;X2;K"You need a team to Meld Pets."
+C;Y1586;X1;K1583
+C;X2;K"A team with two players can Meld Pets."
+C;Y1587;X1;K1584
+C;X2;K"Pet's Quality is too low to decompose.\nYou need a Pet of at least Amazing Quality to decompose it."
+C;Y1588;X1;K1585
+C;X2;K"You do not have a Basic Pet Gem."
+C;Y1589;X1;K1586
+C;X2;K"You do not have a Medium Pet Gem."
+C;Y1590;X1;K1587
+C;X2;K"You do not have an Advanced Pet Gem."
+C;Y1591;X1;K1588
+C;X2;K"You captured a %s successfully."
+C;Y1592;X1;K1589
+C;X2;K"After making a continuous efforts, The hero [url=1%d]%s[/url] has finally fortified the Pet [url=2%llu]<%s>[/url] to Grade %d."
+C;Y1593;X1;K1590
+C;X2;K"Your bag is full. Please leave at least 1 slot open to acknowledge your master."
+C;Y1594;X1;K1591
+C;X2;K"Target's bag is full. The process of acknowledging master has been interrupted."
+C;Y1595;X1;K1592
+C;X2;K"You cannot use Wings of Disciple without a master."
+C;Y1596;X1;K1593
+C;X2;K"Awaiting partner's acknowledgement."
+C;Y1597;X1;K1594
+C;X2;K"Unable to finish your apprenticeship. You have not reached Level 60."
+C;Y1598;X1;K1595
+C;X2;K"Unable to finish tutorship. Your Disciple has not reached Level 60."
+C;Y1599;X1;K1596
+C;X2;K"Congratulations, you reached Level 60. You can finish tutorship now."
+C;Y1600;X1;K1597
+C;Y1601;K1598
+C;Y1602;K1599
+C;Y1603;K1600
+C;Y1604;K1601
+C;Y1605;K1602
+C;X2;K"After making continuous efforts, The hero [url=1%d]%s[/url] has finally made the  Pet [url=2%llu]<%s>[/url] Reincarnate!"
+C;Y1606;X1;K1603
+C;X2;K"Target does not have enough money."
+C;Y1607;X1;K1604
+C;X2;K"After making continuous efforts, The hero [url=1%d]%s[/url] has finally fortified [url=3%llu]<%s>[/url] to Grade %d."
+C;Y1608;X1;K1605
+C;X2;K"After making a continuous effort, The hero [url=1%d]%s[/url] has finally embedded <%s> in [url=3%llu]<%s>[/url] perfectly. All Gem attribute increased by 10%."
+C;Y1609;X1;K1606
+C;X2;K"After making a continuous effort, The hero [url=1%d]%s[/url] has finally embeds <%s> in [url=3%llu]<%s>[/url]."
+C;Y1610;X1;K1607
+C;Y1611;K1608
+C;Y1612;K1609
+C;Y1613;K1610
+C;X2;K"Congratulations, your Pet learned a new skill."
+C;Y1614;X1;K1611
+C;X2;K"Your Pet's HP and Mana are full."
+C;Y1615;X1;K1612
+C;X2;K"No Pet Remedy."
+C;Y1616;X1;K1613
+C;X2;K"No Pet in combat status."
+C;Y1617;X1;K1614
+C;X2;K"Unable to revise. Pet revised at maximum."
+C;Y1618;X1;K1615
+C;X2;K"Your Pet has learned this skill already."
+C;Y1619;X1;K1616
+C;X2;K"<%s> has committed countless crimes. To punish such misbehavior, lightning will strike them dead."
+C;Y1620;X1;K1617
+C;X2;K"Pet of second generation can not rebirth."
+C;Y1621;X1;K1618
+C;X2;K"Unable to learn this skill. Skill type does not match skill slot."
+C;Y1622;X1;K1619
+C;X2;K"Current skill grade is higher than the skill you want to learn."
+C;Y1623;X1;K1620
+C;Y1624;K1621
+C;X2;K"You gained Pet <%s>."
+C;Y1625;X1;K1622
+C;X2;K"You lost Pet <%s>."
+C;Y1626;X1;K1623
+C;X2;K"You gained Mount <%s>."
+C;Y1627;X1;K1624
+C;X2;K"You lost Mount <%s>."
+C;Y1628;X1;K1625
+C;X2;K"Party successful."
+C;Y1629;X1;K1626
+C;X2;K"Unable to leave your party. Party Leader must dismiss party."
+C;Y1630;X1;K1627
+C;X2;K"Target is Party Leader already."
+C;Y1631;X1;K1628
+C;X2;K"Party is full."
+C;Y1632;X1;K1629
+C;X2;K"Invitation sent, awaiting response."
+C;Y1633;X1;K1630
+C;X2;K"You have Blocked target or target has Blocked you."
+C;Y1634;X1;K1631
+C;X2;K"Unable to remove seal from Pet in combat."
+C;Y1635;X1;K1632
+C;X2;K"Unable to change Pet's skill slot attribute when Pet is in combat."
+C;Y1636;X1;K1633
+C;X2;K"Successfully added skill slot."
+C;Y1637;X1;K1634
+C;X2;K"Failed to add a skill slot."
+C;Y1638;X1;K1635
+C;Y1639;K1636
+C;X2;K"Unable to add skill slot. No Seal Removal Stone."
+C;Y1640;X1;K1637
+C;X2;K"Unable to polish. An item is required."
+C;Y1641;X1;K1638
+C;X2;K"Unable to remove seal. Skill slot at maximum."
+C;Y1642;X1;K1639
+C;X2;K"Unable to get Wings of Disciple. You need to be a disciple first."
+C;Y1643;X1;K1640
+C;X2;K"Congratulations! <%s>'s disciple <%s> reached level %d. Both of them acquired generous EXP and Honor."
+C;Y1644;X1;K1641
+C;X2;K"Congratulations!<%s>'s disciple <%s> finished their tutorship. Both of them acquired generous EXP and Honor."
+C;Y1645;X1;K1642
+C;X2;K"The hero [url=1%d]%s[/url] has successfully combined items to create [url=3%llu]<%s>[/url]."
+C;Y1646;X1;K1643
+C;X2;K"Congratulations! You activate 5 bag slots successfully."
+C;Y1647;X1;K1644
+C;X2;K"You acquired 5 bag slots as a reward for charging for the first time."
+C;Y1648;X1;K1645
+C;X2;K"Congratulations! You reached level 30. You will receive 5 new bag slots as a gift."
+C;Y1649;X1;K1646
+C;X2;K"Unable to complete quest! Bag is full."
+C;Y1650;X1;K1647
+C;X2;K"Target is offline or is in another party."
+C;Y1651;X1;K1648
+C;X2;K"Party member [url=1%d]%s[/url] picks up [url=3%llu]<%s>[/url]."
+C;Y1652;X1;K1649
+C;Y1653;K1650
+C;X2;K"Unable to read Identify Spell of this LV. Your identifying spell capability is insufficient."
+C;Y1654;X1;K1651
+C;X2;K"Identify Scroll of this level can not identify this item."
+C;Y1655;X1;K1652
+C;X2;K"The hero [url=1%d]%s[/url] identified the treasure [url=3%llu]<%s>[/url] successfully."
+C;Y1656;X1;K1653
+C;X2;K"The hero [url=1%d]%s[/url] used an Identify Spell made by [url=1%d]%s[/url] and identified the treasure [url=3%llu]<%s>[/url] successfully."
+C;Y1657;X1;K1654
+C;X2;K"The hero [url=1%d]%s[/url] has identified the treasure <%s> successfully, by using the Identify Spell."
+C;Y1658;X1;K1655
+C;X2;K"The hero [url=1%d]%s[/url] has acquired the Melded Pet [url=2%llu]<%s>[/url]."
+C;Y1659;X1;K1656
+C;X2;K"Upgrade is cancelled. Return to Tech Point <%d>, coin <%d>."
+C;Y1660;X1;K1657
+C;X2;K"<%s> please meld your Pet after receiving a Melded Pet."
+C;Y1661;X1;K1658
+C;X2;K"Your Disciple has finished their tutorship already!"
+C;Y1662;X1;K1659
+C;X2;K"You have finished your tutorship already!"
+C;Y1663;X1;K1660
+C;X2;K"You have registered successfully. If you want to register again, please wait 1 hour."
+C;Y1664;X1;K1661
+C;X2;K"%s seeks a master's guidance."
+C;Y1665;X1;K1662
+C;X2;K"%s seeks an apprentice."
+C;Y1666;X1;K1663
+C;X2;K"Due to your massacre, Odin strikes you dead with lighting in order to punish such a misbehavior."
+C;Y1667;X1;K1664
+C;X2;K"Guild is upgraded to level %d."
+C;Y1668;X1;K1665
+C;X2;K"Guild Belief LV <%s> is upgraded to level %d."
+C;Y1669;X1;K1666
+C;X2;K"Unable to attend test! You have attended the test %d times this week."
+C;Y1670;X1;K1667
+C;X2;K"Unable to attend test on Sunday! You have attended the test less than %d times this week."
+C;Y1671;X1;K1668
+C;X2;K"Alliance succeed."
+C;Y1672;X1;K1669
+C;X2;K"Target refused your Alliance request."
+C;Y1673;X1;K1670
+C;X2;K"Target refused to join your Alliance."
+C;Y1674;X1;K1671
+C;X2;K"You can receive Melded Pet."
+C;Y1675;X1;K1672
+C;X2;K"Your Pet is bound with a soul of a higher level."
+C;Y1676;X1;K1673
+C;X2;K"You have not stored required item."
+C;Y1677;X1;K1674
+C;X2;K"Required item missing for upgrading Stash."
+C;Y1678;X1;K1675
+C;X2;K"Incorrect NPC request order."
+C;Y1679;X1;K1676
+C;Y1680;K1677
+C;Y1681;K1678
+C;Y1682;K1679
+C;Y1683;K1680
+C;X2;K"Guild member %s is killed by %s."
+C;Y1684;X1;K1681
+C;X2;K"Congratulations! Guild %s has upgraded to level %d."
+C;Y1685;X1;K1682
+C;X2;K"With Tech Upgrade Stone in your bag, you can upgrade your Tech to [%d] Type."
+C;Y1686;X1;K1683
+C;X2;K"Tech Upgrade Stone in your bag is expired."
+C;Y1687;X1;K1684
+C;X2;K"Upgrade list is full."
+C;Y1688;X1;K1685
+C;X2;K"Failed to request upgrade. Skill at maximum."
+C;Y1689;X1;K1686
+C;X2;K"Failed to request upgrade."
+C;Y1690;X1;K1687
+C;X2;K"Failed to request upgrade. You have not learned a skill of this type."
+C;Y1691;X1;K1688
+C;X2;K"Tech Type does not exist."
+C;Y1692;X1;K1689
+C;Y1693;K1690
+C;X2;K"This item can not be decomposed."
+C;Y1694;X1;K1691
+C;X2;K"Host is offline. Unable to check Pet info."
+C;Y1695;X1;K1692
+C;X2;K"Insufficient bag space."
+C;Y1696;X1;K1693
+C;X2;K"Unable to find this item."
+C;Y1697;X1;K1694
+C;Y1698;K1695
+C;X2;K"This item can not be fortified."
+C;Y1699;X1;K1696
+C;X2;K"Fortify failed. Insufficient coin."
+C;Y1700;X1;K1697
+C;X2;K"Insufficient fortify grade of equipment."
+C;Y1701;X1;K1698
+C;X2;K"Insufficient material."
+C;Y1702;X1;K1699
+C;X2;K"Unable to find this item."
+C;Y1703;X1;K1700
+C;X2;K"Equipment upgrade level at maximum."
+C;Y1704;X1;K1701
+C;Y1705;K1702
+C;Y1706;K1703
+C;Y1707;K1704
+C;Y1708;K1705
+C;Y1709;K1706
+C;Y1710;K1707
+C;Y1711;K1708
+C;Y1712;K1709
+C;X2;K"The hero [url=1%d]%s[/url] acquired [url=3%llu]<%s>[/url]"
+C;Y1713;X1;K1710
+C;X2;K"Unable to receive. Insufficient bag space."
+C;Y1714;X1;K1711
+C;X2;K"No Tech Seed. Failed to accelerate research."
+C;Y1715;X1;K1712
+C;X2;K"Successfully accelerated research."
+C;Y1716;X1;K1713
+C;X2;K"Only a Party Leader can apply for this Party Instance."
+C;Y1717;X1;K1714
+C;X2;K"Only a Guild Leader can apply for this Party Instance."
+C;Y1718;X1;K1715
+C;X2;K"N/A????????"
+C;Y1719;X1;K1716
+C;X2;K"N/A????????"
+C;Y1720;X1;K1717
+C;X2;K"Failed to apply for Instance."
+C;Y1721;X1;K1718
+C;X2;K"All party members need to leave the instance. The instance will close in 3 minutes."
+C;Y1722;X1;K1719
+C;Y1723;K1720
+C;X2;K"Unable to use world channel. You must be level 20."
+C;Y1724;X1;K1721
+C;X2;K"You can use Treasure Identify Spell only at level 55."
+C;Y1725;X1;K1722
+C;X2;K"The hero %s wins %s in a lottery draw."
+C;Y1726;X1;K1723
+C;X2;K"Alliance dismissed."
+C;Y1727;X1;K1724
+C;X2;K"Guild Mail"
+C;Y1728;X1;K1725
+C;X2;K"Your guild is banished from Alliance."
+C;Y1729;X1;K1726
+C;X2;K"Guild member %s is killed by %s of guild %s."
+C;Y1730;X1;K1727
+C;X2;K"Guild %s is challenged by guild %s, but %s refused."
+C;Y1731;X1;K1728
+C;X2;K"Congratulations! You have been sent supplies from Fort Glacier in light of your battlefield achievements. Please open the attached package to claim your reward."
+C;Y1732;X1;K1729
+C;X2;K"Insufficient materials or incorrect material."
+C;Y1733;X1;K1730
+C;X2;K"You will be teleported out of Fort Glacier in %d seconds."
+C;Y1734;X1;K1731
+C;Y1735;K1732
+C;Y1736;K1733
+C;Y1737;K1734
+C;Y1738;K1735
+C;Y1739;K1736
+C;Y1740;K1737
+C;Y1741;K1738
+C;Y1742;K1739
+C;Y1743;K1740
+C;X2;K"Unable to upgrade. You do not have a Master Title."
+C;Y1744;X1;K1741
+C;X2;K"Your Honor of Master does not reach level 2."
+C;Y1745;X1;K1742
+C;X2;K"Your Honor of Master does not reach level 3."
+C;Y1746;X1;K1743
+C;X2;K"Your Honor of Master does not reach level 4."
+C;Y1747;X1;K1744
+C;X2;K"Your Honor of Master does not reach level 5."
+C;Y1748;X1;K1745
+C;X2;K"Your Honor of Master does not reach level 6."
+C;Y1749;X1;K1746
+C;X2;K"There is a tutorship already."
+C;Y1750;X1;K1747
+C;Y1751;K1748
+C;Y1752;K1749
+C;Y1753;K1750
+C;Y1754;K1751
+C;Y1755;K1752
+C;Y1756;K1753
+C;Y1757;K1754
+C;Y1758;K1755
+C;Y1759;K1756
+C;Y1760;K1757
+C;Y1761;K1758
+C;Y1762;K1759
+C;Y1763;K1760
+C;Y1764;K1761
+C;Y1765;K1762
+C;Y1766;K1763
+C;Y1767;K1764
+C;Y1768;K1765
+C;Y1769;K1766
+C;Y1770;K1767
+C;Y1771;K1768
+C;Y1772;K1769
+C;Y1773;K1770
+C;Y1774;K1771
+C;Y1775;K1772
+C;Y1776;K1773
+C;Y1777;K1774
+C;Y1778;K1775
+C;Y1779;K1776
+C;Y1780;K1777
+C;Y1781;K1778
+C;Y1782;K1779
+C;Y1783;K1780
+C;Y1784;K1781
+C;Y1785;K1782
+C;Y1786;K1783
+C;Y1787;K1784
+C;Y1788;K1785
+C;Y1789;K1786
+C;Y1790;K1787
+C;Y1791;K1788
+C;Y1792;K1789
+C;Y1793;K1790
+C;Y1794;K1791
+C;Y1795;K1792
+C;Y1796;K1793
+C;Y1797;K1794
+C;Y1798;K1795
+C;Y1799;K1796
+C;Y1800;K1797
+C;Y1801;K1798
+C;Y1802;K1799
+C;Y1803;K1800
+C;Y1804;K1801
+C;Y1805;K1802
+C;Y1806;K1803
+C;Y1807;K1804
+C;Y1808;K1805
+C;Y1809;K1806
+C;Y1810;K1807
+C;Y1811;K1808
+C;Y1812;K1809
+C;Y1813;K1810
+C;Y1814;K1811
+C;Y1815;K1812
+C;Y1816;K1813
+C;Y1817;K1814
+C;Y1818;K1815
+C;Y1819;K1816
+C;Y1820;K1817
+C;Y1821;K1818
+C;Y1822;K1819
+C;Y1823;K1820
+C;Y1824;K1821
+C;Y1825;K1822
+C;Y1826;K1823
+C;Y1827;K1824
+C;Y1828;K1825
+C;Y1829;K1826
+C;Y1830;K1827
+C;Y1831;K1828
+C;Y1832;K1829
+C;Y1833;K1830
+C;Y1834;K1831
+C;Y1835;K1832
+C;Y1836;K1833
+C;Y1837;K1834
+C;Y1838;K1835
+C;Y1839;K1836
+C;Y1840;K1837
+C;Y1841;K1838
+C;Y1842;K1839
+C;Y1843;K1840
+C;Y1844;K1841
+C;Y1845;K1842
+C;Y1846;K1843
+C;Y1847;K1844
+C;Y1848;K1845
+C;Y1849;K1846
+C;Y1850;K1847
+C;Y1851;K1848
+C;Y1852;K1849
+C;Y1853;K1850
+C;Y1854;K1851
+C;Y1855;K1852
+C;Y1856;K1853
+C;Y1857;K1854
+C;Y1858;K1855
+C;Y1859;K1856
+C;Y1860;K1857
+C;Y1861;K1858
+C;Y1862;K1859
+C;Y1863;K1860
+C;Y1864;K1861
+C;Y1865;K1862
+C;Y1866;K1863
+C;Y1867;K1864
+C;Y1868;K1865
+C;Y1869;K1866
+C;Y1870;K1867
+C;Y1871;K1868
+C;X2;K"Successfully booked a wedding. Enjoy the game."
+C;Y1872;X1;K1869
+C;X2;K"No oder. Please open Luxury Wedding Pack, which can be bought from the gods' treasures, to get it."
+C;Y1873;X1;K1870
+C;X2;K"Wedding has begun. May you both be happy."
+C;Y1874;X1;K1871
+C;X2;K"Wedding can not start. Please confirm that you and your party member match the conditions for marriage. You can ask ???? in Atlantis or ??? in Garden of Gentleness about those conditions."
+C;Y1875;X1;K1872
+C;X2;K"Successfully divorced. May you be happy single."
+C;Y1876;X1;K1873
+C;X2;K"Fail to divorce. Please confirm you are married and have enough money."
+C;Y1877;X1;K1874
+C;X2;K"%s and %s got the blessing of gods. They are holding a magnificent wedding ceremony. May they both be happy."
+C;Y1878;X1;K1875
+C;X2;K"Failed."
+C;Y1879;X1;K1876
+C;X2;K"No order sheet or you have not completed the Love Quest. You need to party with your partner while ordering."
+C;Y1880;X1;K1877
+C;X2;K"The scheduled time is expired or has been ordered by others."
+C;Y1881;X1;K1878
+C;X2;K"Your mate is not in your party. Please party with your mate to start the wedding ceremony. Only you and your mate can be in the party."
+C;Y1882;X1;K1879
+C;X2;K"Unable to start wedding. Your mate is too far away."
+C;Y1883;X1;K1880
+C;X2;K"Successfully changed password. Unable to change it for five minutes."
+C;Y1884;X1;K1881
+C;X2;K"Unable to change password. This wedding password may be changed in 5 minutes or you are not the person who ordered the wedding."
+C;Y1885;X1;K1882
+C;X2;K"No wedding record."
+C;Y1886;X1;K1883
+C;X2;K"Sorry, please let the party leader start the wedding ceremony."
+C;Y1887;X1;K1884
+C;X2;K"Last time you left at %d - %d - %d %d:%d. The IP was %s"
+C;Y1888;X1;K1885
+C;Y1889;K1886
+C;Y1890;K1887
+C;Y1891;K1888
+C;Y1892;K1889
+C;Y1893;K1890
+C;X2;K"This equipment can not be locked."
+C;Y1894;X1;K1891
+C;X2;K"Unlock successful. This equipment will be unlocked in 72 hours."
+C;Y1895;X1;K1892
+C;X2;K"Lock successful."
+C;Y1896;X1;K1893
+C;X2;K"Item locked. Unable to discard."
+C;Y1897;X1;K1894
+C;X2;K"Item locked. Unable to trade."
+C;Y1898;X1;K1895
+C;X2;K"Item locked. Unable to embed gem."
+C;Y1899;X1;K1896
+C;X2;K"Item locked. Unable to remove gem."
+C;Y1900;X1;K1897
+C;X2;K"Test EXP: %d"
+C;Y1901;X1;K1898
+C;Y1902;K1899
+C;Y1903;K1900
+C;X2;K"This item can not be decomposed."
+C;Y1904;X1;K1901
+C;X2;K"Insufficient coin to decompose."
+C;Y1905;X1;K1902
+C;X2;K"Insufficient bag space."
+C;Y1906;X1;K1903
+C;X2;K"Unable to find this item."
+C;Y1907;X1;K1904
+C;X2;K"This item can not be fortified."
+C;Y1908;X1;K1905
+C;X2;K"Insufficient Coins"
+C;Y1909;X1;K1906
+C;X2;K"Insufficient fortify grade of equipment."
+C;Y1910;X1;K1907
+C;X2;K"Insufficient material."
+C;Y1911;X1;K1908
+C;X2;K"Unable to find this item."
+C;Y1912;X1;K1909
+C;X2;K"Equipment upgrade level at maximum."
+C;Y1913;X1;K1910
+C;X2;K"Upgraded gear can be equipped at level %d. You need to reach this level before upgrading the gear."
+C;Y1914;X1;K1911
+C;X2;K"Successfully activated %s."
+C;Y1915;X1;K1912
+C;X2;K"Successfully blessed %s."
+C;Y1916;X1;K1913
+C;X2;K"The hero [url=1%d]%s[/url] was able to Activate Glow on [url=3%llu]<%s>[/url] successfully."
+C;Y1917;X1;K1914
+C;X2;K"The hero [url=1%d]%s[/url] was able to Bless their gear [url=3%llu]<%s>[/url] successfully."
+C;Y1918;X1;K1915
+C;X2;K"Your Pet is locked. Unable to vend."
+C;Y1919;X1;K1916
+C;X2;K"Your Pet is locked. Unable to trade."
+C;Y1920;X1;K1917
+C;X2;K"Your Pet is locked. Unable to remove."
+C;Y1921;X1;K1918
+C;X2;K"Your Pet is locked. Unable to decompose."
+C;Y1922;X1;K1919
+C;X2;K"Your Pet is locked. Unable to rebirth."
+C;Y1923;X1;K1920
+C;X2;K"Your Pet is locked. Unable to learn skill."
+C;Y1924;X1;K1921
+C;X2;K"Invitation sent, awaiting response."
+C;Y1925;X1;K1922
+C;X2;K" 's Party"
+C;Y1926;X1;K1923
+C;X2;K"Party name is too long"
+C;Y1927;X1;K1924
+C;X2;K"%s has offered you a beautiful flower. Your Charisma increased by %d points."
+C;Y1928;X1;K1925
+C;X2;K"%s has offered you a beautiful flower. Your Charisma increased by %d points."
+C;Y1929;X1;K1926
+C;X2;K"%s has offered you 6 beautiful flowers. Your Charisma increased by %d points."
+C;Y1930;X1;K1927
+C;X2;K"%s has offered you 6 beautiful flowers. Your Charisma increased by %d points."
+C;Y1931;X1;K1928
+C;X2;K"%s has offered you 66 beautiful flowers. Your Charisma increased by %d points."
+C;Y1932;X1;K1929
+C;X2;K"%s has offered you 66 beautiful flowers. Your Charisma increased by %d points."
+C;Y1933;X1;K1930
+C;X2;K"%s has given 99 flowers to %s. Their fraternal bond is enhanced."
+C;Y1934;X1;K1931
+C;X2;K"%s has given 99 flowers to %s. They have a profound sisterhood."
+C;Y1935;X1;K1932
+C;X2;K"%s has given 99 beautiful flowers to %s. Could this be love?"
+C;Y1936;X1;K1933
+C;X2;K"%s has given 99 beautiful flowers to %s. Could this be love?"
+C;Y1937;X1;K1934
+C;X2;K"Unable to lock an item with a term of validity."
+C;Y1938;X1;K1935
+C;X2;K"%s has made a bid to attend the Fort Glacier War."
+C;Y1939;X1;K1936
+C;X2;K"Bidding to attend the Fort Glacier War will begin soon. Guild Leaders should prepare sufficient Guild Funds for registration."
+C;Y1940;X1;K1937
+C;X2;K"Bidding to attend the Fort Glacier War will begin soon. Guild Leaders should prepare sufficient Guild Funds for registration."
+C;Y1941;X1;K1938
+C;X2;K"Bidding to attend the Fort Glacier War is over. Ask Upth for the results. A Fort Glacier Invitation will be sent to the Guild Leaders that have qualified."
+C;Y1942;X1;K1939
+C;X2;K"The Fort Glacier War will begin soon! Competing Guilds should begin their preparations!"
+C;Y1943;X1;K1940
+C;X2;K"The Fort Glacier War is starting! Competing Guild members should talk to Farmoth on realm 4 to enter the Battlefield!"
+C;Y1944;X1;K1941
+C;X2;K"The Territory War is in progress. All guild members can vote on the guild they want to win the war."
+C;Y1945;X1;K1942
+C;X2;K"The Fort Glacier War has been decided! %s is the victor and is now qualified to enter Glacier City.  Congratulations!"
+C;Y1946;X1;K1943
+C;X2;K"Your guild now does not have an Ally."
+C;Y1947;X1;K1944
+C;X2;K"Bidding to attend the Fort Glacier War has begun!"
+C;Y1948;X1;K1945
+C;X2;K"Order"
+C;Y1949;X1;K1946
+C;X2;K"Your guild has already sent a challenge to duel today."
+C;Y1950;X1;K1947
+C;X2;K"Target guild accepts your guild's duel request."
+C;Y1951;X1;K1948
+C;X2;K"You accept target guild's duel request."
+C;Y1952;X1;K1949
+C;X2;K"Target refuses your guild's duel request."
+C;Y1953;X1;K1950
+C;X2;K"You refuse target guild's duel request."
+C;Y1954;X1;K1951
+C;X2;K"Guild %s has challenged guild %s to a war."
+C;Y1955;X1;K1952
+C;X2;K"Successfully uploaded Guild icon!"
+C;Y1956;X1;K1953
+C;X2;K"The hero [url=1%d]%s[/url] upgraded [url=3%llu]<%s>[/url] successfully."
+C;Y1957;X1;K1954
+C;X2;K"Target refused Multi-Player Mount invitation."
+C;Y1958;X1;K1955
+C;X2;K"Unable to draw a lottery. Required item is not in your bag."
+C;Y1959;X1;K1956
+C;X2;K"Unable to use Battlefield channel. You are not in the Battlefield."
+C;Y1960;X1;K1957
+C;X2;K"%s's Outer Tower has been destroyed!"
+C;Y1961;X1;K1958
+C;X2;K"%s's Inner Tower has been destroyed!"
+C;Y1962;X1;K1959
+C;X2;K"%s's Fountain of Victory has been destroyed!"
+C;Y1963;X1;K1960
+C;X2;K"Guild %s's %s killed %d people without a break. Who can stop him!"
+C;Y1964;X1;K1961
+C;X2;K"Please wait %d seconds to revive."
+C;Y1965;X1;K1962
+C;X2;K"Your Outer Tower has been destroyed!"
+C;Y1966;X1;K1963
+C;X2;K"Your Inner Tower has been destroyed!"
+C;Y1967;X1;K1964
+C;X2;K"Your Fountain of Victory has been destroyed!"
+C;Y1968;X1;K1965
+C;X2;K"Fort Glacier Invitation"
+C;Y1969;X1;K1966
+C;X2;K"Guild Leader can trade Fort Glacier Invitation with five party leaders. Party Leaders can bring members to Fort Glacier."
+C;Y1970;X1;K1967
+C;X2;K"League operation is on cooldown."
+C;Y1971;X1;K1968
+C;X2;K"Congratulations for winning the Champion of Fort Glacier guild combat."
+C;Y1972;X1;K1969
+C;X2;K"Congratulations, your guild won the Champion of Fort Glacier guild combat. You are qualified to enter Fort Glacier. Your Guild leader becomes the Fort Glacier owner this week."
+C;Y1973;X1;K1970
+C;X2;K"Bliss EXP: %d"
+C;Y1974;X1;K1971
+C;X2;K"%s and %s became Allies."
+C;Y1975;X1;K1972
+C;Y1976;K1973
+C;Y1977;K1974
+C;Y1978;K1975
+C;Y1979;K1976
+C;Y1980;K1977
+C;Y1981;K1978
+C;Y1982;K1979
+C;Y1983;K1980
+C;Y1984;K1981
+C;Y1985;K1982
+C;Y1986;K1983
+C;Y1987;K1984
+C;Y1988;K1985
+C;Y1989;K1986
+C;Y1990;K1987
+C;Y1991;K1988
+C;Y1992;K1989
+C;Y1993;K1990
+C;Y1994;K1991
+C;Y1995;K1992
+C;Y1996;K1993
+C;Y1997;K1994
+C;X2;K"Alteration successful. %s has been upgraded to %s."
+C;Y1998;X1;K1995
+C;X2;K"Alteration failed. %s has been downgraded to %s. "
+C;Y1999;X1;K1996
+C;X2;K"Successfully altered %s."
+C;Y2000;X1;K1997
+C;X2;K"Failed to alter %s."
+C;Y2001;X1;K1998
+C;X2;K"Wedding books are full, unable to accept new order."
+C;Y2002;X1;K1999
+C;X2;K"Sorry, due to server maintenance your wedding was affected and your book was returned. Enjoy yourself in the game."
+C;Y2003;X1;K2000
+C;X2;K"You have booked this field today, please come tomorrow."
+C;Y2004;X1;K2001
+C;X2;K"A wedding is under preparation, please try later."
+C;Y2005;X1;K2002
+C;X2;K"Meld Pet succeeded."
+C;Y2006;X1;K2003
+C;X2;K"Fortify successful."
+C;Y2007;X1;K2004
+C;X2;K"Fortify failed."
+C;Y2008;X1;K2005
+C;X2;K"Unable to meld locked Pet."
+C;Y2009;X1;K2006
+C;X2;K"Failed to alter item. Insufficient bag space."
+C;Y2010;X1;K2007
+C;X2;K"You cannot use a Scroll of Binding while using a Multi-Player Mount."
+C;Y2011;X1;K2008
+C;X2;K"Multi-Player Mount can not use teleport to Wings of Disciple."
+C;Y2012;X1;K2009
+C;X2;K"You are not a pro any more, since a player of lower level left your party."
+C;Y2013;X1;K2010
+C;X2;K"You became a pro, since a player of lower level joined your party."
+C;Y2014;X1;K2011
+C;X2;K"Acquire 1 Charity by helping a new player kill monsters in a party."
+C;Y2015;X1;K2012
+C;X2;K"Party request refused by party leader."
+C;Y2016;X1;K2013
+C;X2;K"You are the party leader."
+C;Y2017;X1;K2014
+C;X2;K"Target is not in the party."
+C;Y2018;X1;K2015
+C;X2;K"Party leader changed to: "
+C;Y2019;X1;K2016
+C;X2;K"You have both black listed each other."
+C;Y2020;X1;K2017
+C;X2;K"However strong you are, there's always someone stronger. You are defeated by %s."
+C;Y2021;X1;K2018
+C;X2;K"Congratulations, you win this duel. You defeated %s successfully."
+C;Y2022;X1;K2019
+C;X2;K"Countdown: %d seconds left"
+C;Y2023;X1;K2020
+C;X2;K"Begin Duel now!"
+C;Y2024;X1;K2021
+C;X2;K"To enter this scene, your character level must reach %d first."
+C;Y2025;X1;K2022
+C;X2;K"Chat ban is removed."
+C;Y2026;X1;K2023
+C;X2;K"Time left: %d minutes"
+C;Y2027;X1;K2024
+C;X2;K"Death punishment is counteracted by Cloak of Protection."
+C;Y2028;X1;K2025
+C;X2;K"You used a Cloak of Protection"
+C;Y2029;X1;K2026
+C;X2;K"Current skill does not need to be learned."
+C;Y2030;X1;K2027
+C;X2;K"You have learned the skill."
+C;Y2031;X1;K2028
+C;X2;K"Failed to learn Tech skill. You are already unable to master any more types of Tech skill."
+C;Y2032;X1;K2029
+C;X2;K"Insufficient Tech Point"
+C;Y2033;X1;K2030
+C;X2;K"Insufficient cash"
+C;Y2034;X1;K2031
+C;X2;K"Research level too low"
+C;Y2035;X1;K2032
+C;X2;K"Character level too low"
+C;Y2036;X1;K2033
+C;X2;K"Tech skill capacity extended to [%d] slots."
+C;Y2037;X1;K2034
+C;X2;K"Unable to cancel. Tech skill has already been upgraded."
+C;Y2038;X1;K2035
+C;X2;K"Exhaustion at max."
+C;Y2039;X1;K2036
+C;X2;K"The new player %s is seeking guidance from a master."
+C;Y2040;X1;K2037
+C;X2;K"Master relationship with %s has been established."
+C;Y2041;X1;K2038
+C;X2;K"Use Heaven Tree Seed (purchased from event NPCs) around the Tree of Life to gain bonus EXP."
+C;Y2042;X1;K2039
+C;X2;K"Use Pilgrimage Offering (purchased from event NPCs) in Pilgrim's Temple to gain bonus EXP"
+C;Y2043;X1;K2040
+C;X2;K"Unable to acquire bonus EXP when leaving "
+C;Y2044;X1;K2041
+C;X2;K"Retribution"
+C;Y2045;X1;K2042
+C;X2;K"Combat Aid"
+C;Y2046;X1;K2043
+C;X2;K"Please wait %d second to use Perfect Revive"
+C;Y2047;X1;K2044
+C;X2;K"Please wait %d seconds to revive."
+C;Y2048;X1;K2045
+C;X2;K"Please wait %d seconds to revive in town"
+C;Y2049;X1;K2046
+C;X2;K"an enemy player."
+C;Y2050;X1;K2047
+C;X2;K"You killed %s"
+C;Y2051;X1;K2048
+C;X2;K"You don't have enough ZEN."
+C;Y2052;X1;K2049
+C;X2;K"You were killed by %s. You lost %d coins, %d EXP, and the item %s. "
+C;Y2053;X1;K2050
+C;X2;K"Requesting stop Combat Aid failed."
+C;Y2054;X1;K2051
+C;X2;K"Unable to use Combat Aid. Insufficient Energy"
+C;Y2055;X1;K2052
+C;X2;K"Help reset successfully"
+C;Y2056;X1;K2053
+C;X2;K"Unable to divorce. Your spouse is not in the same Realm as you."
+C;Y2057;X1;K2054
+C;X2;K"System Armor"
+C;Y2058;X1;K2055
+C;X2;K"Order returned."
+C;Y2059;X1;K2056
+C;X2;K"%s's Husband"
+C;Y2060;X1;K2057
+C;X2;K"%s's Wife"
+E

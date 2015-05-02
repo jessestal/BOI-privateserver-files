@@ -1,0 +1,131 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y13;X6;D0 0 12 5
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W3 3 12
+F;W8 8 15
+C;Y1;X3;ACAIN: :1 ,2???????ID :11,12 ???ID ????????????
+C;X1;K"NPCID"
+C;X2;K"OPTIONID"
+C;X3;K"Wedding Rank"
+C;Y2;X1;K"NPCID"
+C;X2;K"OptionID"
+C;X3;K"MarriageLvl"
+F;SM15;Y3;X1
+C;K1971
+C;X2;K2
+C;X3;K1
+C;X4;K"Reserved Location 1"
+F;SM15;Y4;X1
+C;K1971
+C;X2;K3
+C;X3;K1
+C;X4;K"Enter Location"
+F;SM15;Y5;X1
+C;K1972
+C;X2;K2
+C;X3;K2
+C;X4;K"Reserved Location 2"
+F;SM15;X6
+F;SM15;Y6;X1
+C;K1972
+C;X2;K3
+C;X3;K2
+C;X4;K"Enter Location"
+F;SM15;X6
+F;SM15;Y7;X1
+C;K1975
+C;X2;K2
+C;X3;K0
+C;X4;K"Hand in"
+F;SM15;X6
+F;SM15;Y8;X1
+C;K1975
+C;X2;K3
+C;X3;K11
+C;X4;K"Agreed Divorce"
+F;SM15;X6
+F;SM15;Y9;X1
+C;K1975
+C;X2;K4
+C;X3;K12
+C;X4;K"Forced Divorce"
+F;SM15;X6
+F;SM15;Y10;X1
+C;K1976
+C;X2;K2
+C;X3;K1
+C;X4;K"Start Basic Ritual"
+F;SM15;X6
+F;SM15;Y11;X1
+C;K1977
+C;X2;K2
+C;X3;K2
+C;X4;K"Start Advanced Ritual"
+F;SM15;X6
+F;SM15;Y12
+F;SM15;Y13
+E

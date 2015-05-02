@@ -1,0 +1,243 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$?-2]\ #,##0.00_);;[Red]\([$?-2]\ #,##0.00\)
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;M285
+B;Y48;X13;D0 0 47 12
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W3 3 16
+F;W5 5 14
+F;W6 6 16
+F;W7 8 17
+F;W9 9 18
+F;W10 13 17
+F;W14 14 24
+F;M5130;R3
+C;Y1;X1;K"N/A????"
+C;X2;K"Berzerker Skill"
+C;X3;K"Berzerker Item"
+C;X4;K"Champion Skill"
+C;X5;K"Champion Item"
+C;X6;K"Slayer Skill"
+C;X7;K"Slayer Item"
+C;X8;K"Magus Skill"
+C;X9;K"Magus Item"
+C;X10;K"Heretic Skill"
+C;X11;K"Heretic Item"
+C;X12;K"Summon"
+C;X13;K"Summon Item"
+C;Y2;X1;K"Level"
+C;X2;K"Skill_1"
+C;X3;K"Item_1"
+C;X4;K"Skill_2"
+C;X5;K"Item_2"
+C;X6;K"Skill_3"
+C;X7;K"Item_3"
+C;X8;K"Skill_4"
+C;X9;K"Item_4"
+C;X10;K"Skill_5"
+C;X11;K"Item_5"
+C;X12;K"Skill_6"
+C;X13;K"Item_6"
+F;Y3;X1
+C;K150
+F;X2
+C;K"[8001,7][8002,7][8003,7][8004,7][8005,7][8006,7][8007,7][8008,7][8009,7][8010,7][8011,7][8012,7][8013,7][8014,7][8015,7][8017,7][8019,7]"
+F;X3
+C;K"NULL"
+F;X4
+C;K"[8101,7][8102,7][8103,7][8104,7][8105,7][8106,7][8107,7][8108,7][8109,7][8110,7][8111,7][8112,7][8113,7][8114,7][8115,7][8116,7][8117,7][8119,7]"
+F;X5
+C;K"NULL"
+F;X6
+C;K"NULL"
+F;X7
+C;K"NULL"
+F;X8
+C;K"NULL"
+F;X9
+C;K"NULL"
+F;X10
+C;K"NULL"
+F;X11
+C;K"NULL"
+F;X12
+C;K"NULL"
+F;X13
+C;K"NULL"
+F;P0;FG0L;Y40;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y41;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y42;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y43;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y44;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y45;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y46;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y47;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+F;P0;FG0L;Y48;X4
+F;P0;FG0L;X5
+F;P0;FG0L;X6
+F;P0;FG0L;X7
+F;P0;FG0L;X8
+F;P0;FG0L;X9
+E

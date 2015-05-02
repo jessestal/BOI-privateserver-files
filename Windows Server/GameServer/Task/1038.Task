@@ -1,0 +1,171 @@
+[Accept_ActionTime] 0
+[Accept_ActionType] 0
+[Accept_Action] 
+[Accept_Apprenticeship] 0
+[Accept_Brother] 0
+[Accept_Buff] 0 0
+[Accept_Chairman] 0
+[Accept_Day] 1
+[Accept_EffectNpcID] 0
+[Accept_EffectType] 0
+[Accept_Effect] 
+[Accept_FamilyLevel] 0
+[Accept_FamilyOffer] 0
+[Accept_FamilySkill] 0 0
+[Accept_FieldLevel] 0
+[Accept_Foregift] 0
+[Accept_GobalPreTaskID] 0
+[Accept_GodLevel] 0
+[Accept_GuildBuild] 0 0
+[Accept_Header] 0
+[Accept_Level] 69 200 0
+[Accept_MapID] 0
+[Accept_Map] 0 0 0 0 0
+[Accept_Mode] 0
+[Accept_Month] 1
+[Accept_NeedItem2] 0 0
+[Accept_NeedItem3] 0 0
+[Accept_NeedItem4] 0 0
+[Accept_NeedItem] 0 0
+[Accept_NpcID] 276
+[Accept_NpcType] 0
+[Accept_PK] 0
+[Accept_PlayerSkill] 0 0
+[Accept_PreTaskFailed] 0
+[Accept_PreTask] 1037 1
+[Accept_Prestige] 0 0
+[Accept_Profession] 0
+[Accept_Sex] 0
+[Accept_Shaikh] 0
+[Accept_Spouse] 0
+[Accept_TeamMember] 0
+[Accept_Time] 0 0
+[Accept_Title] 0
+[Accept_Turnon] 0
+[Accept_WeekDaily] 0
+[Accept_Week] 0
+[Accept_X] 0
+[Accept_Y] 0
+[Base_AddBuff] 0 0
+[Base_AdviseTeam] 0
+[Base_AutoDeleteItem] 0
+[Base_BelongMapID] 8
+[Base_CanBeCancel] 1
+[Base_CanBeRepeat] 0
+[Base_Close] 0
+[Base_Difficulty] 2
+[Base_Item2] 0 0
+[Base_Item3] 0 0
+[Base_Item4] 0 0
+[Base_Item] 0 0
+[Base_Map] 0 0 0 0 0
+[Base_MaxComTimes] 0
+[Base_MonsterID] 0
+[Base_Type] 2
+[Base_VisableLvl] 1
+[Base_Visable] 1
+[Complete_AutoDeleteItem] 1
+[Complete_Buff] 0 0
+[Complete_KFBattle] 0
+[Complete_Map] 0 0 0 0 0
+[Complete_Mode] 0
+[Complete_MonsMap] 0 0 0 0 0
+[Complete_Monster1] 0 0
+[Complete_Monster2] 0 0
+[Complete_Monster3] 0 0
+[Complete_NeedFightPower] 0
+[Complete_NeedItem1] 12267 10
+[Complete_NeedItem2] 0 0
+[Complete_NeedItem3] 0 0
+[Complete_NeedItem4] 0 0
+[Complete_NeedItem5] 0 0
+[Complete_NpcID] 276
+[Complete_NpcType] 0
+[Complete_Pet1] 0 0 0
+[Complete_Pet2] 0 0 0
+[Complete_Pet3] 0 0 0
+[Complete_PetSoul1] 0 0
+[Complete_PetSoul2] 0 0
+[Complete_PetSoul3] 0 0
+[Complete_PlayerSkill] 0 0
+[Complete_ProtectNpcCount] 0
+[Complete_ProtectNpcID] 0
+[Complete_RoleLevel] 0
+[Complete_RoleMoney] 0
+[Complete_TitleIDss] 0
+[Complete_WaitSecond] 0
+[Failed_PlayerOffline] 0
+[Failed_RoleDead] 0
+[Failed_TimeLimit] 0
+[Reward_ActionTime] 0
+[Reward_ActionType] 0
+[Reward_Action] 
+[Reward_BoardcastPosition] 0
+[Reward_BoardcastType] 0
+[Reward_CompleteMaxCount] 0
+[Reward_EffectNpcID] 0
+[Reward_EffectType] 0
+[Reward_Effect] 
+[Reward_Failed_Buff] 0 0
+[Reward_Failed_DoubleExpTime] 0
+[Reward_Failed_Exp] 0
+[Reward_Failed_FamilyOffer] 0
+[Reward_Failed_FamilySkill] 0 0
+[Reward_Failed_FieldValue] 0
+[Reward_Failed_GuildOffer] 0
+[Reward_Failed_Item10] 0 0
+[Reward_Failed_Item1] 0 0
+[Reward_Failed_Item2] 0 0
+[Reward_Failed_Item3] 0 0
+[Reward_Failed_Item4] 0 0
+[Reward_Failed_Item5] 0 0
+[Reward_Failed_Item6] 0 0
+[Reward_Failed_Item7] 0 0
+[Reward_Failed_Item8] 0 0
+[Reward_Failed_Item9] 0 0
+[Reward_Failed_Map] 0 0 0
+[Reward_Failed_Money] 0
+[Reward_Failed_PK] 0
+[Reward_Failed_PackItem] 0 0
+[Reward_Failed_Prestige] 0 0
+[Reward_Failed_RefreshMap] 0 0 0 0 0
+[Reward_Failed_RefreshMonster] 0 0
+[Reward_Failed_ResetTaskID] 0
+[Reward_Failed_TaskID] 0
+[Reward_Failed_Title] 0
+[Reward_MapID] 0
+[Reward_Modulus] 0
+[Reward_PlayerEffect] 
+[Reward_RewardType] 0
+[Reward_Script] 
+[Reward_Success_Buff] 0 0
+[Reward_Success_DoubleExpTime] 0
+[Reward_Success_Exp] 58563
+[Reward_Success_FamilyOffer] 0
+[Reward_Success_FamilySkill] 0 0
+[Reward_Success_FieldValue] 0
+[Reward_Success_GuildOffer] 0
+[Reward_Success_Honors] 0
+[Reward_Success_Item10] 0 0
+[Reward_Success_Item1] 0 0
+[Reward_Success_Item2] 0 0
+[Reward_Success_Item3] 0 0
+[Reward_Success_Item4] 0 0
+[Reward_Success_Item5] 0 0
+[Reward_Success_Item6] 0 0
+[Reward_Success_Item7] 0 0
+[Reward_Success_Item8] 0 0
+[Reward_Success_Item9] 0 0
+[Reward_Success_LimitExp] 0
+[Reward_Success_Map] 0 0 0
+[Reward_Success_Money] 3068
+[Reward_Success_PK] 0
+[Reward_Success_PackItem] 0 0
+[Reward_Success_Prestige] 0 0
+[Reward_Success_RefreshMap] 0 0 0 0 0
+[Reward_Success_RefreshMonster] 0 0
+[Reward_Success_ResetTaskID] 0
+[Reward_Success_TaskID] 0
+[Reward_Success_Title] 0
+[Reward_X] 0
+[Reward_Y] 0

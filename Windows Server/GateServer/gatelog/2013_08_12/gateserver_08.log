@@ -1,0 +1,6 @@
+2013-08-12 08:02:55 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-08-12 08:03:34 lv2:connect to manager successed
+2013-08-12 08:06:42 lv1:AU通知当前账号[1]是gm标志
+2013-08-12 08:06:48 lv1:Send Merchant info to client charid=14
+2013-08-12 08:07:30 lv2:CGateWorld::CreateEctype < uEctypeID = 15051 >
+2013-08-12 08:25:12 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed

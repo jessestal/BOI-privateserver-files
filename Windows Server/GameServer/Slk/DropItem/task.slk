@@ -1,0 +1,3407 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$?-2]\ #,##0.00_);;[Red]\([$?-2]\ #,##0.00\)
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;ETimes New Roman;M240
+P;E??;M180
+P;EArial;M210;L11
+P;E??;M210;L11
+P;E??;M200
+P;EArial;M210
+P;ETimes New Roman;M210
+P;E??;M210
+P;E??;M200;L11
+F;P0;DG0G8;M285
+B;Y543;X8;D0 0 542 7
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W1 1 9
+F;W4 4 10
+F;W5 5 19
+F;W6 6 12
+F;M315;R1
+F;M315;R2
+F;M315;R3
+F;M315;R4
+F;M315;R111
+F;M315;R113
+F;M315;R114
+F;M315;R115
+F;M315;R116
+F;M315;R117
+F;M315;R118
+F;M300;R144
+F;M300;R230
+F;M315;R303
+F;M315;R304
+F;M315;R305
+F;M315;R306
+F;M315;R434
+F;M315;R440
+F;M315;R446
+F;M315;R452
+F;M315;R458
+C;Y1;X1;Awitsun: :??ID
+C;X2;Awitsun: :??ID
+C;X3;Awitsun: :????ID
+C;X4;Awitsun: :???? :????(0~10000)
+C;Y2;X1;Awitsun: :??ID
+C;X2;Awitsun: :??ID
+C;X3;Awitsun: :????ID
+C;X4;Awitsun: :???? :????(0~10000)
+F;Y1;X1
+C;K"MonsterId"
+F;X2
+C;K"TaskId"
+F;X3
+C;K"ItemId"
+F;X4
+C;K"Probability"
+F;X5
+F;X6
+F;Y2;X1
+C;K"MonsterId"
+F;X2
+C;K"TaskId"
+F;X3
+C;K"ItemId"
+F;X4
+C;K"Probability"
+F;X5
+F;X6
+F;Y3;X1
+C;K10002
+F;X2
+C;K505
+F;X3
+C;K12208
+F;X4
+C;K1500
+F;X5
+C;K"LV5 Illusion Sandgolem"
+F;X6
+C;K"Necron Classics"
+F;Y4;X1
+C;K10004
+F;X2
+C;K513
+F;X3
+C;K12210
+F;X4
+C;K2000
+F;X5
+C;K"LV9 Wizardry Gnome"
+F;X6
+C;K"Key of the Dead"
+C;Y5;X1;K10021
+C;X2;K4046
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV37 Forkmermaid"
+C;X6;K"Golden Key"
+C;Y6;X1;K10022
+C;X2;K864
+C;X3;K12240
+C;X4;K8000
+C;X5;K"LV39 Pretty Mermaid"
+C;X6;K"Stolen Sacrifice"
+C;Y7;X1;K10024
+C;X2;K27
+C;X3;K12055
+C;X4;K4000
+C;X5;K"LV43 Ocean Guardian"
+C;X6;K"sea mushroom"
+C;Y8;X1;K10025
+C;X2;K1344
+C;X3;K12415
+C;X4;K2000
+C;X5;K"Scout Elite LV45"
+C;X6;K"Bandage"
+C;Y9;X1;K10026
+C;X2;K1344
+C;X3;K12416
+C;X4;K2000
+C;X5;K"Scout Wardemon LV47"
+C;X6;K"Pharaoh's Soul"
+C;Y10;X1;K10028
+C;X2;K928
+C;X3;K12134
+C;X4;K3000
+C;X5;K"Seahorse Drifter LV47"
+C;X6;K"Minion Incantation"
+C;Y11;X1;K10032
+C;X2;K4076
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV53 Death Coral"
+C;X6;K"Golden Key"
+C;Y12;X2;K1415
+C;X3;K12489
+C;X4;K2500
+C;X5;K"Death Coral LV53"
+C;X6;K"Coral Essence"
+C;Y13;X1;K10033
+C;X2;K992
+C;X3;K12196
+C;X4;K7000
+C;X5;K"Necrotress LV53"
+C;X6;K"Magnetic Compass"
+C;Y14;X2;K1366
+C;X3;K12463
+C;X4;K2500
+C;X5;K"Necrotress LV53"
+F;P0;FG0C;X6
+C;K"Missar's Pendant"
+C;Y15;X1;K10034
+C;X2;K1367
+C;X3;K12464
+C;X4;K10000
+C;X5;K"LV55 Bermuda Gorgon"
+F;P0;FG0L;X6
+C;K"Vague Insignia"
+C;Y16;X2;K1381
+C;X3;K12468
+C;X4;K1000
+C;X5;K"LV55 Bermuda Gorgon"
+F;P0;FG0L;X6
+C;K"Lighthouse Key"
+C;Y17;X1;K10035
+C;X2;K998
+C;X3;K12199
+C;X4;K8000
+C;X5;K"LV57 Gorgon Guardian"
+C;X6;K"Peseta Coin"
+C;Y18;X1;K10037
+C;X2;K997
+C;X3;K12198
+C;X4;K3000
+C;X5;K"LV57 Spectre"
+C;X6;K"Demon's Navigation Chart"
+C;Y19;X1;K10045
+C;X2;K1001
+C;X3;K12166
+C;X4;K2000
+C;X5;K"LV47 Gold Beetle"
+C;X6;K"Shell"
+C;Y20;X2;K928
+C;X3;K12135
+C;X4;K3000
+C;X5;K"Gold Beetle LV47 "
+C;X6;K"Goblin Incantation"
+C;Y21;X1;K10046
+C;X2;K1007
+C;X3;K12175
+C;X4;K1500
+C;X5;K"LV57 Pharaoh Squire"
+C;X6;K"Anka, the ring of life source,"
+C;Y22;X2;K4303
+C;X3;K12261
+C;X4;K500
+C;X5;K"LV57 Pharaoh Squire"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y23;X2;K4391
+C;X3;K12004
+C;X4;K3000
+C;X5;K"LV57 Pharaoh Squire"
+C;X6;K"Cracked Belt"
+C;Y24;X1;K10053
+C;X2;K1022
+C;X3;K12185
+C;X4;K7000
+C;X5;K"LV51 Jungle Sylvan"
+C;X6;K"Chaulmoogra Oil"
+C;Y25;X1;K10054
+C;X2;K4077
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV55 Lizard Zealot"
+C;X6;K"Golden Key"
+C;Y26;X2;K1029
+C;X3;K12186
+C;X4;K2500
+C;X5;K"LV55 Lizard Zealot"
+C;X6;K"Lizardman's Blood"
+C;Y27;X1;K10055
+C;X2;K1031
+C;X3;K12265
+C;X4;K3000
+C;X5;K"LV57 Nom Nom Flower"
+C;X6;K"Nom Nom Flower Pollen"
+C;Y28;X1;K10056
+C;X2;K1029
+C;X3;K12186
+C;X4;K2500
+C;X5;K"LV57 Lizard Grinder"
+C;X6;K"Lizardman's Blood"
+C;Y29;X1;K10057
+C;X2;K1030
+C;X3;K12187
+C;X4;K4000
+C;X5;K"LV59 Truth Sylvan"
+C;X6;K"Sylvan Wood"
+C;Y30;X1;K10064
+C;X2;K59
+C;X3;K12322
+C;X4;K2000
+C;Y31;X1;K10065
+C;X2;K1042
+C;X3;K12280
+C;X4;K1000
+C;X5;K"LV65 Jungle Protector"
+C;X6;K"Ashura Insignia"
+C;Y32;X2;K1046
+C;X3;K12279
+C;X4;K3000
+C;X5;K"LV67 Jungle Protector"
+C;X6;K"Jungle Protector's Leaf"
+C;Y33;X2;K59
+C;X3;K12001
+C;X4;K2000
+C;Y34;X1;K10066
+C;X2;K4089
+C;X3;K12115
+C;X4;K1000
+C;X5;K"LV69 Ashura Windrider"
+C;X6;K"Rod Part of Crystal Staff"
+C;Y35;X1;K10072
+C;X2;K1247
+C;X3;K12313
+C;X4;K3000
+C;X5;K"LV63 Desert Bladeant"
+C;X6;K"Ant Crop"
+C;Y36;X2;K1433
+C;X3;K12500
+C;X4;K1000
+C;X5;K"LV63 Desert Bladeant"
+C;X6;K"Bladeant Leg Carapace"
+C;Y37;X1;K10073
+C;X2;K1251
+C;X3;K12315
+C;X4;K10000
+C;X5;K"LV65 Wasteland Gnawer"
+C;X6;K"Crimson Crystal"
+C;Y38;X2;K1433
+C;X3;K12501
+C;X4;K10000
+C;X5;K"LV65 Wasteland Gnawer"
+C;X6;K"Water Sac"
+C;Y39;X1;K10074
+C;X2;K4106
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV67 Fiendish Antblade"
+C;X6;K"Golden Key"
+C;Y40;X2;K1253
+C;X3;K12043
+C;X4;K3000
+C;X5;K"LV67 Fiendish Antblade"
+C;X6;K"Fake Horus' Eye Charm"
+C;Y41;X2;K51
+C;X3;K12316
+C;X4;K1500
+C;X5;K"LV67 Fiendish Antblade"
+C;X6;K"Horus' Eye Charm"
+C;Y42;X1;K10075
+C;X2;K4429
+C;X3;K12512
+C;X4;K10000
+C;X5;K"Desert Venomlizard-LV69"
+C;X6;K"Scale Crystal"
+C;Y43;X1;K10076
+C;X2;K4119
+C;X3;K12118
+C;X4;K5000
+C;X5;K"LV71 Shrine Lizard"
+C;X6;K"Lizard Meat"
+C;Y44;X2;K4429
+C;X3;K12512
+C;X4;K10000
+C;X5;K"LV71 Shrine Lizard"
+C;X6;K"Scale Crystal"
+C;Y45;X2;K1467
+C;X3;K12546
+C;X4;K10000
+C;X5;K"Shrine Lizard-LV71"
+C;X6;K"Stunned Shrine Lizard"
+C;Y46;X1;K10077
+C;X2;K1259
+C;X3;K12319
+C;X4;K3000
+C;X5;K"LV73 Oasis Sylvan"
+F;P0;FG0L;X6
+C;K"Spirit Crystal Necklace"
+C;Y47;X1;K10081
+C;X2;K908
+C;X3;K12301
+C;X4;K1000
+C;X5;K"LV75 Grime Slither"
+C;X6;K"Grime Slither Tail"
+C;Y48;X2;K619
+C;X3;K12063
+C;X4;K4000
+C;X5;K"Grime Slither LV75"
+C;X6;K"Robbed Water Bag"
+C;Y49;X2;K1470
+C;X3;K12551
+C;X4;K10000
+C;X5;K"Grime Slither-LV75"
+C;X6;K"Grime Slither Foot"
+C;Y50;X1;K10082
+C;X2;K621
+C;X3;K12071
+C;X4;K3500
+C;X5;K"Gold Sandman LV77"
+C;X6;K"Gold Grain"
+C;Y51;X1;K10084
+C;X2;K1472
+C;X3;K12552
+C;X4;K10000
+C;X5;K"Dryland Sunflower-LV81"
+C;X6;K"Dryland Sunflower Root"
+C;Y52;X1;K10085
+C;X2;K635
+C;X3;K12114
+C;X4;K6000
+C;X5;K"Grave Searcher LV81"
+C;X6;K"Robbed Commodity"
+C;Y53;X1;K10088
+C;X2;K1606
+C;X3;K12626
+C;X4;K10000
+C;X5;K"Divine Beetle-LV85"
+C;X6;K"Remains of the Scarab"
+C;Y54;X1;K10091
+C;X2;K1267
+C;X3;K12304
+C;X4;K7000
+C;X5;K"LV61 Forest Guardian"
+C;X6;K"Thorny Vines"
+C;Y55;X2;K1559
+C;X3;K12611
+C;X4;K2000
+C;X5;K"LV61 Forest Guardian"
+C;X6;K"Thorn Stem"
+C;Y56;X1;K10092
+C;X2;K1268
+C;X3;K12305
+C;X4;K3000
+C;X5;K"LV63 Forest Defender"
+F;P0;FG0L;X6
+C;K"Temple Blueprint"
+C;Y57;X2;K1412
+C;X3;K12487
+C;X4;K10000
+C;X5;K"Forest Defender LV63"
+C;X6;K"Healthy Tree Sprout"
+C;Y58;X1;K10095
+C;X2;K1276
+C;X3;K12308
+C;X4;K7000
+C;X5;K"LV67 Goblin Wizard"
+C;X6;K"Stolen Ore"
+C;Y59;X2;K4117
+C;X3;K12117
+C;X4;K10000
+C;X5;K"LV67 Goblin Wizard"
+C;X6;K"Wizard Mark"
+C;Y60;X1;K10097
+C;X2;K1550
+C;X3;K12591
+C;X4;K1000
+C;X5;K"Dwarf Berserker-LV69"
+C;X6;K"Filter Seeds"
+C;Y61;X1;K10101
+C;X2;K4107
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV71 minotaur"
+C;X6;K"Golden Key"
+C;Y62;X2;K1287
+C;X3;K12326
+C;X4;K6000
+C;X5;K"LV71 Minotaur"
+C;X6;K"Oxhorn"
+C;Y63;X2;K610
+C;X3;K12065
+C;X4;K7000
+C;X5;K"Minotaur LV71 "
+C;X6;K"Bloody Axe"
+C;Y64;X2;K1551
+C;X3;K12592
+C;X4;K1000
+C;X5;K"Minotaur LV71 "
+C;X6;K"Suitable Minotaur Head"
+C;Y65;X1;K10102
+C;X2;K1295
+C;X3;K12329
+C;X4;K6000
+C;X5;K"LV75 Diabolic Wolf"
+C;X6;K"Diabolic Wolf Claw"
+C;Y66;X2;K609
+C;X3;K12064
+C;X4;K7000
+C;X5;K"Diabolic Wolf LV75"
+C;X6;K"Stringy Wolf Meat"
+C;Y67;X2;K1460
+C;X3;K12539
+C;X4;K2000
+C;X5;K"Diabolic Wolf-LV75"
+C;X6;K"Wolf Mane"
+C;Y68;X2;K1578
+C;X3;K12594
+C;X4;K2000
+C;X5;K"Diabolic Wolf-LV75"
+C;X6;K"Diabolic Wolf's Blood"
+C;Y69;X1;K10103
+C;X2;K609
+C;X3;K12064
+C;X4;K7000
+C;X5;K"Karth's Child LV77"
+C;X6;K"Stringy Wolf Meat"
+C;Y70;X1;K10104
+C;X2;K1462
+C;X3;K12541
+C;X4;K10000
+C;X5;K"Modo Warrior-LV77"
+C;X6;K"Modo Horned Cap"
+C;Y71;X2;K1561
+C;X3;K12603
+C;X4;K1000
+C;X5;K"Modo Warrior-LV77"
+C;X6;K"Modo Berzerker's Necklace"
+C;Y72;X1;K10107
+C;X2;K1290
+C;X3;K12327
+C;X4;K6000
+C;X5;K"LV73 Bloodhoof Tramper"
+C;X6;K"Oxhorn's Jewel"
+C;Y73;X2;K4392
+C;X3;K12005
+C;X4;K3000
+C;X5;K"LV73 Bloodhoof Tramper"
+C;X6;K"Cracked Armor"
+C;Y74;X2;K1461
+C;X3;K12540
+C;X4;K10000
+C;X5;K"Bloodhoof Tramper-LV73"
+C;X6;K"Minotaur Prisoner"
+C;Y75;X1;K10111
+C;X2;K4136
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV81 Glacier Wold"
+C;X6;K"Golden Key"
+C;Y76;X2;K579
+C;X3;K12074
+C;X4;K3000
+C;X5;K"Glacier Wold LV81"
+C;X6;K"Icicle Fang"
+C;Y77;X1;K10112
+C;X2;K1527
+C;X3;K12613
+C;X4;K4000
+C;X5;K"Thunder Leopard-LV83"
+C;X6;K"Thunder Leopard Teeth"
+C;Y78;X1;K10113
+C;X2;K4136
+C;X3;K12152
+C;X4;K5000
+C;X5;K"Centaur Sentinel LV83"
+C;X6;K"Golden Key"
+C;Y79;X1;K10114
+C;X2;K4137
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV85 Armored Polar Bear"
+C;X6;K"Golden Key"
+C;Y80;X2;K587
+C;X3;K12078
+C;X4;K3000
+C;X5;K"Armored Polar Bear LV85 "
+C;X6;K"Ice Bear Palm"
+C;Y81;X2;K1591
+C;X3;K12624
+C;X4;K3500
+C;X5;K"Armored Polar Bear LV85 "
+C;X6;K"Ice-frozen Fur"
+C;Y82;X2;K1612
+C;X3;K12631
+C;X4;K500
+C;X5;K"Armored Polar Bear LV85 "
+C;X6;K"Armored Polar Bear's Gallbladder"
+C;Y83;X1;K10115
+C;X2;K4137
+C;X3;K12152
+C;X4;K5000
+C;X5;K"Centaur Drunk LV85"
+C;X6;K"Golden Key"
+C;Y84;X1;K10116
+C;X2;K4393
+C;X3;K12006
+C;X4;K3000
+C;X5;K"LV87Veeb Sentry"
+C;X6;K"Cracked Gloves"
+C;Y85;X1;K10123
+C;X2;K760
+C;X3;K12109
+C;X4;K3000
+C;X5;K"Icicle Wolf LV87"
+C;X6;K"Icicle Wolf's Fur"
+C;Y86;X1;K10124
+C;X2;K765
+C;X3;K12112
+C;X4;K3000
+C;X5;K"Icejaw Howler LV89"
+C;X6;K"Icejaw Howler Meat"
+C;Y87;X1;K10174
+C;X2;K605
+C;X3;K12057
+C;X4;K5000
+C;X5;K"Blazing Champion LV95"
+C;X6;K"Lava Blood"
+C;Y88;X1;K10372
+C;X2;K1064
+C;X3;K12192
+C;X4;K7000
+C;X5;K"LV27 Wild Octopus"
+C;X6;K"Golden Crown"
+C;Y89;X2;K539
+C;X3;K12037
+C;X4;K3000
+C;X5;K"Wild Octopus-LV27"
+C;X6;K"Sapphire Necklace"
+C;Y90;X2;K745
+C;X3;K64150
+C;X4;K2000
+C;X5;K"Wild Octopus-LV27"
+C;X6;K"Octopus Blood"
+C;Y91;X1;K10381
+C;X2;K1214
+C;X3;K12262
+C;X4;K5000
+C;X5;K"LV31 Seahorse Swordsman"
+C;X6;K"Broken Sword"
+C;Y92;X1;K10383
+C;X2;K1365
+C;X3;K12466
+C;X4;K2000
+C;X5;K"Vile Terrorfish LV35"
+C;X6;K"Frenzied Soul"
+C;Y93;X1;K10391
+C;X2;K1217
+C;X3;K12284
+C;X4;K5000
+C;X5;K"LV37 Ocean Giant"
+C;X6;K"Confined Spiritan"
+C;Y94;X2;K1365
+C;X3;K12467
+C;X4;K2000
+C;X5;K"Ocean Giant LV37 "
+C;X6;K"Giant's Hammer"
+C;Y95;X1;K10382
+C;X2;K90
+C;X3;K12649
+C;X4;K10000
+C;X5;K"Bloody Terrorfish LV33"
+C;X6;K"White Fishscale"
+C;Y96;X1;K10392
+C;X2;K4047
+C;X3;K12152
+C;X4;K5000
+C;X5;K"LV39 Vile Ocean Giant"
+C;X6;K"Golden Key"
+C;Y97;X2;K1206
+C;X3;K12252
+C;X4;K6000
+C;X5;K"LV39 Vile Ocean Giant"
+C;X6;K"Obsidian Spirit"
+C;Y98;X1;K10393
+C;X2;K1076
+C;X3;K12214
+C;X4;K5000
+C;X5;K"LV39 Ocean Piranha"
+C;X6;K"Oceanblue Crystal Ring"
+C;Y99;X1;K10401
+C;X2;K4390
+C;X3;K12003
+C;X4;K3000
+C;X5;K"LV41 Seahorse Pikeman"
+C;X6;K"Cracked Helm"
+C;Y100;X1;K10411
+C;X2;K1082
+C;X3;K12009
+C;X4;K4000
+C;X5;K"LV47 Naga Warrior"
+C;X6;K"Sentry Captain's Letter"
+C;Y101;X1;K10413
+C;X2;K1034
+C;X3;K12264
+C;X4;K3000
+C;X5;K"LV47 Naga Rebel"
+C;X6;K"Rebel's Secret Order"
+C;Y102;X1;K10423
+C;X2;K1638
+C;X3;K12460
+C;X4;K10000
+C;X5;K"Ashura Redhead-LV75"
+C;X6;K"Shura Blood"
+C;Y103;X1;K10741
+C;X2;K981
+C;X3;K12170
+C;X4;K8000
+C;X5;K"LV21 Ranco"
+C;X6;K"Tough Tail Feather"
+C;Y104;X1;K10751
+C;X2;K742
+C;X3;K64158
+C;X4;K2000
+C;X5;K"LV25 Thorny Petal"
+C;X6;K"Easter Frond"
+C;Y105;X1;K10752
+C;X2;K907
+C;X3;K12300
+C;X4;K1000
+C;X5;K"LV27 Bloodlust Whitebear"
+C;X6;K"Complete Whitebear Hide"
+C;Y106;X2;K12
+C;X3;K12237
+C;X4;K1500
+C;Y107;X1;K10771
+C;X2;K872
+C;X3;K12291
+C;X4;K3000
+C;X5;K"LV21 Giant Crab"
+C;X6;K"crab claw meat"
+C;Y108;X1;K10773
+C;X2;K869
+C;X3;K12289
+C;X4;K1000
+C;X5;K"LV25 Angry Pompeiian"
+C;X6;K"Contest Notification"
+C;Y109;X2;K1357
+C;X3;K12431
+C;X4;K10000
+C;X5;K"LV25 Angry Pompeiian"
+C;X6;K"Pompeiian's Disguise"
+C;Y110;X1;K10775
+C;X2;K4389
+C;X3;K12002
+C;X4;K3000
+C;X5;K"LV29 Pompeiian Legend"
+C;X6;K"Cracked Pauldrons"
+F;Y111;X1
+C;K10776
+F;X2
+C;K17
+F;X3
+C;K12049
+F;X4
+C;K2000
+F;X5
+C;K"LV31 Melody Naga"
+F;X6
+C;K"Goldware"
+C;Y112;X2;K875
+C;X3;K12288
+C;X4;K10000
+C;X5;K"LV31 Melody Naga"
+C;X6;K"Adult Naga Skin"
+F;Y113;X1
+C;K10777
+F;X2
+C;K1086
+F;X3
+C;K12193
+F;X4
+C;K4000
+F;X5
+C;K"LV33 Hauten Invader"
+F;X6
+C;K"Charger's Trumpet"
+F;Y114;X1
+F;X2
+C;K22
+F;X3
+C;K12053
+F;X4
+C;K2000
+F;X5
+F;X6
+F;Y115;X1
+C;K10778
+F;X2
+C;K1335
+F;X3
+C;K12387
+F;X4
+C;K7000
+F;X5
+C;K"Void Biter-LV35"
+F;X6
+C;K"Ethyr Crystal"
+F;Y116;X1
+F;X2
+C;K22
+F;X3
+C;K12051
+F;X4
+C;K2000
+F;X5
+F;X6
+F;Y117;X1
+F;X2
+C;K25
+F;X3
+C;K12049
+F;X4
+C;K2000
+F;X5
+F;X6
+F;Y118;X1
+C;K10801
+F;X2
+C;K4313
+F;X3
+C;K12017
+F;X4
+C;K3000
+F;X5
+C;K"Seductive Maiden-LV50"
+F;X6
+C;K"Crystal Drop"
+C;Y119;X1;K10802
+C;X2;K4310
+C;X3;K12015
+C;X4;K3000
+C;X5;K"Wraith-LV55"
+C;X6;K"Enternal Soul"
+C;Y120;X2;K4313
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Wraith-LV55"
+C;X6;K"Crystal Drop"
+C;Y121;X1;K10803
+C;X2;K4311
+C;X3;K12016
+C;X4;K3000
+C;X5;K"Undead-LV60"
+C;X6;K"Queen's Legacy"
+C;Y122;X2;K4313
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Undead-LV60"
+C;X6;K"Crystal Drop"
+C;Y123;X1;K10804
+C;X2;K4313
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Orbus-LV65"
+C;X6;K"Crystal Drop"
+C;Y124;X1;K10811
+C;X2;K4403
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Scorpion-LV50"
+C;X6;K"Moremoors's Key"
+C;Y125;X1;K10812
+C;X2;K4403
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Obscure Scorpion-LV55"
+C;X6;K"Moremoors's Key"
+C;Y126;X1;K10813
+C;X2;K4403
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Spotted Spider-LV60"
+C;X6;K"Moremoors's Key"
+C;Y127;X1;K10814
+C;X2;K4403
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Beetle-LV65"
+C;X6;K"Moremoors's Key"
+C;Y128;X2;K4396
+C;X3;K12019
+C;X4;K1000
+C;X5;K"Divine Beetle-LV65"
+C;X6;K"Devoured Soul"
+C;Y129;X1;K10821
+C;X2;K4304
+C;X3;K12010
+C;X4;K2000
+C;X5;K"LV50 Anubis Soul"
+C;X6;K"Anubis's Soul"
+C;Y130;X1;K10823
+C;X2;K4307
+C;X3;K12012
+C;X4;K3000
+C;X5;K"Mitos-LV60"
+C;X6;K"Solar God's Helmet"
+C;Y131;X1;K10824
+C;X2;K4307
+C;X3;K12013
+C;X4;K3000
+C;X5;K"Mitos Warrior-LV65"
+C;X6;K"Solar God's Plate"
+C;Y132;X1;K10825
+C;X2;K4308
+C;X3;K12014
+C;X4;K2000
+C;X5;K"Mummy-LV70"
+C;X6;K"Pharaoh's Blood"
+C;Y133;X1;K10831
+C;X2;K4404
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Undead Beholder-LV50"
+C;X6;K"Hexgram Dust"
+C;Y134;X1;K10832
+C;X2;K4404
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Earth Element-LV55"
+C;X6;K"Hexgram Dust"
+C;Y135;X1;K10833
+C;X2;K4404
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Morris-LV60"
+C;X6;K"Hexgram Dust"
+C;Y136;X1;K10834
+C;X2;K4404
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Grand Morris-LV65"
+C;X6;K"Hexgram Dust"
+C;Y137;X1;K10851
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV25"
+C;X6;K"Demon Dragon's Hair"
+C;Y138;X1;K10852
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV35"
+C;X6;K"Demon Dragon's Hair"
+C;Y139;X1;K10853
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV45"
+C;X6;K"Demon Dragon's Hair"
+C;Y140;X1;K10854
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV55"
+C;X6;K"Demon Dragon's Hair"
+C;Y141;X1;K10855
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV65"
+C;X6;K"Demon Dragon's Hair"
+C;Y142;X1;K10856
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV75"
+C;X6;K"Demon Dragon's Hair"
+C;Y143;X1;K10857
+C;X2;K828
+C;X3;K12381
+C;X4;K30000
+C;X5;K"Demon Dragon-LV85"
+C;X6;K"Demon Dragon's Hair"
+F;Y144;X1
+C;K20004
+F;X2
+C;K44
+F;X3
+C;K12056
+F;X4
+C;K30000
+F;X5
+C;K"LV59 White Gorgon"
+F;X6
+C;K"White Earrings"
+C;Y145;X1;K20145
+C;X2;K1006
+C;X3;K12168
+C;X4;K10000
+C;X5;K"LV47 Gold Beetle King (Chief)"
+C;X6;K"Gold Beetle Heart"
+C;Y146;X1;K20178
+C;X2;K4119
+C;X3;K12120
+C;X4;K10000
+C;X5;K"Spino-LV71"
+C;X6;K"Blood Opal"
+C;Y147;X1;K20189
+C;X2;K910
+C;X3;K12303
+C;X4;K10000
+C;X5;K"LV75 Blood Fury"
+C;X6;K"The Necklace 'Magnificus Vox'"
+C;Y148;X1;K20201
+C;X2;K67
+C;X3;K12047
+C;X4;K10000
+C;X5;K"Minotaur Captain-LV71"
+C;X6;K"Cadmus's Axe"
+C;Y149;X1;K24046
+C;X2;K4600
+C;X3;K12058
+C;X4;K30000
+C;X5;K"Fortress Guard-LV60"
+C;X6;K"Glacial Crystals"
+C;Y150;X1;K24047
+C;X2;K4600
+C;X3;K12058
+C;X4;K30000
+C;X5;K"Fortress Guard-LV75"
+C;X6;K"Glacial Crystals"
+C;Y151;X1;K24048
+C;X2;K4600
+C;X3;K12058
+C;X4;K30000
+C;X5;K"Fortress Guard-LV90"
+C;X6;K"Glacial Crystals"
+C;Y152;X1;K24049
+C;X2;K4600
+C;X3;K12058
+C;X4;K10000
+C;X5;K"Eerie Crystal"
+C;X6;K"Glacial Crystals"
+C;Y153;X1;K20921
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV25"
+C;X6;K"Poacher's Mask"
+C;Y154;X1;K20922
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV35"
+C;X6;K"Poacher's Mask"
+C;Y155;X1;K20923
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV45"
+C;X6;K"Poacher's Mask"
+C;Y156;X1;K20924
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV55"
+C;X6;K"Poacher's Mask"
+C;Y157;X1;K20925
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV65"
+C;X6;K"Poacher's Mask"
+C;Y158;X1;K20926
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV75"
+C;X6;K"Poacher's Mask"
+C;Y159;X1;K20927
+C;X2;K912
+C;X3;K12375
+C;X4;K30000
+C;X5;K"Poacher-LV85"
+C;X6;K"Poacher's Mask"
+C;Y160;X1;K20928
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV25"
+C;X6;K"Black Short Tail"
+C;Y161;X1;K20929
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV35"
+C;X6;K"Black Short Tail"
+C;Y162;X1;K20930
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV45"
+C;X6;K"Black Short Tail"
+C;Y163;X1;K20931
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV55"
+C;X6;K"Black Short Tail"
+C;Y164;X1;K20932
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV65"
+C;X6;K"Black Short Tail"
+C;Y165;X1;K20933
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV75"
+C;X6;K"Black Short Tail"
+C;Y166;X1;K20934
+C;X2;K811
+C;X3;K12380
+C;X4;K30000
+C;X5;K"Mafia Rabbit-LV85"
+C;X6;K"Black Short Tail"
+C;Y167;X1;K20986
+C;X2;K64
+C;X3;K12324
+C;X4;K10000
+C;X5;K"LV65 Trapped Devil"
+F;P0;FG0L;X6
+C;K"Soul Stone"
+C;Y168;X1;K20993
+C;X2;K797
+C;X3;K12404
+C;X4;K30000
+C;X5;K"Time Guardian's Illusion"
+F;P0;FG0L;X6
+C;K"Chrono Hourglass"
+C;Y169;X1;K21101
+C;X2;K1477
+C;X3;K12567
+C;X4;K1000
+C;X5;K"Moss Lizard-LV49"
+C;X6;K"Moss Lizard Skin"
+C;Y170;X1;K21263
+C;X2;K1951
+C;X3;K12802
+C;X4;K2000
+C;X5;K"Emerald Dragon Islander"
+C;X6;K"Emerald Dragon Soul Shard "
+C;X7;K"N/A?"
+C;X8;K3.08
+C;Y171;X1;K21272
+C;X2;K1983
+C;X3;K12804
+C;X4;K1000
+C;X5;K"Sabretooth Tiger"
+C;X6;K"Dracan Remains"
+C;X7;K"N/A?"
+C;X8;K3.12
+C;Y172;X1;K21273
+C;X2;K1983
+C;X3;K12803
+C;X4;K1000
+C;X5;K"Ranger Beast"
+C;X6;K"Dracan Badge"
+C;X7;K"N/A?"
+C;X8;K3.12
+C;Y173;X1;K21288
+C;X2;K1730
+C;X3;K12805
+C;X4;K30000
+C;X5;K"Dim Crystal Shard "
+C;X6;K"Dim Crystal Shard "
+C;X7;K"N/A?"
+C;X8;K3.15
+C;Y174;X1;K21289
+C;X2;K1730
+C;X3;K12806
+C;X4;K30000
+C;X5;K"Dim Crystal"
+C;X6;K"Dim Crystal"
+C;X7;K"N/A?"
+C;X8;K3.15
+C;Y175;X1;K30112
+C;X2;K1204
+C;X3;K12254
+C;X4;K30000
+C;X5;K"Giant Dragon Timat"
+C;X6;K"Timat's Head"
+C;Y176;X1;K30113
+C;X2;K1207
+C;X3;K12250
+C;X4;K30000
+C;X5;K"Witch Hebron"
+C;X6;K"the Golden Trumpet filled with love"
+C;Y177;X1;K30166
+C;X2;K91
+C;X3;K12204
+C;X4;K30000
+C;X5;K"Delos LV30"
+C;X6;K"Diamond Duo Rings"
+C;Y178;X1;K30167
+C;X2;K97
+C;X3;K12141
+C;X4;K30000
+C;X5;K"Wraith Sentinel Aricheno LV47"
+C;X6;K"Upper Part of the Key"
+C;Y179;X1;K30168
+C;X2;K97
+C;X3;K12142
+C;X4;K30000
+C;X5;K"Wraith Sentinel Aricheno LV47"
+C;X6;K"Lower Part of the Key"
+C;Y180;X1;K30169
+C;X2;K19
+C;X3;K12050
+C;X4;K30000
+C;X5;K"Wraith in the Chest"
+C;X6;K"Divac's Note(Corroded)"
+C;Y181;X1;K30170
+C;X2;K19
+C;X3;K12050
+C;X4;K30000
+C;X5;K"Wraith in the Chest"
+C;X6;K"Divac's Note(Corroded)"
+C;Y182;X1;K30215
+C;X2;K1521
+C;X3;K12565
+C;X4;K10000
+C;X5;K"Abyss Prince's Hatred"
+C;X6;K"White Crown"
+C;Y183;X1;K30239
+C;X2;K815
+C;X3;K12810
+C;X4;K30000
+C;X5;K"Soul Crystal"
+C;X6;K"Soul Crystal Shard "
+C;X7;K"Wong Yao"
+C;X8;K3.3
+C;Y184;X1;K31141
+C;X2;K820
+C;X3;K12372
+C;X4;K5000
+C;X5;K"Groolin"
+C;X6;K"Lunarwave Stone"
+C;Y185;X1;K31143
+C;X2;K821
+C;X3;K12372
+C;X4;K2000
+C;X5;K"Soulreaper"
+C;X6;K"Lunarwave Stone"
+C;Y186;X1;K31145
+C;X2;K822
+C;X3;K12372
+C;X4;K2000
+C;X5;K"Dark Pixie"
+C;X6;K"Lunarwave Stone"
+C;Y187;X1;K31154
+C;X2;K823
+C;X3;K12372
+C;X4;K2000
+C;X5;K"Ear Piglet"
+C;X6;K"Lunarwave Stone"
+C;Y188;X1;K31151
+C;X2;K824
+C;X3;K12372
+C;X4;K2000
+C;X5;K"Rogue Bunny"
+C;X6;K"Lunarwave Stone"
+C;Y189;X1;K32254
+C;X2;K1735
+C;X3;K59890
+C;X4;K4000
+C;X5;K"Mysterious Energy Entity"
+C;X6;K"Energy Crystal"
+C;X7;K"Wong Iyu"
+C;X8;K3.3
+C;Y190;X1;K32255
+C;X2;K1735
+C;X3;K59891
+C;X4;K30000
+C;X5;K"Eerie Energy Entity"
+C;X6;K"Energy Essence "
+C;X7;K"Wong Iyu"
+C;X8;K3.3
+C;Y191;X1;K40083
+C;X2;K504
+C;X3;K12808
+C;X4;K30000
+C;X5;K"Water Pot"
+C;X6;K"Water Pot"
+C;Y192;X2;K339
+C;X3;K12855
+C;X4;K30000
+C;X5;K"Water Pot"
+C;X6;K"Ancient Reserve"
+C;Y193;X1;K40091
+C;X2;K520
+C;X3;K12215
+C;X4;K10000
+C;X5;K"Scorpion Lord Riddle"
+C;X6;K"Riddle Notes"
+C;Y194;X1;K40084
+C;X2;K512
+C;X3;K12809
+C;X4;K30000
+C;X5;K"Anubis"
+C;X6;K"Spear of Osiris"
+C;Y195;X1;K40111
+C;X2;K1062
+C;X3;K12190
+C;X4;K5000
+C;X5;K"Deep Ocean Chest"
+C;X6;K"Chromatic Coral Choker"
+C;Y196;X1;K40121
+C;X2;K861
+C;X3;K12238
+C;X4;K8000
+C;X5;K"Golden Lace Saddle"
+C;X6;K"Golden Lace Saddle"
+C;Y197;X1;K40123
+C;X2;K868
+C;X3;K12241
+C;X4;K10000
+C;X5;K"Trident"
+C;X6;K"Trident"
+C;Y198;X1;K40124
+C;X2;K879
+C;X3;K12293
+C;X4;K30000
+C;X5;K"Captive Mermaid"
+C;X6;K"Mermaid's Confession"
+C;Y199;X1;K40125
+C;X2;K881
+C;X3;K12295
+C;X4;K30000
+C;X5;K"Rich Lady"
+C;X6;K"Pretty Mermaid"
+C;Y200;X1;K40131
+C;X2;K1047
+C;X3;K12266
+C;X4;K10000
+C;X5;K"Giro Cyperus"
+C;X6;K"Fruit of Giro Cyperus"
+C;Y201;X1;K40134
+C;X2;K1038
+C;X3;K12267
+C;X4;K5000
+C;X5;K"Fern of Truth"
+C;X6;K"Fern of Truth"
+C;Y202;X1;K40135
+C;X2;K39
+C;X3;K12201
+C;X4;K10000
+C;X5;K"Mint"
+C;X6;K"Mint"
+C;Y203;X1;K40138
+C;X2;K1639
+C;X3;K12459
+C;X4;K10000
+C;X5;K"General Storage"
+C;X6;K"Angkor Warrior Clothing"
+C;Y204;X1;K40141
+C;X2;K993
+C;X3;K12197
+C;X4;K8000
+C;X5;K"Marsh Gas Crystalline"
+C;X6;K"Crystal Compound"
+C;Y205;X1;K40142
+C;X2;K102
+C;X3;K12144
+C;X4;K10000
+C;X5;K"Oceanwind Shipwreck"
+C;X6;K"sword Gramr's Sheath"
+C;Y206;X1;K40143
+C;X2;K999
+C;X3;K12200
+C;X4;K10000
+C;X5;K"Navigation Rudder"
+C;X6;K"Golden Rudder"
+C;Y207;X1;K40145
+C;X2;K42
+C;X3;K12211
+C;X4;K10000
+C;X5;K"Norge Kira Tree"
+C;X6;K"Devil Fruit"
+C;Y208;X1;K40152
+C;X2;K1249
+C;X3;K12314
+C;X4;K10000
+C;X5;K"Bladeant Nest"
+C;X6;K"Bladeant Egg"
+C;Y209;X1;K40153
+C;X2;K1245
+C;X3;K12312
+C;X4;K10000
+C;X5;K"Mutated Cactus"
+C;X6;K"Water from the Underground River"
+C;Y210;X2;K532
+C;X3;K12126
+C;X4;K10000
+C;X5;K"Mutated Cactus"
+C;X6;K"Fruit of Cactus"
+C;Y211;X1;K40155
+C;X2;K1255
+C;X3;K12042
+C;X4;K10000
+C;X5;K"Karnak Monument"
+C;X6;K"Real Horus' Eye Charm"
+C;Y212;X1;K40156
+C;X2;K1256
+C;X3;K12320
+C;X4;K10000
+C;X5;K"Camel"
+F;P0;FG0L;X6
+C;K"Camel Meat"
+C;Y213;X2;K1545
+C;X3;K12582
+C;X4;K10000
+C;X5;K"Camel"
+F;P0;FG0L;X6
+C;K"Tamed Camel"
+C;Y214;X1;K40157
+C;X2;K600
+C;X3;K12394
+C;X4;K10000
+C;X5;K"Magic Gold"
+C;X6;K"Magic Gold"
+C;Y215;X1;K40158
+C;X2;K1300
+C;X3;K12499
+C;X4;K10000
+C;X5;K"Family Treasure"
+C;X6;K"Family Fortune"
+C;Y216;X1;K40161
+C;X2;K629
+C;X3;K12096
+C;X4;K10000
+C;X5;K"Cactus"
+C;X6;K"Pharaoh's Coin"
+C;Y217;X1;K40163
+C;X2;K909
+C;X3;K12302
+C;X4;K3000
+C;X5;K"Mud Covered Vase"
+C;X6;K"Useless Rags"
+C;Y218;X1;K40164
+C;X2;K636
+C;X3;K12113
+C;X4;K10000
+C;X5;K"Lost Treasure"
+C;X6;K"Lost Treasure"
+C;Y219;X1;K40165
+C;X2;K618
+C;X3;K12062
+C;X4;K10000
+C;X5;K"Water Bag"
+C;X6;K"Buried Water Bag "
+C;Y220;X1;K40172
+C;X2;K1022
+C;X3;K12184
+C;X4;K10000
+C;X5;K"Violet Twig"
+C;X6;K"Crocudolor"
+C;Y221;X1;K40181
+C;X2;K1269
+C;X3;K12306
+C;X4;K10000
+C;X5;K"Metal Gold Ore"
+F;P0;FG0L;X6
+C;K"Minerals"
+C;Y222;X1;K40182
+C;X2;K1273
+C;X3;K12133
+C;X4;K10000
+C;X5;K"Sprouted Barley"
+C;X6;K"Sprouted Barley"
+C;Y223;X2;K530
+C;X3;K12125
+C;X4;K10000
+C;X5;K"Sprouted Barley"
+C;X6;K"Fresh Malt"
+C;Y224;X1;K40184
+C;X2;K1281
+C;X3;K12310
+C;X4;K10000
+C;X5;K"Chest of Curse"
+C;X6;K"Gold Ring Draupnir"
+C;Y225;X2;K1520
+C;X3;K12564
+C;X4;K10000
+C;X5;K"Chest of Curse"
+C;X6;K"Gold Ring of Curse"
+C;Y226;X1;K40185
+C;X2;K1283
+C;X3;K12311
+C;X4;K10000
+C;X5;K"Dragon Bone Fire"
+C;X6;K"Dragon Bone Fire"
+C;Y227;X1;K40191
+C;X2;K1013
+C;X3;K12169
+C;X4;K10000
+C;X5;K"Corrupting Grass"
+C;X6;K"Corrupting Grass"
+C;Y228;X2;K1386
+C;X3;K12469
+C;X4;K10000
+C;X5;K"Corrupting Grass"
+C;X6;K"Dew of Corruption"
+C;Y229;X1;K40192
+C;X2;K1240
+C;X3;K12321
+C;X4;K10000
+C;X5;K"Lumber"
+C;X6;K"Lumber"
+F;Y230;X1
+C;K40202
+F;X2
+C;K1286
+F;X3
+C;K12325
+F;X4
+C;K10000
+F;X5
+C;K"Oak Wood"
+F;X6
+C;K"Oak Wood"
+C;Y231;X1;K40203
+C;X2;K1291
+C;X3;K12328
+C;X4;K10000
+C;X5;K"Haystack"
+C;X6;K"bails of hay"
+C;Y232;X1;K40205
+C;X2;K614
+C;X3;K12060
+C;X4;K8000
+C;X5;K"Bonecorrupting Grass"
+C;X6;K"Bonecorrupting Grass's Leaf"
+C;Y233;X1;K40208
+C;X2;K1579
+C;X3;K12595
+C;X4;K10000
+C;X5;K"Herb of Light"
+C;X6;K"Herb of Light"
+C;Y234;X1;K40252
+C;X2;K1215
+C;X3;K12263
+C;X4;K10000
+C;X5;K"Lost Scale"
+C;X6;K"Shiny Scale"
+C;Y235;X1;K40253
+C;X2;K549
+C;X3;K12045
+C;X4;K10000
+C;X5;K"Red Grind Stone"
+C;X6;K"Red Grind Stone"
+C;Y236;X1;K40263
+C;X2;K1075
+C;X3;K12212
+C;X4;K5000
+C;X5;K"Herb of Rebirth"
+C;X6;K"Herb of Rebirth"
+C;Y237;X1;K40273
+C;X2;K1263
+C;X3;K12285
+C;X4;K10000
+C;X5;K"Rain Flower"
+C;X6;K"Rain Flower"
+C;Y238;X1;K40283
+C;X2;K1409
+C;X3;K12477
+C;X4;K10000
+C;X5;K"Golden Plate"
+C;X6;K"Naga Scepter"
+C;Y239;X1;K40291
+C;X2;K927
+C;X3;K12137
+C;X4;K10000
+C;X5;K"Gallaja's Chest"
+C;X6;K"Unusual Incantation"
+C;Y240;X1;K40302
+C;X2;K904
+C;X3;K12299
+C;X4;K10000
+C;X5;K"Query  Tool"
+C;X6;K"Query  Tool"
+C;Y241;X1;K40312
+C;X2;K29
+C;X3;K12191
+C;X4;K10000
+C;X5;K"Violet Vine"
+C;X6;K"Violet Vine"
+C;Y242;X1;K40332
+C;X2;K983
+C;X3;K12171
+C;X4;K10000
+C;X5;K"Volcano Rock"
+C;X6;K"Volcano Rock"
+C;Y243;X2;K2133
+C;X3;K12538
+C;X4;K10000
+C;X5;K"Volcano Rock"
+C;X6;K"Rare Volcano Ore"
+C;Y244;X1;K40333
+C;X2;K986
+C;X3;K12173
+C;X4;K10000
+C;X5;K"Ranco Wooden Plate"
+C;X6;K"Ranco Wooden Plate"
+C;Y245;X1;K40334
+C;X2;K9
+C;X3;K12236
+C;X4;K4000
+C;X5;K"Ore Pile "
+C;X6;K"First Piece"
+C;Y246;X1;K40342
+C;X2;K837
+C;X3;K12227
+C;X4;K10000
+C;X5;K"Colonist"
+C;X6;K"Exotic Spice"
+C;Y247;X2;K837
+C;X3;K12228
+C;X4;K10000
+C;X5;K"Colonist"
+C;X6;K"Hand-made Artwork"
+C;Y248;X1;K40343
+C;X2;K841
+C;X3;K12230
+C;X4;K10000
+C;X5;K"Colony Daily Supplies"
+C;X6;K"Colony Daily Supplies"
+C;Y249;X1;K40344
+C;X2;K842
+C;X3;K12231
+C;X4;K10000
+C;X5;K"Undersea Boulder"
+C;X6;K"Laws of the Emerald Volume Nine"
+C;Y250;X1;K40345
+C;X2;K846
+C;X3;K12232
+C;X4;K10000
+C;X5;K"Seacurrent Oyster"
+C;X6;K"Seacurrent Oyster"
+C;Y251;X1;K40346
+C;X2;K848
+C;X3;K12233
+C;X4;K10000
+C;X5;K"Spartan Blood Stained Armor"
+C;X6;K"Spartan Blood Stained Armor"
+C;Y252;X1;K40347
+C;X2;K849
+C;X3;K12234
+C;X4;K10000
+C;X5;K"Mana Herb"
+C;X6;K"Mana Herb"
+C;Y253;X1;K40348
+C;X2;K874
+C;X3;K12287
+C;X4;K10000
+C;X5;K"Mountain Copper"
+C;X6;K"Mountain Copper"
+C;Y254;X2;K2131
+C;X3;K12536
+C;X4;K10000
+C;X5;K"Mountain Copper"
+C;X6;K"Pure Brass"
+C;Y255;X1;K40351
+C;X2;K1201
+C;X3;K12195
+C;X4;K5000
+C;X5;K"Singing Nage"
+C;X6;K"Gorgon's Song"
+C;Y256;X1;K40352
+C;X2;K1201
+C;X3;K12195
+C;X4;K8000
+C;X5;K"Laughing Nage"
+C;X6;K"Gorgon's Song"
+C;Y257;X1;K40353
+C;X2;K1203
+C;X3;K12041
+C;X4;K3000
+C;X5;K"Stone Statue"
+C;X6;K"Shield of Geats"
+C;Y258;X1;K40355
+C;X2;K1202
+C;X3;K12245
+C;X4;K10000
+C;X5;K"Claymore Naglin"
+C;X6;K"Claymore Naglin"
+C;Y259;X1;K40362
+C;X2;K4086
+C;X3;K12025
+C;X4;K10000
+C;X5;K"Leaf Flute"
+C;X6;K"Leaf Flute"
+C;Y260;X1;K40371
+C;X2;K4305
+C;X3;K12011
+C;X4;K10000
+C;X5;K"Pharaoh's Code"
+C;X6;K"Pharaoh's Code"
+C;Y261;X5;K"Glacial Crystals"
+C;X6;K"Glacial Crystals"
+C;Y262;X1;K40401
+C;X2;K1529
+C;X3;K12605
+C;X4;K10000
+C;X5;K"Glacial Crystals"
+C;X6;K"Essence Ice Crystal"
+C;Y263;X1;K40402
+C;X2;K581
+C;X3;K12076
+C;X4;K10000
+C;X5;K"Nordic Crystal"
+C;X6;K"Ancient Glacier Prism"
+C;Y264;X1;K40403
+C;X2;K583
+C;X3;K12077
+C;X4;K10000
+C;X5;K"Ocean Charts"
+C;X6;K"Jeda's Chart"
+C;Y265;X1;K40411
+C;X2;K754
+C;X3;K12068
+C;X4;K5000
+C;X5;K"Green's Tree"
+C;X6;K"Grien Tree Twig"
+C;Y266;X2;K759
+C;X3;K12068
+C;X4;K5000
+C;X5;K"Green's Tree"
+C;X6;K"Grien Tree Twig"
+C;Y267;X1;K40412
+C;X2;K764
+C;X3;K12111
+C;X4;K10000
+C;X5;K"Dead Unicorn"
+C;X6;K"Grien Tree Twig"
+C;Y268;X1;K40422
+C;X2;K96
+C;X3;K12139
+C;X4;K10000
+C;X5;K"Burial Artifact Pile"
+C;X6;K"Black Ring"
+C;Y269;X1;K40423
+C;X2;K98
+C;X3;K12143
+C;X4;K10000
+C;X5;K"Burial Chest"
+C;X6;K"parchment"
+C;Y270;X1;K40431
+C;X2;K4415
+C;X3;K12347
+C;X4;K10000
+C;X5;K"N/A????"
+C;X6;K"N/A????"
+C;Y271;X1;K40432
+C;X2;K4416
+C;X3;K12348
+C;X4;K10000
+C;X5;K"N/A????"
+C;X6;K"N/A????"
+C;Y272;X1;K41001
+C;X2;K770
+C;X3;K12123
+C;X4;K10000
+C;X5;K"Deep Sea Oyster"
+C;X6;K"Deep Sea Pearl"
+C;Y273;X1;K41002
+C;X2;K526
+C;X3;K12124
+C;X4;K10000
+C;X5;K"Black Volcano Ore"
+C;X6;K"Black Rhyolite"
+C;Y274;X1;K41011
+C;X2;K827
+C;X3;K12376
+C;X4;K10000
+C;X5;K"Moonlight Flower"
+C;X6;K"Moonlight Flower"
+C;Y275;X1;K41012
+C;X2;K826
+C;X3;K12371
+C;X4;K10000
+C;X5;K"Ancient Stone Tablet"
+C;X6;K"Mysterious Relief"
+C;Y276;X1;K41013
+C;X2;K825
+C;X3;K12370
+C;X4;K10000
+C;X5;K"Stone Chest"
+C;X6;K"Antique"
+C;Y277;X1;K41014
+C;X2;K829
+C;X3;K12369
+C;X4;K5000
+C;X5;K"Blood Grass"
+C;X6;K"Blood Grass"
+C;Y278;X1;K41015
+C;X2;K913
+C;X3;K12366
+C;X4;K1000
+C;X5;K"Rubble"
+C;X6;K"Gadro's Tool"
+C;Y279;X1;K41016
+C;X2;K808
+C;X3;K12367
+C;X4;K10000
+C;X5;K"Morning Grass"
+C;X6;K"Morning Grass"
+C;Y280;X1;K41017
+C;X2;K809
+C;X3;K12368
+C;X4;K30000
+C;X5;K"Big Chunk of Crystal"
+C;X6;K"Big Chunk of Crystal"
+C;Y281;X1;K41018
+C;X2;K820
+C;X3;K12373
+C;X4;K5000
+C;X5;K"Mirror Lace"
+C;X6;K"Mirror Flower Petal"
+C;Y282;X2;K821
+C;X3;K12373
+C;X4;K5000
+C;X5;K"Mirror Lace"
+C;X6;K"Mirror Flower Petal"
+C;Y283;X2;K822
+C;X3;K12373
+C;X4;K5000
+C;X5;K"Mirror Lace"
+C;X6;K"Mirror Flower Petal"
+C;Y284;X2;K823
+C;X3;K12373
+C;X4;K5000
+C;X5;K"Mirror Lace"
+C;X6;K"Mirror Flower Petal"
+C;Y285;X2;K824
+C;X3;K12373
+C;X4;K5000
+C;X5;K"Mirror Lace"
+C;X6;K"Mirror Flower Petal"
+C;Y286;X1;K41031
+C;X2;K4018
+C;X3;K12449
+C;X4;K10000
+C;X5;K"Pearl Oyster"
+C;X6;K"Black Pearl"
+C;Y287;X1;K41032
+C;X2;K4019
+C;X3;K12450
+C;X4;K10000
+C;X5;K"Inscribed Slab"
+C;X6;K"Slate Carvings"
+C;Y288;X1;K41033
+C;X2;K4020
+C;X3;K12451
+C;X4;K10000
+C;X5;K"Coral Reef"
+C;X6;K"Coral"
+C;Y289;X1;K41034
+C;X2;K4021
+C;X3;K12452
+C;X4;K10000
+C;X5;K"Fishtrap"
+C;X6;K"Clown Fish"
+C;Y290;X1;K41035
+C;X2;K4022
+C;X3;K12453
+C;X4;K10000
+C;X5;K"Green Seaweed"
+C;X6;K"Seaweed"
+C;Y291;X2;K2116
+C;X3;K12535
+C;X4;K10000
+C;X5;K"Green Seaweed"
+C;X6;K"Tough Seaweed"
+C;Y292;X1;K41037
+C;X2;K4024
+C;X3;K12454
+C;X4;K10000
+C;X5;K"Lumber Pile"
+C;X6;K"Wood"
+C;Y293;X1;K41038
+C;X2;K4025
+C;X3;K12455
+C;X4;K10000
+C;X5;K"Fresh Tree Sprout"
+C;X6;K"Complete Tree Sprout"
+C;Y294;X1;K41039
+C;X2;K4026
+C;X3;K12456
+C;X4;K10000
+C;X5;K"Moai Statue"
+C;X6;K"Moai Statue"
+C;Y295;X2;K2115
+C;X3;K12534
+C;X4;K10000
+C;X5;K"Moai Statue"
+C;X6;K"Solid Stone"
+C;Y296;X1;K41040
+C;X2;K4027
+C;X3;K12457
+C;X4;K10000
+C;X5;K"Forgotten Tool"
+C;X6;K"Pickmattock"
+C;Y297;X2;K2132
+C;X3;K12537
+C;X4;K10000
+C;X5;K"Forgotten Tool"
+C;X6;K"Mining Tool"
+C;Y298;X1;K41045
+C;X2;K4431
+C;X3;K12513
+C;X4;K10000
+C;X5;K"Neverdie Poplar"
+C;X6;K"Purewhite Resin"
+C;Y299;X1;K41062
+C;X2;K2318
+C;X3;K12621
+C;X4;K10000
+C;X5;K"Solar Bird Feather"
+C;X6;K"Solar Bird Feather"
+C;Y300;X1;K41071
+C;X2;K2141
+C;X3;K12573
+C;X4;K10000
+C;X5;K"Jellyfish"
+C;X6;K"Gleamy Jellyfish"
+C;Y301;X1;K41072
+C;X2;K2135
+C;X3;K12571
+C;X4;K30000
+C;X5;K"Energy Entity"
+C;X6;K"Energy Crystal"
+C;Y302;X2;K2140
+C;X3;K12571
+C;X4;K30000
+C;X5;K"Energy Entity"
+C;X6;K"Energy Crystal"
+F;Y303;X1
+C;K50002
+F;X2
+C;K689
+F;X3
+C;K12208
+F;X4
+C;K1500
+F;X5
+C;K"LV5 Illusion Sandgolem"
+F;X6
+C;K"Necron Classics"
+F;Y304;X1
+C;K50004
+F;X2
+C;K697
+F;X3
+C;K12210
+F;X4
+C;K2000
+F;X5
+C;K"LV9 Wizardry Gnome"
+F;X6
+C;K"Key of the Dead"
+F;Y305;X1
+C;K50012
+F;X2
+C;K703
+F;X3
+C;K12208
+F;X4
+C;K1500
+F;X5
+C;K"LV5 Illusion Sandgolem"
+F;X6
+C;K"Necron Classics"
+F;Y306;X1
+C;K50014
+F;X2
+C;K711
+F;X3
+C;K12210
+F;X4
+C;K2000
+F;X5
+C;K"LV9 Wizardry Gnome"
+F;X6
+C;K"Key of the Dead"
+C;Y307;X1;K51002
+C;X2;K696
+C;X3;K12209
+C;X4;K10000
+C;X5;K"Anubis"
+C;X6;K"Spear of Osiris"
+C;Y308;X1;K51012
+C;X2;K710
+C;X3;K12209
+C;X4;K10000
+C;X5;K"Anubis"
+C;X6;K"Spear of Osiris"
+C;Y309;X1;K51021
+C;X2;K718
+C;X3;K12215
+C;X4;K10000
+C;X5;K"Wraith Scavenger-LV13"
+C;X6;K"Riddle Notes"
+C;Y310;X1;K51031
+C;X2;K732
+C;X3;K12215
+C;X4;K10000
+C;X5;K"Scorpion Lord Riddle"
+C;X6;K"Riddle Notes"
+C;Y311;X1;K51115
+C;X2;K3506
+C;X3;K12641
+C;X4;K30000
+C;X5;K"Pirate Captain Barbert"
+C;X6;K"Pirate Stamp"
+C;Y312;X2;K3524
+C;X3;K12694
+C;X4;K30000
+C;X5;K"Pirate Captain Barbert"
+C;X6;K"pirate captain's compass"
+C;Y313;X1;K51162
+C;X2;K3516
+C;X3;K12648
+C;X4;K30000
+C;X5;K"Razill"
+C;X6;K"Razill's Eye"
+C;Y314;X1;K51165
+C;X2;K3527
+C;X3;K12695
+C;X4;K30000
+C;X5;K"Efreet Sultan "
+C;X6;K"Sultan's Claw"
+C;Y315;X1;K51204
+C;X2;K3522
+C;X3;K12693
+C;X4;K30000
+C;X5;K"Trapped Dragon Emperor"
+C;X6;K"Dragon Emperor's Stamp"
+C;Y316;X1;K51248
+C;X2;K4230
+C;X3;K59552
+C;X4;K30000
+C;X5;K"Trial Adjudicator"
+C;X6;K"Badge of Trials"
+C;Y317;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Trial Adjudicator"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y318;X1;K51256
+C;X2;K4459
+C;X3;K12663
+C;X4;K30000
+C;X5;K"Blue Dragon Queen Reamlis"
+C;X6;K"Dragon's Approval"
+C;Y319;X2;K4230
+C;X3;K59553
+C;X4;K30000
+C;X5;K"Blue Dragon Queen Reamlis"
+C;X6;K"Dragon Badge"
+C;Y320;X2;K1771
+C;X3;K44146
+C;X4;K30000
+C;X5;K"Blue Dragon Queen Reamlis"
+C;X6;K"Dragon Badge"
+C;Y321;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Blue Dragon Queen Reamlis"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y322;X1;K51257
+C;X2;K4459
+C;X3;K12663
+C;X4;K30000
+C;X5;K"Yellow Dragon Queen Mara"
+C;X6;K"Dragon's Approval"
+C;Y323;X2;K4230
+C;X3;K59553
+C;X4;K30000
+C;X5;K"Yellow Dragon Queen Mara"
+C;X6;K"Dragon Badge"
+C;Y324;X2;K1771
+C;X3;K44146
+C;X4;K30000
+C;X5;K"Yellow Dragon Queen Mara"
+C;X6;K"Dragon Badge"
+C;Y325;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Yellow Dragon Queen Mara"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y326;X1;K51258
+C;X2;K4459
+C;X3;K12663
+C;X4;K30000
+C;X5;K"Violet Dragon Queen Litis"
+C;X6;K"Dragon's Approval"
+C;Y327;X2;K4230
+C;X3;K59553
+C;X4;K30000
+C;X5;K"Violet Dragon Queen Litis"
+C;X6;K"Dragon Badge"
+C;Y328;X2;K1771
+C;X3;K44146
+C;X4;K30000
+C;X5;K"Violet Dragon Queen Litis"
+C;X6;K"Dragon Badge"
+C;Y329;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Violet Dragon Queen Litis"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y330;X1;K51259
+C;X2;K4459
+C;X3;K12663
+C;X4;K30000
+C;X5;K"Green Dragon Queen Windes"
+C;X6;K"Dragon's Approval"
+C;Y331;X2;K4230
+C;X3;K59553
+C;X4;K30000
+C;X5;K"Green Dragon Queen Windes"
+C;X6;K"Dragon Badge"
+C;Y332;X2;K1771
+C;X3;K44146
+C;X4;K30000
+C;X5;K"Green Dragon Queen Windes"
+C;X6;K"Dragon Badge"
+C;Y333;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Green Dragon Queen Windes"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y334;X1;K51260
+C;X2;K4459
+C;X3;K12663
+C;X4;K30000
+C;X5;K"Red Dragon Queen Edrahm"
+C;X6;K"Dragon's Approval"
+C;Y335;X2;K4230
+C;X3;K59553
+C;X4;K30000
+C;X5;K"Red Dragon Queen Edrahm"
+C;X6;K"Dragon Badge"
+C;Y336;X2;K1771
+C;X3;K44146
+C;X4;K30000
+C;X5;K"Red Dragon Queen Edrahm"
+C;X6;K"Dragon Badge"
+C;Y337;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Red Dragon Queen Edrahm"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y338;X1;K51261
+C;X2;K4459
+C;X3;K12663
+C;X4;K30000
+C;X5;K"Dragon God Bramder's Illusion"
+C;X6;K"Dragon's Approval"
+C;Y339;X2;K4230
+C;X3;K59553
+C;X4;K30000
+C;X5;K"Dragon God Bramder's Illusion"
+C;X6;K"Dragon Badge"
+C;Y340;X2;K1771
+C;X3;K44146
+C;X4;K30000
+C;X5;K"Dragon God Bramder's Illusion"
+C;X6;K"Dragon Badge"
+C;Y341;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Dragon God Bramder's Illusion"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y342;X1;K51223
+C;X2;K1703
+C;X3;K12714
+C;X4;K30000
+C;X5;K"90 Quest "
+C;X6;K"Scorpion's Tail"
+C;Y343;X1;K51225
+C;X2;K4463
+C;X3;K12664
+C;X4;K30000
+C;X5;K"Giza Pyramid Arch Heretic"
+C;X6;K"Giza Document"
+C;Y344;X1;K51401
+C;X2;K2519
+C;X3;K12729
+C;X4;K30000
+C;X5;K"Nidhogg"
+C;X6;K"Heart of Nidhogg"
+C;Y345;X1;K51501
+C;X2;K201
+C;X3;K12773
+C;X4;K5000
+C;X5;K"Eternal Spirit"
+C;X6;K"Kind Spirit"
+C;Y346;X2;K201
+C;X3;K12774
+C;X4;K5000
+C;X5;K"Eternal Spirit"
+C;X6;K"Evil Spirit"
+C;Y347;X2;K205
+C;X3;K12781
+C;X4;K5000
+C;X5;K"Eternal Spirit"
+C;X6;K"Evil Spirit"
+C;Y348;X2;K208
+C;X3;K12781
+C;X4;K5000
+C;X5;K"Eternal Spirit"
+C;X6;K"Evil Spirit"
+C;Y349;X2;K3303
+C;X3;K12795
+C;X4;K8000
+C;X5;K"Eternal Spirit"
+C;X6;K"Good Soul"
+C;Y350;X2;K3304
+C;X3;K12796
+C;X4;K8000
+C;X5;K"Eternal Spirit"
+C;X6;K"Evil Soul"
+C;Y351;X1;K51519
+C;X2;K202
+C;X3;K12793
+C;X4;K10000
+C;X5;K"Circle of Souls"
+C;X6;K"Immortal Corona"
+C;Y352;X1;K51521
+C;X2;K3338
+C;X3;K12797
+C;X4;K8000
+C;X5;K"Lost Ghost"
+C;X6;K"Angel's Will"
+C;Y353;X2;K3339
+C;X3;K12798
+C;X4;K8000
+C;X5;K"Lost Ghost"
+C;X6;K"Demon's Will"
+C;Y354;X1;K51586
+C;X2;K186
+C;X3;K12788
+C;X4;K30000
+C;X5;K"Confession"
+C;X6;K"Confession"
+C;Y355;X1;K51594
+C;X2;K195
+C;X3;K12791
+C;X4;K30000
+C;X5;K"Weeping Wall"
+C;X6;K"Weeping Wall Debris"
+C;Y356;X1;K55059
+C;X2;K1684
+C;X3;K12711
+C;X4;K5000
+C;X5;K"90 Quest "
+C;X6;K"Tough Fur"
+C;Y357;X1;K55066
+C;X2;K149
+C;X3;K12644
+C;X4;K10000
+C;X5;K"90 Plot Quest "
+C;X6;K"Leaf of Green Bell"
+C;Y358;X1;K55067
+C;X2;K149
+C;X3;K12646
+C;X4;K10000
+C;X5;K"90 Plot Quest "
+C;X6;K"Stem of Rossica"
+C;Y359;X1;K55068
+C;X2;K152
+C;X3;K12666
+C;X4;K10000
+C;X5;K"90 Plot Quest "
+C;X6;K"Liquorice"
+C;Y360;X1;K55118
+C;X2;K150
+C;X3;K12656
+C;X4;K10000
+C;X5;K"90 Plot Quest "
+C;X6;K"Serra Tribe Classic"
+C;Y361;X1;K55070
+C;X2;K151
+C;X3;K12657
+C;X4;K10000
+C;X5;K"90 Plot Quest "
+C;X6;K"Serra Tribe Classic"
+C;Y362;X1;K55071
+C;X2;K152
+C;X3;K12662
+C;X4;K1000
+C;X5;K"90 Plot Quest "
+C;X6;K"Serra Tribe Patrol's Blood"
+C;Y363;X1;K55082
+C;X2;K1686
+C;X3;K12712
+C;X4;K10000
+C;X5;K"90 Quest "
+C;X6;K"Leaf of the Desert Hunter"
+C;Y364;X1;K55057
+C;X2;K155
+C;X3;K12681
+C;X4;K30000
+C;X5;K"90 Plot Quest "
+C;X6;K"Set's Blood"
+C;Y365;X1;K55060
+C;X2;K124
+C;X3;K12672
+C;X4;K7000
+C;X5;K"90 Plot Quest "
+C;X6;K"Fire Element Piece"
+C;Y366;X1;K55061
+C;X2;K120
+C;X3;K12671
+C;X4;K30000
+C;X5;K"90 Plot Quest "
+C;X6;K"Light Element Piece"
+C;Y367;X1;K55062
+C;X2;K122
+C;X3;K12673
+C;X4;K30000
+C;X5;K"90 Plot Quest "
+C;X6;K"Water Element Piece"
+C;Y368;X1;K55085
+C;X2;K141
+C;X3;K12700
+C;X4;K5000
+C;X5;K"90 Plot Quest "
+C;X6;K"Silver Key"
+C;Y369;X1;K55091
+C;X2;K3301
+C;X3;K12726
+C;X4;K10000
+C;X5;K"Milia's Soul"
+C;X6;K"Milia's Soul"
+C;Y370;X1;K55092
+C;X2;K3301
+C;X3;K12727
+C;X4;K3000
+C;X5;K"Herald of Death"
+C;X6;K"Captured Soul"
+C;Y371;X1;K55000
+C;X2;K175
+C;X3;K12721
+C;X4;K10000
+C;X5;K"Nemo"
+C;X6;K"Nemo's XXX"
+C;Y372;X2;K175
+C;X3;K12722
+C;X4;K10000
+C;X5;K"Nemo"
+C;X6;K"Nemo's XXX"
+C;Y373;X2;K175
+C;X3;K12723
+C;X4;K10000
+C;X5;K"Nemo"
+C;X6;K"Nemo's XXX"
+C;Y374;X1;K55063
+C;X2;K154
+C;X3;K12745
+C;X4;K30000
+C;X5;K"Duel Proof"
+C;X6;K"Tutak Quest"
+C;Y375;X1;K55173
+C;X2;K2523
+C;X3;K12746
+C;X4;K30000
+C;X5;K"Crystal Rose"
+C;X6;K"The Angle"
+C;Y376;X2;K2524
+C;X3;K12746
+C;X4;K30000
+C;X5;K"Crystal Rose"
+C;X6;K"The Angle"
+C;Y377;X2;K2525
+C;X3;K12746
+C;X4;K30000
+C;X5;K"Crystal Rose"
+C;X6;K"The Angle"
+C;Y378;X1;K59113
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Pride"
+C;X6;K"Evil Spirit Fragment"
+C;Y379;X1;K59114
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Envy"
+C;X6;K"Evil Spirit Fragment"
+C;Y380;X1;K59115
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Sloth"
+C;X6;K"Evil Spirit Fragment"
+C;Y381;X1;K59116
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Avarice"
+C;X6;K"Evil Spirit Fragment"
+C;Y382;X1;K59117
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Gluttony"
+C;X6;K"Evil Spirit Fragment"
+C;Y383;X1;K59118
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Lust"
+C;X6;K"Evil Spirit Fragment"
+C;Y384;X1;K59119
+C;X2;K235
+C;X3;K12765
+C;X4;K30000
+C;X5;K"Evil Spirit - Wrath"
+C;X6;K"Evil Spirit Fragment"
+C;Y385;X1;K59121
+C;X2;K238
+C;X3;K12768
+C;X4;K30000
+C;X5;K"Tyr's Spirit Sword(False)"
+C;X6;K"Tyr's Spirit Sword"
+C;Y386;X1;K59134
+C;X2;K68
+C;X3;K12066
+C;X4;K30000
+C;X5;K"Selene-XIV"
+C;X6;K"Dragon Selene's Head"
+C;Y387;X1;K21200
+C;X2;K1747
+C;X3;K12814
+C;X4;K30000
+C;X5;K"Bleat Slayer "
+C;X6;K"Ancient Scroll"
+C;Y388;X1;K10182
+C;X2;K1752
+C;X3;K12818
+C;X4;K30000
+C;X5;K"Risen Gladiator"
+C;X6;K"Dragon Coin"
+C;Y389;X1;K10183
+C;X2;K1751
+C;X3;K12817
+C;X4;K1000
+C;X5;K"Risen Vanguard"
+C;X6;K"Ash Flesh"
+C;Y390;X1;K30274
+C;X2;K282
+C;X3;K12820
+C;X4;K30000
+C;X5;K"Pantheon Ore"
+C;X6;K"Pantheon Ore"
+C;Y391;X1;K21206
+C;X2;K281
+C;X3;K12819
+C;X4;K5000
+C;X5;K"Berzerker Spirit"
+C;X6;K"Soulblade Shard"
+C;Y392;X1;K30309
+C;X2;K287
+C;X3;K44116
+C;X4;K30000
+C;X5;K"Crystal Pillar"
+C;X6;K"White Crystal Heart (West)"
+C;Y393;X2;K304
+C;X3;K44116
+C;X4;K30000
+C;X5;K"Crystal Pillar"
+C;X6;K"White Crystal Heart (West)"
+C;Y394;X1;K30310
+C;X2;K287
+C;X3;K44117
+C;X4;K30000
+C;X5;K"Crystal Pillar"
+C;X6;K"White Crystal Heart (East)"
+C;Y395;X2;K304
+C;X3;K44117
+C;X4;K30000
+C;X5;K"Crystal Pillar"
+C;X6;K"White Crystal Heart (East)"
+C;Y396;X1;K30295
+C;X2;K273
+C;X3;K12822
+C;X4;K30000
+C;X5;K"Angel Statue"
+C;X6;K"Statue Fragments"
+C;Y397;X1;K11226
+C;X2;K4150
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y398;X2;K4151
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y399;X2;K4152
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y400;X2;K4153
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y401;X2;K4154
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y402;X2;K4155
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y403;X1;K11227
+C;X2;K4150
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y404;X2;K4151
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y405;X2;K4152
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y406;X2;K4153
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y407;X2;K4154
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y408;X2;K4155
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y409;X1;K11228
+C;X2;K4150
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y410;X2;K4151
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y411;X2;K4152
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y412;X2;K4153
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y413;X2;K4154
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y414;X2;K4155
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y415;X1;K11229
+C;X2;K4150
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y416;X2;K4151
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y417;X2;K4152
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y418;X2;K4153
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y419;X2;K4154
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y420;X2;K4155
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y421;X1;K11230
+C;X2;K4150
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y422;X2;K4151
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y423;X2;K4152
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y424;X2;K4153
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y425;X2;K4154
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y426;X2;K4155
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y427;X1;K11231
+C;X2;K4150
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y428;X2;K4151
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y429;X2;K4152
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y430;X2;K4153
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y431;X2;K4154
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y432;X2;K4155
+C;X3;K12261
+C;X4;K500
+C;X5;K"Pharaoh's Guard"
+C;X6;K"Charm of Pharaoh's Guard"
+C;Y433;X1;K30316
+C;X2;K297
+C;X3;K12826
+C;X4;K30000
+C;X5;K"Staff of Hades"
+C;X6;K"Staff of Hades"
+F;Y434;X1
+C;K11241
+F;X2
+C;K1775
+F;X3
+C;K12017
+F;X4
+C;K3000
+F;X5
+C;K"Seductive Maiden"
+F;X6
+C;K"Crystal Drop"
+C;Y435;X1;K11242
+C;X2;K1773
+C;X3;K12015
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Enternal Soul"
+C;Y436;X2;K1775
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Crystal Drop"
+C;Y437;X1;K11243
+C;X2;K1774
+C;X3;K12016
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Queen's Legacy"
+C;Y438;X2;K1775
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Crystal Drop"
+C;Y439;X1;K11244
+C;X2;K1775
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Orbus"
+C;X6;K"Crystal Drop"
+F;Y440;X1
+C;K11291
+F;X2
+C;K1783
+F;X3
+C;K12017
+F;X4
+C;K3000
+F;X5
+C;K"Seductive Maiden"
+F;X6
+C;K"Crystal Drop"
+C;Y441;X1;K11292
+C;X2;K1781
+C;X3;K12015
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Enternal Soul"
+C;Y442;X2;K1783
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Crystal Drop"
+C;Y443;X1;K11293
+C;X2;K1782
+C;X3;K12016
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Queen's Legacy"
+C;Y444;X2;K1783
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Crystal Drop"
+C;Y445;X1;K11294
+C;X2;K1783
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Orbus"
+C;X6;K"Crystal Drop"
+F;Y446;X1
+C;K11341
+F;X2
+C;K1791
+F;X3
+C;K12017
+F;X4
+C;K3000
+F;X5
+C;K"Seductive Maiden"
+F;X6
+C;K"Crystal Drop"
+C;Y447;X1;K11342
+C;X2;K1789
+C;X3;K12015
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Enternal Soul"
+C;Y448;X2;K1791
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Crystal Drop"
+C;Y449;X1;K11343
+C;X2;K1790
+C;X3;K12016
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Queen's Legacy"
+C;Y450;X2;K1791
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Crystal Drop"
+C;Y451;X1;K11344
+C;X2;K1791
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Orbus"
+C;X6;K"Crystal Drop"
+F;Y452;X1
+C;K11391
+F;X2
+C;K1799
+F;X3
+C;K12017
+F;X4
+C;K3000
+F;X5
+C;K"Seductive Maiden"
+F;X6
+C;K"Crystal Drop"
+C;Y453;X1;K11392
+C;X2;K1797
+C;X3;K12015
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Enternal Soul"
+C;Y454;X2;K1799
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Crystal Drop"
+C;Y455;X1;K11393
+C;X2;K1798
+C;X3;K12016
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Queen's Legacy"
+C;Y456;X2;K1799
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Crystal Drop"
+C;Y457;X1;K11394
+C;X2;K1799
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Orbus"
+C;X6;K"Crystal Drop"
+F;Y458;X1
+C;K11441
+F;X2
+C;K1807
+F;X3
+C;K12017
+F;X4
+C;K3000
+F;X5
+C;K"Seductive Maiden"
+F;X6
+C;K"Crystal Drop"
+C;Y459;X1;K11442
+C;X2;K1805
+C;X3;K12015
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Enternal Soul"
+C;Y460;X2;K1807
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Wraith"
+C;X6;K"Crystal Drop"
+C;Y461;X1;K11443
+C;X2;K1806
+C;X3;K12016
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Queen's Legacy"
+C;Y462;X2;K1807
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Undead"
+C;X6;K"Crystal Drop"
+C;Y463;X1;K11444
+C;X2;K1807
+C;X3;K12017
+C;X4;K3000
+C;X5;K"Orbus"
+C;X6;K"Crystal Drop"
+C;Y464;X1;K11251
+C;X2;K1776
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Sacred Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y465;X1;K11252
+C;X2;K1776
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Nether Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y466;X1;K11253
+C;X2;K1776
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Spotted Spider"
+C;X6;K"Moremoors's Key"
+C;Y467;X1;K11254
+C;X2;K1776
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Beetle"
+C;X6;K"Moremoors's Key"
+C;Y468;X1;K11301
+C;X2;K1784
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Sacred Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y469;X1;K11302
+C;X2;K1784
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Nether Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y470;X1;K11303
+C;X2;K1784
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Spotted Spider"
+C;X6;K"Moremoors's Key"
+C;Y471;X1;K11304
+C;X2;K1784
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Beetle"
+C;X6;K"Moremoors's Key"
+C;Y472;X1;K11351
+C;X2;K1792
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Sacred Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y473;X1;K11352
+C;X2;K1792
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Nether Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y474;X1;K11353
+C;X2;K1792
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Spotted Spider"
+C;X6;K"Moremoors's Key"
+C;Y475;X1;K11354
+C;X2;K1792
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Beetle"
+C;X6;K"Moremoors's Key"
+C;Y476;X1;K11401
+C;X2;K1800
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Sacred Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y477;X1;K11402
+C;X2;K1800
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Nether Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y478;X1;K11403
+C;X2;K1800
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Spotted Spider"
+C;X6;K"Moremoors's Key"
+C;Y479;X1;K11404
+C;X2;K1800
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Beetle"
+C;X6;K"Moremoors's Key"
+C;Y480;X1;K11451
+C;X2;K1808
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Sacred Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y481;X1;K11452
+C;X2;K1808
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Nether Scorpion"
+C;X6;K"Moremoors's Key"
+C;Y482;X1;K11453
+C;X2;K1808
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Spotted Spider"
+C;X6;K"Moremoors's Key"
+C;Y483;X1;K11454
+C;X2;K1808
+C;X3;K12034
+C;X4;K3000
+C;X5;K"Divine Beetle"
+C;X6;K"Moremoors's Key"
+C;Y484;X1;K11261
+C;X2;K1777
+C;X3;K12010
+C;X4;K2000
+C;X5;K"Anubis Soul"
+C;X6;K"Anubis's Soul"
+C;Y485;X1;K11263
+C;X2;K1778
+C;X3;K12012
+C;X4;K3000
+C;X5;K"Mitos"
+C;X6;K"Solar God's Helmet"
+C;Y486;X1;K11264
+C;X2;K1778
+C;X3;K12013
+C;X4;K3000
+C;X5;K"Mitos Warrior"
+C;X6;K"Solar God's Plate"
+C;Y487;X1;K11265
+C;X2;K1779
+C;X3;K12014
+C;X4;K2000
+C;X5;K"Mummy"
+C;X6;K"Pharaoh's Blood"
+C;Y488;X1;K11311
+C;X2;K1785
+C;X3;K12010
+C;X4;K2000
+C;X5;K"Anubis Soul"
+C;X6;K"Anubis's Soul"
+C;Y489;X1;K11313
+C;X2;K1786
+C;X3;K12012
+C;X4;K3000
+C;X5;K"Mitos"
+C;X6;K"Solar God's Helmet"
+C;Y490;X1;K11314
+C;X2;K1786
+C;X3;K12013
+C;X4;K3000
+C;X5;K"Mitos Warrior"
+C;X6;K"Solar God's Plate"
+C;Y491;X1;K11315
+C;X2;K1787
+C;X3;K12014
+C;X4;K2000
+C;X5;K"Mummy"
+C;X6;K"Pharaoh's Blood"
+C;Y492;X1;K11361
+C;X2;K1793
+C;X3;K12010
+C;X4;K2000
+C;X5;K"Anubis Soul"
+C;X6;K"Anubis's Soul"
+C;Y493;X1;K11363
+C;X2;K1794
+C;X3;K12012
+C;X4;K3000
+C;X5;K"Mitos"
+C;X6;K"Solar God's Helmet"
+C;Y494;X1;K11364
+C;X2;K1794
+C;X3;K12013
+C;X4;K3000
+C;X5;K"Mitos Warrior"
+C;X6;K"Solar God's Plate"
+C;Y495;X1;K11365
+C;X2;K1795
+C;X3;K12014
+C;X4;K2000
+C;X5;K"Mummy"
+C;X6;K"Pharaoh's Blood"
+C;Y496;X1;K11411
+C;X2;K1801
+C;X3;K12010
+C;X4;K2000
+C;X5;K"Anubis Soul"
+C;X6;K"Anubis's Soul"
+C;Y497;X1;K11413
+C;X2;K1802
+C;X3;K12012
+C;X4;K3000
+C;X5;K"Mitos"
+C;X6;K"Solar God's Helmet"
+C;Y498;X1;K11414
+C;X2;K1802
+C;X3;K12013
+C;X4;K3000
+C;X5;K"Mitos Warrior"
+C;X6;K"Solar God's Plate"
+C;Y499;X1;K11415
+C;X2;K1803
+C;X3;K12014
+C;X4;K2000
+C;X5;K"Mummy"
+C;X6;K"Pharaoh's Blood"
+C;Y500;X1;K11461
+C;X2;K1809
+C;X3;K12010
+C;X4;K2000
+C;X5;K"Anubis Soul"
+C;X6;K"Anubis's Soul"
+C;Y501;X1;K11463
+C;X2;K1810
+C;X3;K12012
+C;X4;K3000
+C;X5;K"Mitos"
+C;X6;K"Solar God's Helmet"
+C;Y502;X1;K11464
+C;X2;K1810
+C;X3;K12013
+C;X4;K3000
+C;X5;K"Mitos Warrior"
+C;X6;K"Solar God's Plate"
+C;Y503;X1;K11465
+C;X2;K1811
+C;X3;K12014
+C;X4;K2000
+C;X5;K"Mummy"
+C;X6;K"Pharaoh's Blood"
+C;Y504;X1;K11271
+C;X2;K1780
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Undead Beholder"
+C;X6;K"Hexgram Dust"
+C;Y505;X1;K11272
+C;X2;K1780
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Earth Element"
+C;X6;K"Hexgram Dust"
+C;Y506;X1;K11273
+C;X2;K1780
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Morris"
+C;X6;K"Hexgram Dust"
+C;Y507;X1;K11274
+C;X2;K1780
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Grand Morris"
+C;X6;K"Hexgram Dust"
+C;Y508;X1;K11321
+C;X2;K1788
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Undead Beholder"
+C;X6;K"Hexgram Dust"
+C;Y509;X1;K11322
+C;X2;K1788
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Earth Element"
+C;X6;K"Hexgram Dust"
+C;Y510;X1;K11323
+C;X2;K1788
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Morris"
+C;X6;K"Hexgram Dust"
+C;Y511;X1;K11324
+C;X2;K1788
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Grand Morris"
+C;X6;K"Hexgram Dust"
+C;Y512;X1;K11371
+C;X2;K1796
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Undead Beholder"
+C;X6;K"Hexgram Dust"
+C;Y513;X1;K11372
+C;X2;K1796
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Earth Element"
+C;X6;K"Hexgram Dust"
+C;Y514;X1;K11373
+C;X2;K1796
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Morris"
+C;X6;K"Hexgram Dust"
+C;Y515;X1;K11374
+C;X2;K1796
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Grand Morris"
+C;X6;K"Hexgram Dust"
+C;Y516;X1;K11421
+C;X2;K1804
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Undead Beholder"
+C;X6;K"Hexgram Dust"
+C;Y517;X1;K11422
+C;X2;K1804
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Earth Element"
+C;X6;K"Hexgram Dust"
+C;Y518;X1;K11423
+C;X2;K1804
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Morris"
+C;X6;K"Hexgram Dust"
+C;Y519;X1;K11424
+C;X2;K1804
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Grand Morris"
+C;X6;K"Hexgram Dust"
+C;Y520;X1;K11471
+C;X2;K1812
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Undead Beholder"
+C;X6;K"Hexgram Dust"
+C;Y521;X1;K11472
+C;X2;K1812
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Earth Element"
+C;X6;K"Hexgram Dust"
+C;Y522;X1;K11473
+C;X2;K1812
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Morris"
+C;X6;K"Hexgram Dust"
+C;Y523;X1;K11474
+C;X2;K1812
+C;X3;K12035
+C;X4;K3000
+C;X5;K"Grand Morris"
+C;X6;K"Hexgram Dust"
+C;Y524;X1;K51282
+C;X2;K1827
+C;X3;K12828
+C;X4;K30000
+C;X5;K"Harpy Queen Falia"
+C;X6;K"Falia's Mask"
+C;Y525;X1;K52280
+C;X2;K1828
+C;X3;K12829
+C;X4;K30000
+C;X5;K"Kronos "
+C;X6;K"Titan Crystal"
+C;Y526;X1;K30511
+C;X2;K324
+C;X3;K12830
+C;X4;K30000
+C;X5;K"Strange Cask"
+C;X6;K"Spinning Needle"
+C;Y527;X1;K12044
+C;X2;K326
+C;X3;K12831
+C;X4;K1000
+C;X5;K"Vortex Sentinel"
+C;X6;K"Kaleidoscopic Meat"
+C;Y528;X1;K12045
+C;X2;K327
+C;X3;K12832
+C;X4;K400
+C;X5;K"Illusive Octopod"
+C;X6;K"Amber Glob"
+C;Y529;X1;K21213
+C;X2;K1842
+C;X3;K12842
+C;X4;K200
+C;X5;K"Mecha Elite"
+C;X6;K"Suspicious Wreckage"
+C;Y530;X1;K30272
+C;X2;K1835
+C;X3;K12843
+C;X4;K30000
+C;X5;K"Mysterious Energy Pillar"
+C;X6;K"Blue Energy Shard"
+C;Y531;X1;K30273
+C;X2;K1835
+C;X3;K12844
+C;X4;K30000
+C;X5;K"Mysterious Energy Pillar"
+C;X6;K"Purple Energy Shard"
+C;Y532;X1;K51218
+C;X2;K1866
+C;X3;K12849
+C;X4;K30000
+C;X5;K"Undead Lord Mour"
+C;X6;K"Arcane Silver Armor Piece"
+C;Y533;X1;K32288
+C;X2;K1867
+C;X3;K12850
+C;X4;K30000
+C;X5;K"Dragon Island Rubble"
+C;X6;K"Dragon Island Rubble"
+C;Y534;X1;K32289
+C;X2;K1867
+C;X3;K12851
+C;X4;K30000
+C;X5;K"Cavern of Trials Stone"
+C;X6;K"Cavern of Trials Stone"
+C;Y535;X1;K32290
+C;X2;K1867
+C;X3;K12852
+C;X4;K30000
+C;X5;K"Abyss Dead Stone"
+C;X6;K"Abyss Dead Stone"
+C;Y536;X1;K21212
+C;X2;K342
+C;X3;K12857
+C;X4;K300
+C;X5;K"Mecha Guardian"
+C;X6;K"Titan Beacon"
+C;Y537;X1;K53101
+C;X2;K345
+C;X3;K12857
+C;X4;K30000
+C;X5;K"Manaforge Guardian"
+C;X6;K"Titan Beacon"
+C;Y538;X1;K53102
+C;X2;K351
+C;X3;K12860
+C;X4;K30000
+C;X5;K"Spider Queen"
+C;X6;K"Luis' Sabre"
+C;Y539;X1;K53202
+C;X2;K354
+C;X3;K12861
+C;X4;K1000
+C;X5;K"Desert Soldier Ant"
+C;X6;K"Sharp Fangs"
+C;Y540;X1;K53104
+C;X2;K356
+C;X3;K12862
+C;X4;K30000
+C;X5;K"Buckthorn"
+C;X6;K"Buckthorn Fruit"
+C;Y541;X1;K12061
+C;X2;K378
+C;X3;K12865
+C;X4;K30000
+C;X5;K"Fallen Soul"
+C;X6;K"Guardian's Soul"
+C;Y542;X1;K12062
+C;X2;K378
+C;X3;K12866
+C;X4;K30000
+C;X5;K"Evil Eyes"
+C;X6;K"Evil Eye's Tear"
+C;Y543;X1;K30725
+C;X2;K407
+C;X3;K12869
+C;X4;K30000
+C;X5;K"Savior's Treasure"
+C;X6;K"Savior's Badge"
+E

@@ -1,0 +1,635 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P"$"#,##0;;\-"$"#,##0
+P;P"$"#,##0;;[Red]\-"$"#,##0
+P;P"$"#,##0.00;;\-"$"#,##0.00
+P;P"$"#,##0.00;;[Red]\-"$"#,##0.00
+P;Phh:mm\ AM/PM
+P;Phh:mm:ss\ AM/PM
+P;Phh:mm
+P;Phh:mm:ss
+P;Pyyyy/m/d\ hh:mm
+P;P_-"$"* #,##0_-;;\-"$"* #,##0_-;;_-"$"* "-"_-;;_-@_-
+P;P_-* #,##0_-;;\-* #,##0_-;;_-* "-"_-;;_-@_-
+P;P_-"$"* #,##0.00_-;;\-"$"* #,##0.00_-;;_-"$"* "-"??_-;;_-@_-
+P;P_-* #,##0.00_-;;\-* #,##0.00_-;;_-* "-"??_-;;_-@_-
+P;Phh"?"mm"?"
+P;Phh"?"mm"?"ss"?"
+P;P??/??hh"?"mm"?"
+P;P??/??hh"?"mm"?"ss"?"
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$?-2]\ #,##0.00_);;[Red]\([$?-2]\ #,##0.00\)
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M200
+P;E??;M180;L11
+P;E??;M240;L13
+P;ETimes New Roman;M210;L9
+P;ETimes New Roman;M200;L9
+P;E??;M200;L9
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;SM132;M240
+B;Y147;X5;D0 0 146 4
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 24
+F;W3 3 64
+C;Y1;X1;K"mdl"
+C;X2;K"id"
+C;X3;K"filename"
+C;X4;K"width(x)"
+C;X5;K"height(y)"
+C;Y2;X1;K"Monster"
+C;Y4;K"Continental Bird"
+C;X2;K3101
+C;X3;K"..\Data\Character\Monster\Animal\Daluniao\Animal_Daluniao.pwm3"
+C;Y5;X1;K"Baboon"
+C;X2;K3102
+C;X3;K"..\Data\Character\Monster\Animal\Feifei\Animal_Feifei.pwm3"
+C;Y6;X1;K"Tiger"
+C;X2;K3103
+C;X3;K"..\Data\Character\Monster\Animal\Hu\Animal_Hu.pwm3"
+C;Y7;X1;K"Cyan Bull"
+C;X2;K3104
+C;X3;K"..\Data\Character\Monster\Animal\Qingniu\Animal_Qingniu.pwm3"
+C;Y8;X1;K"Mountain Boar"
+C;X2;K3105
+C;X3;K"..\Data\Character\Monster\Animal\Shanzhu\Animal_Shanzhu.pwm3"
+C;Y9;X1;K"Mosquito"
+C;X2;K3106
+C;X3;K"..\Data\Character\Monster\Animal\Wenzi\Animal_Wenzi.pwm3"
+C;Y10;X1;K"Lizardman"
+C;X2;K3107
+C;X3;K"..\Data\Character\Monster\Animal\Xiyiren\Animal_Xiyiren.pwm3"
+C;Y11;X1;K"Evil Lizard"
+C;X2;K3108
+C;X3;K"..\Data\Avatar\RightHandItem\common_RightHandItem_10011\common_RightHandItem_10011.pwm3"
+C;Y12;X1;K"Webcrawler"
+C;X2;K3109
+C;X3;K"..\Data\Character\Monster\Animal\Zhizhu\Animal_Zhizhu.pwm3"
+C;Y13;X1;K"Gator Warrior"
+C;X2;K3110
+C;X3;K"..\Data\Character\Monster\Animal\Eryu\Animal_Eryu.pwm3"
+C;Y14;X1;K"Seahorse Combatant"
+C;X2;K3111
+C;X3;K"..\Data\Character\Monster\Animal\haimazhanshi\Animal_haimazhanshi.pwm3"
+C;Y15;X1;K"Mermaid"
+C;X2;K3112
+C;X3;K"..\Data\Character\Monster\Animal\Meirenyu\Animal_Meirenyu.pwm3"
+C;Y16;X1;K"Terrorfish"
+C;X2;K3113
+C;X3;K"..\Data\Character\Monster\Animal\kongbuyu\Animal_kongbuyu.pwm3"
+C;Y18;X1;K"Frog"
+C;X2;K3201
+C;X3;K"..\Data\Character\Monster\Demon\Qingwa\Demon_Qingwa.pwm3"
+C;Y19;X1;K"Rattero"
+C;X2;K3202
+C;X3;K"..\Data\Character\Monster\Demon\Shuyao\Demon_Shuyao.pwm3"
+C;Y20;X1;K"Mastiff"
+C;X2;K3203
+C;X3;K"..\Data\Character\Monster\Demon\Ao\Demon_Ao.pwm3"
+C;Y21;X1;K"Demon Hunter"
+C;X2;K3204
+C;X3;K"..\Data\Character\Monster\Demon\Emolieren\Demon_Emolieren.pwm3"
+C;Y22;X1;K"Pharaoh Guard"
+C;X2;K3205
+C;X3;K"..\Data\Character\Monster\Demon\Falaohuwei\Demon_Falaohuwei.pwm3"
+C;Y23;X1;K"Snow Wolf"
+C;X2;K3206
+C;X3;K"..\Data\Character\Monster\Demon\Bailang\Demon_Bailang.pwm3"
+C;Y24;X1;K"Lord of Darkness"
+C;X2;K3207
+C;X3;K"..\Data\Character\Monster\Demon\Anheishen\Demon_Anheishen.pwm3"
+C;Y25;X1;K"Pharaoh"
+C;X2;K3208
+C;X3;K"..\Data\Character\Monster\Demon\Falaowang\Demon_Falaowang.pwm3"
+C;Y26;X1;K"Black Ghoul"
+C;X2;K3209
+C;X3;K"..\Data\Character\Monster\Demon\Heiseshishiguig\Demon_Heiseshishiguig.pwm3"
+C;Y27;X1;K"Efreet"
+C;X2;K3210
+C;X3;K"..\Data\Character\Monster\Machinery\Huoyanjuren\Machinery_Huoyanjuren.pwm3"
+C;Y28;X1;K"Goblin"
+C;X2;K3211
+C;X3;K"..\Data\Character\Monster\Demon\Gebulin\Demon_Gebulin.pwm3"
+C;Y29;X1;K"Succubus"
+C;X2;K3212
+C;X3;K"..\Data\Character\Monster\Demon\sefanvyao\Demon_sefanvyao.pwm3"
+C;Y30;X1;K"Centaur"
+C;X2;K3213
+C;X3;K"..\Data\Character\Monster\Demon\Banrenma\Demon_Banrenma.pwm3"
+C;Y32;X1;K"Sylvan"
+C;X2;K3301
+C;X3;K"..\Data\Character\Monster\Foliage\Shuren\Foliage_Shuren.pwm3"
+C;Y33;X1;K"Nom Nom Flower"
+C;X2;K3302
+C;X3;K"..\Data\Character\Monster\Foliage\Shirenhua\Foliage_Shirenhua.pwm3"
+C;Y35;X1;K"Stone Orc"
+C;X2;K3401
+C;X3;K"..\Data\Character\Monster\Machinery\Shishouren\Machinery_Shishouren.pwm3"
+C;Y36;X1;K"Machine Mask"
+C;X2;K3402
+C;X3;K"..\Data\Character\Monster\Machinery\Guimianjiguan\Machinery_Guimianjiguan.pwm3"
+C;Y37;X1;K"Maulis"
+C;X2;K3403
+C;X3;K"..\Data\Character\Monster\Machinery\Maolisi\Machinery_Maolisi.pwm3"
+C;Y38;X1;K"Sandgolem"
+C;X2;K3404
+C;X3;K"..\Data\Character\Monster\Machinery\Sharen\Machinery_Sharen.pwm3"
+C;Y39;X1;K"Lava Miregolem"
+C;X2;K3405
+C;X3;K"..\Data\Character\Monster\Machinery\Rongjiangniren\Machinery_Rongjiangniren.pwm3"
+C;Y41;X1;K"Manhunt Gremlin"
+C;X2;K3501
+C;X3;K"..\Data\Character\Monster\Human\Shirenxiaogu\Human_Shirenxiaogui.pwm3"
+C;Y42;X1;K"Pharaoh Warrior"
+C;X2;K3502
+C;X3;K"..\Data\Character\Monster\Human\Falaozhanshi\Human_Falaozhanshi.pwm3"
+C;Y43;X1;K"Barbarian"
+C;X2;K3503
+C;X3;K"..\Data\Character\Monster\Human\Yemanren\Human_Yemanren.pwm3"
+C;Y44;X1;K"Tomb Digger"
+C;X2;K3504
+C;X3;K"..\Data\Character\Monster\Human\Juemuzhe\Human_Juemuzhe.pwm3"
+C;Y45;X1;K"Orc"
+C;X2;K3505
+C;X3;K"..\Data\Character\Monster\Human\Shouren\Human_Shouren.pwm3"
+C;Y46;X1;K"Victor Descendent"
+C;X2;K3506
+C;X3;K"..\Data\Character\Monster\Human\zhanshenhouyi\Human_zhanshenhouyi.pwm3"
+C;Y47;X1;K"Werewolf"
+C;X2;K3507
+C;X3;K"..\Data\Character\Monster\Human\langren\Human_langren.pwm3"
+C;Y49;X1;K"Oni"
+C;X2;K3601
+C;X3;K"..\Data\Character\Monster\Undead\Guiwang\Undead_Guiwang.pwm3"
+C;Y50;X1;K"Khar"
+C;X2;K3602
+C;X3;K"..\Data\Character\Monster\Undead\kaer\undead_kaer.pwm3"
+C;Y51;X1;K"Khar"
+C;X2;K3603
+C;X3;K"..\Data\Character\Monster\Undead\Kaerfenshen\Undead_Kaerfenshen.pwm3"
+C;Y52;X1;K"Gargoyle"
+C;X2;K3604
+C;X3;K"..\Data\Character\Monster\Undead\ShixiangguiA\ShixiangguiA.pwm3"
+C;Y53;X1;K"Gargoyle Chief"
+C;X2;K3605
+C;X3;K"..\Data\Character\Monster\Undead\ShixiangguiB\Undead_Shixianggui.pwm3"
+C;Y54;X1;K"Grudging Wraith"
+C;X2;K3606
+C;X3;K"..\Data\Character\Monster\Undead\Yuanhenwangling\Undead_Yuanhenwangling.pwm3"
+C;Y55;X1;K"Skull Captain"
+C;X2;K3607
+C;X3;K"..\Data\Character\Monster\Undead\Kulouduizhang\Undead_Kulouduizhang.pwm3"
+C;Y56;X1;K"Naga Witch"
+C;X2;K3608
+C;X3;K"..\Data\Character\Monster\Undead\Najianvyao\Undead_Najianvyao.pwm3"
+C;Y57;X1;K"Soulreaper"
+C;X2;K3609
+C;X3;K"..\Data\Character\Monster\Undead\Sishen\Undead_Sishen.pwm3"
+C;Y59;X1;K"Pet"
+C;Y60;K"Egg Beast"
+C;X2;K3701
+C;X3;K"..\Data\Character\Pet\Danshou\Pet_Danshou.pwm3"
+C;Y61;X1;K"Nightmare"
+C;X2;K3702
+C;X3;K"..\Data\Character\Pet\Mengyan\Pet_Mengyan.pwm3"
+C;Y62;X1;K"Soulreaper"
+C;X2;K3703
+C;X3;K"..\Data\Character\Pet\Sishen\Pet_Sishen.pwm3"
+C;Y63;X1;K"Cerberus"
+C;X2;K3704
+C;X3;K"..\Data\Character\Pet\Santouquan\Pet_Santouquan.pwm3"
+C;Y64;X1;K"Archangel"
+C;X2;K3705
+C;X3;K"..\Data\Character\Pet\Datianshi\Pet_Datianshi.pwm3"
+C;Y65;X1;K"Efreet"
+C;X2;K3706
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Huoyanjuren\Pet_Huoyanjuren.pwm3"
+C;Y66;X1;K"Bigfeet Bird"
+C;X2;K3707
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Dajiaoniao\Pet_Dajiaoniao.pwm3"
+C;Y67;X1;K"Genie"
+C;X2;K3708
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Dengshen\Pet_Dengshen.pwm3"
+C;Y68;X1;K"Griffin"
+C;X2;K3709
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Shijiu\Pet_Shijiu.pwm3"
+C;Y69;X1;K"Dark Pixie"
+C;X2;K3710
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Heianjingling\Pet_Heianjingling.pwm3"
+C;Y70;X1;K"Colorful Beast"
+C;X2;K3711
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Wucaishou\Pet_Wucaishou.pwm3"
+C;Y71;X1;K"Emerald Dragon"
+C;X2;K3712
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Bilong\Pet_Bilong.pwm3"
+C;Y72;X1;K"Humanoid Chelonian"
+C;X2;K3713
+F;P0;FG0L;X3
+C;K"..\Data\Character\Pet\Guixianren\Pet_Guixianren.pwm3"
+C;Y74;X1;K"NPC"
+C;Y75;K"Rookie Tutor (F) "
+C;X2;K7001
+C;X3;K"..\Data\Character\Npc\World\xinshoudaoshi\World_xinshoudaoshi.pwm3"
+C;Y76;X1;K"Egyptian Fat Green Male"
+C;X2;K7002
+C;X3;K"..\Data\Character\Npc\Aiji\questnpc1\Aiji_questnpc1.pwm3"
+C;Y77;X1;K"Egyptian Skinny Red Male"
+C;X2;K7003
+C;X3;K"..\Data\Character\Npc\Aiji\questnpc2\Aiji_questnpc2.pwm3"
+C;Y78;X1;K"N/A????"
+C;X2;K7004
+C;X3;K"..\Data\Character\Npc\Fuhuodao\questnpc1\Fuhuodao_questnpc1.pwm3"
+C;Y79;X1;K"N/A????"
+C;X2;K7005
+C;X3;K"..\Data\Character\Npc\Fuhuodao\questnpc2\Fuhuodao_questnpc2.pwm3"
+C;Y80;X1;K"N/A????"
+C;X2;K7006
+C;X3;K"..\Data\Character\Npc\World\shipinshang\world_shipinshang.pwm3"
+C;Y81;X1;K"N/A????"
+C;X2;K7007
+C;X3;K"..\Data\Character\Npc\World\wuqishang\world_wuqishang.pwm3"
+C;Y82;X1;K"N/A????"
+C;X2;K7008
+C;X3;K"..\Data\Character\Npc\World\zahuoshang\World_zahuoshang.pwm3"
+C;Y83;X1;K"God of War"
+C;X2;K7009
+C;X3;K"..\Data\Character\Npc\World\zhanshen\World_zhanshen.pwm3"
+C;Y84;X1;K"N/A????"
+C;X2;K7010
+C;X3;K"..\Data\Character\Npc\World\zhihuishen\World_zhihuishen.pwm3"
+C;Y85;X1;K"N/A????"
+C;X2;K7011
+C;X3;K"..\Data\Character\Npc\Wugeku\dajisi\Wugeku_dajisi.pwm3"
+C;Y86;X1;K"Emirate"
+C;X2;K7012
+C;X3;K"..\Data\Character\Npc\Wugeku\qiuzhang\Wugeku_qiuzhang.pwm3"
+C;Y87;X1;K"N/A????"
+C;X2;K7013
+C;X3;K"..\Data\Character\Npc\Wugeku\zhizhezh\Wugeku_zhizhezh.pwm3"
+C;Y88;X1;K"N/A???"
+C;X2;K7014
+C;X3;K"..\Data\Character\Npc\Yatelandisi\questnpc1\Yatelandisi_questnpc1.pwm3"
+C;Y89;X1;K"N/A???"
+C;X2;K7015
+C;X3;K"..\Data\Character\Npc\Yatelandisi\questnpc2\Yatelandisi_questnpc2.pwm3"
+C;Y90;X1;K"N/A????"
+C;X2;K7016
+C;X3;K"..\Data\Character\Npc\World\taiyangshen\World_taiyangshen.pwm3"
+C;Y91;X1;K"Miner"
+C;X2;K7017
+C;X3;K"..\Data\Character\Npc\World\caikuangjinengshi\World_caikuangjinengshi.pwm3"
+C;Y92;X1;K"N/A????"
+C;X2;K7018
+C;X3;K"..\Data\Character\Npc\Fuhuodao\yaerweite\Fuhuodao_yaerweite.pwm3"
+C;Y93;X1;K"N/A??????"
+C;X2;K7019
+C;X3;K"..\Data\Character\Npc\World\fangzhijinengshi\World_fangzhijinengshi.pwm3"
+C;Y94;X1;K"N/A????"
+C;X2;K7020
+C;X3;K"..\Data\Character\Npc\World\box\World_box.pwm3"
+C;Y95;X1;K"N/A??????"
+C;X2;K7021
+C;X3;K"..\Data\Character\Npc\World\caiyaojinengshi\world_caiyaojinengshi.pwm3"
+C;Y96;X1;K"N/A???"
+C;X2;K7022
+C;X3;K"..\Data\Character\Npc\World\sishen\World_sishen.pwm3"
+C;Y97;X1;K"N/A????"
+C;X2;K7023
+C;X3;K"..\Data\Character\Npc\Fuhuodao\guna\Fuhuodao_guna.pwm3"
+C;Y98;X1;K"N/A???Berzerker "
+C;X2;K7024
+C;X3;K"..\Data\Character\Npc\Wugeku\hulan\Wugeku_hulan.pwm3"
+C;Y99;X1;K"N/A??????"
+C;X2;K7025
+C;X3;K"..\Data\Character\Npc\Fuhuodao\teluo\Fuhuodao_teluo.pwm3"
+C;Y100;X1;K"N/A???"
+C;X2;K7026
+C;X3;K"..\Data\Character\Npc\Wugeku\piluo\Wugeku_piluo.pwm3"
+C;Y101;X1;K"N/A???"
+C;X2;K7027
+C;X3;K"..\Data\Character\Npc\World\famujinengshi\World_famujinengshi.pwm3"
+C;Y102;X1;K"N/A???"
+C;X2;K7028
+C;X3;K"..\Data\Character\Npc\World\shitu\World_shitu.pwm3"
+C;Y104;X1;K"Upgrade"
+C;X2;K15100
+C;X3;K"..\Data\Magic\common\lvup\lvup.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y105;X1;K"Quest Complete EFX"
+C;X2;K15101
+C;X3;K"..\Data\Magic\common\DoneQuest\DoneQuest.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y106;X1;K"Select Character"
+C;X2;K15102
+C;X3;K"..\Data\Magic\Common\select\npc.mdx2"
+C;Y107;X1;K"Move, Mouse Click"
+C;X2;K15103
+C;X3;K"..\Data\Magic\Common\select\TX_Ydzx.mdx2"
+C;Y108;X1;K"Character has been switched to map"
+C;X2;K15104
+C;X3;K"..\Data\Magic\common\mousemove\mousemove.mdx2"
+C;Y109;X1;K"Locked Character"
+C;X2;K15105
+C;X3;K"..\Data\Magic\Common\select\npc.mdx2"
+C;Y110;X1;K"Attacking EFX"
+C;X2;K15106
+C;X3;K"..\Data\Magic\common\texiao\texiao.mdx2"
+C;Y111;X1;K"Character Spawn EFX"
+C;X2;K15107
+C;X3;K"..\Data\Effect\dang_attack\dang_attack.mdx2"
+C;Y112;X1;K"Melee Weapon EFX"
+C;X2;K15108
+C;X3;K"..\Data\Effect\hunt_attack\dan_attack.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y113;X1;K"Ranged Weapon EFX"
+C;X2;K15109
+C;X3;K"..\Data\track.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y114;X1;K"Critstrike"
+C;X2;K15110
+C;X3;K"..\Data\Magic\common\gj\gj.mdx2"
+C;Y115;X1;K"Magic-Casting EFX"
+C;X2;K15111
+C;X3;K"..\Data\Effect\mofa_attack\mofa_attack.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y116;X1;K"Skill-Casting EFX"
+C;X2;K15112
+C;X3;K"..\Data\Effect\jineng_attack\jineng_attack.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y117;X1;K"Monster Spawn EFX"
+C;X2;K15113
+C;X3;K"..\Data\Effect\monsterborn\monsterborn.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y118;X1;K"Character Level-Up EFX"
+C;X2;K15114
+C;X3;K"..\Data\Magic\common\noeffect\noeffect.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y119;X1;K"HP Potion EFX"
+C;X2;K15115
+C;X3;K"..\Data\Effect\HP_effect\HP_effect.mdx2"
+C;Y120;X1;K"MP Potion EFX"
+C;X2;K15116
+C;X3;K"..\Data\Effect\HP_effect\HP_effect.mdx2"
+C;Y121;X1;K"Status Potion EFX"
+C;X2;K15117
+C;X3;K"..\Data\Effect\HP_effect\HP_effect.mdx2"
+C;Y126;X1;K"Violet Essence Orb"
+C;X2;K18100
+C;X3;K"..\Data\item\yaoji\obj_i_012\obj_i_012.mdx2"
+C;X4;K0
+C;X5;K0
+C;Y127;X1;K"Naked Doll"
+C;X2;K20000
+C;X3;K"&GenByRule"
+C;X4;K0
+C;X5;K0
+C;Y128;X1;K"Bamboo Armor Dropping"
+C;X2;K21100
+C;X3;K"..\Data\floor\armour\qin\male_loricae_001\male_loricae_001.mdx2"
+C;Y129;X1;K"Leather Armor Dropping"
+C;X2;K21101
+C;X3;K"..\Data\floor\armour\qin\male_loricae_002\male_loricae_002.mdx2"
+C;Y130;X1;K"Ring Mail Dropping"
+C;X2;K21102
+C;X3;K"..\Data\floor\armour\qin\male_loricae_003\male_loricae_003.mdx2"
+C;Y131;X1;K"Plate Armor Dropping"
+C;X2;K21103
+C;X3;K"..\Data\floor\armour\qin\male_loricae_004\male_loricae_004.mdx2"
+C;Y132;X1;K"Chain Mail Dropping"
+C;X2;K21104
+C;X3;K"..\Data\floor\armour\qin\male_loricae_005\male_loricae_005.mdx2"
+C;Y133;X1;K"Scale Mail Dropping"
+C;X2;K21105
+C;X3;K"..\Data\floor\armour\qin\male_loricae_006\male_loricae_006.mdx2"
+C;Y135;X1;K"N/A????    "
+C;X2;K21200
+C;X3;K"..\Data\floor\armour\qin\male_cape_001\male_cape_001.mdx2"
+C;Y136;X1;K"N/A????    "
+C;X2;K21201
+C;X3;K"..\Data\floor\armour\qin\male_cape_002\male_cape_002.mdx2"
+C;Y137;X1;K"N/A????  "
+C;X2;K21202
+C;X3;K"..\Data\floor\armour\qin\male_cape_003\male_cape_003.mdx2"
+C;Y138;X1;K"Silk Robe Dropping"
+C;X2;K21203
+C;X3;K"..\Data\floor\armour\qin\male_cape_004\male_cape_004.mdx2"
+C;Y139;X1;K"N/A????    "
+C;X2;K21204
+C;X3;K"..\Data\floor\armour\qin\male_cape_005\male_cape_005.mdx2"
+C;Y140;X1;K"N/A??????"
+C;X2;K21205
+C;X3;K"..\Data\floor\armour\qin\male_cape_006\male_cape_006.mdx2"
+C;Y142;X1;K"N/A????    "
+C;X2;K21300
+C;X3;K"..\Data\floor\armour\qin\male_clothing_001\male_clothing_001.mdx2"
+C;Y143;X1;K"N/A????    "
+C;X2;K21301
+C;X3;K"..\Data\floor\armour\qin\male_clothing_002\male_clothing_002.mdx2"
+C;Y144;X1;K"N/A????    "
+C;X2;K21302
+C;X3;K"..\Data\floor\armour\qin\male_clothing_003\male_clothing_003.mdx2"
+C;Y145;X1;K"N/A????    "
+C;X2;K21303
+C;X3;K"..\Data\floor\armour\qin\male_clothing_004\male_clothing_004.mdx2"
+C;Y146;X1;K"N/A??????"
+C;X2;K21304
+C;X3;K"..\Data\floor\armour\qin\male_clothing_005\male_clothing_005.mdx2"
+C;Y147;X1;K"N/A??????"
+C;X2;K21305
+C;X3;K"..\Data\floor\armour\qin\male_clothing_006\male_clothing_006.mdx2"
+E

@@ -1,0 +1,163 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y23;X3;D0 0 22 2
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 10
+F;W2 2 54
+C;Y1;X1;K"Camp ID"
+C;X2;K"Friendly Camp(Use';'to seperate)"
+C;X3;K"comment "
+C;Y2;X1;K"FactionID"
+C;X2;K"FriendFactions"
+C;Y3;X1;K0
+C;X2;K"2;;3;;5;;11;;13;;15;;16;;17;;20"
+C;X3;K"player"
+C;Y4;X1;K1
+C;X2;K"9;;11;;12"
+C;X3;K"ordinary monster"
+C;Y5;X1;K2
+C;X2;K"0;;8"
+C;X3;K"friendly to player"
+C;Y6;X1;K3
+C;X2;K"0;;1;;7;;8"
+C;X3;K"escorting monster"
+C;Y7;X1;K4
+C;X2;K5
+C;Y8;X1;K5
+C;X2;K"0;;1;;2;;3;;4;;6;;7;;8;;9"
+C;X3;K"yes-man"
+C;Y9;X1;K6
+C;X2;K"0;;8"
+C;X3;K"TD"
+C;Y10;X1;K7
+C;X2;K8
+C;X3;K"small main line monster"
+C;Y11;X1;K8
+C;X2;K"0;;2;;3;;5;;16;;17;;18"
+C;X3;K"players transfer"
+C;Y12;X1;K9
+C;X2;K"0;;1"
+C;X3;K"monster's friends"
+C;Y13;X1;K10
+C;X2;K1
+C;X3;K"ordinary monster's friends"
+C;Y14;X1;K11
+C;X2;K"0;;1"
+C;X3;K"N/A?????,?????.????????"
+C;Y15;X1;K12
+C;X2;K"0;;1;;8"
+C;X3;K"Vehicle Monster"
+C;Y16;X1;K13
+C;X2;K1
+C;X3;K"Demented Creature"
+C;Y17;X1;K14
+C;X2;K"1;;9;;11;;12"
+C;X3;K"370 Main Quest Boss"
+C;Y18;X1;K15
+C;X2;K"0;;1;;2;;3;;4;;5;;6;;7;;8;;9;;10;;11;;12;;13;;14;;15;;16;;17;;18;;19;;20"
+C;X3;K"New Yes-man"
+C;Y19;X1;K16
+C;X2;K"0;;1;;2;;8;;11;;15;;20"
+C;X3;K"3.80 Main Quest"
+C;Y20;X1;K17
+C;X2;K"0;;1;;2;;8;;11;;15;;20"
+C;X3;K"3.80 Main Quest"
+C;Y21;X1;K18
+C;X2;K"0;;1;;8;;11;;15;;16;;17"
+C;X3;K"3.80 Main Quest"
+C;Y22;X1;K19
+C;X2;K"0;;1;;2;;8;;11;;15"
+C;X3;K"3.80 Main Quest"
+C;Y23;X1;K20
+C;X2;K"0;;8;;15;;16;;17;;19"
+C;X3;K"friendly to player"
+E

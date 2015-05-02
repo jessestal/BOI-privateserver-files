@@ -1,0 +1,221 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M200
+P;E??;M200
+P;E??;M240
+P;E??;M200
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y40;X10;D0 0 39 9
+O;S;D;V0;K47;T0;G100 0.001
+F;W3 3 25
+C;Y1;X9;A0??,1?? :
+C;X10;A0???,1???,2????? :
+C;X1;K"Lottery Type"
+C;X2;K"Consumable Item ID"
+C;X3;K"Lottery Function"
+C;Y2;X1;K"AwardType"
+C;X2;K"NeedItemID"
+C;X3;K"AwardName"
+C;Y3;X1;K1
+C;X2;K59083
+C;X3;K"[Treasure] Bountyhunter Chest"
+C;Y4;X1;K2
+C;X2;K59194
+C;X3;K"[Treasure] Bountyhunter Chest"
+C;Y5;X1;K3
+C;X2;K63735
+C;X3;K"Lucky Sticker"
+C;Y6;X1;K4
+C;X2;K63735
+C;X3;K"Lucky Sticker"
+C;Y7;X1;K5
+C;X2;K0
+C;X3;K"(Treasure) Noble Chest"
+C;Y8;X1;K6
+C;X2;K63757
+C;X3;K"(Treasure) Summer Camp Card"
+C;Y9;X1;K7
+C;X2;K63757
+C;X3;K"(Treasure) Summer Camp Card"
+C;Y10;X1;K8
+C;X2;K63757
+C;X3;K"(Treasure) Summer Camp Card"
+C;Y11;X1;K9
+C;X2;K59613
+C;X3;K"Chinese knot"
+C;Y12;X1;K10
+C;X2;K59613
+C;X3;K"Chinese knot"
+C;Y13;X1;K11
+C;X2;K63757
+C;X3;K"(Treasure) Summer Camp Card"
+C;Y14;X1;K12
+C;X2;K63757
+C;X3;K"(Treasure) Summer Camp Card"
+C;Y15;X1;K13
+C;X2;K63757
+C;X3;K"(Treasure) Summer Camp Card"
+C;Y16;X1;K14
+F;SM17;X2
+C;K44094
+F;SM17;X3
+C;K"Festival Celebration Fruit"
+C;Y17;X1;K15
+F;SM17;X2
+C;K44140
+F;SM17;X3
+C;K"Christmas Card"
+C;Y18;X1;K16
+F;SM17;X2
+C;K44140
+F;SM17;X3
+C;K"Christmas Card"
+C;Y19;X1;K17
+F;SM17;X2
+C;K44140
+F;SM17;X3
+C;K"Christmas Card"
+C;Y20;X1;K18
+F;SM17;X2
+C;K44141
+F;SM17;X3
+C;K"New Year's Card"
+C;Y21;X1;K19
+F;SM17;X2
+C;K44141
+F;SM17;X3
+C;K"New Year's Card"
+C;Y22;X1;K20
+F;SM17;X2
+C;K44156
+F;SM17;X3
+C;K"Chinese New Year's Card"
+C;Y23;X1;K21
+F;SM17;X2
+C;K44156
+F;SM17;X3
+C;K"Chinese New Year's Card"
+C;Y24;X1;K22
+C;X2;K44248
+C;X3;K"Anniversary Raffle Ticket"
+C;Y25;X1;K23
+C;X2;K44248
+C;X3;K"Anniversary Raffle Ticket"
+C;Y26;X1;K24
+C;X2;K44235
+C;X3;K"Poseidon's Prize Bag"
+C;Y27;X1;K25
+C;X2;K44272
+C;X3;K"Summer Camp Treasure Golden Card"
+C;Y28;X1;K26
+C;X2;K44273
+C;X3;K"Summer Camp Treasure Silver Card"
+C;Y29;X1;K27
+C;X2;K44274
+C;X3;K"Summer Camp Treasure Bronze Card"
+C;Y30;X1;K28
+C;X2;K44500
+C;X3;K"Halloween Gift Pack"
+C;Y31;X1;K29
+C;X2;K44500
+C;X3;K"Halloween Gift Pack"
+C;Y32;X1;K30
+C;X2;K0
+C;X3;K"(Treasure) Noble Chest Trial"
+C;Y33;X1;K31
+C;X2;K44522
+C;X3;K"Wonderland Prize Marketplace"
+C;Y34;X1;K32
+C;X2;K44523
+C;X3;K"Wonderland Prize Bound"
+C;Y35;X1;K33
+C;X2;K44558
+C;X3;K"Christmas Card"
+C;X4;K"Christmas Card"
+C;Y36;X1;K34
+C;X2;K44559
+C;X3;K"Snow Bear Christmas Card"
+C;X4;K"Snow Bear Christmas Card"
+C;Y37;X1;K35
+C;X2;K44558
+C;X3;K"Christmas Card"
+C;X4;K"Christmas Card Sled"
+C;Y38;X1;K36
+C;X2;K44559
+C;X3;K"Snow Bear Christmas Card"
+C;X4;K"Snow Bear Card Sled"
+C;Y39;X1;K37
+C;X2;K44559
+C;X3;K"Snow Bear Christmas Card"
+C;X4;K"Snow Bear Card  Bear"
+C;Y40;X1;K38
+C;X2;K44643
+C;X3;K"Rapture Key"
+E

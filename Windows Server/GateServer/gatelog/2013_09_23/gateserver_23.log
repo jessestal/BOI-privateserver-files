@@ -1,0 +1,4 @@
+2013-09-23 23:56:31 lv2:connect to manager successed
+2013-09-23 23:58:51 lv1:socket err:64 -- CGameServerConnector::OnError -- CIOCPSession::OnIOCompleteFailed
+2013-09-23 23:59:19 lv2:connect to manager successed
+2013-09-23 23:59:57 lv2:connect to manager successed

@@ -1,0 +1,203 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;ETimes New Roman;M240
+P;E??;M180
+P;E??;M240;L11
+P;ETimes New Roman;M240;L23
+P;E??;M210
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+P;E??;M240;SB
+F;P0;DG0G8;M285
+B;Y4;X13;D0 0 3 12
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 11
+F;W2 2 17
+F;W3 3 37
+F;W4 5 12
+F;W6 6 11
+F;W7 8 14
+F;W9 11 19
+F;W12 12 48
+F;W13 13 17
+F;W14 14 13
+F;W15 15 16
+F;W16 16 14
+F;W17 17 13
+F;W18 18 14
+F;W19 20 11
+F;W21 21 13
+F;W22 22 12
+F;W23 23 10
+F;W24 24 13
+F;W25 25 24
+F;W26 26 30
+F;W27 27 20
+F;W28 28 18
+F;W29 29 19
+F;P0;FG0C;SM9;C1
+F;P0;FG0C;C2
+F;M1785;R1
+F;Y1;X1
+C;K"N/A??ID"
+F;X2
+C;K"N/A????"
+F;X3
+C;K"N/A????(??:?)"
+F;X4
+C;K"N/A????"
+F;X5
+C;K"N/A?????1"
+F;X6
+C;K"N/A?????2"
+F;X7
+C;K"N/A?????3"
+F;X8
+C;K"N/A?????1"
+F;X9
+C;K"N/A?????2"
+F;X10
+C;K"N/A?????3"
+F;X11
+C;K"N/A??"
+F;X12
+C;K"Formula"
+F;X13
+C;K"Off-line Leveling Enabled? 0: No  :1: Yes"
+C;Y2;X1;K"CreditID"
+C;X2;K"CreditName"
+C;X3;K"AddFre"
+C;X4;K"AddValue"
+C;X5;K"CLevel1"
+C;X6;K"CLevel2"
+C;X7;K"CLevel3"
+C;X8;K"SLevel1"
+C;X9;K"SLevel2"
+C;X10;K"SLevel3"
+C;X11;K"base"
+C;X12;K"Formula"
+C;X13;K"OfflineUpdate"
+C;Y3;X1;K33
+C;X2;K"Energy"
+C;X3;K120
+C;X4;K40
+C;X5;K175
+C;X6;K175
+C;X7;K175
+C;X8;K1
+C;X9;K1
+C;X10;K1
+C;X11;K120
+C;X12;K"Factor * Character Level * 0.8"
+C;X13;K0
+C;Y4;X1;K38
+C;X2;K"Zeal"
+C;X3;K120
+C;X4;K40
+C;X5;K175
+C;X6;K175
+C;X7;K175
+C;X8;K1
+C;X9;K1
+C;X10;K1
+C;X11;K120
+C;X12;K"Factor * Character Level * 0.8"
+C;X13;K0
+E

@@ -1,0 +1,245 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;P0.00_ 
+P;P0_ 
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M200
+F;P0;DG0G8;SM23;M240
+B;Y17;X9;D0 0 16 8
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 3 15
+F;W5 5 10
+F;W6 6 14
+F;W7 8 11
+C;Y1;X4;A1:???? :2:???? :3:????
+C;X5;A??????
+C;X7;A1?? :2?? :3?? :4??
+C;X1;K"Item ID"
+C;X2;K"N/A????(???)"
+C;X3;K"N/A????(???)"
+C;X4;K"Rarity"
+C;X5;K"Name"
+C;X6;K"N/A??????"
+C;X7;K"N/A??????"
+C;X8;K"N/A??????"
+C;Y2;X1;K"ItemID"
+C;X2;K"MinProbValue"
+C;X3;K"MaxProbValue"
+C;X4;K"Rarity"
+C;X5;K"ItemName"
+C;X6;K"EquipLevelNeed"
+C;X7;K"EquipQualityNeed"
+C;X8;K"EquipPartNeed"
+C;Y3;X1;K4911
+C;X2;K90
+C;X3;K90
+C;X4;K"Normal Enchant"
+C;X5;K"Shimmering Star"
+C;X6;K100
+C;X7;K3
+F;P30;FG0G;X8
+C;K"0;;1;;2;;3"
+C;X9;K0
+C;Y4;X1;K4912
+C;X2;K30
+C;X3;K60
+C;X4;K"Basic Enchant"
+C;X5;K"Affinity Purge"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"0;;1;;2;;3"
+C;X9;K"Already in the game"
+C;Y5;X1;K4913
+C;X2;K40
+C;X3;K100
+C;X4;K"Basic Enchant"
+C;X5;K"Flame"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"0;;1"
+C;X9;K1
+C;Y6;X1;K4914
+C;X2;K40
+C;X3;K100
+C;X4;K"Basic Enchant"
+C;X5;K"Vast Ocean"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"2;;3"
+C;X9;K1
+C;Y7;X1;K4915
+C;X2;K110
+C;X3;K110
+C;X4;K"Advanced Enchant"
+C;X5;K"Heaven Frost"
+C;X6;K100
+C;X7;K3
+F;P30;FG0G;X8
+C;K"0;;1"
+C;X9;K"Already in the game"
+C;Y8;X1;K4916
+C;X2;K110
+C;X3;K110
+C;X4;K"Advanced Enchant"
+C;X5;K"Flashing Vertigo"
+C;X6;K100
+C;X7;K3
+F;P30;FG0G;X8
+C;K"2;;3"
+C;X9;K"Already in the game"
+C;Y9;X1;K4917
+C;X2;K80
+C;X3;K140
+C;X4;K"Advanced Enchant"
+C;X5;K"Obscure Energy"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"0;;1"
+C;X9;K2
+C;Y10;X1;K4918
+C;X2;K80
+C;X3;K140
+C;X4;K"Advanced Enchant"
+C;X5;K"Demonic Energy"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"2;;3"
+C;X9;K2
+C;Y11;X1;K4919
+C;X2;K120
+C;X3;K180
+C;X4;K"Rare Enchant"
+C;X5;K"Molten Barrier"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"0;;1"
+C;X9;K3
+C;Y12;X1;K4920
+C;X2;K120
+C;X3;K180
+C;X4;K"Rare Enchant"
+C;X5;K"Orchid Barrier"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"2;;3"
+C;X9;K3
+C;Y13;X1;K4921
+C;X2;K160
+C;X3;K230
+C;X4;K"Ancient Enchant"
+C;X5;K"Nameless Reign"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"0;;1"
+C;X9;K4
+C;Y14;X1;K4922
+C;X2;K160
+C;X3;K230
+C;X4;K"Ancient Enchant"
+C;X5;K"Tao Core"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"2;;3"
+C;X9;K4
+C;Y15;X1;K4923
+C;X2;K200
+C;X3;K280
+C;X4;K"Miracle Enchant"
+C;X5;K"Ethereal Realm"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"0;;1"
+C;X9;K5
+C;Y16;X1;K4924
+C;X2;K200
+C;X3;K280
+C;X4;K"Miracle Enchant"
+C;X5;K"Flame Devourer"
+C;X6;K70
+C;X7;K2
+F;P30;FG0G;X8
+C;K"2;;3"
+C;X9;K5
+F;P51;FF2G;Y17;X4
+E

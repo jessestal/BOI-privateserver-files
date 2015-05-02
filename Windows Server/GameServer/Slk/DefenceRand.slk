@@ -1,0 +1,349 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y32;X9;D0 0 31 8
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W8 8 13
+C;Y1;X1;K"N/A??ID"
+C;X2;K"N/A????"
+C;X3;K"N/A????"
+C;X4;K"N/A????"
+C;X5;K"N/A????"
+C;X6;K"Value Cap"
+C;X7;K"N/A????"
+C;X8;K"N/A???"
+C;X9;K"N/A????"
+C;Y2;X1;K"AttrID"
+C;X2;K"AttrLvl"
+C;X3;K"QualityNeed"
+C;X4;K"AttrType"
+C;X5;K"MinValue"
+C;X6;K"MaxValue"
+C;X7;K"Rate"
+C;X8;K"Prefix"
+C;Y3;X1;K1001
+C;X2;K0
+C;X3;K1
+C;X4;K"AddStr"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Strength"
+C;X9;K"Strong "
+C;Y4;X1;K1002
+C;X2;K0
+C;X3;K1
+C;X4;K"AddCon"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Vitality"
+C;X9;K"Vital "
+C;Y5;X1;K1003
+C;X2;K0
+C;X3;K1
+C;X4;K"AddAgi"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Dexterity"
+C;X9;K"Dexterous "
+C;Y6;X1;K1004
+C;X2;K0
+C;X3;K1
+C;X4;K"AddInt"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Intellect"
+C;X9;K"Intellectual "
+C;Y7;X1;K1005
+C;X2;K0
+C;X3;K1
+C;X4;K"AddEne"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Spirit"
+C;X9;K"Spiritual "
+C;Y8;X1;K1006
+C;X2;K0
+C;X3;K1
+C;X4;K"CriticalOdds"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Critical "
+C;X9;K"Critstrike Rate"
+C;Y9;X1;K1007
+C;X2;K0
+C;X3;K1
+C;X4;K"CriticalDamage"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Damage"
+C;X9;K"Critstrike Damage"
+C;Y10;X1;K1008
+C;X2;K0
+C;X3;K1
+C;X4;K"HolyHitOdds"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Holy "
+C;X9;K"Holy Strike Rate"
+C;Y11;X1;K1009
+C;X2;K0
+C;X3;K1
+C;X4;K"HolyHitDamage"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Holy Judgement"
+C;X9;K"Holy Strike Damage"
+C;Y12;X1;K1010
+C;X2;K0
+C;X3;K1
+C;X4;K"LuckyHitOdds"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Lucky "
+C;X9;K"Lucky Strike Rate"
+C;Y13;X1;K1011
+C;X2;K0
+C;X3;K1
+C;X4;K"PhysicsAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Forceful"
+C;X9;K"Physical Attack"
+C;Y14;X1;K1012
+C;X2;K0
+C;X3;K1
+C;X4;K"MinPhysicsAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Forceful"
+C;X9;K"Physical Attack Lower Limit"
+C;Y15;X1;K1013
+C;X2;K0
+C;X3;K1
+C;X4;K"MaxPhysicsAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Forceful"
+C;X9;K"Physical Attack Upper Limit"
+C;Y16;X1;K1014
+C;X2;K0
+C;X3;K1
+C;X4;K"MagicAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Magic"
+C;X9;K"Magic Attack"
+C;Y17;X1;K1015
+C;X2;K0
+C;X3;K1
+C;X4;K"FireAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Burning"
+C;X9;K"Fire Elemental Strike"
+C;Y18;X1;K1016
+C;X2;K0
+C;X3;K1
+C;X4;K"FrostAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Frosty"
+C;X9;K"Ice Elemental Strike"
+C;Y19;X1;K1017
+C;X2;K0
+C;X3;K1
+C;X4;K"LightAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Bright"
+C;X9;K"Light Attack"
+C;Y20;X1;K1018
+C;X2;K0
+C;X3;K1
+C;X4;K"DarkAttack"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Dark"
+C;X9;K"Darkness Attack"
+C;Y21;X1;K1019
+C;X2;K0
+C;X3;K1
+C;X4;K"PhysicsAttackPercent"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Martial "
+C;X9;K"Increases Physical Attack by"
+C;Y22;X1;K1020
+C;X2;K0
+C;X3;K1
+C;X4;K"MagicAttackPercent"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Magical"
+C;X9;K"Increases Magical Attack by"
+C;Y23;X1;K1021
+C;X2;K0
+C;X3;K1
+C;X4;K"FireAttackPercent"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Fire "
+C;X9;K"Increases Fire Attack by"
+C;Y24;X1;K1022
+C;X2;K0
+C;X3;K1
+C;X4;K"FrostAttackPercent"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Ice "
+C;X9;K"Increases Ice Attack by "
+C;Y25;X1;K1023
+C;X2;K0
+C;X3;K1
+C;X4;K"LightAttackPercent"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Light"
+C;X9;K"Increases Light Attack by "
+C;Y26;X1;K1024
+C;X2;K0
+C;X3;K1
+C;X4;K"DarkAttackPercent"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Darkness"
+C;X9;K"Increases Darkness Attack by "
+C;Y27;X1;K1025
+C;X2;K0
+C;X3;K1
+C;X4;K"AnimalMaster"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Tamer's"
+C;X9;K"Fauna Mastery"
+C;Y28;X1;K1026
+C;X2;K0
+C;X3;K1
+C;X4;K"FoliageMaster"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Tamer's"
+C;X9;K"Flora Mastery"
+C;Y29;X1;K1027
+C;X2;K0
+C;X3;K1
+C;X4;K"HumanMaster"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Arbiter's"
+C;X9;K"Humanoid Mastery"
+C;Y30;X1;K1028
+C;X2;K0
+C;X3;K1
+C;X4;K"MachineryMaster"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Arbiter's"
+C;X9;K"Mecha Mastery"
+C;Y31;X1;K1029
+C;X2;K0
+C;X3;K1
+C;X4;K"UndeadMaster"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Occultist's"
+C;X9;K"Undead Mastery"
+C;Y32;X1;K1030
+C;X2;K0
+C;X3;K1
+C;X4;K"DemonMaster"
+C;X5;K1
+C;X6;K10
+C;X7;K100
+C;X8;K"Occultist's"
+C;X9;K"Demon Mastery"
+E

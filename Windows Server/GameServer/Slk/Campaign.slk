@@ -1,0 +1,389 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;ETimes New Roman;M240
+P;E??;M180
+P;E??;M240;L11
+P;ETimes New Roman;M240;L23
+P;E??;M210
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+P;E??;M240;SB
+F;P0;DG0G8;M285
+B;Y5;X38;D0 0 4 37
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W1 1 18
+F;W2 2 11
+F;W3 3 24
+F;W4 4 20
+F;W5 5 28
+F;W6 6 18
+F;W7 7 11
+F;W8 8 10
+F;W10 12 19
+F;W13 13 14
+F;W14 14 17
+F;W15 15 13
+F;W16 16 16
+F;W17 17 14
+F;W18 18 21
+F;W19 19 14
+F;W20 21 11
+F;W22 22 13
+F;W23 23 12
+F;W24 24 10
+F;W25 25 13
+F;W26 26 24
+F;W27 27 30
+F;W28 28 20
+F;W29 29 18
+F;W30 30 19
+F;W31 31 27
+F;W32 32 22
+F;W33 33 17
+F;W34 34 15
+F;W35 36 24
+F;W37 38 21
+F;M1785;R1
+F;Y1;X1
+C;K"Event Real :0_0 : All Servers :1_3_5: Realm 1, 3, 5"
+F;X2
+C;K"Event ID"
+F;X3
+C;K"Event Name"
+F;X4
+C;K"Event Type  Aid = 0, : Quiz =1,"
+F;X5
+C;K"Event Frequency  eDay=1,//Daily  :ÿÿÿÿÿÿÿÿÿÿeWeek=2 ,//Weekly  :ÿÿÿÿÿÿÿÿÿÿeMonth=3,//Monthly  :ÿÿÿÿÿÿÿÿÿÿeYear=4,//Yearly"
+F;X6
+C;K"Event Initialization"
+F;X7
+C;K"Ending Stage"
+F;X8
+C;K"Start Day"
+F;X9
+C;K"End Day"
+F;X10
+C;K"Start Week  Sunday=0,  :ÿÿÿÿÿÿMonday=1,"
+F;X11
+C;K"End Week"
+F;X12
+C;K"Start Month"
+F;X13
+C;K"End Month"
+F;X14
+C;K"Special Date"
+F;X15
+C;K"Reward Frequency"
+F;X16
+C;K"Rewarded EXP"
+F;X17
+C;K"Requisite Level"
+F;X18
+C;K"Max Duration Time"
+F;X19
+C;K"Requisite Item ID"
+F;X20
+C;K"Reduce Chance"
+F;X21
+C;K"Reduce Frequency"
+F;X22
+C;K"Reduced HP"
+F;X23
+C;K"Reduced MP"
+F;X24
+C;K"Map ID"
+F;X25
+C;K"Average Reduced HP"
+F;X26
+C;K"Rewarded EXP"
+F;X27
+C;K"BufferID 0=Null"
+F;X28
+C;K"Target MapID"
+F;X29
+C;K"Target Coordinate X"
+F;X30
+C;K"Target Coordinate Y"
+F;X31
+C;K"Event Fee"
+F;X32
+C;K"Reward Countdown"
+F;X33
+C;K"Error Count"
+F;X34
+C;K"# of Questions"
+F;X35
+C;K"x2 Period Start"
+F;X36
+C;K"x2 Period End"
+F;X37
+C;K"NpcID"
+F;X38
+C;K"Skill ID"
+C;Y2;X1;K"CampaignLine"
+C;X2;K"CampaignID"
+C;X3;K"CampaignName"
+C;X4;K"CampaignTypes"
+C;X5;K"CampaignFre"
+C;X6;K"BeginHour"
+C;X7;K"EndHour"
+C;X8;K"BeginDay"
+C;X9;K"EndDay"
+C;X10;K"BeginWeek"
+C;X11;K"EndWeek"
+C;X12;K"BeginMonth"
+C;X13;K"EndMonth"
+C;X14;K"SpecialDay"
+C;X15;K"EncourageFre"
+C;X16;K"EncourageValue"
+C;X17;K"Level"
+C;X18;K"StandingTime"
+C;X19;K"ItemID"
+C;X20;K"ReduceRate"
+C;X21;K"ReduceFre"
+C;X22;K"ReduceBlood"
+C;X23;K"ReduceEnergy"
+C;X24;K"MapID"
+C;X25;K"MidHP"
+C;X26;K"MidAddExperience"
+C;X27;K"BufferID"
+C;X28;K"OutMapID"
+C;X29;K"OutX"
+C;X30;K"OutY"
+C;X31;K"PayMoney"
+C;X32;K"EncourgeTimeOut"
+C;X33;K"ErrorCount"
+C;X34;K"ThemeCount"
+C;X35;K"MoreBegTime"
+C;X36;K"MoreEndTime"
+C;X37;K"NpcID"
+C;X38;K"SkillID"
+C;Y3;X1;K"0_0"
+C;X2;K1
+C;X3;K"Thor's Altar"
+C;X4;K0
+C;X5;K2
+C;X6;K0
+C;X7;K24
+C;X8;K0
+C;X9;K0
+C;X10;K6
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K"6.1_10.1"
+C;X15;K5
+C;X16;K20
+C;X17;K30
+C;X18;K3600
+C;X19;K63049
+C;X20;K0
+C;X21;K0
+C;X22;K0
+C;X23;K0
+C;X24;K112
+C;X25;K100
+C;X26;K20
+C;X27;K11909
+C;X28;K2
+C;X29;K70
+C;X30;K70
+C;X31;K0
+C;X32;K0
+C;X33;K0
+C;X34;K0
+C;X35;K0
+C;X36;K0
+C;X37;K"0_0"
+C;X38;K9909
+C;Y4;X1;K"0_0"
+C;X2;K3
+C;X3;K"Tree of Life"
+C;X4;K0
+C;X5;K1
+C;X6;K0
+C;X7;K24
+C;X8;K0
+C;X9;K0
+C;X10;K0
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K"6.1_10.1"
+C;X15;K5
+C;X16;K50
+C;X17;K15
+C;X18;K3600
+C;X19;K63048
+C;X20;K0
+C;X21;K5
+C;X22;K0
+C;X23;K0
+C;X24;K113
+C;X25;K100
+C;X26;K20
+F;P0;FG0R;X27
+C;K"11908_11915"
+C;X28;K2
+C;X29;K70
+C;X30;K70
+C;X31;K0
+C;X32;K0
+C;X33;K0
+C;X34;K0
+C;X35;K0
+C;X36;K0
+C;X37;K"0_0"
+C;X38;K9908
+C;Y5;X1;K"0_0"
+C;X2;K4
+C;X3;K"Rookie Quiz"
+C;X4;K1
+C;X5;K1
+C;X6;K0
+C;X7;K24
+C;X8;K0
+C;X9;K0
+C;X10;K0
+C;X11;K0
+C;X12;K0
+C;X13;K0
+C;X14;K"6.1_10.1"
+C;X15;K0
+C;X16;K0
+C;X17;K15
+C;X18;K3600
+C;X19;K63048
+C;X20;K0
+C;X21;K5
+C;X22;K0
+C;X23;K0
+C;X24;K113
+C;X25;K100
+C;X26;K20
+F;P0;FG0R;X27
+C;K"11908_11915"
+C;X28;K2
+C;X29;K70
+C;X30;K70
+C;X31;K0
+C;X32;K0
+C;X33;K3
+C;X34;K10
+C;X35;K0
+C;X36;K0
+C;X37;K"0_0"
+C;X38;K9908
+E

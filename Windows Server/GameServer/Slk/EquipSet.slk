@@ -1,0 +1,1469 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M200
+F;P0;DG0G8;M285
+B;Y425;X4;D0 0 424 3
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 26
+F;W3 3 12
+F;W4 4 14
+F;M270;R9
+NN;N_FilterDatabase;ER1C1:R405C4
+C;Y1;X1;K"Set No."
+C;X2;K"Set Name"
+C;X3;K"Armor Amount"
+C;Y2;X1;K"SetID"
+C;X2;K"SetName"
+C;X3;K"SetNum"
+C;Y3;X1;K101
+C;X2;K"Heracles' Soul(Set)"
+C;X3;K8
+C;Y4;X1;K102
+C;X2;K"Achilles' Soul(Set)"
+C;X3;K8
+C;Y5;X1;K103
+C;X2;K"Thanatos' Soul(Set)"
+C;X3;K8
+C;Y6;X1;K104
+C;X2;K"Prometheus' Soul(Set)"
+C;X3;K8
+C;Y7;X1;K105
+C;X2;K"Themis' Soul(Set)"
+C;X3;K8
+C;Y8;X1;K106
+C;X2;K"Ares' Soul(Set)"
+C;X3;K8
+F;Y9;X1
+C;K107
+F;X2
+C;K"Poseidon's Soul(Set)"
+F;X3
+C;K8
+C;Y10;X1;K108
+C;X2;K"Hades' Soul(Set)"
+C;X3;K8
+C;Y11;X1;K109
+C;X2;K"Hermes' Soul(Set)"
+C;X3;K8
+C;Y12;X1;K110
+C;X2;K"Apollo's Soul(Set)"
+C;X3;K8
+C;Y13;X1;K111
+C;X2;K"Heracles' Soul(Set)"
+C;X3;K8
+C;Y14;X1;K112
+C;X2;K"Achilles' Soul(Set)"
+C;X3;K8
+C;Y15;X1;K113
+C;X2;K"Thanatos' Soul(Set)"
+C;X3;K8
+C;Y16;X1;K114
+C;X2;K"Prometheus' Soul(Set)"
+C;X3;K8
+C;Y17;X1;K115
+C;X2;K"Themis' Soul(Set)"
+C;X3;K8
+C;Y18;X1;K116
+C;X2;K"Ares' Soul(Set)"
+C;X3;K8
+C;Y19;X1;K117
+C;X2;K"Poseidon's Soul(Set)"
+C;X3;K8
+C;Y20;X1;K118
+C;X2;K"Hades' Soul(Set)"
+C;X3;K8
+C;Y21;X1;K119
+C;X2;K"Hermes' Soul(Set)"
+C;X3;K8
+C;Y22;X1;K120
+C;X2;K"Apollo's Soul(Set)"
+C;X3;K8
+C;Y23;X1;K121
+C;X2;K"Kronos Set (Soul)"
+C;X3;K5
+C;Y24;X1;K122
+C;X2;K"Hyperion Set (Soul)"
+C;X3;K5
+C;Y25;X1;K123
+C;X2;K"Iapetus Set (Soul)"
+C;X3;K5
+C;Y26;X1;K124
+C;X2;K"Coeus Set (Soul)"
+C;X3;K5
+C;Y27;X1;K125
+C;X2;K"Crius Set (Soul)"
+C;X3;K5
+C;Y28;X1;K131
+C;X2;K"Khaos Set"
+C;X3;K5
+C;Y29;X1;K132
+C;X2;K"Eros Set"
+C;X3;K5
+C;Y30;X1;K133
+C;X2;K"Tartarus Set"
+C;X3;K5
+C;Y31;X1;K134
+C;X2;K"Nyx Set"
+C;X3;K5
+C;Y32;X1;K135
+C;X2;K"Erebus Set"
+C;X3;K5
+C;Y33;X1;K136
+C;X2;K"Melete's Soul (Set)"
+C;X3;K8
+C;Y34;X1;K137
+C;X2;K"Melete's Soul (Set)"
+C;X3;K8
+C;Y35;X1;K138
+C;X2;K"Rhea's Soul (Set) "
+C;X3;K8
+C;Y36;X1;K139
+C;X2;K"Rhea's Soul (Set) "
+C;X3;K8
+C;Y37;X1;K140
+C;X2;K"Ostasos' Soul (Set) "
+C;X3;K5
+C;Y38;X1;K141
+C;X2;K"Aitna's Soul (Set) "
+C;X3;K5
+F;P0;FG0R;SM7;Y39;X1
+C;K142
+F;SM7;X2
+C;K"Surya Set"
+F;P0;FG0R;SM7;X3
+C;K5
+F;P0;FG0R;SM7;Y40;X1
+C;K143
+F;SM7;X2
+C;K"Vulcanus Set"
+F;P0;FG0R;SM7;X3
+C;K5
+F;P0;FG0R;SM7;Y41;X1
+C;K144
+F;SM7;X2
+C;K"Vali Set"
+F;P0;FG0R;SM7;X3
+C;K5
+F;P0;FG0R;SM7;Y42;X1
+C;K145
+F;SM7;X2
+C;K"Eurynome Set"
+F;P0;FG0R;SM7;X3
+C;K5
+F;P0;FG0R;SM7;Y43;X1
+C;K146
+F;SM7;X2
+C;K"Tethys Set"
+F;P0;FG0R;SM7;X3
+C;K5
+F;P0;FG0R;SM7;Y44;X1
+C;K147
+F;SM7;X2
+C;K"Aether Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;Y45;X1;K151
+C;X2;K"Melete's Soul (Set)"
+C;X3;K8
+C;Y46;X1;K152
+C;X2;K"Vitality (Set) "
+C;X3;K8
+C;Y47;X1;K153
+C;X2;K"Psychic (Set) "
+C;X3;K8
+C;Y48;X1;K154
+C;X2;K"Dimension (Set) "
+C;X3;K8
+C;Y49;X1;K155
+F;SM5;X2
+C;K"Uranus Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;X4;K"Exalted LV30 Soul Gear"
+C;Y50;X1;K156
+F;SM5;X2
+C;K"Talos Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;X4;K"Exalted LV30 Soul Gear"
+C;Y51;X1;K157
+F;SM5;X2
+C;K"Phoebe Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;X4;K"Exalted LV30 Soul Gear"
+C;Y52;X1;K158
+F;SM5;X2
+C;K"Oceanus Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;X4;K"Exalted LV30 Soul Gear"
+C;Y53;X1;K159
+F;SM5;X2
+C;K"Vesta Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;X4;K"Exalted LV30 Soul Gear"
+C;Y54;X1;K160
+F;SM5;X2
+C;K"Hecate Set"
+F;P0;FG0R;SM7;X3
+C;K5
+C;X4;K"Exalted LV30 Soul Gear"
+C;Y55;X1;K300
+C;X2;K"Radiance"
+C;X3;K4
+C;X4;K"Chmp"
+C;Y56;X1;K301
+C;X2;K"Radiance"
+C;X3;K4
+C;X4;K"Bzkr. Slyr."
+C;Y57;X1;K302
+C;X2;K"Radiance"
+C;X3;K4
+C;X4;K"Mgus. Smnr. Hrtc."
+C;Y58;X1;K901
+C;X2;K"Conqueror Set"
+C;X3;K7
+C;Y59;X1;K902
+C;X2;K"Templar Set"
+C;X3;K7
+C;Y60;X1;K903
+C;X2;K"Slayer Set"
+C;X3;K7
+C;Y61;X1;K904
+C;X2;K"Soul Set"
+C;X3;K7
+C;Y62;X1;K905
+C;X2;K"Fairy Set"
+C;X3;K7
+C;Y63;X1;K906
+C;X2;K"Odin's Blessings Set"
+C;X3;K4
+C;Y64;X1;K907
+C;X2;K"Chrono accessory Set"
+C;X3;K4
+C;Y65;X1;K908
+C;X2;K"Divac Accessory Set"
+C;X3;K4
+C;Y66;X1;K909
+C;X2;K"Taurus Accessory Set"
+C;X3;K2
+C;Y67;X1;K910
+C;X2;K"Relic Set"
+C;X3;K2
+C;Y68;X1;K911
+C;X2;K"Dustfree (Set) "
+C;X3;K7
+C;Y69;X1;K1101
+C;X2;K"Strength Set"
+C;X3;K8
+C;Y70;X1;K1102
+C;X2;K"Overlord Set"
+C;X3;K8
+C;Y71;X1;K1103
+C;X2;K"Stark Set"
+C;X3;K8
+C;Y72;X1;K1104
+C;X2;K"Sky Set"
+C;X3;K8
+C;Y73;X1;K1105
+C;X2;K"Rage Set"
+C;X3;K8
+C;Y74;X1;K1106
+C;X2;K"Star Set"
+C;X3;K8
+C;Y75;X1;K1107
+C;X2;K"LV105 Berzerker Set"
+C;X3;K8
+C;Y76;X1;K1108
+C;X2;K"LV120 Berzerker Set"
+C;X3;K8
+C;Y77;X1;K1109
+C;X2;K"LV135 Berzerker Set"
+C;X3;K8
+C;Y78;X1;K1110
+C;X2;K"LV150 Berzerker Set"
+C;X3;K8
+C;Y79;X1;K1111
+C;X2;K"LV160 Berzerker Set"
+C;X3;K8
+C;Y80;X1;K1112
+C;X2;K"LV170 Berzerker Set"
+C;X3;K8
+C;Y81;X1;K1201
+C;X2;K"Guardian Set"
+C;X3;K8
+C;Y82;X1;K1202
+C;X2;K"General's Set"
+C;X3;K8
+C;Y83;X1;K1203
+C;X2;K"Faith Set"
+C;X3;K8
+C;Y84;X1;K1204
+C;X2;K"Stained Set"
+C;X3;K8
+C;Y85;X1;K1205
+C;X2;K"Sacrifice Set"
+C;X3;K8
+C;Y86;X1;K1206
+C;X2;K"Templar Set"
+C;X3;K8
+C;Y87;X1;K1207
+C;X2;K"LV105 Champion Set"
+C;X3;K8
+C;Y88;X1;K1208
+C;X2;K"LV120 Champion Set"
+C;X3;K8
+C;Y89;X1;K1209
+C;X2;K"LV135 Champion Set"
+C;X3;K8
+C;Y90;X1;K1210
+C;X2;K"LV150 Champion Set"
+C;X3;K8
+C;Y91;X1;K1211
+C;X2;K"LV160 Champion Set"
+C;X3;K8
+C;Y92;X1;K1212
+C;X2;K"LV170 Champion Set"
+C;X3;K8
+C;Y93;X1;K1301
+C;X2;K"Aggression Set"
+C;X3;K8
+C;Y94;X1;K1302
+C;X2;K"Slaughter Set"
+C;X3;K8
+C;Y95;X1;K1303
+C;X2;K"Destruction Set"
+C;X3;K8
+C;Y96;X1;K1304
+C;X2;K"Dragonfang Set"
+C;X3;K8
+C;Y97;X1;K1305
+C;X2;K"Assault Set"
+C;X3;K8
+C;Y98;X1;K1306
+C;X2;K"Sabotage Set"
+C;X3;K8
+C;Y99;X1;K1307
+C;X2;K"LV105 Slayer Set"
+C;X3;K8
+C;Y100;X1;K1308
+C;X2;K"LV120 Slayer Set"
+C;X3;K8
+C;Y101;X1;K1309
+C;X2;K"LV135 Slayer Set"
+C;X3;K8
+C;Y102;X1;K1310
+C;X2;K"LV150 Slayer Set"
+C;X3;K8
+C;Y103;X1;K1311
+C;X2;K"LV160 Slayer Set"
+C;X3;K8
+C;Y104;X1;K1312
+C;X2;K"LV170 Slayer Set"
+C;X3;K8
+C;Y105;X1;K1401
+C;X2;K"Arcane Set"
+C;X3;K8
+C;Y106;X1;K1402
+C;X2;K"Elemental Set"
+C;X3;K8
+C;Y107;X1;K1403
+C;X2;K"Earthen Set"
+C;X3;K8
+C;Y108;X1;K1404
+C;X2;K"Planet Set"
+C;X3;K8
+C;Y109;X1;K1405
+C;X2;K"Mystery Set"
+C;X3;K8
+C;Y110;X1;K1406
+C;X2;K"Divinity Set"
+C;X3;K8
+C;Y111;X1;K1407
+C;X2;K"LV105 Magus Set"
+C;X3;K8
+C;Y112;X1;K1408
+C;X2;K"LV120 Magus Set"
+C;X3;K8
+C;Y113;X1;K1409
+C;X2;K"LV135 Magus Set"
+C;X3;K8
+C;Y114;X1;K1410
+C;X2;K"LV150 Magus Set"
+C;X3;K8
+C;Y115;X1;K1411
+C;X2;K"LV160 Magus Set"
+C;X3;K8
+C;Y116;X1;K1412
+C;X2;K"LV170 Magus Set"
+C;X3;K8
+C;Y117;X1;K1501
+C;X2;K"Peace Set"
+C;X3;K8
+C;Y118;X1;K1502
+C;X2;K"Sanctity Set"
+C;X3;K8
+C;Y119;X1;K1503
+C;X2;K"Glowing Set"
+C;X3;K8
+C;Y120;X1;K1504
+C;X2;K"Angelic Set"
+C;X3;K8
+C;Y121;X1;K1505
+C;X2;K"Ritual Set"
+C;X3;K8
+C;Y122;X1;K1506
+C;X2;K"Glory Set"
+C;X3;K8
+C;Y123;X1;K1507
+C;X2;K"LV105 Heretic Set"
+C;X3;K8
+C;Y124;X1;K1508
+C;X2;K"LV120 Heretic Set"
+C;X3;K8
+C;Y125;X1;K1509
+C;X2;K"LV135 Heretic Set"
+C;X3;K8
+C;Y126;X1;K1510
+C;X2;K"LV150 Heretic Set"
+C;X3;K8
+C;Y127;X1;K1511
+C;X2;K"LV160 Heretic Set"
+C;X3;K8
+C;Y128;X1;K1512
+C;X2;K"LV170 Heretic Set"
+C;X3;K8
+C;Y129;X1;K1551
+C;X2;K"Signature (Set) "
+C;X3;K8
+C;Y130;X1;K1552
+C;X2;K"Essence (Set) "
+C;X3;K8
+C;Y131;X1;K1553
+C;X2;K"Psychic (Set) "
+C;X3;K8
+C;Y132;X1;K1554
+C;X2;K"Covenant (Set) "
+C;X3;K8
+C;Y133;X1;K1555
+C;X2;K"Meditation (Set) "
+C;X3;K8
+C;Y134;X1;K1556
+C;X2;K"Inhibition (Set) "
+C;X3;K8
+C;Y135;X1;K1557
+C;X2;K"LV105 Summoner (Set) "
+C;X3;K8
+C;Y136;X1;K1558
+C;X2;K"LV120 Summoner (Set) "
+C;X3;K8
+C;Y137;X1;K1559
+C;X2;K"LV135 Summoner (Set) "
+C;X3;K8
+C;Y138;X1;K1560
+C;X2;K"LV150 Summoner (Set) "
+C;X3;K8
+C;Y139;X1;K1561
+C;X2;K"LV160 Summoner (Set) "
+C;X3;K8
+C;Y140;X1;K1562
+C;X2;K"LV170 Summoner (Set) "
+C;X3;K8
+C;Y141;X1;K1601
+C;X2;K"Angelic Set"
+C;X3;K4
+C;Y142;X1;K1602
+C;X2;K"Platinum Set"
+C;X3;K4
+C;Y143;X1;K1603
+C;X2;K"Imperial Set"
+C;X3;K4
+C;Y144;X1;K1604
+C;X2;K"Storm Set"
+C;X3;K4
+C;Y145;X1;K1605
+C;X2;K"Inferno Set"
+C;X3;K4
+C;Y146;X1;K1606
+C;X2;K"Cloud Set"
+C;X3;K4
+C;Y147;X1;K1607
+C;X2;K"Supreme Set"
+C;X3;K4
+C;Y148;X1;K1608
+C;X2;K"Divine Set"
+C;X3;K4
+C;Y149;X1;K1609
+C;X2;K"Archangel Set"
+C;X3;K4
+C;Y150;X1;K1610
+C;X2;K"Paladine Set"
+C;X3;K4
+C;Y151;X1;K1611
+C;X2;K"Thunder Set"
+C;X3;K4
+C;Y152;X1;K1612
+C;X2;K"Odin's Set"
+C;X3;K4
+C;Y153;X1;K1701
+C;X2;K"Angelic Advanced Set"
+C;X3;K4
+C;Y154;X1;K1702
+C;X2;K"Platinum Advanced Set"
+C;X3;K4
+C;Y155;X1;K1703
+C;X2;K"Imperial Advanced Set"
+C;X3;K4
+C;Y156;X1;K1704
+C;X2;K"Storm Advanced Set"
+C;X3;K4
+C;Y157;X1;K1705
+C;X2;K"Inferno Advanced Set"
+C;X3;K4
+C;Y158;X1;K1706
+C;X2;K"Cloud Advanced Set"
+C;X3;K4
+C;Y159;X1;K1707
+C;X2;K"LV105 Supreme Advanced Set"
+C;X3;K4
+C;Y160;X1;K1708
+C;X2;K"LV120 Divine Advanced Set"
+C;X3;K4
+C;Y161;X1;K1709
+C;X2;K"LV135 Archangel Advanced Set"
+C;X3;K4
+C;Y162;X1;K1710
+C;X2;K"LV150 Paladine Advanced Set"
+C;X3;K4
+C;Y163;X1;K1711
+C;X2;K"LV160 Thunder Advanced Set"
+C;X3;K4
+C;Y164;X1;K1712
+C;X2;K"LV170 Odin's Advanced Set"
+C;X3;K4
+C;Y165;X1;K2101
+C;X2;K"Strength Advanced Set"
+C;X3;K8
+C;Y166;X1;K2102
+C;X2;K"Overlord Advanced Set"
+C;X3;K8
+C;Y167;X1;K2103
+C;X2;K"Stark Advanced Set"
+C;X3;K8
+C;Y168;X1;K2104
+C;X2;K"Sky Advanced Set"
+C;X3;K8
+C;Y169;X1;K2105
+C;X2;K"Rage Advanced Set"
+C;X3;K8
+C;Y170;X1;K2106
+C;X2;K"Star Advanced Set"
+C;X3;K8
+C;Y171;X1;K2107
+C;X2;K"LV105 Berzerker Advanced Set"
+C;X3;K8
+C;Y172;X1;K2108
+C;X2;K"LV120 Berzerker Advanced Set"
+C;X3;K8
+C;Y173;X1;K2109
+C;X2;K"LV135 Berzerker Advanced Set"
+C;X3;K8
+C;Y174;X1;K2110
+C;X2;K"LV150 Berzerker Advanced Set"
+C;X3;K8
+C;Y175;X1;K2111
+C;X2;K"LV160 Berzerker Advanced Set"
+C;X3;K8
+C;Y176;X1;K2112
+C;X2;K"LV170 Berzerker Advanced Set"
+C;X3;K8
+C;Y177;X1;K2201
+C;X2;K"Guardian Advanced Set"
+C;X3;K8
+C;Y178;X1;K2202
+C;X2;K"General's Advanced Set"
+C;X3;K8
+C;Y179;X1;K2203
+C;X2;K"Faith Advanced Set"
+C;X3;K8
+C;Y180;X1;K2204
+C;X2;K"Stained Advanced Set"
+C;X3;K8
+C;Y181;X1;K2205
+C;X2;K"Sacrifice Advanced Set"
+C;X3;K8
+C;Y182;X1;K2206
+C;X2;K"Templar Advanced Set"
+C;X3;K8
+C;Y183;X1;K2207
+C;X2;K"LV105 Champion Advanced Set"
+C;X3;K8
+C;Y184;X1;K2208
+C;X2;K"LV120 Champion Advanced Set"
+C;X3;K8
+C;Y185;X1;K2209
+C;X2;K"LV135 Champion Advanced Set"
+C;X3;K8
+C;Y186;X1;K2210
+C;X2;K"LV150 Champion Advanced Set"
+C;X3;K8
+C;Y187;X1;K2211
+C;X2;K"LV160 Champion Advanced Set"
+C;X3;K8
+C;Y188;X1;K2212
+C;X2;K"LV170 Champion Advanced Set"
+C;X3;K8
+C;Y189;X1;K2301
+C;X2;K"Aggression Advanced Set"
+C;X3;K8
+C;Y190;X1;K2302
+C;X2;K"Slaughter Advanced Set"
+C;X3;K8
+C;Y191;X1;K2303
+C;X2;K"Destruction Advanced Set"
+C;X3;K8
+C;Y192;X1;K2304
+C;X2;K"Dragonfang Advanced Set"
+C;X3;K8
+C;Y193;X1;K2305
+C;X2;K"Assault Advanced Set"
+C;X3;K8
+C;Y194;X1;K2306
+C;X2;K"Sabotage Advanced Set"
+C;X3;K8
+C;Y195;X1;K2307
+C;X2;K"LV105 Slayer Advanced Set"
+C;X3;K8
+C;Y196;X1;K2308
+C;X2;K"LV120 Slayer Advanced Set"
+C;X3;K8
+C;Y197;X1;K2309
+C;X2;K"LV135 Slayer Advanced Set"
+C;X3;K8
+C;Y198;X1;K2310
+C;X2;K"LV150 Slayer Advanced Set"
+C;X3;K8
+C;Y199;X1;K2311
+C;X2;K"LV160 Slayer Advanced Set"
+C;X3;K8
+C;Y200;X1;K2312
+C;X2;K"LV170 Slayer Advanced Set"
+C;X3;K8
+C;Y201;X1;K2401
+C;X2;K"Arcane Advanced Set"
+C;X3;K8
+C;Y202;X1;K2402
+C;X2;K"Elemental Advanced Set"
+C;X3;K8
+C;Y203;X1;K2403
+C;X2;K"Earthen Advanced Set"
+C;X3;K8
+C;Y204;X1;K2404
+C;X2;K"Planet Advanced Set"
+C;X3;K8
+C;Y205;X1;K2405
+C;X2;K"Mystery Advanced Set"
+C;X3;K8
+C;Y206;X1;K2406
+C;X2;K"Divinity Advanced Set"
+C;X3;K8
+C;Y207;X1;K2407
+C;X2;K"LV105 Magus Advanced Set"
+C;X3;K8
+C;Y208;X1;K2408
+C;X2;K"LV120 Magus Advanced Set"
+C;X3;K8
+C;Y209;X1;K2409
+C;X2;K"LV135 Magus Advanced Set"
+C;X3;K8
+C;Y210;X1;K2410
+C;X2;K"LV150 Magus Advanced Set"
+C;X3;K8
+C;Y211;X1;K2411
+C;X2;K"LV160 Magus Advanced Set"
+C;X3;K8
+C;Y212;X1;K2412
+C;X2;K"LV170 Magus Advanced Set"
+C;X3;K8
+C;Y213;X1;K2501
+C;X2;K"Peace Advanced Set"
+C;X3;K8
+C;Y214;X1;K2502
+C;X2;K"Sanctity Advanced Set"
+C;X3;K8
+C;Y215;X1;K2503
+C;X2;K"Glowing Advanced Set"
+C;X3;K8
+C;Y216;X1;K2504
+C;X2;K"Angelic Advanced Set"
+C;X3;K8
+C;Y217;X1;K2505
+C;X2;K"Ritual Advanced Set"
+C;X3;K8
+C;Y218;X1;K2506
+C;X2;K"Glory Advanced Set"
+C;X3;K8
+C;Y219;X1;K2507
+C;X2;K"LV105 Heretic Advanced Set"
+C;X3;K8
+C;Y220;X1;K2508
+C;X2;K"LV120 Heretic Advanced Set"
+C;X3;K8
+C;Y221;X1;K2509
+C;X2;K"LV135 Heretic Advanced Set"
+C;X3;K8
+C;Y222;X1;K2510
+C;X2;K"LV150 Heretic Advanced Set"
+C;X3;K8
+C;Y223;X1;K2511
+C;X2;K"LV160 Heretic Advanced Set"
+C;X3;K8
+C;Y224;X1;K2512
+C;X2;K"LV170 Heretic Advanced Set"
+C;X3;K8
+C;Y225;X1;K2601
+C;X2;K"Angelic Advanced Set"
+C;X3;K4
+C;Y226;X1;K2602
+C;X2;K"Platinum Advanced Set"
+C;X3;K4
+C;Y227;X1;K2603
+C;X2;K"Imperial Advanced Set"
+C;X3;K4
+C;Y228;X1;K2604
+C;X2;K"Storm Advanced Set"
+C;X3;K4
+C;Y229;X1;K2605
+C;X2;K"Inferno Advanced Set"
+C;X3;K4
+C;Y230;X1;K2606
+C;X2;K"Cloud Advanced Set"
+C;X3;K4
+C;Y231;X1;K2607
+C;X2;K"Supreme Advanced Set"
+C;X3;K4
+C;Y232;X1;K2608
+C;X2;K"Divine Advanced Set"
+C;X3;K4
+C;X4;K"LV15 Berzerker Weapon Boots Set"
+C;Y233;X1;K2609
+C;X2;K"Archangel Advanced Set"
+C;X3;K4
+C;X4;K"LV15 Berzerker Chestpiece Belt Set"
+C;Y234;X1;K2610
+C;X2;K"Paladine Advanced Set"
+C;X3;K4
+C;X4;K"LV15 Berzerker Greaves Gloves Set"
+C;Y235;X1;K2611
+C;X2;K"Thunder Advanced Set"
+C;X3;K4
+C;X4;K"LV15 Berzerker Pauldrons Helm Set"
+C;Y236;X1;K2612
+C;X2;K"Odin's Advanced Set"
+C;X3;K4
+C;Y237;X4;K"LV30 Berzerker Weapon Boots Set"
+C;Y238;X1;K3011
+C;X2;K"Strength's Flame"
+C;X3;K2
+C;X4;K"LV30 Berzerker Chestpiece Belt Set"
+C;Y239;X1;K3012
+C;X2;K"Strength's Life"
+C;X3;K2
+C;X4;K"LV30 Berzerker Greaves Gloves Set"
+C;Y240;X1;K3013
+C;X2;K"Strength's Rage"
+C;X3;K2
+C;X4;K"LV30 Berzerker Pauldrons Helm Set"
+C;Y241;X1;K3014
+C;X2;K"Strength's Luck"
+C;X3;K2
+C;Y242;X4;K"LV45 Berzerker Weapon Boots Set"
+C;Y243;X1;K3021
+C;X2;K"Overlord's Flame"
+C;X3;K2
+C;X4;K"LV45 Berzerker Chestpiece Belt Set"
+C;Y244;X1;K3022
+C;X2;K"Overlord's Life"
+C;X3;K2
+C;X4;K"LV45 Berzerker Greaves Gloves Set"
+C;Y245;X1;K3023
+C;X2;K"Overlord's Rage"
+C;X3;K2
+C;X4;K"LV45 Berzerker Pauldrons Helm Set"
+C;Y246;X1;K3024
+C;X2;K"Overlord's Luck"
+C;X3;K2
+C;Y247;X4;K"LV60 Berzerker Weapon Boots Set"
+C;Y248;X1;K3031
+C;X2;K"Stark's Flame"
+C;X3;K2
+C;X4;K"LV60 Berzerker Chestpiece Belt Set"
+C;Y249;X1;K3032
+C;X2;K"Stark's Life"
+C;X3;K2
+C;X4;K"LV60 Berzerker Greaves Gloves Set"
+C;Y250;X1;K3033
+C;X2;K"Stark's Rage"
+C;X3;K2
+C;X4;K"LV60 Berzerker Pauldrons Helm Set"
+C;Y251;X1;K3034
+C;X2;K"Stark's Luck"
+C;X3;K2
+C;Y252;X4;K"LV75 Berzerker Weapon Boots Set"
+C;Y253;X1;K3041
+C;X2;K"Sky's Flame"
+C;X3;K2
+C;X4;K"LV75 Berzerker Chestpiece Belt Set"
+C;Y254;X1;K3042
+C;X2;K"Sky's Life"
+C;X3;K2
+C;X4;K"LV75 Berzerker Greaves Gloves Set"
+C;Y255;X1;K3043
+C;X2;K"Sky's Rage"
+C;X3;K2
+C;X4;K"LV75 Berzerker Pauldrons Helm Set"
+C;Y256;X1;K3044
+C;X2;K"Sky's Luck"
+C;X3;K2
+C;Y257;X4;K"LV90 Berzerker Weapon Boots Set"
+C;Y258;X1;K3051
+C;X2;K"Rage's Flame"
+C;X3;K2
+C;X4;K"LV90 Berzerker Chestpiece Belt Set"
+C;Y259;X1;K3052
+C;X2;K"Rage's Life"
+C;X3;K2
+C;X4;K"LV90 Berzerker Greaves Gloves Set"
+C;Y260;X1;K3053
+C;X2;K"Rage's Rage"
+C;X3;K2
+C;X4;K"LV90 Berzerker Pauldrons Helm Set"
+C;Y261;X1;K3054
+C;X2;K"Rage's Luck"
+C;X3;K2
+C;Y262;X4;K"105 Warrior's Weapon Boots Set"
+C;Y263;X1;K3061
+C;X2;K"Star's Flame"
+C;X3;K2
+C;X4;K"105 Warrior's Clothes Belt Set"
+C;Y264;X1;K3062
+C;X2;K"Star's Life"
+C;X3;K2
+C;X4;K"105 Warrior's Greaves Gloves Set"
+C;Y265;X1;K3063
+C;X2;K"Star's Rage"
+C;X3;K2
+C;X4;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y266;X1;K3064
+C;X2;K"Star's Luck"
+C;X3;K2
+C;Y267;X4;K"LV15 Champion Weapon Boots Set"
+C;Y268;X1;K3071
+C;X2;K"Ultimate Flame"
+C;X3;K2
+C;X4;K"LV15 Champion Chestpiece Belt Set"
+C;Y269;X1;K3072
+C;X2;K"Ultimate Life"
+C;X3;K2
+C;X4;K"LV15 Champion Greaves Gloves Set"
+C;Y270;X1;K3073
+C;X2;K"Ultimate Rage"
+C;X3;K2
+C;X4;K"LV15 Champion Pauldrons Helm Set"
+C;Y271;X1;K3074
+C;X2;K"Ultimate Luck"
+C;X3;K2
+C;Y272;X4;K"LV30 Champion Weapon Boots Set"
+C;Y273;X1;K3111
+C;X2;K"Guardian's Frost"
+C;X3;K2
+C;X4;K"LV30 Champion Chestpiece Belt Set"
+C;Y274;X1;K3112
+C;X2;K"Guardian's Life"
+C;X3;K2
+C;X4;K"LV30 Champion Greaves Gloves Set"
+C;Y275;X1;K3113
+C;X2;K"Guardian's Defense"
+C;X3;K2
+C;X4;K"LV30 Champion Pauldrons Helm Set"
+C;Y276;X1;K3114
+C;X2;K"Guardian's Shield"
+C;X3;K2
+C;Y277;X4;K"LV45 Champion Weapon Boots Set"
+C;Y278;X1;K3121
+C;X2;K"General's Frost"
+C;X3;K2
+C;X4;K"LV45 Champion Chestpiece Belt Set"
+C;Y279;X1;K3122
+C;X2;K"General's Life"
+C;X3;K2
+C;X4;K"LV45 Champion Greaves Gloves Set"
+C;Y280;X1;K3123
+C;X2;K"General's Defense"
+C;X3;K2
+C;X4;K"LV45 Champion Pauldrons Helm Set"
+C;Y281;X1;K3124
+C;X2;K"General's Shield"
+C;X3;K2
+C;Y282;X4;K"LV60 Champion Weapon Boots Set"
+C;Y283;X1;K3131
+C;X2;K"Faith's Frost"
+C;X3;K2
+C;X4;K"LV60 Champion Chestpiece Belt Set"
+C;Y284;X1;K3132
+C;X2;K"Faith's Life"
+C;X3;K2
+C;X4;K"LV60 Champion Greaves Gloves Set"
+C;Y285;X1;K3133
+C;X2;K"Faith's Defense"
+C;X3;K2
+C;X4;K"LV60 Champion Pauldrons Helm Set"
+C;Y286;X1;K3134
+C;X2;K"Faith's Shield"
+C;X3;K2
+C;Y287;X4;K"LV75 Champion Weapon Boots Set"
+C;Y288;X1;K3141
+C;X2;K"Stained Frost"
+C;X3;K2
+C;X4;K"LV75 Champion Chestpiece Belt Set"
+C;Y289;X1;K3142
+C;X2;K"Stained Life"
+C;X3;K2
+C;X4;K"LV75 Champion Greaves Gloves Set"
+C;Y290;X1;K3143
+C;X2;K"Stained Defense"
+C;X3;K2
+C;X4;K"LV75 Champion Pauldrons Helm Set"
+C;Y291;X1;K3144
+C;X2;K"Stained Shield"
+C;X3;K2
+C;Y292;X4;K"LV90 Champion Weapon Boots Set"
+C;Y293;X1;K3151
+C;X2;K"Sacrifice's Frost"
+C;X3;K2
+C;X4;K"LV90 Champion Chestpiece Belt Set"
+C;Y294;X1;K3152
+C;X2;K"Sacrifice's Life"
+C;X3;K2
+C;X4;K"LV90 Champion Greaves Gloves Set"
+C;Y295;X1;K3153
+C;X2;K"Sacrifice's Defense"
+C;X3;K2
+C;X4;K"LV90 Champion Pauldrons Helm Set"
+C;Y296;X1;K3154
+C;X2;K"Sacrifice's Shield"
+C;X3;K2
+C;Y297;X4;K"105 Warrior's Weapon Boots Set"
+C;Y298;X1;K3161
+C;X2;K"Templar's Frost"
+C;X3;K2
+C;X4;K"105 Warrior's Clothes Belt Set"
+C;Y299;X1;K3162
+C;X2;K"Templar's Life"
+C;X3;K2
+C;X4;K"105 Warrior's Greaves Gloves Set"
+C;Y300;X1;K3163
+C;X2;K"Templar's Defense"
+C;X3;K2
+C;X4;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y301;X1;K3164
+C;X2;K"Templar's Shield"
+C;X3;K2
+C;Y302;X4;K"LV15 Slayer Weapon Boots Set"
+C;Y303;X1;K3171
+C;X2;K"Holy Frost"
+C;X3;K2
+C;X4;K"LV15 Slayer Chestpiece Belt Set"
+C;Y304;X1;K3172
+C;X2;K"Holy Life"
+C;X3;K2
+C;X4;K"LV15 Slayer Greaves Gloves Set"
+C;Y305;X1;K3173
+C;X2;K"Holy Defense"
+C;X3;K2
+C;X4;K"LV15 Slayer Pauldrons Helm Set"
+C;Y306;X1;K3174
+C;X2;K"Holy Shield"
+C;X3;K2
+C;Y307;X4;K"LV30 Slayer Weapon Boots Set"
+C;Y308;X1;K3211
+C;X2;K"Aggression's Shadow"
+C;X3;K2
+C;X4;K"LV30 Slayer Chestpiece Belt Set"
+C;Y309;X1;K3212
+C;X2;K"Aggression's Rage"
+C;X3;K2
+C;X4;K"LV30 Slayer Greaves Gloves Set"
+C;Y310;X1;K3213
+C;X2;K"Aggression's Wind"
+C;X3;K2
+C;X4;K"LV30 Slayer Pauldrons Helm Set"
+C;Y311;X1;K3214
+C;X2;K"Aggression's Rampage"
+C;X3;K2
+C;Y312;X4;K"LV45 Slayer Weapon Boots Set"
+C;Y313;X1;K3221
+C;X2;K"Slaughter's Shadow"
+C;X3;K2
+C;X4;K"LV45 Slayer Chestpiece Belt Set"
+C;Y314;X1;K3222
+C;X2;K"Slaughter's Rage"
+C;X3;K2
+C;X4;K"LV45 Slayer Greaves Gloves Set"
+C;Y315;X1;K3223
+C;X2;K"Slaughter's Wind"
+C;X3;K2
+C;X4;K"LV45 Slayer Pauldrons Helm Set"
+C;Y316;X1;K3224
+C;X2;K"Slaughter's Rampage"
+C;X3;K2
+C;Y317;X4;K"LV60 Slayer Weapon Boots Set"
+C;Y318;X1;K3231
+C;X2;K"Destruction's Shadow"
+C;X3;K2
+C;X4;K"LV60 Slayer Chestpiece Belt Set"
+C;Y319;X1;K3232
+C;X2;K"Destruction's Rage"
+C;X3;K2
+C;X4;K"LV60 Slayer Greaves Gloves Set"
+C;Y320;X1;K3233
+C;X2;K"Destruction's Wind"
+C;X3;K2
+C;X4;K"LV60 Slayer Pauldrons Helm Set"
+C;Y321;X1;K3234
+C;X2;K"Destruction's Rampage"
+C;X3;K2
+C;Y322;X4;K"LV75 Slayer Weapon Boots Set"
+C;Y323;X1;K3241
+C;X2;K"Dragonfang's Shadow"
+C;X3;K2
+C;X4;K"LV75 Slayer Chestpiece Belt Set"
+C;Y324;X1;K3242
+C;X2;K"Dragonfang's Rage"
+C;X3;K2
+C;X4;K"LV75 Slayer Greaves Gloves Set"
+C;Y325;X1;K3243
+C;X2;K"Dragonfang's Wind"
+C;X3;K2
+C;X4;K"LV75 Slayer Pauldrons Helm Set"
+C;Y326;X1;K3244
+C;X2;K"Dragonfang's Rampage"
+C;X3;K2
+C;Y327;X4;K"LV90 Slayer Weapon Boots Set"
+C;Y328;X1;K3251
+C;X2;K"Assault's Shadow"
+C;X3;K2
+C;X4;K"LV90 Slayer Chestpiece Belt Set"
+C;Y329;X1;K3252
+C;X2;K"Assault's Rage"
+C;X3;K2
+C;X4;K"LV90 Slayer Greaves Gloves Set"
+C;Y330;X1;K3253
+C;X2;K"Assault's Wind"
+C;X3;K2
+C;X4;K"LV90 Slayer Pauldrons Helm Set"
+C;Y331;X1;K3254
+C;X2;K"Assault's Rampage"
+C;X3;K2
+C;Y332;X4;K"105 Warrior's Weapon Boots Set"
+C;Y333;X1;K3261
+C;X2;K"Sabotage's Shadow"
+C;X3;K2
+C;X4;K"105 Warrior's Clothes Belt Set"
+C;Y334;X1;K3262
+C;X2;K"Sabotage's Rage"
+C;X3;K2
+C;X4;K"105 Warrior's Greaves Gloves Set"
+C;Y335;X1;K3263
+C;X2;K"Sabotage's Wind"
+C;X3;K2
+C;X4;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y336;X1;K3264
+C;X2;K"Sabotage's Rampage"
+C;X3;K2
+C;Y337;X4;K"LV15 Magus Weapon Boots Set"
+C;Y338;X1;K3271
+C;X2;K"Dark Shadow"
+C;X3;K2
+C;X4;K"LV15 Magus Chestpiece Belt Set"
+C;Y339;X1;K3272
+C;X2;K"Dark Rage"
+C;X3;K2
+C;X4;K"LV15 Magus Greaves Gloves Set"
+C;Y340;X1;K3273
+C;X2;K"Dark Gale"
+C;X3;K2
+C;X4;K"LV15 Magus Pauldrons Helm Set"
+C;Y341;X1;K3274
+C;X2;K"Dark Fury"
+C;X3;K2
+C;Y342;X4;K"LV30 Magus Weapon Boots Set"
+C;Y343;X1;K3311
+C;X2;K"Arcane Flame"
+C;X3;K2
+C;X4;K"LV30 Magus Chestpiece Belt Set"
+C;Y344;X1;K3312
+C;X2;K"Arcane Energy"
+C;X3;K2
+C;X4;K"LV30 Magus Greaves Gloves Set"
+C;Y345;X1;K3313
+C;X2;K"Arcane Force"
+C;X3;K2
+C;X4;K"LV30 Magus Pauldrons Helm Set"
+C;Y346;X1;K3314
+C;X2;K"Arcane Luck"
+C;X3;K2
+C;Y347;X4;K"LV45 Magus Weapon Boots Set"
+C;Y348;X1;K3321
+C;X2;K"Elemental Flame"
+C;X3;K2
+C;X4;K"LV45 Magus Chestpiece Belt Set"
+C;Y349;X1;K3322
+C;X2;K"Elemental Energy"
+C;X3;K2
+C;X4;K"LV45 Magus Greaves Gloves Set"
+C;Y350;X1;K3323
+C;X2;K"Elemental Magic"
+C;X3;K2
+C;X4;K"LV45 Magus Pauldrons Helm Set"
+C;Y351;X1;K3324
+C;X2;K"Elemental Luck"
+C;X3;K2
+C;Y352;X4;K"LV60 Magus Weapon Boots Set"
+C;Y353;X1;K3331
+C;X2;K"Earthen Flame"
+C;X3;K2
+C;X4;K"LV60 Magus Chestpiece Belt Set"
+C;Y354;X1;K3332
+C;X2;K"Earthen Energy"
+C;X3;K2
+C;X4;K"LV60 Magus Greaves Gloves Set"
+C;Y355;X1;K3333
+C;X2;K"Earthen Magic"
+C;X3;K2
+C;X4;K"LV60 Magus Pauldrons Helm Set"
+C;Y356;X1;K3334
+C;X2;K"Earthen Luck"
+C;X3;K2
+C;Y357;X4;K"LV75 Magus Weapon Boots Set"
+C;Y358;X1;K3341
+C;X2;K"Plant's Flame"
+C;X3;K2
+C;X4;K"LV75 Magus Chestpiece Belt Set"
+C;Y359;X1;K3342
+C;X2;K"Plant's Energy"
+C;X3;K2
+C;X4;K"LV75 Magus Greaves Gloves Set"
+C;Y360;X1;K3343
+C;X2;K"Plant's Magic"
+C;X3;K2
+C;X4;K"LV75 Magus Pauldrons Helm Set"
+C;Y361;X1;K3344
+C;X2;K"Plant's Luck"
+C;X3;K2
+C;Y362;X4;K"LV90 Magus Weapon Boots Set"
+C;Y363;X1;K3351
+C;X2;K"Mystery's Flame"
+C;X3;K2
+C;X4;K"LV90 Magus Chestpiece Belt Set"
+C;Y364;X1;K3352
+C;X2;K"Mystery's Energy"
+C;X3;K2
+C;X4;K"LV90 Magus Greaves Gloves Set"
+C;Y365;X1;K3353
+C;X2;K"Mystery's Magic"
+C;X3;K2
+C;X4;K"LV90 Magus Pauldrons Helm Set"
+C;Y366;X1;K3354
+C;X2;K"Mystery's Luck"
+C;X3;K2
+C;Y367;X4;K"105 Warrior's Weapon Boots Set"
+C;Y368;X1;K3361
+C;X2;K"Divinity's Flame"
+C;X3;K2
+C;X4;K"105 Warrior's Clothes Belt Set"
+C;Y369;X1;K3362
+C;X2;K"Divinity's Energy"
+C;X3;K2
+C;X4;K"105 Warrior's Greaves Gloves Set"
+C;Y370;X1;K3363
+C;X2;K"Divinity's Magic"
+C;X3;K2
+C;X4;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y371;X1;K3364
+C;X2;K"Divinity's Luck"
+C;X3;K2
+C;Y372;X4;K"LV15 Heretic Weapon Boots Set"
+C;Y373;X1;K3371
+C;X2;K"Spark Flame"
+C;X3;K2
+C;X4;K"LV15 Heretic Chestpiece Belt Set"
+C;Y374;X1;K3372
+C;X2;K"Spark Energy"
+C;X3;K2
+C;X4;K"LV15 Heretic Greaves Gloves Set"
+C;Y375;X1;K3373
+C;X2;K"Spark Magic"
+C;X3;K2
+C;X4;K"LV15 Heretic Pauldrons Helm Set"
+C;Y376;X1;K3374
+C;X2;K"Spark Luck"
+C;X3;K2
+C;Y377;X4;K"LV30 Heretic Weapon Boots Set"
+C;Y378;X1;K3411
+C;X2;K"Peace's Light"
+C;X3;K2
+C;X4;K"LV30 Heretic Chestpiece Belt Set"
+C;Y379;X1;K3412
+C;X2;K"Peace's Energy"
+C;X3;K2
+C;X4;K"LV30 Heretic Greaves Gloves Set"
+C;Y380;X1;K3413
+C;X2;K"Peace's Magic"
+C;X3;K2
+C;X4;K"LV30 Heretic Pauldrons Helm Set"
+C;Y381;X1;K3414
+C;X2;K"Peace's Shield"
+C;X3;K2
+C;Y382;X4;K"LV45 Heretic Weapon Boots Set"
+C;Y383;X1;K3421
+C;X2;K"Sanctity's Light"
+C;X3;K2
+C;X4;K"LV45 Heretic Chestpiece Belt Set"
+C;Y384;X1;K3422
+C;X2;K"Sanctity's Energy"
+C;X3;K2
+C;X4;K"LV45 Heretic Greaves Gloves Set"
+C;Y385;X1;K3423
+C;X2;K"Sanctity's Magic"
+C;X3;K2
+C;X4;K"LV45 Heretic Pauldrons Helm Set"
+C;Y386;X1;K3424
+C;X2;K"Sanctity's Shield"
+C;X3;K2
+C;Y387;X4;K"LV60 Heretic Weapon Boots Set"
+C;Y388;X1;K3431
+C;X2;K"Glowing Shine"
+C;X3;K2
+C;X4;K"LV60 Heretic Chestpiece Belt Set"
+C;Y389;X1;K3432
+C;X2;K"Glowing Energy"
+C;X3;K2
+C;X4;K"LV60 Heretic Greaves Gloves Set"
+C;Y390;X1;K3433
+C;X2;K"Glowing Magic"
+C;X3;K2
+C;X4;K"LV60 Heretic Pauldrons Helm Set"
+C;Y391;X1;K3434
+C;X2;K"Glowing Shield"
+C;X3;K2
+C;Y392;X4;K"LV75 Heretic Weapon Boots Set"
+C;Y393;X1;K3441
+C;X2;K"Angelic  Light"
+C;X3;K2
+C;X4;K"LV75 Heretic Chestpiece Belt Set"
+C;Y394;X1;K3442
+C;X2;K"Angelic  Energy"
+C;X3;K2
+C;X4;K"LV75 Heretic Greaves Gloves Set"
+C;Y395;X1;K3443
+C;X2;K"Angelic  Magic"
+C;X3;K2
+C;X4;K"LV75 Heretic Pauldrons Helm Set"
+C;Y396;X1;K3444
+C;X2;K"Angelic  Shield"
+C;X3;K2
+C;Y397;X4;K"LV90 Heretic Weapon Boots Set"
+C;Y398;X1;K3451
+C;X2;K"Ritual Light"
+C;X3;K2
+C;X4;K"LV90 Heretic Chestpiece Belt Set"
+C;Y399;X1;K3452
+C;X2;K"Ritual Energy"
+C;X3;K2
+C;X4;K"LV90 Heretic Greaves Gloves Set"
+C;Y400;X1;K3453
+C;X2;K"Ritual Magic"
+C;X3;K2
+C;X4;K"LV90 Heretic Pauldrons Helm Set"
+C;Y401;X1;K3454
+C;X2;K"Ritual Shield"
+C;X3;K2
+C;Y402;X4;K"105 Warrior's Weapon Boots Set"
+C;Y403;X1;K3461
+C;X2;K"Glory's Light"
+C;X3;K2
+C;X4;K"105 Warrior's Clothes Belt Set"
+C;Y404;X1;K3462
+C;X2;K"Glory's Energy"
+C;X3;K2
+C;X4;K"105 Warrior's Greaves Gloves Set"
+C;Y405;X1;K3463
+C;X2;K"Glory's Magic"
+C;X3;K2
+C;X4;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y406;X1;K3464
+C;X2;K"Glory's Shield"
+C;X3;K2
+C;Y407;X4;K"Oracle Berzerker"
+C;Y408;X1;K3471
+C;X2;K"Beam of the Elf"
+C;X3;K2
+C;X4;K"Oracle Champion"
+C;Y409;X1;K3472
+C;X2;K"Energy of the Elf"
+C;X3;K2
+C;X4;K"Oracle Slayer"
+C;Y410;X1;K3473
+C;X2;K"Magic of the Elf"
+C;X3;K2
+C;X4;K"Oracle Magus"
+C;Y411;X1;K3474
+C;X2;K"Shield of the Elf"
+C;X3;K2
+C;X4;K"Oracle Heretic"
+C;Y413;X1;K3500
+C;X2;K"Oracle"
+C;X3;K4
+C;X4;K"Word of God: Berzerker"
+C;Y414;X1;K3501
+C;X2;K"Oracle"
+C;X3;K4
+C;X4;K"Word of God: Champion"
+C;Y415;X1;K3502
+C;X2;K"Oracle"
+C;X3;K4
+C;X4;K"Word of God: Slayer"
+C;Y416;X1;K3503
+C;X2;K"Oracle"
+C;X3;K4
+C;X4;K"Word of God: Magus"
+C;Y417;X1;K3504
+C;X2;K"Oracle"
+C;X3;K4
+C;X4;K"Word of God: Heretic"
+C;Y419;X1;K3505
+C;X2;K"Word of God"
+C;X3;K4
+C;X4;K"Oracle Summoner "
+C;Y420;X1;K3506
+C;X2;K"Word of God"
+C;X3;K4
+C;Y421;X1;K3507
+C;X2;K"Word of God"
+C;X3;K4
+C;Y422;X1;K3508
+C;X2;K"Word of God"
+C;X3;K4
+C;Y423;X1;K3509
+C;X2;K"Word of God"
+C;X3;K4
+C;Y425;X1;K3510
+C;X2;K"Oracle"
+C;X3;K4
+E

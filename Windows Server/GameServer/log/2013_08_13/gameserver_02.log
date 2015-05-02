@@ -1,0 +1,2176 @@
+2013-08-13 02:00:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:00:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:01:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:02:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:03:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:04:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:05:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:06:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:07:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:08:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:09:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:48 lv2:GS4:Role:[21] Series:[20] Level:[0>1] Reason[Destory]
+2013-08-13 02:10:48 lv2:GS4:Role:[21] Series:[20] Level:[1>2] Reason[Destory]
+2013-08-13 02:10:49 lv2:GS4:Role:[21] Series:[20] Level:[2>3] Reason[Destory]
+2013-08-13 02:10:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:49 lv2:GS4:Role:[21] Series:[20] Level:[3>4] Reason[Destory]
+2013-08-13 02:10:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:10:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:41 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:11:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:48 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:11:48 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:11:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:53 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:11:55 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:11:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:55 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:11:56 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:11:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:11:59 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:00 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:14 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:16 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:17 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:18 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:21 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:21 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:23 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:24 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:26 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:27 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:30 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:34 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:35 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:35 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:36 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:12:36 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:12:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:38 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:39 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:40 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:40 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:41 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:41 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:42 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:42 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:43 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:44 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:44 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:46 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:46 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:12:47 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:12:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:48 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:12:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:12:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:00 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:01 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:01 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:02 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:03 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:04 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:04 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:05 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:06 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:07 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:08 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:08 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:09 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:10 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:10 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:13:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:12 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:12 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:13:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:14 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:14 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:15 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:16 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:16 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:17 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:18 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:18 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:20 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:20 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:21 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:21 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:22 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:23 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:24 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:25 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:26 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:27 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:28 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:29 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:13:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:30 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:13:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:32 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:34 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:35 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:36 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:39 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:13:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:43 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:47 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:48 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:52 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:13:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:53 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:55 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:13:58 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:13:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:00 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:01 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:14:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:06 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:09 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:10 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:14:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:15 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:17 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:18 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:19 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:14:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:20 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:14:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:25 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:27 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:27 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:28 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:29 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:31 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:32 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:32 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:33 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:34 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:35 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:36 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:37 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:38 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:39 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:39 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:40 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:41 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:41 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:42 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:44 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:45 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:47 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:49 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:53 lv2:GS4:Role:[21] Series:[68] Level:[0>1] Reason[Destory]
+2013-08-13 02:14:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:54 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:56 lv2:GS4:Role:[21] Series:[68] Level:[1>2] Reason[Destory]
+2013-08-13 02:14:56 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:14:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:14:58 lv2:GS4:Role:[21] Series:[68] Level:[2>3] Reason[Destory]
+2013-08-13 02:14:58 lv2:GS4:Role:[21] Series:[68] Level:[3>4] Reason[Destory]
+2013-08-13 02:14:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:15:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:16:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:17:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:18:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:19:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:20:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:21:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:22:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:23:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:24:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:22 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:25:22 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:25:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:25:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:53 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:26:53 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:26:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:26:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:27:56 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:27:56 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:27:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:27:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:54 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:28:54 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:28:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:28:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:29:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:30:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:25 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:31:25 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:31:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:31:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:32:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:33:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:07 lv2:GS4:Pet:[2897] Slotchange:[UnknowAttack > Assist]
+2013-08-13 02:34:07 lv2:GS4:[Slotopen:1: Assist]
+2013-08-13 02:34:08 lv2:GS4:Pet:[2897] Slotchange:[UnknowAttack > Special]
+2013-08-13 02:34:08 lv2:GS4:[Slotopen:1: Special]
+2013-08-13 02:34:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:09 lv2:GS4:Pet:[2897] Slotchange:[UnknowAttack > Strengthen]
+2013-08-13 02:34:09 lv2:GS4:[Slotopen:1: Strengthen]
+2013-08-13 02:34:09 lv2:GS4:Pet:[2897] Slotchange:[UnknowAttack > Assist]
+2013-08-13 02:34:09 lv2:GS4:[Slotopen:1: Assist]
+2013-08-13 02:34:09 lv2:GS4:Pet:[2897] Slotchange:[UnknowAttack > Passive]
+2013-08-13 02:34:09 lv2:GS4:[Slotopen:1: Passive]
+2013-08-13 02:34:10 lv2:GS4:Slotopen:[ 0: 0]
+2013-08-13 02:34:10 lv2:GS4:Slotopen:[ 0: 0]
+2013-08-13 02:34:10 lv2:GS4:Slotopen:[ 0: 0]
+2013-08-13 02:34:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:10 lv2:GS4:Slotopen:[ 0: 0]
+2013-08-13 02:34:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:34:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:17 lv2:GS4:Pet:[2897] Slotchange:[Assist > AssistMaster]
+2013-08-13 02:35:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:23 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:24 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:24 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:25 lv2:GS4:Pet:[2897] Slotchange:[(null) > Passive]
+2013-08-13 02:35:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:28 lv2:GS4:Pet:[2897] Slotchange:[Passive > (null)]
+2013-08-13 02:35:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:32 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:39 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Passive]
+2013-08-13 02:35:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:42 lv2:GS4:Pet:[2897] Slotchange:[Passive > (null)]
+2013-08-13 02:35:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:42 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:35:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:44 lv2:GS4:Pet:[2897] Slotchange:[Special > Passive]
+2013-08-13 02:35:45 lv2:GS4:Pet:[2897] Slotchange:[Passive > AssistMaster]
+2013-08-13 02:35:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:47 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:35:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:49 lv2:GS4:Pet:[2897] Slotchange:[Assist > AssistMaster]
+2013-08-13 02:35:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:50 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:52 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:35:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:53 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:35:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:54 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:55 lv2:GS4:Pet:[2897] Slotchange:[(null) > Assist]
+2013-08-13 02:35:56 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:35:56 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:56 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > AssistMaster]
+2013-08-13 02:35:56 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:56 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:57 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:35:57 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:35:57 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:57 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:58 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:35:58 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:35:58 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:35:58 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:35:58 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:35:59 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:59 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:35:59 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:35:59 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:36:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:00 lv2:GS4:Pet:[2897] Slotchange:[Assist > AssistMaster]
+2013-08-13 02:36:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:03 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:06 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:36:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:23 lv2:GS4:Pet:[2897] Slotchange:[Special > Passive]
+2013-08-13 02:36:23 lv2:GS4:Pet:[2897] Slotchange:[Passive > Assist]
+2013-08-13 02:36:24 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:36:24 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:24 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:36:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:25 lv2:GS4:Pet:[2897] Slotchange:[Assist > AssistMaster]
+2013-08-13 02:36:25 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:25 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:36:25 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:36:26 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Passive]
+2013-08-13 02:36:26 lv2:GS4:Pet:[2897] Slotchange:[Passive > AssistMaster]
+2013-08-13 02:36:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:26 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:27 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:27 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > AssistMaster]
+2013-08-13 02:36:27 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:28 lv2:GS4:Pet:[2897] Slotchange:[(null) > Passive]
+2013-08-13 02:36:28 lv2:GS4:Pet:[2897] Slotchange:[Passive > Assist]
+2013-08-13 02:36:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:28 lv2:GS4:Pet:[2897] Slotchange:[Assist > Strengthen]
+2013-08-13 02:36:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:41 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:36:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:43 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:43 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:36:43 lv2:GS4:Pet:[2897] Slotchange:[Assist > Passive]
+2013-08-13 02:36:43 lv2:GS4:Pet:[2897] Slotchange:[Passive > (null)]
+2013-08-13 02:36:43 lv2:GS4:Pet:[2897] Slotchange:[(null) > (null)]
+2013-08-13 02:36:44 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:44 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Special]
+2013-08-13 02:36:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:44 lv2:GS4:Pet:[2897] Slotchange:[Special > Assist]
+2013-08-13 02:36:45 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:36:45 lv2:GS4:Pet:[2897] Slotchange:[(null) > Assist]
+2013-08-13 02:36:45 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:36:46 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:46 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Special]
+2013-08-13 02:36:46 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:36:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:46 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Passive]
+2013-08-13 02:36:47 lv2:GS4:Pet:[2897] Slotchange:[Passive > AssistMaster]
+2013-08-13 02:36:47 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:47 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:36:48 lv2:GS4:Pet:[2897] Slotchange:[Special > Passive]
+2013-08-13 02:36:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:48 lv2:GS4:Pet:[2897] Slotchange:[Passive > (null)]
+2013-08-13 02:36:48 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:49 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:36:49 lv2:GS4:Pet:[2897] Slotchange:[Assist > Passive]
+2013-08-13 02:36:49 lv2:GS4:Pet:[2897] Slotchange:[Passive > Special]
+2013-08-13 02:36:50 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:36:50 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:51 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:51 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Passive]
+2013-08-13 02:36:51 lv2:GS4:Pet:[2897] Slotchange:[Passive > Special]
+2013-08-13 02:36:51 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:36:52 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:36:52 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:36:52 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:52 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Special]
+2013-08-13 02:36:52 lv2:GS4:Pet:[2897] Slotchange:[Special > Assist]
+2013-08-13 02:36:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:53 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:36:53 lv2:GS4:Pet:[2897] Slotchange:[(null) > (null)]
+2013-08-13 02:36:53 lv2:GS4:Pet:[2897] Slotchange:[(null) > (null)]
+2013-08-13 02:36:54 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:36:54 lv2:GS4:Pet:[2897] Slotchange:[Special > Special]
+2013-08-13 02:36:54 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:36:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:56 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:36:57 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:36:57 lv2:GS4:Pet:[2897] Slotchange:[(null) > Passive]
+2013-08-13 02:36:57 lv2:GS4:Pet:[2897] Slotchange:[Passive > AssistMaster]
+2013-08-13 02:36:58 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Special]
+2013-08-13 02:36:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:36:58 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:36:58 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:36:59 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:36:59 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > AssistMaster]
+2013-08-13 02:36:59 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Assist]
+2013-08-13 02:37:00 lv2:GS4:Pet:[2897] Slotchange:[Assist > (null)]
+2013-08-13 02:37:00 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:37:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:01 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:37:01 lv2:GS4:Pet:[2897] Slotchange:[(null) > Special]
+2013-08-13 02:37:01 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:37:01 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Special]
+2013-08-13 02:37:02 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:37:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:02 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > (null)]
+2013-08-13 02:37:02 lv2:GS4:Pet:[2897] Slotchange:[(null) > Passive]
+2013-08-13 02:37:03 lv2:GS4:Pet:[2897] Slotchange:[Passive > Special]
+2013-08-13 02:37:03 lv2:GS4:Pet:[2897] Slotchange:[Special > Special]
+2013-08-13 02:37:04 lv2:GS4:Pet:[2897] Slotchange:[Special > AssistMaster]
+2013-08-13 02:37:04 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Passive]
+2013-08-13 02:37:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:05 lv2:GS4:Pet:[2897] Slotchange:[Passive > (null)]
+2013-08-13 02:37:05 lv2:GS4:Pet:[2897] Slotchange:[(null) > (null)]
+2013-08-13 02:37:05 lv2:GS4:Pet:[2897] Slotchange:[(null) > (null)]
+2013-08-13 02:37:05 lv2:GS4:Pet:[2897] Slotchange:[(null) > AssistMaster]
+2013-08-13 02:37:06 lv2:GS4:Pet:[2897] Slotchange:[AssistMaster > Special]
+2013-08-13 02:37:06 lv2:GS4:Pet:[2897] Slotchange:[Special > (null)]
+2013-08-13 02:37:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:06 lv2:GS4:Pet:[2897] Slotchange:[(null) > Strengthen]
+2013-08-13 02:37:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:37:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:38:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:39:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:40:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:12 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:41:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:42:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:43:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:11 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:44:11 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:44:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:33 lv2:GS4:RoleID:[21] ExpChanged:[18446744073709550616] ExpTotal:[25966] Reason:[Monster:4278202159]
+2013-08-13 02:44:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:44:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:12 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:45:13 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:45:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:45:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:18 lv2:GS4:RoleID:[21] ExpChanged:[203500] ExpTotal:[229466] Reason:[Monster:4278202163]
+2013-08-13 02:45:18 lv2:GS4:RoleID:[21] ExpChanged:[203500] ExpTotal:[432966] Reason:[Monster:4278202159]
+2013-08-13 02:45:18 lv2:GS4:RoleID:[21] ExpChanged:[84534] ExpTotal:[517500] Reason:[Monster:4278202161]
+2013-08-13 02:45:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:30 lv2:GS4:RoleID:[21] ExpChanged:[129500] ExpTotal:[138500] Reason:[Monster:4278202147]
+2013-08-13 02:45:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:34 lv2:GS4:RoleID:[21] ExpChanged:[129500] ExpTotal:[268000] Reason:[Monster:4278202146]
+2013-08-13 02:45:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:37 lv2:GS4:RoleID:[21] ExpChanged:[129500] ExpTotal:[397500] Reason:[Monster:4278202147]
+2013-08-13 02:45:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:38 lv2:GS4:RoleID:[21] ExpChanged:[129500] ExpTotal:[527000] Reason:[Monster:4278202141]
+2013-08-13 02:45:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:40 lv2:GS4:RoleID:[21] ExpChanged:[129500] ExpTotal:[656500] Reason:[Monster:4278202148]
+2013-08-13 02:45:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:43 lv2:GS4:RoleID:[21] ExpChanged:[129500] ExpTotal:[786000] Reason:[Monster:4278202144]
+2013-08-13 02:45:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:45:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:35 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:46:35 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:46:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:46:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:39 lv2:GS4:RoleID:[21] ExpChanged:[69000] ExpTotal:[855000] Reason:[Monster:4278202144]
+2013-08-13 02:46:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:46:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:48 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:47:49 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:47:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:47:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:47:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:22 lv2:GS4:RoleID:[21] ExpChanged:[1431000] ExpTotal:[1440000] Reason:[Monster:4278202528]
+2013-08-13 02:48:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:48:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:18 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:49:18 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:49:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:29 lv2:GS4:RoleID:[21] ExpChanged:[1017000] ExpTotal:[1845000] Reason:[Monster:4278202503]
+2013-08-13 02:49:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:49 lv2:GS4:RoleID:[21] ExpChanged:[594000] ExpTotal:[2070000] Reason:[Monster:4278202502]
+2013-08-13 02:49:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:49:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:15 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:50:15 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:50:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:50:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:27 lv2:GS4:RoleID:[21] ExpChanged:[1422000] ExpTotal:[2610000] Reason:[Monster:4278202606]
+2013-08-13 02:50:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:38 lv2:GS4:RoleID:[21] ExpChanged:[2850000] ExpTotal:[3021000] Reason:[Monster:4278202516]
+2013-08-13 02:50:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:55 lv2:GS4:RoleID:[21] ExpChanged:[2137500] ExpTotal:[2593500] Reason:[Monster:4278202350]
+2013-08-13 02:50:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:50:57 lv2:GS4:RoleID:[21] ExpChanged:[2137500] ExpTotal:[4731000] Reason:[Monster:4278202502]
+2013-08-13 02:50:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:37 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:51:37 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:51:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:48 lv2:GS4:RoleID:[21] ExpChanged:[1425000] ExpTotal:[2061000] Reason:[Monster:4278202348]
+2013-08-13 02:51:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:51:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:03 lv2:GS4:RoleID:[21] ExpChanged:[1425000] ExpTotal:[3486000] Reason:[Monster:4278202349]
+2013-08-13 02:52:04 lv2:GS4:RoleID:[21] ExpChanged:[1425000] ExpTotal:[4911000] Reason:[Monster:4278202517]
+2013-08-13 02:52:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:14 lv2:GS4:RoleID:[21] ExpChanged:[949999] ExpTotal:[1720999] Reason:[Monster:4278202503]
+2013-08-13 02:52:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:25 lv2:GS4:RoleID:[21] ExpChanged:[949999] ExpTotal:[2670998] Reason:[Monster:4278202350]
+2013-08-13 02:52:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:52:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:07 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:53:07 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:53:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:53:07 lv2:GS4:RoleID:[21] ExpChanged:[949999] ExpTotal:[3620997] Reason:[Monster:4278202502]
+2013-08-13 02:53:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[7550] ExpTotal:[7560] Reason:[Monster:4278243122]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[9499] ExpTotal:[17059] Reason:[Monster:4278243120]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[18446744073709550615] ExpTotal:[16058] Reason:[Monster:4278243124]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[18446744073709540116] ExpTotal:[4558] Reason:[Monster:4278243147]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[18000] ExpTotal:[22558] Reason:[Monster:4278243119]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[18000] ExpTotal:[40558] Reason:[Monster:4278243129]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[18446744073709523616] ExpTotal:[12558] Reason:[Monster:4278243132]
+2013-08-13 02:53:33 lv2:GS4:RoleID:[22] ExpChanged:[13499] ExpTotal:[26057] Reason:[Monster:4278243134]
+2013-08-13 02:53:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:38 lv2:GS4:RoleID:[21] ExpChanged:[949999] ExpTotal:[4570996] Reason:[Monster:4278202350]
+2013-08-13 02:53:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[13499] ExpTotal:[39556] Reason:[Monster:4278243120]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[18446744073709513115] ExpTotal:[1055] Reason:[Monster:4278243125]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[8999] ExpTotal:[10054] Reason:[Monster:4278243129]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[8999] ExpTotal:[19053] Reason:[Monster:4278243123]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[8999] ExpTotal:[28052] Reason:[Monster:4278243128]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[8999] ExpTotal:[37051] Reason:[Monster:4278243124]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[8999] ExpTotal:[46050] Reason:[Monster:4278243122]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[8999] ExpTotal:[55049] Reason:[Monster:4278243134]
+2013-08-13 02:53:54 lv2:GS4:RoleID:[22] ExpChanged:[18446744073709502615] ExpTotal:[6048] Reason:[Monster:4278243119]
+2013-08-13 02:53:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:57 lv2:GS4:RoleID:[21] ExpChanged:[949999] ExpTotal:[5520995] Reason:[Monster:4278202349]
+2013-08-13 02:53:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:53:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:16 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:54:16 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:54:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:30 lv2:GS4:RoleID:[21] ExpChanged:[712499] ExpTotal:[3623494] Reason:[Monster:4278202606]
+2013-08-13 02:54:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:41 lv2:GS4:RoleID:[21] ExpChanged:[712499] ExpTotal:[4335993] Reason:[Monster:4278202516]
+2013-08-13 02:54:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:53 lv2:GS4:RoleID:[21] ExpChanged:[712499] ExpTotal:[5048492] Reason:[Monster:4278202605]
+2013-08-13 02:54:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:54:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:29 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:55:29 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:55:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:55:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:39 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[2418491] Reason:[Monster:4278202350]
+2013-08-13 02:55:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:48 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[2893490] Reason:[Monster:4278202517]
+2013-08-13 02:55:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:54 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[3368489] Reason:[Monster:4278202502]
+2013-08-13 02:55:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:55:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:02 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[3843488] Reason:[Monster:4278202604]
+2013-08-13 02:56:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:31 lv2:GS4:Helpexp:[0] MasterLevel:[0]
+2013-08-13 02:56:31 lv2:GS4:CGrapCodeGenGacd::GenerateGraphCode : Request too more...
+2013-08-13 02:56:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 3
+2013-08-13 02:56:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:46 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[4318487] Reason:[Monster:4278202503]
+2013-08-13 02:56:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:57 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[4793486] Reason:[Monster:4278202606]
+2013-08-13 02:56:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:56:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:01 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[5268485] Reason:[Monster:4278202349]
+2013-08-13 02:57:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:08 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[5743484] Reason:[Monster:4278202516]
+2013-08-13 02:57:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:09 lv2:GS4:CGameWorld::ReleaseEctype < uEctypeID = 15051 >
+2013-08-13 02:57:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:17 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[6218483] Reason:[Monster:4278202604]
+2013-08-13 02:57:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:23 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[6693482] Reason:[Monster:4278202502]
+2013-08-13 02:57:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:30 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[7168481] Reason:[Monster:4278202350]
+2013-08-13 02:57:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:38 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[7643480] Reason:[Monster:4278202348]
+2013-08-13 02:57:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:48 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[8118479] Reason:[Monster:4278202605]
+2013-08-13 02:57:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:57 lv2:GS4:RoleID:[21] ExpChanged:[474999] ExpTotal:[8593478] Reason:[Monster:4278202517]
+2013-08-13 02:57:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:57:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:07 lv2:GS4:RoleID:[21] ExpChanged:[237499] ExpTotal:[5230977] Reason:[Monster:4278202606]
+2013-08-13 02:58:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:13 lv2:GS4:RoleID:[21] ExpChanged:[237499] ExpTotal:[5468476] Reason:[Monster:4278202516]
+2013-08-13 02:58:13 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:15 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:17 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:19 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:21 lv2:GS4:RoleID:[21] ExpChanged:[237499] ExpTotal:[5705975] Reason:[Monster:4278202349]
+2013-08-13 02:58:21 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:23 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:25 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:27 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:29 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:31 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:33 lv2:GS4:RoleID:[21] ExpChanged:[237499] ExpTotal:[5943474] Reason:[Monster:4278202502]
+2013-08-13 02:58:33 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:35 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:37 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:39 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:41 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:43 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:45 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:47 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:49 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:51 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:53 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:54 lv2:GS4:RoleID:[21] ExpChanged:[237499] ExpTotal:[6180973] Reason:[Monster:4278202350]
+2013-08-13 02:58:55 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:57 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:58:59 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:01 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:03 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:05 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:07 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:09 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:11 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:14 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:16 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:18 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:20 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:22 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:24 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:26 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:28 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:30 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:32 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:34 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:36 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:38 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:40 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:42 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:44 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:46 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:48 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:50 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:52 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:54 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:56 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 02:59:58 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 03:00:00 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 03:00:02 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 03:00:04 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 03:00:06 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 03:00:08 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1
+2013-08-13 03:00:10 lv2:GS4:CGameServer::OnTimer : CheckGraphCodeStatus : 1

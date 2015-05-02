@@ -1,0 +1,313 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Phh:mm
+P;Phh:mm:ss
+P;Pyyyy/m/d\ hh:mm
+P;Phh"?"mm"?"
+P;Phh"?"mm"?"ss"?"
+P;P0.00_ 
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;M285
+B;Y3;X49;D0 0 2 48
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 2 13
+F;W3 4 15
+F;W5 8 18
+F;W9 9 17
+F;W10 10 34
+F;W11 13 15
+F;W14 14 12
+F;W15 16 13
+F;W17 17 11
+F;W18 18 14
+F;W19 19 13
+F;W20 20 11
+F;W21 21 12
+F;W24 24 12
+F;W25 26 13
+F;W27 29 16
+F;W30 30 9
+F;W31 39 21
+F;W40 40 11
+F;W41 42 9
+F;W43 43 21
+F;W44 46 13
+F;W47 48 14
+C;Y1;X4;Axwh: :????????????????????,????????? :
+C;X30;AX: :???? :2^(n-1) :??,8=2^3,??????? 4?!! :(???????) :???????,????????
+C;X1;K"Map ID"
+C;X2;K"Name"
+C;X3;K"Duration Time"
+C;X4;K"Wait Time"
+C;X5;K"Resource Cap"
+C;X6;K"# of Sides"
+C;X7;K"Min Players"
+C;X8;K"Initial Players"
+C;X9;K"Max Players"
+C;X10;K"Scripts"
+C;X11;K"Side 0 Portal"
+C;X12;K"Side 1 Portal"
+C;X13;K"Side 2 Portal"
+C;X14;K"Resource Point Amplification"
+C;X15;K"Resource Point Amplification"
+C;X16;K"Resource Point Amplification"
+C;X17;K"Target Map ID"
+C;X18;K"Target Map Coordinates"
+C;X19;K"Target Map Coordinates"
+C;X20;K"Respawn Type"
+C;X21;K"Side 1 Displayed Name"
+C;X22;K"Side 2 Displayed Name"
+C;X23;K"Battlefield Type"
+C;X24;K"Duration Level"
+C;X25;K"Duration Level"
+C;X26;K"Duration Level"
+C;X27;K"Duration Ratio"
+C;X28;K"Duration Ratio"
+C;X29;K"Duration Ratio"
+C;X30;K" in Realm "
+C;X31;K"Registration Start Time"
+C;X32;K"Realm 1 Start Time"
+C;X33;K"Realm 2 Start Time"
+C;X34;K"Realm 3 Start Time"
+C;X35;K"Realm 4 Start Time"
+C;X36;K"Realm 5 Start Time"
+C;X37;K"Realm 6 Start Time"
+C;X38;K"Realm 7 Start Time"
+C;X39;K"Realm 8 Start Time"
+C;X40;K"Chances to Participate"
+C;X41;K"Lowest Possible Level"
+C;X42;K"Highest Possible Level"
+C;X43;K"End Time"
+C;X44;K"Time Interval"
+C;X45;K"First Victory of the Day"
+C;X46;K"Victory"
+C;X47;K"Courage (Failed)"
+C;X48;K"Join"
+C;X49;K"# of players differing BUFFID"
+C;Y2;X1;K"MapID"
+C;X2;K"Name"
+C;X3;K"MaxHoldingTime"
+C;X4;K"SignDelayTime"
+C;X5;K"MaxResourcePoint"
+C;X6;K"CampNum"
+C;X7;K"MinFighterNum"
+C;X8;K"StartFighterNum"
+C;X9;K"MaxFighterNum"
+C;X10;K"Script"
+C;X11;K"MapPos0"
+C;X12;K"MapPos1"
+C;X13;K"MapPos2"
+C;X14;K"IncreaseNum1"
+C;X15;K"IncreaseNum2"
+C;X16;K"IncreaseNum3"
+C;X17;K"LeaveMap"
+C;X18;K"LeavePosX"
+C;X19;K"LeavePosY"
+C;X20;K"ReliveType"
+C;X21;K"CampName1"
+C;X22;K"CampName2"
+C;X23;K"TeamArena"
+C;X24;K"HoldTimeLvl0"
+C;X25;K"HoldTimeLvl1"
+C;X26;K"HoldTimeLvl2"
+C;X27;K"HoldTimeParam0"
+C;X28;K"HoldTimeParam1"
+C;X29;K"HoldTimeParam2"
+C;X30;K"Line"
+C;X31;K"StartSignTime"
+C;X32;K"StartTime1"
+C;X33;K"StartTime2"
+C;X34;K"StartTime3"
+C;X35;K"StartTime4"
+C;X36;K"StartTime5"
+C;X37;K"StartTime6"
+C;X38;K"StartTime7"
+C;X39;K"StartTime8"
+C;X40;K"JoinNum"
+C;X41;K"LevelMin"
+C;X42;K"LevelMax"
+C;X43;K"EndTime"
+C;X44;K"TimeInterval"
+C;X45;K"FirstVictory"
+C;X46;K"Victory"
+C;X47;K"Failed"
+C;X48;K"Participated"
+C;X49;K"BattleStatus"
+C;Y3;X1;K259
+C;X2;K"Champion's Arena"
+C;X3;K3600000
+C;X4;K60000
+C;X5;K20000
+C;X6;K2
+C;X7;K1
+C;X8;K4
+C;X9;K6
+C;X10;K"Script\Battle\Battle-259.s"
+C;X11;K"60;;60"
+C;X12;K"28;;47"
+C;X13;K"98;;78"
+F;P53;FF2G;X14
+C;K1
+F;P53;FF2G;X15
+C;K1.5
+F;P53;FF2G;X16
+C;K3
+C;X17;K475
+C;X18;K63
+C;X19;K45
+C;X20;K0
+C;X21;K"Mani Warrior"
+C;X22;K"Sol Warrior"
+C;X23;K0
+C;X24;K0
+C;X25;K120000
+C;X26;K300000
+C;X27;K0
+C;X28;K0.1
+C;X29;K1
+C;X30;K8
+C;X31;K"2011-11-08_01:30:00"
+C;X32;K"2011-11-08_02:00:00"
+C;X33;K"2011-11-08_02:00:00"
+C;X34;K"2011-11-08_02:00:00"
+C;X35;K"2011-11-08_02:00:00"
+C;X36;K"2011-11-08_02:00:00"
+C;X37;K"2011-11-08_02:00:00"
+C;X38;K"2011-11-08_02:00:00"
+C;X39;K"2011-11-08_02:00:00"
+C;X40;K10
+C;X41;K100
+C;X42;K130
+C;X43;K"2011-11-08_23:00:00"
+C;X44;K1200
+C;X45;K59941
+C;X46;K59970
+C;X47;K59942
+C;X48;K59971
+C;X49;K9007
+E

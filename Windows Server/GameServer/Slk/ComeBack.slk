@@ -1,0 +1,418 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M220;L9
+P;E??;M360;SB;L57
+P;E??;M300;SB;L57
+P;E??;M260;SB;L57
+P;E??;M220;SB;L57
+P;E??;M220;L18
+P;E??;M220;L21
+P;E??;M220;L61
+P;E??;M220;L63
+P;E??;M220;SB;L64
+P;E??;M220;SB;L53
+P;E??;M220;L53
+P;E??;M220;SB;L10
+P;E??;M220;L11
+P;E??;M220;SI;L24
+P;E??;M220;SB;L9
+P;E??;M220;L10
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y19;X41;D0 0 18 40
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 6
+F;W3 3 14
+F;W4 4 32
+F;W5 13 22
+F;W14 14 14
+F;W15 15 10
+F;W16 16 26
+F;W17 17 13
+F;W18 18 9
+F;W19 19 22
+F;W20 20 12
+F;W21 21 11
+F;W22 22 20
+F;W23 23 14
+F;W24 24 17
+F;W25 25 18
+F;W26 26 22
+F;W27 27 19
+F;W28 28 16
+F;W29 29 14
+F;W30 30 16
+F;W31 31 18
+F;W32 32 15
+F;W33 33 16
+F;W34 34 19
+F;W35 35 17
+F;W36 36 18
+F;W37 37 19
+F;W38 38 18
+F;W39 39 24
+F;W40 40 17
+F;W41 41 18
+C;Y1;X1;K"ID"
+C;X2;K"N/A????????????"
+C;X3;K"N/A????"
+C;X4;K"Quest Condition (30-39)"
+C;X5;K"Quest Condition (40-49)"
+C;X6;K"Quest Condition (50-59)"
+C;X7;K"Quest Condition (60-69)"
+C;X8;K"Quest Condition (70-79)"
+C;X9;K"Quest Condition (80-89)"
+C;X10;K"Quest Condition (90-99)"
+C;X11;K"Quest Condition (100-109)"
+C;X12;K"Quest Condition (110-119)"
+C;X13;K"Quest Condition (120-150)"
+C;X14;K"N/A????"
+C;X15;K"Quest Reward"
+C;X16;K"Item Prize"
+C;X17;K"Exp reward or not"
+C;X18;K"N/A????"
+C;X19;K"N/A??????????"
+C;X20;K"Summary"
+C;X21;K"N/A???"
+C;X22;K"Detail Introduction (30-39)"
+C;X23;K"Detail Introduction (30-39)"
+C;X24;K"Detail Introduction (40-49)"
+C;X25;K"Detail Introduction (40-49)"
+C;X26;K"Detail Introduction (50-59)"
+C;X27;K"Detail Introduction (50-59)"
+C;X28;K"Detail Introduction (60-69)"
+C;X29;K"Detail Introduction (60-69)"
+C;X30;K"Detail Introduction (70-79)"
+C;X31;K"Detail Introduction (70-79)"
+C;X32;K"Detail Introduction (80-89)"
+C;X33;K"Detail Introduction (80-89)"
+C;X34;K"Detail Introduction (90-99)"
+C;X35;K"Detail Introduction (90-99)"
+C;X36;K"Detail Introduction (100-109)"
+C;X37;K"Detail Introduction (100-109)"
+C;X38;K"Detail Introduction (110-119)"
+C;X39;K"Detail Introduction (110-119)"
+C;X40;K"Detail Introduction (120-150)"
+C;X41;K"Detail Introduction (120-150)"
+C;Y2;X1;K"ID"
+C;X2;K"Base"
+C;X3;K"VarFilter"
+C;X4;K"TaskFilter30"
+C;X5;K"TaskFilter40"
+C;X6;K"TaskFilter50"
+C;X7;K"TaskFilter60"
+C;X8;K"TaskFilter70"
+C;X9;K"TaskFilter80"
+C;X10;K"TaskFilter90"
+C;X11;K"TaskFilter100"
+C;X12;K"TaskFilter110"
+C;X13;K"TaskFilter120"
+C;X14;K"SetVar"
+C;X15;K"AddTask"
+C;X16;K"AddItem"
+C;X17;K"IsAwardExp"
+C;X18;K"ExpParam"
+C;X19;K"UpdataIndex"
+C;X20;K"TypeIndex"
+C;X21;K"Name"
+C;X22;K"Content301"
+C;X23;K"Content302"
+C;X24;K"Content401"
+C;X25;K"Content402"
+C;X26;K"Content501"
+C;X27;K"Content502"
+C;X28;K"Content601"
+C;X29;K"Content602"
+C;X30;K"Content701"
+C;X31;K"Content702"
+C;X32;K"Content801"
+C;X33;K"Content802"
+C;X34;K"Content901"
+C;X35;K"Content902"
+C;X36;K"Content1001"
+C;X37;K"Content1002"
+C;X38;K"Content1101"
+C;X39;K"Content1102"
+C;X40;K"Content1201"
+C;X41;K"Content1202"
+C;Y3;X1;K1
+C;X2;K1
+C;X14;K"3188,1;;3189,0;;75,0"
+F;P0;FG0L;X15
+C;X17;K1
+C;X18;K3
+C;X19;K0
+C;X20;K0
+C;Y4;X1;K2
+C;X2;K0
+C;X3;K"3189,0;;3188,1"
+C;X14;K"3189,1;;3190,0;;3191,0;;3192,0;;3193,0;;3194,0"
+C;X16;K"59082,1;;"
+C;X17;K0
+C;X18;K3
+C;X19;K0
+C;X20;K0
+C;Y5;X1;K3
+C;X2;K0
+C;X3;K"3190,0;;3188,1"
+C;X4;K"1572;;"
+C;X5;K"1573;;"
+C;X6;K"1574;;"
+C;X7;K"1575;;"
+C;X8;K"1619;;"
+C;X9;K"1597;;"
+C;X10;K"1598;;"
+C;X11;K"1621;;"
+C;X12;K"1599;;"
+F;P0;FG0L;X13
+C;X14;K"3190,1"
+C;X16;K"6623,6;;6624,6;;"
+C;X17;K0
+C;X18;K3
+C;X19;K1
+C;X20;K0
+C;X21;K"Achievement Quest"
+C;X22;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=40#}\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for  {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#} "
+C;X23;K"{#FFFF6A07=Potion of Shield#}"
+C;X24;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=50#}\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for  {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#}  {#FFFF6A07=Potion of Shield#}"
+C;X26;K"Go to {hMedea[13]h} to complete Return of the Warriors\nwith a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Reaches {#FFFF6A07=LV60#} in BOI.\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Basic Soulgem#} which can be exchanged for {#FFFF6A07=LV60 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X28;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=70#}\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 75 soul gear#}, and {#FFFF6A07=Shadow of Giza#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#}  {#FFFF6A07=Potion of Shield#}"
+C;X30;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=80#}\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for  {#FFFF6A07=level 75 soul gear#}, and {#FFFF6A07=Shadow of Giza#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#}  {#FFFF6A07=Potion of Shield#}"
+C;X32;K"Go to {hMedea[13]h} to complete Return of the Warriors\nwith a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Reaches {#FFFF6A07=LV90#}\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Medium Soulgem#} which can be exchanged for {#FFFF6A07=LV90 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X34;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=100#}\n Quest Reward: {#FFFF6A07=High Exp#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#}  {#FFFF6A07=Potion of Shield#}"
+C;X36;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=110#}\n Quest Reward: {#FFFF6A07=High Exp#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#}  {#FFFF6A07=Potion of Shield#}"
+C;X38;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: level up to {#FFFF6A07=40#}\n Quest Reward: {#FFFF6A07=High Exp#}\n Achievement Reward: {#FFFF6A07=Potion of Godforce#}  {#FFFF6A07=Potion of Shield#}"
+C;Y6;X1;K4
+C;X2;K0
+C;X3;K"3191,0;;3188,1"
+C;X4;K"1563;;"
+C;X5;K"1564;;"
+C;X6;K"1565;;"
+C;X7;K"1566;;"
+C;X8;K"1605;;"
+C;X9;K"1606;;"
+C;X10;K"1607;;"
+C;X11;K"1608;;"
+C;X12;K"1609;;"
+C;X14;K"3191,1"
+C;X16;K"59075,1;;6623,1;;6624,1;;"
+C;X17;K0
+C;X18;K3
+C;X19;K1
+C;X20;K1
+C;X21;K"Achievement Quest"
+C;X22;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well.\nYou must reach at least LV45 to enter the instance."
+C;X23;K"\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X24;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well.\nYou must reach at least LV45 to enter the instance."
+C;X25;K"\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X26;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well.\nYou must reach at least LV45 to enter the instance."
+C;X27;K"\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Basic Soulgem#} which can be exchanged for {#FFFF6A07=LV60 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem#} {#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X28;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well.\nYou must reach at least LV45 to enter the instance."
+C;X29;K"\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 75 soul gear#}, and {#FFFF6A07=Shadow of Giza#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X30;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Nidhogg#} in Garden of the World Tree.\nYou must reach at least LV70 and have the Demigod title to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Shadows of Giza#}, which can be exchanged for {#FFFF6A07=LV75 Soul Gear#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;X32;K"Go to {hMedea[13]h} to complete Return of the Warriors\nwith a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Nidhogg#} in Garden of the World Tree.\n         You must reach at least LV70 and have the Demigod title to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Medium Soulgem#} which can be exchanged for {#FFFF6A07=LV90 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem#}"
+C;X33;K"{#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X34;K"Go to {hMedea[13]h} to complete [Return of the Warriors] with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Nidhogg#} in Garden of the World Tree.\nYou must reach at least LV70 and have the Demigod title to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;X36;K"Go to {hMedea[13]h} to complete [Return of the Warriors] with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Nidhogg#} in Garden of the World Tree.\nYou must reach at least LV70 and have the Demigod title to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;X38;K"Go to {hMedea[13]h} to complete [Return of the Warriors] with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Nidhogg#} in Garden of the World Tree.\nYou must reach at least LV70 and have the Demigod title to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;Y7;X1;K5
+C;X2;K0
+C;X3;K"3192,0;;3188,1"
+C;X4;K"1601;;"
+C;X5;K"1620;;"
+C;X6;K"1603;;"
+C;X7;K"1604;;"
+C;X8;K"1567;;"
+C;X9;K"1568;;"
+C;X10;K"1569;;"
+C;X11;K"1570;;"
+C;X12;K"1571;;"
+C;X14;K"3192,1"
+C;X16;K"59075,1;;6623,1;;6624,1;;"
+C;X17;K0
+C;X18;K3
+C;X19;K1
+C;X20;K2
+C;X21;K"Achievement Quest"
+C;X22;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well on Elite mode.\nElite mode is only open on Sundays.\nYou cannot enter Energy Well before reaching LV45."
+C;X23;K"\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X24;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well on Elite mode.\nElite mode is only open on Sundays.\nYou cannot enter Energy Well before reaching LV45."
+C;X25;K"\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X26;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well on Elite mode.\nElite mode is only open on Sundays.\nYou cannot enter Energy Well before reaching LV45."
+C;X27;K"\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Basic Soulgem#} which can be exchanged for {#FFFF6A07=LV60 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem#} {#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X28;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat the Minos troops in Energy Well on Elite mode.\nElite mode is only open on Sundays.\nYou cannot enter Energy Well before reaching LV45."
+C;X29;K"\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 75 soul gear#}, and {#FFFF6A07=Shadow of Giza#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X30;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Minoan Flayers#} in Energy Well.\nYou must reach at least LV45 to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Shadows of Giza#}, which can be exchanged for {#FFFF6A07=LV75 Soul Gear#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;X32;K"Go to {hMedea[13]h} to complete Return of the Warriors\nwith a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Minoan Flayers#} in Energy Well.\n         You must reach at least LV45 to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Medium Soulgem#} which can be exchanged for {#FFFF6A07=LV90 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem#}"
+C;X33;K"{#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X34;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Minoan Flayers#} in Energy Well.\nYou must reach at least LV45 to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;X36;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Minoan Flayers#} in Energy Well.\nYou must reach at least LV45 to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;X38;K"Go to {hMedea[13]h} to complete Return of the Warriors with a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Minoan Flayers#} in Energy Well.\nYou must reach at least LV45 to enter the instance.\nQuest Reward: Lots of {#FFFF6A07=EXP#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem, Potion of Godforce, and Potion of Shield#}."
+C;Y8;X1;K6
+C;X2;K0
+C;X3;K"3193,0;;3188,1"
+C;X4;K"1610;;"
+C;X5;K"1611;;"
+C;X6;K"1612;;"
+C;X7;K"1613;;"
+C;X8;K"1614;;"
+C;X9;K"1615;;"
+C;X10;K"1616;;"
+C;X11;K"1617;;"
+C;X12;K"1618;;"
+C;X14;K"3193,1"
+C;X16;K"59075,1;;6623,1;;6624,1;;"
+C;X17;K0
+C;X18;K3
+C;X19;K1
+C;X20;K3
+C;X21;K"Achievement Quest"
+C;X22;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: Defeat {#FFFF6A07=Trapped Dragon Emperor#} in Dragon Emperor's Crypt\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors??#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X24;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: Defeat {#FFFF6A07=Trapped Dragon Emperor#} in Dragon Emperor's Crypt\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 45 soul gear#}, {#FFFF6A07=Health#} and {#FFFF6A07=Soul Shard#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors??#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X26;K"Go to {hMedea[13]h} to complete Return of the Warriors\nwith a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Ghost Pirate#} in Specter Island\nQuest Reward: Lots of {#FFFF6A07=EXP#} and {#FFFF6A07=Basic Soulgem#} which can be exchanged for {#FFFF6A07=LV60 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem#} {#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X28;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: Defeat the {#FFFF6A07=Shadow of the Queen#} in Giza Pyramid\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 75 soul gear#}, and {#FFFF6A07=Shadow of Giza#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors??#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X30;K" Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n Target: Defeat the {#FFFF6A07=Shadow of the Queen#} in Giza Pyramid\n Quest Reward: {#FFFF6A07=High Exp#}, the item to exchange for {#FFFF6A07=level 75 soul gear#}, and {#FFFF6A07=Shadow of Giza#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors??#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X32;K"Go to {hMedea[13]h} to complete Return of the Warriors\nwith a {#FFFF6A07=Return of the Warriors Invitation#}.\nTarget: Defeat {#FFFF6A07=Razill#} in Lava Heights\nQuest Reward: Lots of {#FFFF6A07=EXP#}} and {#FFFF6A07=Medium Soulgem#} which can be exchanged for {#FFFF6A07=LV90 Soul Gear#}\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem#} {#FFFF6A07=Potion of Godforce#} {#FFFF6A07=Potion of Shield#}"
+C;X34;K"* Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n* Target: Defeat {#FFFF6A07=Dark Latamantis#} in the Pit of Reckoning\n* Quest Rewards: {#FFFF6A07=High Exp#}\n* Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X36;K"* Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n* Target: Defeat {#FFFF6A07=Dark Latamantis#} in the Pit of Reckoning\n* Quest Rewards: {#FFFF6A07=High Exp#}\n* Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X38;K"* Receive: Go to {hMedea[13]h} to complete [Return of the Warriors] with {#FFFF6A07=Return of the Warriors Invitation#}\n* Target: Defeat {#FFFF6A07=Dark Latamantis#} in the Pit of Reckoning\n* Quest Rewards: {#FFFF6A07=High Exp#}\n* Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;Y9;X1;K7
+C;X2;K0
+C;X3;K"3194,0;;3188,1"
+C;X4;K"26;;"
+C;X5;K"36;;"
+C;X6;K"46;;"
+C;X7;K"58;;"
+C;X8;K"2533;;"
+C;X9;K"2535;;"
+C;X10;K"2536;;"
+C;X11;K"2537;;"
+C;X12;K"2537;;"
+F;P0;FG0L;X13
+C;X14;K"3194,1"
+C;X16;K"59075,1;;6623,1;;6624,1;;"
+C;X17;K0
+C;X18;K3
+C;X19;K1
+C;X20;K4
+C;X21;K"Achievement Quest"
+C;X22;K" Receive: Automatically upon reaching level 41\n Target: Complete the {#FFFF6A07=level 41 Scenario Quest: Incoming Trouble#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X24;K" Receive: Automatically upon reaching level 51\n Target: Complete the {#FFFF6A07=level 51 Scenario Quest: Overlapping Clues#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X26;K" Receive: Automatically upon reaching level 61\n Target: Complete the {#FFFF6A07=level 61 Scenario Quest: Anxiety#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X28;K" Receive: Automatically upon reaching level 71\n Target: Complete the {#FFFF6A07=level 71 Scenario Quest: Dark Force#}\n Achievement Reward: {#FFFF6A07=Return of the Warriors Gem#}, {#FFFF6A07=Potion of Godforce#}, {#FFFF6A07=Potion of Shield#}"
+C;X30;K"Go to {hAtlas[130]h} to complete Poseidon's Blessings.\nTarget: Kill as many {hFlaming Sandmen[10083]h} in Khufu\nDesert as you can in 2 hours.\nNote: This quest can only be received between\n10:00 and 24:00.\nQuest Reward: Lots of {#FFFF6A07=Coins#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem,#}\n{#FFFF6A07=Potion of Godforce,#}\n{#FFFF6A07=Potion of Shield#}"
+C;X32;K"Go to {hAtlas[130]h} to complete Poseidon's Blessings.\nTarget: Kill as many {hCentaur Drunks[10115]h} in Nordic\nLands as you can in 2 hours.\nNote: This quest can only be received by players\nLV85 and higher between 10:00 and 24:00.\nQuest Reward: Lots of {#FFFF6A07=Coins#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem,#}\n{#FFFF6A07=Potion of Godforce,#}\n{#FFFF6A07=Potion of Shield#}"
+C;X34;K"Go to {hAtlas[130]h} to complete Poseidon's Blessings.\nTarget: Kill as many {hBurning Eyes[10173]h} in Burning\nLand as you can in 2 hours.\nNote: This quest can only be received between\n10:00 and 24:00.\nQuest Reward: Lots of {#FFFF6A07=Coins#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem,#}\n{#FFFF6A07=Potion of Godforce,#}\n{#FFFF6A07=Potion of Shield#}"
+C;X36;K"Go to {hAtlas[130]h} to complete Poseidon's Blessings.\nTarget: Kill as many {hAsherisen Vanguard[10183]h} in Valley\nof Ashes as you can in 2 hours.\nNote: This quest can only be received between\n10:00 and 24:00.\nQuest Reward: Lots of {#FFFF6A07=Coins#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem,#}\n{#FFFF6A07=Potion of Godforce,#}\n{#FFFF6A07=Potion of Shield#}"
+C;X38;K"Go to {hAtlas[130]h} to complete Poseidon's Blessings.\nTarget: Kill as many {hAsherisen Vanguard[10183]h} in Valley\nof Ashes as you can in 2 hours.\nNote: This quest can only be received between\n10:00 and 24:00.\nQuest Reward: Lots of {#FFFF6A07=Coins#}.\nAchievement Reward: {#FFFF6A07=Return of the Warriors Gem,#}\n{#FFFF6A07=Potion of Godforce,#}\n{#FFFF6A07=Potion of Shield#}"
+F;P0;FG0C;Y10;X22
+F;P0;FG0C;X24
+F;SM76;Y17;X16
+F;SM76;Y18
+F;SM76;Y19
+E

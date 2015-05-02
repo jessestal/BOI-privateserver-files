@@ -1,0 +1,240 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;P0.00_ 
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y4;X29;D0 0 3 28
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 2 13
+F;W3 4 15
+F;W5 8 18
+F;W9 9 17
+F;W10 10 34
+F;W11 13 15
+F;W14 14 12
+F;W15 16 13
+F;W17 17 11
+F;W18 18 14
+F;W19 19 13
+F;W20 20 11
+F;W21 21 12
+F;W24 24 12
+F;W25 26 13
+F;W27 29 16
+C;Y1;X4;Axwh: :????????????????????,????????? :
+C;X1;K"Map ID"
+C;X2;K"Name"
+C;X3;K"Duration"
+C;X4;K"Wait Time"
+C;X5;K"Resource Cap"
+C;X6;K"# of Sides"
+C;X7;K"Min Players"
+C;X8;K"Initial Players"
+C;X9;K"Max Players"
+C;X10;K"Scripts"
+C;X11;K"Side 0 Portal"
+C;X12;K"Side 1 Portal"
+C;X13;K"Side 2 Portal"
+C;X14;K"Resource Point Amplification"
+C;X15;K"Resource Point Amplification"
+C;X16;K"Resource Point Amplification"
+C;X17;K"Target Map ID"
+C;X18;K"Target Map Coordinates"
+C;X19;K"Target Map Coordinates"
+C;X20;K"Respawn Type"
+C;X21;K"Side 1 Displayed Name"
+C;X22;K"Side 2 Displayed Name"
+C;X23;K"Battlefield Type"
+C;X24;K"Duration Level"
+C;X25;K"Duration Level"
+C;X26;K"Duration Level"
+C;X27;K"Duration Ratio"
+C;X28;K"Duration Ratio"
+C;X29;K"Duration Ratio"
+C;Y2;X1;K"MapID"
+C;X2;K"Name"
+C;X3;K"MaxHoldingTime"
+C;X4;K"SignDelayTime"
+C;X5;K"MaxResourcePoint"
+C;X6;K"CampNum"
+C;X7;K"MinFighterNum"
+C;X8;K"StartFighterNum"
+C;X9;K"MaxFighterNum"
+C;X10;K"Script"
+C;X11;K"MapPos0"
+C;X12;K"MapPos1"
+C;X13;K"MapPos2"
+C;X14;K"IncreaseNum1"
+C;X15;K"IncreaseNum2"
+C;X16;K"IncreaseNum3"
+C;X17;K"LeaveMap"
+C;X18;K"LeavePosX"
+C;X19;K"LeavePosY"
+C;X20;K"ReliveType"
+C;X21;K"CampName1"
+C;X22;K"CampName2"
+C;X23;K"TeamArena"
+C;X24;K"HoldTimeLvl0"
+C;X25;K"HoldTimeLvl1"
+C;X26;K"HoldTimeLvl2"
+C;X27;K"HoldTimeParam0"
+C;X28;K"HoldTimeParam1"
+C;X29;K"HoldTimeParam2"
+C;Y3;X1;K259
+C;X2;K"Battlefield"
+C;X3;K3600000
+C;X4;K60000
+C;X5;K100
+C;X6;K2
+C;X7;K1
+C;X8;K2
+C;X9;K6
+C;X10;K"Script\Battle\Battle-259.s"
+C;X11;K"60;;60"
+C;X12;K"41;;85"
+C;X13;K"80;;48"
+F;P48;FF2G;X14
+C;K1
+F;P48;FF2G;X15
+C;K1.2
+F;P48;FF2G;X16
+C;K1.8
+C;X17;K260
+C;X18;K60
+C;X19;K60
+C;X20;K0
+C;X21;K"Mani Warrior"
+C;X22;K"Sol Warrior"
+C;X23;K0
+C;X24;K0
+C;X25;K120000
+C;X26;K300000
+C;X27;K0
+C;X28;K0.1
+C;X29;K1
+C;Y4;X1;K266
+C;X2;K"Battlefield"
+C;X3;K2300000
+C;X4;K60000
+C;X5;K100
+C;X6;K2
+C;X7;K1
+C;X8;K2
+C;X9;K1
+C;X10;K"Script\Battle\Battle-266.s"
+C;X11;K"60;;60"
+C;X12;K"41;;85"
+C;X13;K"80;;48"
+F;P48;FF2G;X14
+C;K1
+F;P48;FF2G;X15
+C;K1.2
+F;P48;FF2G;X16
+C;K1.4
+C;X17;K282
+C;X18;K60
+C;X19;K60
+C;X20;K0
+C;X21;K"Mani Warrior"
+C;X22;K"Sol Warrior"
+C;X23;K1
+C;X24;K0
+C;X25;K120000
+C;X26;K300000
+C;X27;K0
+C;X28;K0.1
+C;X29;K1
+E

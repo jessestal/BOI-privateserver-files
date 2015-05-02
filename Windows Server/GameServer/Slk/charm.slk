@@ -1,0 +1,1170 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M220
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;SM76;M270
+B;Y258;X4;D0 0 257 3
+O;S;D;V0;K47;T0;G100 0.001
+F;W2 2 20
+F;W3 3 10
+F;W4 5 11
+F;M255;R1
+C;Y1;X4;AUser: :14??????????? :22????
+F;X1
+C;K"No."
+F;X2
+F;X3
+C;K"Level"
+F;X4
+C;K"Type"
+C;Y2;X1;K"ID"
+C;X3;K"CharmLevel"
+C;X4;K"CharmType"
+C;Y3;X1;K2101
+C;X2;K"Basic Removal Charm"
+C;X3;K2
+C;X4;K2
+C;Y4;X1;K2102
+C;X2;K"Medium Removal Charm"
+C;X3;K4
+C;X4;K2
+C;Y5;X1;K2103
+C;X2;K"Advanced Removal Charm"
+C;X3;K5
+C;X4;K2
+C;Y6;X1;K2104
+C;X2;K"Super Removal Charm"
+C;X3;K15
+C;X4;K2
+C;Y7;X1;K2105
+C;X2;K"Super Removal Charm"
+C;X3;K15
+C;X4;K2
+C;Y8;X1;K2106
+C;X2;K"LV1 Removal Charm"
+C;X3;K1
+C;X4;K2
+C;Y9;X1;K2107
+C;X2;K"LV2 Removal Charm"
+C;X3;K2
+C;X4;K2
+C;Y10;X1;K2108
+C;X2;K"LV3 Removal Charm"
+C;X3;K3
+C;X4;K2
+C;Y11;X1;K2109
+C;X2;K"LV4 Removal Charm"
+C;X3;K4
+C;X4;K2
+C;Y12;X1;K2111
+C;X2;K"Basic Removal Charm"
+C;X3;K2
+C;X4;K2
+C;Y13;X1;K2112
+C;X2;K"Medium Removal Charm"
+C;X3;K4
+C;X4;K2
+C;Y14;X1;K2113
+C;X2;K"Advanced Removal Charm"
+C;X3;K5
+C;X4;K2
+C;Y15;X1;K2114
+C;X2;K"Super Removal Charm"
+C;X3;K15
+C;X4;K2
+C;Y16;X1;K2115
+C;X2;K"Super Removal Charm"
+C;X3;K15
+C;X4;K2
+C;Y17;X1;K2116
+C;X2;K"LV1 Removal Charm"
+C;X3;K1
+C;X4;K2
+C;Y18;X1;K2117
+C;X2;K"LV2 Removal Charm"
+C;X3;K2
+C;X4;K2
+C;Y19;X1;K2118
+C;X2;K"LV3 Removal Charm"
+C;X3;K3
+C;X4;K2
+C;Y20;X1;K2119
+C;X2;K"LV4 Removal Charm"
+C;X3;K4
+C;X4;K2
+C;Y21;X1;K2156
+C;X2;K"Super Removal Charm"
+C;X3;K15
+C;X4;K2
+C;Y22;X1;K2121
+C;X2;K"LV2 Gem Talisman"
+C;X3;K2
+C;X4;K4
+C;Y23;X1;K2122
+C;X2;K"LV4 Gem Talisman"
+C;X3;K4
+C;X4;K4
+C;Y24;X1;K2123
+C;X2;K"LV5 Gem Talisman"
+C;X3;K5
+C;X4;K4
+C;Y25;X1;K2124
+C;X2;K"LV6 Gem Talisman"
+C;X3;K6
+C;X4;K4
+C;Y26;X1;K2125
+C;X2;K"Super Gem Talisman"
+C;X3;K7
+C;X4;K4
+C;Y27;X1;K2126
+C;X2;K"LV1 Gem Talisman"
+C;X3;K1
+C;X4;K4
+C;Y28;X1;K2127
+C;X2;K"LV3 Gem Talisman"
+C;X3;K3
+C;X4;K4
+C;Y29;X1;K2131
+C;X2;K"LV2 Gem Talisman"
+C;X3;K2
+C;X4;K4
+C;Y30;X1;K2132
+C;X2;K"LV4 Gem Talisman"
+C;X3;K4
+C;X4;K4
+C;Y31;X1;K2133
+C;X2;K"LV5 Gem Talisman"
+C;X3;K5
+C;X4;K4
+C;Y32;X1;K2134
+C;X2;K"LV6 Gem Talisman"
+C;X3;K6
+C;X4;K4
+C;Y33;X1;K2135
+C;X2;K"Super Gem Talisman"
+C;X3;K7
+C;X4;K4
+C;Y34;X1;K2136
+C;X2;K"LV1 Gem Talisman"
+C;X3;K1
+C;X4;K4
+C;Y35;X1;K2137
+C;X2;K"LV3 Gem Talisman"
+C;X3;K3
+C;X4;K4
+C;Y36;X1;K2141
+C;X2;K"LV2 Gem Talisman"
+C;X3;K2
+C;X4;K4
+C;Y37;X1;K2142
+C;X2;K"LV4 Gem Talisman"
+C;X3;K4
+C;X4;K4
+C;Y38;X1;K2143
+C;X2;K"LV5 Gem Talisman"
+C;X3;K5
+C;X4;K4
+C;Y39;X1;K2144
+C;X2;K"LV6 Gem Talisman"
+C;X3;K6
+C;X4;K4
+C;Y40;X1;K2145
+C;X2;K"Super Gem Talisman"
+C;X3;K7
+C;X4;K4
+C;Y41;X1;K2146
+C;X2;K"LV1 Gem Talisman"
+C;X3;K1
+C;X4;K4
+C;Y42;X1;K2147
+C;X2;K"LV3 Gem Talisman"
+C;X3;K3
+C;X4;K4
+C;Y43;X1;K2150
+C;X2;K"LV1 Removal Charm"
+C;X3;K1
+C;X4;K2
+C;Y44;X1;K2151
+C;X2;K"LV2 Removal Charm"
+C;X3;K2
+C;X4;K2
+C;Y45;X1;K2152
+C;X2;K"LV3 Removal Charm"
+C;X3;K3
+C;X4;K2
+C;Y46;X1;K2153
+C;X2;K"LV4 Removal Charm"
+C;X3;K4
+C;X4;K2
+C;Y47;X1;K2154
+C;X2;K"LV5 Removal Charm"
+C;X3;K5
+C;X4;K2
+C;Y48;X1;K2155
+C;X2;K"LV6 Removal Charm"
+C;X3;K6
+C;X4;K2
+C;Y49;X1;K2201
+C;X2;K"Soul Insignia Charm"
+C;X3;K1
+C;X4;K3
+C;Y50;X1;K2203
+C;X2;K"Soul Insignia Charm"
+C;X3;K1
+C;X4;K3
+C;Y51;X1;K2211
+C;X2;K"Embedding Charm"
+C;X3;K1
+C;X4;K1
+C;Y52;X1;K2213
+C;X2;K"Embedding Charm"
+C;X3;K1
+C;X4;K1
+C;Y53;X1;K2221
+C;X2;K"Fortify Charm"
+C;X3;K1
+C;X4;K0
+C;Y54;X1;K2223
+C;X2;K"Fortify Charm"
+C;X3;K1
+C;X4;K0
+C;Y55;X1;K2202
+C;X2;K"Binding Charm"
+C;X3;K1
+C;X4;K3
+C;Y56;X1;K2212
+C;X2;K"Embedding Charm"
+C;X3;K1
+C;X4;K1
+C;Y57;X1;K2222
+C;X2;K"Fortify Charm"
+C;X3;K1
+C;X4;K0
+C;Y58;X1;K2231
+C;X2;K"LV2 Gem Talisman"
+C;X3;K2
+C;X4;K4
+C;Y59;X1;K2232
+C;X2;K"LV2 Gem Talisman"
+C;X3;K2
+C;X4;K4
+C;Y60;X1;K2320
+C;X2;K"F-Protect +4"
+C;X3;K0
+C;X4;K5
+C;Y61;X1;K2321
+C;X2;K"F-Protect +4"
+C;X3;K0
+C;X4;K5
+C;Y62;X1;K2322
+C;X2;K"F-Protect +4"
+C;X3;K0
+C;X4;K5
+C;Y63;X1;K2233
+C;X2;K"LV3 Gem Talisman"
+C;X3;K3
+C;X4;K4
+C;Y64;X1;K2261
+C;X2;K"LV1 Gem Polisher"
+C;X3;K1
+C;X4;K6
+C;Y65;X1;K2262
+C;X2;K"LV2 Gem Polisher"
+C;X3;K2
+C;X4;K6
+C;Y66;X1;K2263
+C;X2;K"LV3 Gem Polisher"
+C;X3;K3
+C;X4;K6
+C;Y67;X1;K2264
+C;X2;K"LV4 Gem Polisher"
+C;X3;K4
+C;X4;K6
+C;Y68;X1;K2265
+C;X2;K"LV5 Gem Polisher"
+C;X3;K5
+C;X4;K6
+C;Y69;X1;K2266
+C;X2;K"LV6 Gem Polisher"
+C;X3;K6
+C;X4;K6
+C;Y70;X1;K2267
+C;X2;K"LV7 Gem Polisher "
+C;X3;K7
+C;X4;K6
+C;Y71;X1;K2268
+C;X2;K"LV8 Gem Polisher"
+C;X3;K8
+C;X4;K6
+C;Y72;X1;K2269
+C;X2;K"LV.9 Gem Polisher"
+C;X3;K9
+C;X4;K6
+C;Y73;X1;K2270
+C;X2;K"LV.10 Gem Polisher"
+C;X3;K10
+C;X4;K6
+C;Y74;X1;K2251
+C;X2;K"LV1 Gem Polisher"
+C;X3;K1
+C;X4;K6
+C;Y75;X1;K2252
+C;X2;K"LV2 Gem Polisher"
+C;X3;K2
+C;X4;K6
+C;Y76;X1;K2253
+C;X2;K"LV3 Gem Polisher"
+C;X3;K3
+C;X4;K6
+C;Y77;X1;K2254
+C;X2;K"LV4 Gem Polisher"
+C;X3;K4
+C;X4;K6
+C;Y78;X1;K2255
+C;X2;K"LV5 Gem Polisher"
+C;X3;K5
+C;X4;K6
+C;Y79;X1;K2256
+C;X2;K"LV6 Gem Polisher"
+C;X3;K6
+C;X4;K6
+C;Y80;X1;K2257
+C;X2;K"LV7 Gem Polisher "
+C;X3;K7
+C;X4;K6
+C;Y81;X1;K2258
+C;X2;K"LV8 Gem Polisher"
+C;X3;K8
+C;X4;K6
+C;Y82;X1;K2259
+C;X2;K"LV.9 Gem Polisher"
+C;X3;K9
+C;X4;K6
+C;Y83;X1;K2260
+C;X2;K"LV.10 Gem Polisher"
+C;X3;K10
+C;X4;K6
+C;Y84;X1;K2241
+C;X2;K"LV1 Gem Polisher"
+C;X3;K1
+C;X4;K6
+C;Y85;X1;K2242
+C;X2;K"LV2 Gem Polisher"
+C;X3;K2
+C;X4;K6
+C;Y86;X1;K2243
+C;X2;K"LV3 Gem Polisher"
+C;X3;K3
+C;X4;K6
+C;Y87;X1;K2244
+C;X2;K"LV4 Gem Polisher"
+C;X3;K4
+C;X4;K6
+C;Y88;X1;K2245
+C;X2;K"LV5 Gem Polisher"
+C;X3;K5
+C;X4;K6
+C;Y89;X1;K2246
+C;X2;K"LV6 Gem Polisher"
+C;X3;K6
+C;X4;K6
+C;Y90;X1;K2247
+C;X2;K"LV7 Gem Polisher "
+C;X3;K7
+C;X4;K6
+C;Y91;X1;K2248
+C;X2;K"LV8 Gem Polisher"
+C;X3;K8
+C;X4;K6
+C;Y92;X1;K2249
+C;X2;K"LV.9 Gem Polisher"
+C;X3;K9
+C;X4;K6
+C;Y93;X1;K2250
+C;X2;K"LV.10 Gem Polisher"
+C;X3;K10
+C;X4;K6
+C;Y94;X1;K2331
+C;X2;K"Hephaestus' Hammer +1"
+C;X3;K1
+C;X4;K15
+C;Y95;X1;K2332
+C;X2;K"Hephaestus' Hammer +2"
+C;X3;K2
+C;X4;K15
+C;Y96;X1;K2333
+C;X2;K"Hephaestus' Hammer +3"
+C;X3;K3
+C;X4;K15
+C;Y97;X1;K2334
+C;X2;K"Hephaestus' Hammer +4"
+C;X3;K4
+C;X4;K15
+C;Y98;X1;K2335
+C;X2;K"Hephaestus' Hammer +5"
+C;X3;K5
+C;X4;K15
+C;Y99;X1;K2336
+C;X2;K"Hephaestus' Hammer +6"
+C;X3;K6
+C;X4;K15
+C;Y100;X1;K2337
+C;X2;K"Hephaestus' Hammer +7"
+C;X3;K7
+C;X4;K15
+C;Y101;X1;K2338
+C;X2;K"Hephaestus' Hammer +8"
+C;X3;K8
+C;X4;K15
+C;Y102;X1;K2339
+C;X2;K"Hephaestus' Hammer +9"
+C;X3;K9
+C;X4;K15
+C;Y103;X1;K2340
+C;X2;K"Hephaestus' Hammer +10"
+C;X3;K10
+C;X4;K15
+C;Y104;X1;K2341
+C;X2;K"Hephaestus' Hammer +11"
+C;X3;K11
+C;X4;K15
+C;Y105;X1;K2342
+C;X2;K"Hephaestus' Hammer +12"
+C;X3;K12
+C;X4;K15
+C;Y106;X1;K2343
+C;X2;K"Hephaestus' Hammer +13"
+C;X3;K13
+C;X4;K15
+C;Y107;X1;K2344
+C;X2;K"Hephaestus' Hammer +14"
+C;X3;K14
+C;X4;K15
+C;Y108;X1;K2345
+C;X2;K"Hephaestus' Hammer +15"
+C;X3;K15
+C;X4;K15
+C;Y109;X1;K2351
+C;X2;K"Hephaestus' Hammer +1"
+C;X3;K1
+C;X4;K15
+C;Y110;X1;K2352
+C;X2;K"Hephaestus' Hammer +2"
+C;X3;K2
+C;X4;K15
+C;Y111;X1;K2353
+C;X2;K"Hephaestus' Hammer +3"
+C;X3;K3
+C;X4;K15
+C;Y112;X1;K2354
+C;X2;K"Hephaestus' Hammer +4"
+C;X3;K4
+C;X4;K15
+C;Y113;X1;K2355
+C;X2;K"Hephaestus' Hammer +5"
+C;X3;K5
+C;X4;K15
+C;Y114;X1;K2356
+C;X2;K"Hephaestus' Hammer +6"
+C;X3;K6
+C;X4;K15
+C;Y115;X1;K2357
+C;X2;K"Hephaestus' Hammer +7"
+C;X3;K7
+C;X4;K15
+C;Y116;X1;K2358
+C;X2;K"Hephaestus' Hammer +8"
+C;X3;K8
+C;X4;K15
+C;Y117;X1;K2359
+C;X2;K"Hephaestus' Hammer +9"
+C;X3;K9
+C;X4;K15
+C;Y118;X1;K2360
+C;X2;K"Hephaestus' Hammer +10"
+C;X3;K10
+C;X4;K15
+C;Y119;X1;K2361
+C;X2;K"Hephaestus' Hammer +11"
+C;X3;K11
+C;X4;K15
+C;Y120;X1;K2362
+C;X2;K"Hephaestus' Hammer +12"
+C;X3;K12
+C;X4;K15
+C;Y121;X1;K2363
+C;X2;K"Hephaestus' Hammer +13"
+C;X3;K13
+C;X4;K15
+C;Y122;X1;K2364
+C;X2;K"Hephaestus' Hammer +14"
+C;X3;K14
+C;X4;K15
+C;Y123;X1;K2365
+C;X2;K"Hephaestus' Hammer +15"
+C;X3;K15
+C;X4;K15
+C;Y124;X1;K2371
+C;X2;K"Hephaestus' Hammer +1"
+C;X3;K1
+C;X4;K15
+C;Y125;X1;K2372
+C;X2;K"Hephaestus' Hammer +2"
+C;X3;K2
+C;X4;K15
+C;Y126;X1;K2373
+C;X2;K"Hephaestus' Hammer +3"
+C;X3;K3
+C;X4;K15
+C;Y127;X1;K2374
+C;X2;K"Hephaestus' Hammer +4"
+C;X3;K4
+C;X4;K15
+C;Y128;X1;K2375
+C;X2;K"Hephaestus' Hammer +5"
+C;X3;K5
+C;X4;K15
+C;Y129;X1;K2376
+C;X2;K"Hephaestus' Hammer +6"
+C;X3;K6
+C;X4;K15
+C;Y130;X1;K2377
+C;X2;K"Hephaestus' Hammer +7"
+C;X3;K7
+C;X4;K15
+C;Y131;X1;K2378
+C;X2;K"Hephaestus' Hammer +8"
+C;X3;K8
+C;X4;K15
+C;Y132;X1;K2379
+C;X2;K"Hephaestus' Hammer +9"
+C;X3;K9
+C;X4;K15
+C;Y133;X1;K2380
+C;X2;K"Hephaestus' Hammer +10"
+C;X3;K10
+C;X4;K15
+C;Y134;X1;K2381
+C;X2;K"Hephaestus' Hammer +11"
+C;X3;K11
+C;X4;K15
+C;Y135;X1;K2382
+C;X2;K"Hephaestus' Hammer +12"
+C;X3;K12
+C;X4;K15
+C;Y136;X1;K2383
+C;X2;K"Hephaestus' Hammer +13"
+C;X3;K13
+C;X4;K15
+C;Y137;X1;K2384
+C;X2;K"Hephaestus' Hammer +14"
+C;X3;K14
+C;X4;K15
+C;Y138;X1;K2385
+C;X2;K"Hephaestus' Hammer +15"
+C;X3;K15
+C;X4;K15
+C;Y139;X1;K2391
+C;X2;K"Do not need to use F-Protect right now"
+C;X3;K1
+C;X4;K13
+C;Y140;X1;K2392
+C;X2;K"LV1 F-Protect"
+C;X3;K2
+C;X4;K13
+C;Y141;X1;K2393
+C;X2;K"LV2 F-Protect"
+C;X3;K3
+C;X4;K13
+C;Y142;X1;K2394
+C;X2;K"LV3 F-Protect"
+C;X3;K4
+C;X4;K13
+C;Y143;X1;K2395
+C;X2;K"LV4 F-Protect"
+C;X3;K5
+C;X4;K13
+C;Y144;X1;K2396
+C;X2;K"LV5 F-Protect"
+C;X3;K6
+C;X4;K13
+C;Y145;X1;K2397
+C;X2;K"LV6 F-Protect"
+C;X3;K7
+C;X4;K13
+C;Y146;X1;K2398
+C;X2;K"LV7 F-Protect"
+C;X3;K8
+C;X4;K13
+C;Y147;X1;K2399
+C;X2;K"LV8 F-Protect +8"
+C;X3;K9
+C;X4;K13
+C;Y148;X1;K2400
+C;X2;K"LV9 F-Protect +8"
+C;X3;K10
+C;X4;K13
+C;Y149;X1;K2401
+C;X2;K"LV10 F-Protect +8"
+C;X3;K11
+C;X4;K13
+C;Y150;X1;K2402
+C;X2;K"LV11 F-Protect +8"
+C;X3;K12
+C;X4;K13
+C;Y151;X1;K2403
+C;X2;K"LV12 F-Protect +8"
+C;X3;K13
+C;X4;K13
+C;Y152;X1;K2404
+C;X2;K"LV13 F-Protect +8"
+C;X3;K14
+C;X4;K13
+C;Y153;X1;K2405
+C;X2;K"LV14 F-Protect +8"
+C;X3;K15
+C;X4;K13
+C;Y154;X1;K2406
+C;X2;K"LV15 F-Protect +8"
+C;X3;K16
+C;X4;K13
+C;Y155;X1;K2411
+C;X2;K"Do not need to use F-Protect right now"
+C;X3;K1
+C;X4;K13
+C;Y156;X1;K2412
+C;X2;K"LV1 F-Protect"
+C;X3;K2
+C;X4;K13
+C;Y157;X1;K2413
+C;X2;K"LV2 F-Protect"
+C;X3;K3
+C;X4;K13
+C;Y158;X1;K2414
+C;X2;K"LV3 F-Protect"
+C;X3;K4
+C;X4;K13
+C;Y159;X1;K2415
+C;X2;K"LV4 F-Protect"
+C;X3;K5
+C;X4;K13
+C;Y160;X1;K2416
+C;X2;K"LV5 F-Protect"
+C;X3;K6
+C;X4;K13
+C;Y161;X1;K2417
+C;X2;K"LV6 F-Protect"
+C;X3;K7
+C;X4;K13
+C;Y162;X1;K2418
+C;X2;K"LV7 F-Protect"
+C;X3;K8
+C;X4;K13
+C;Y163;X1;K2419
+C;X2;K"LV8 F-Protect +8"
+C;X3;K9
+C;X4;K13
+C;Y164;X1;K2420
+C;X2;K"LV9 F-Protect +8"
+C;X3;K10
+C;X4;K13
+C;Y165;X1;K2421
+C;X2;K"LV10 F-Protect +8"
+C;X3;K11
+C;X4;K13
+C;Y166;X1;K2422
+C;X2;K"LV11 F-Protect +8"
+C;X3;K12
+C;X4;K13
+C;Y167;X1;K2423
+C;X2;K"LV12 F-Protect +8"
+C;X3;K13
+C;X4;K13
+C;Y168;X1;K2424
+C;X2;K"LV13 F-Protect +8"
+C;X3;K14
+C;X4;K13
+C;Y169;X1;K2425
+C;X2;K"LV14 F-Protect +8"
+C;X3;K15
+C;X4;K13
+C;Y170;X1;K2426
+C;X2;K"LV15 F-Protect +8"
+C;X3;K16
+C;X4;K13
+C;Y171;X1;K2431
+C;X2;K"Do not need to use F-Protect right now"
+C;X3;K1
+C;X4;K13
+C;Y172;X1;K2432
+C;X2;K"LV1 F-Protect"
+C;X3;K2
+C;X4;K13
+C;Y173;X1;K2433
+C;X2;K"LV2 F-Protect"
+C;X3;K3
+C;X4;K13
+C;Y174;X1;K2434
+C;X2;K"LV3 F-Protect"
+C;X3;K4
+C;X4;K13
+C;Y175;X1;K2435
+C;X2;K"LV4 F-Protect"
+C;X3;K5
+C;X4;K13
+C;Y176;X1;K2436
+C;X2;K"LV5 F-Protect"
+C;X3;K6
+C;X4;K13
+C;Y177;X1;K2437
+C;X2;K"LV6 F-Protect"
+C;X3;K7
+C;X4;K13
+C;Y178;X1;K2438
+C;X2;K"LV7 F-Protect"
+C;X3;K8
+C;X4;K13
+C;Y179;X1;K2439
+C;X2;K"LV8 F-Protect +8"
+C;X3;K9
+C;X4;K13
+C;Y180;X1;K2440
+C;X2;K"LV9 F-Protect +8"
+C;X3;K10
+C;X4;K13
+C;Y181;X1;K2460
+C;X2;K"LV10 Persistence of the Sun"
+C;X3;K11
+C;X4;K13
+C;Y182;X1;K2461
+C;X2;K"LV11 Persistence of the Sun"
+C;X3;K12
+C;X4;K13
+C;Y183;X1;K2462
+C;X2;K"LV12 Persistence of the Sun"
+C;X3;K13
+C;X4;K13
+C;Y184;X1;K2463
+C;X2;K"LV13 Persistence of the Sun"
+C;X3;K14
+C;X4;K13
+C;Y185;X1;K2464
+C;X2;K"LV14 Persistence of the Sun"
+C;X3;K15
+C;X4;K13
+C;Y186;X1;K2465
+C;X2;K"LV15 Persistence of the Sun"
+C;X3;K16
+C;X4;K13
+C;Y187;X1;K2441
+C;X2;K"Square Insignia Wand"
+C;X3;K2
+C;X4;K7
+C;Y188;X1;K2442
+C;X2;K"Triangle Insignia Wand"
+C;X3;K1
+C;X4;K7
+C;Y189;X1;K2443
+C;X2;K"Diamond Insignia Wand"
+C;X3;K4
+C;X4;K7
+C;Y190;X1;K2444
+C;X2;K"Round Insignia Wand"
+C;X3;K3
+C;X4;K7
+C;Y191;X1;K2449
+C;X2;K"Starword Recharger"
+C;X3;K250
+C;X4;K8
+C;Y192;X1;K2450
+C;X2;K"Starword Recharger"
+C;X3;K250
+C;X4;K8
+C;Y193;X1;K2451
+C;X2;K"Advanced Recharger"
+C;X3;K20
+C;X4;K8
+C;Y194;X1;K2445
+C;X2;K"Stardust Merge Stone"
+C;X3;K2
+C;X4;K9
+C;Y195;X1;K2446
+C;X2;K"Stardust Catalyst"
+C;X3;K2500
+C;X4;K10
+C;Y196;X1;K2447
+C;X2;K"Medium Merge Liquid"
+C;X3;K1000
+C;X4;K10
+C;Y197;X1;K2448
+C;X2;K"Advanced Merge Liquid"
+C;X3;K1000
+C;X4;K10
+C;Y198;X1;K2456
+C;X2;K"Stardust Charm"
+C;X3;K1
+C;X4;K11
+C;Y199;X1;K2452
+C;X2;K"Square Insignia Wand"
+C;X3;K2
+C;X4;K7
+C;Y200;X1;K2453
+C;X2;K"Triangle Insignia Wand"
+C;X3;K1
+C;X4;K7
+C;Y201;X1;K2454
+C;X2;K"Diamond Insignia Wand"
+C;X3;K4
+C;X4;K7
+C;Y202;X1;K2455
+C;X2;K"Round Insignia Wand"
+C;X3;K3
+C;X4;K7
+C;Y203;X1;K2466
+C;X2;K"Stardust Charm"
+C;X3;K1
+C;X4;K11
+C;Y204;X1;K2467
+C;X2;K"Athena's Glow"
+C;X3;K1
+C;X4;K14
+C;Y205;X1;K2468
+C;X2;K"Athena's Glow"
+C;X3;K1
+C;X4;K14
+C;Y206;X1;K2469
+C;X2;K"Athena's Glow"
+C;X3;K1
+C;X4;K14
+C;Y207;X1;K2470
+C;X2;K"Small Starword Recharger"
+C;X3;K100
+C;X4;K8
+C;Y208;X1;K2471
+C;X2;K"LV1 Perfect Embed Charm  "
+C;X3;K1
+C;X4;K16
+C;Y209;X1;K2472
+C;X2;K"LV2 Perfect Embed Charm"
+C;X3;K2
+C;X4;K16
+C;Y210;X1;K2473
+C;X2;K"LV3 Perfect Embed Charm"
+C;X3;K3
+C;X4;K16
+C;Y211;X1;K2474
+C;X2;K"LV4 Perfect Embed Charm"
+C;X3;K4
+C;X4;K16
+C;Y212;X1;K2475
+C;X2;K"LV5 Perfect Embed Charm"
+C;X3;K5
+C;X4;K16
+C;Y213;X1;K2476
+C;X2;K"LV6 Perfect Embed Charm"
+C;X3;K6
+C;X4;K16
+C;Y214;X1;K2477
+C;X2;K"LV7 Perfect Embed Charm"
+C;X3;K7
+C;X4;K16
+C;Y215;X1;K2478
+C;X2;K"LV8 Perfect Embed Charm"
+C;X3;K8
+C;X4;K16
+C;Y216;X1;K2479
+C;X2;K"LV9 Perfect Embed Charm"
+C;X3;K9
+C;X4;K16
+C;Y217;X1;K2480
+C;X2;K"LV10 Perfect Embed Charm"
+C;X3;K10
+C;X4;K16
+C;Y218;X1;K2481
+C;X2;K"LV11 Perfect Embed Charm"
+C;X3;K11
+C;X4;K16
+C;Y219;X1;K2482
+C;X2;K"LV12 Perfect Embed Charm"
+C;X3;K12
+C;X4;K16
+C;Y220;X1;K2483
+C;X2;K"LV13 Perfect Embed Charm"
+C;X3;K13
+C;X4;K16
+C;Y221;X1;K2484
+C;X2;K"LV14 Perfect Embed Charm"
+C;X3;K14
+C;X4;K16
+C;Y222;X1;K2485
+C;X2;K"Asteroid Transmute Charm"
+C;X3;K1
+C;X4;K18
+C;Y223;X1;K2486
+C;X2;K"Asteroid Transmute Charm"
+C;X3;K1
+C;X4;K18
+C;Y224;X1;K2487
+C;X2;K"Asteroid Transmute Charm"
+C;X3;K1
+C;X4;K18
+C;Y225;X1;K2488
+C;X2;K"Asteroid Synthesis Charm"
+C;X3;K1
+C;X4;K19
+C;Y226;X1;K2489
+C;X2;K"Asteroid Synthesis Charm"
+C;X3;K1
+C;X4;K19
+C;Y227;X1;K2490
+C;X2;K"Asteroid Synthesis Charm"
+C;X3;K1
+C;X4;K19
+C;Y228;X1;K4903
+C;X2;K"Enhancement Safeguard Charm"
+C;X3;K25
+C;X4;K17
+C;Y229;X1;K4904
+C;X2;K"Enhancement Safeguard Charm"
+C;X3;K25
+C;X4;K17
+C;Y230;X1;K4909
+C;X2;K"Pet Fortify Charm"
+C;X3;K1
+C;X4;K21
+C;Y231;X1;K4910
+C;X2;K"Pet Sealing Array"
+C;X3;K1
+C;X4;K20
+C;Y232;X1;K4900
+C;X2;K"Enhancement Safeguard Charm"
+C;X3;K25
+C;X4;K17
+C;Y233;X1;K2500
+C;X2;K"Removal Charm"
+C;X3;K25
+C;X4;K22
+C;Y234;X1;K2501
+C;X2;K"Removal Charm"
+C;X3;K25
+C;X4;K22
+C;Y235;X1;K2502
+C;X2;K"Removal Charm"
+C;X3;K25
+C;X4;K22
+C;Y236;X1;K2503
+C;X2;K"Ethereal Seal Remover"
+C;X3;K25
+C;X4;K23
+C;Y237;X1;K2504
+C;X2;K"Ethereal Seal Remover"
+C;X3;K25
+C;X4;K23
+C;Y238;X1;K2505
+C;X2;K"Ethereal Seal Remover"
+C;X3;K25
+C;X4;K23
+C;Y239;X1;K2506
+C;X2;K"Ethereal Seal Combiner"
+C;X3;K25
+C;X4;K24
+C;Y240;X1;K2507
+C;X2;K"Ethereal Seal Combiner"
+C;X3;K25
+C;X4;K24
+C;Y241;X1;K2508
+C;X2;K"Ethereal Seal Combiner"
+C;X3;K25
+C;X4;K24
+C;Y242;X1;K2509
+C;X2;K"Ethereal Seal Converter"
+C;X3;K25
+C;X4;K25
+C;Y243;X1;K2510
+C;X2;K"Ethereal Seal Converter"
+C;X3;K25
+C;X4;K25
+C;Y244;X1;K2511
+C;X2;K"Ethereal Seal Converter"
+C;X3;K25
+C;X4;K25
+C;Y245;X1;K2670
+C;X2;K"LV1 Perfect Embed Charm  "
+C;X3;K1
+C;X4;K16
+C;Y246;X1;K2671
+C;X2;K"LV2 Perfect Embed Charm"
+C;X3;K2
+C;X4;K16
+C;Y247;X1;K2672
+C;X2;K"LV3 Perfect Embed Charm"
+C;X3;K3
+C;X4;K16
+C;Y248;X1;K2673
+C;X2;K"LV4 Perfect Embed Charm"
+C;X3;K4
+C;X4;K16
+C;Y249;X1;K2674
+C;X2;K"LV5 Perfect Embed Charm"
+C;X3;K5
+C;X4;K16
+C;Y250;X1;K2675
+C;X2;K"LV6 Perfect Embed Charm"
+C;X3;K6
+C;X4;K16
+C;Y251;X1;K2676
+C;X2;K"LV7 Perfect Embed Charm"
+C;X3;K7
+C;X4;K16
+C;Y252;X1;K2677
+C;X2;K"LV8 Perfect Embed Charm"
+C;X3;K8
+C;X4;K16
+C;Y253;X1;K2678
+C;X2;K"LV9 Perfect Embed Charm"
+C;X3;K9
+C;X4;K16
+C;Y254;X1;K2679
+C;X2;K"LV10 Perfect Embed Charm"
+C;X3;K10
+C;X4;K16
+C;Y255;X1;K2680
+C;X2;K"LV11 Perfect Embed Charm"
+C;X3;K11
+C;X4;K16
+C;Y256;X1;K2681
+C;X2;K"LV12 Perfect Embed Charm"
+C;X3;K12
+C;X4;K16
+C;Y257;X1;K2682
+C;X2;K"LV13 Perfect Embed Charm"
+C;X3;K13
+C;X4;K16
+C;Y258;X1;K2683
+C;X2;K"LV14 Perfect Embed Charm"
+C;X3;K14
+C;X4;K16
+E

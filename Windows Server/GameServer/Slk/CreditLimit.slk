@@ -1,0 +1,158 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;ETimes New Roman;M240
+P;E??;M180
+P;ETimes New Roman;M240;L23
+P;E??;M210
+F;P0;DG0G8;M285
+B;Y19;X4;D0 0 18 3
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W1 1 27
+F;W2 2 24
+F;W3 3 28
+F;W4 4 18
+F;W5 5 11
+F;W6 6 10
+F;W8 10 19
+F;W11 11 14
+F;W12 12 17
+F;W13 13 13
+F;W14 14 16
+F;W15 15 14
+F;W16 16 13
+F;W17 17 14
+F;W18 19 11
+F;W20 20 13
+F;W21 21 12
+F;W22 22 10
+F;W23 23 13
+F;W24 24 24
+F;W25 25 30
+F;W26 26 20
+F;W27 27 18
+F;W28 28 19
+F;M1785;R1
+F;Y1;X1
+C;K"N/A??ID"
+F;X2
+C;K"Value Cap"
+F;X3
+C;K"N/A????"
+F;X4
+C;K"Monster Kill Cap"
+C;Y2;X1;K"CreditID"
+C;X2;K"LimitValue"
+C;X3;K"CreditName"
+C;X4;K"MonsterLimit"
+C;Y3;X1;K1
+C;X2;K30000
+C;X3;K"Atlantis"
+C;Y4;X1;K2
+C;X2;K30000
+C;X3;K"Easter Island"
+C;Y5;X1;K3
+C;X2;K30000
+C;X3;K"Mermaid Legend"
+C;Y6;X1;K15
+C;X2;K30000
+C;X3;K"Valhalla Avenger"
+C;Y7;X1;K4
+C;X2;K30000
+C;X3;K"Angkor Ruin"
+C;Y8;X1;K5
+C;X2;K30000
+C;X3;K"Egyptian Pyramid"
+C;X4;K10000
+C;Y9;X1;K6
+C;X2;K30000
+C;X3;K"Nordic Iceland"
+C;Y10;X1;K7
+C;X2;K30000
+C;X3;K"The Paladins"
+C;Y11;X1;K32
+C;X2;K10000
+C;X3;K"Magic Academy"
+C;Y12;X1;K8
+C;X2;K14000
+C;X3;K"Thor's Belief"
+C;Y13;X1;K9
+C;X2;K30000
+C;X3;K"Expedition Reputation!"
+C;Y14;X1;K10
+C;X2;K30000
+C;X3;K"Ancient Ruins Battlefield"
+C;Y15;X1;K13
+C;X2;K65000
+C;X3;K"Tears of a Goddess"
+C;Y16;X1;K27
+C;X2;K4000
+C;X3;K"Group Honor Points"
+C;Y17;X1;K11
+C;X2;K60000
+C;X3;K"Pantheon"
+C;Y18;X1;K46
+C;X2;K20000000
+C;X3;K"Territory War Merit"
+C;Y19;X1;K47
+C;X2;K500
+C;X3;K"Infamy"
+E

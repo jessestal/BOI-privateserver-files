@@ -1,0 +1,186 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E????;M180
+F;P0;DG0G8;M285
+B;Y6;X18;D0 0 5 17
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 16
+F;W3 3 23
+F;W4 4 4
+F;W5 5 6
+F;W6 6 16
+F;W7 8 10
+F;W9 9 17
+F;W10 11 10
+F;W12 12 17
+F;W13 13 10
+F;W14 14 14
+F;W17 17 14
+F;W18 18 16
+C;Y1;X1;K"id"
+C;X2;K"Reward Quest"
+C;X3;K"Quest Description"
+C;X4;K"Max completions"
+C;X5;K"Award item 0"
+C;X7;K"Award amount 0"
+C;X8;K"Award item 1"
+C;X10;K"Award amount 1"
+C;X11;K"Award item 2"
+C;X13;K"Award amount 2"
+C;X14;K"Player Variable"
+C;X15;K"Lowest Level Limit (Greater than or equal to)"
+C;X16;K"Highest Level Limit (Smaller than)"
+C;X17;K"Lowest Exalted Level Limit (Greater than or equal to)"
+C;X18;K"Highest Exalted Level Limit (Smaller than)"
+C;Y2;X1;K"id"
+C;X2;K"name"
+C;X3;K"desc"
+C;X4;K"max"
+C;X5;K"item0"
+C;X7;K"count0"
+C;X8;K"item1"
+C;X10;K"count1"
+C;X11;K"item2"
+C;X13;K"count2"
+C;X14;K"playervar_id"
+C;X15;K"LevelMin"
+C;X16;K"LevelMax"
+C;X17;K"FieldLevelMin"
+C;X18;K"FieldLevelMax"
+C;Y3;X1;K101
+C;X2;K"Explore Pangaea Catacombs!\nThe Lord of Pangaea has the Expedition Union's chest."
+C;X3;K" "
+C;X4;K1
+C;X5;K44518
+C;X6;K"LV1 Expedition Reward Pack (Strong)"
+C;X7;K1
+C;X8;K44520
+C;X9;K"LV1 Adventure Reward Pack (Gem)"
+C;X10;K1
+C;X11;K0
+C;X13;K0
+C;X14;K3564
+C;X15;K101
+C;X16;K200
+C;X17;K0
+C;X18;K200
+C;Y4;X1;K103
+C;X2;K"Explore the Golden Coast!\nThe Nage Queen needs the help of a brave hero. Complete the Golden Coast Expedition!"
+C;X3;K" "
+C;X4;K1
+C;X5;K44519
+C;X6;K"LV2 Expedition Reward Pack"
+C;X7;K1
+C;X8;K0
+C;X10;K0
+C;X11;K0
+C;X13;K0
+C;X14;K3566
+C;X15;K120
+C;X16;K200
+C;X17;K20
+C;X18;K200
+C;Y5;X1;K105
+C;X2;K"Explore the Fae Shrine!\nComplete the Fae Shrine Expedition."
+C;X3;K" "
+C;X4;K1
+C;X5;K44588
+C;X6;K"LV2 Expedition Reward Pack"
+C;X7;K1
+C;X8;K0
+C;X10;K0
+C;X11;K0
+C;X13;K0
+C;X14;K3568
+C;X15;K120
+C;X16;K200
+C;X17;K25
+C;X18;K200
+C;Y6;X1;K106
+C;X2;K"Hero's Trial\nThe knights have decided to award heroes who participate in the Trials twice per week."
+C;X3;K" "
+C;X4;K2
+C;X5;K44521
+C;X6;K"Fierce Training Reward Pack"
+C;X7;K1
+C;X8;K0
+C;X10;K0
+C;X11;K0
+C;X13;K0
+C;X14;K3569
+C;X15;K20
+C;X16;K200
+C;X17;K0
+C;X18;K200
+E

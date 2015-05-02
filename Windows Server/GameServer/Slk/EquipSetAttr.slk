@@ -1,0 +1,5550 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;P0_);;[Red]\(0\)
+P;P0_ 
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M240;L58
+P;E??;M240;L13
+P;E??;M200;L11
+F;P0;DG0G8;M285
+B;Y1083;X8;D0 0 1082 7
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W2 2 22
+F;W3 3 12
+F;W4 4 14
+F;W5 5 21
+F;W6 6 11
+F;SM67;M315;R154
+F;SM67;M315;R155
+F;SM67;M315;R156
+F;SM67;M315;R157
+F;SM67;M315;R158
+F;SM67;M315;R159
+F;SM67;M315;R160
+F;SM67;M315;R161
+F;SM67;M315;R162
+F;SM67;M315;R163
+F;SM67;M315;R164
+F;SM67;M315;R165
+F;SM67;M315;R166
+F;SM67;M315;R167
+F;SM67;M315;R168
+F;SM67;M315;R169
+F;SM67;M315;R170
+F;SM67;M315;R171
+F;SM67;M315;R172
+F;SM67;M315;R173
+F;SM67;M315;R174
+F;SM67;M315;R175
+F;SM67;M315;R176
+F;SM67;M315;R177
+F;SM67;M315;R178
+C;Y1;X1;K"Set No."
+C;X2;K"Set Attribute"
+C;X3;K"Set Attribute Point"
+C;X4;K"Attribute Amount Required"
+C;Y2;X1;K"SetID"
+C;X2;K"Attr"
+C;X3;K"AttrValue"
+C;X4;K"NeedSetNum"
+C;Y3;X1;K101
+C;X2;K"MaxHP"
+C;X3;K970
+C;X4;K2
+C;X5;K"LV45 Berzerker Soul"
+C;Y4;X1;K101
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV45 Berzerker Soul"
+C;Y5;X1;K101
+C;X2;K"PhysicsAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Berzerker Soul"
+C;Y6;X1;K101
+C;X2;K"FireAttack"
+C;X3;K48
+C;X4;K8
+C;X5;K"LV45 Berzerker Soul"
+C;Y7;X1;K102
+C;X2;K"MaxHP"
+C;X3;K1091
+C;X4;K2
+C;X5;K"LV45 Champion Soul"
+C;Y8;X1;K102
+C;X2;K"MagicDefence"
+C;X3;K15
+C;X4;K4
+C;X5;K"LV45 Champion Soul"
+C;Y9;X1;K102
+C;X2;K"PhysicsDefence"
+C;X3;K15
+C;X4;K6
+C;X5;K"LV45 Champion Soul"
+C;Y10;X1;K102
+C;X2;K"FrostAttack"
+C;X3;K52
+C;X4;K8
+C;X5;K"LV45 Champion Soul"
+C;Y11;X1;K103
+C;X2;K"PhysicsAttack"
+C;X3;K24
+C;X4;K2
+C;X5;K"LV45 Slayer Soul"
+C;Y12;X1;K103
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV45 Slayer Soul"
+C;Y13;X1;K103
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV45 Slayer Soul"
+C;Y14;X1;K103
+C;X2;K"DarkAttack"
+C;X3;K52
+C;X4;K8
+C;X5;K"LV45 Slayer Soul"
+C;Y15;X1;K104
+C;X2;K"MaxMP"
+C;X3;K970
+C;X4;K2
+C;X5;K"LV45 Magus Soul"
+C;Y16;X1;K104
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV45 Berzerker Soul"
+C;Y17;X1;K104
+C;X2;K"MagicAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Berzerker Soul"
+C;Y18;X1;K104
+C;X2;K"FireAttack"
+C;X3;K52
+C;X4;K8
+C;X5;K"LV45 Magus Soul"
+C;Y19;X1;K105
+C;X2;K"MaxMP"
+C;X3;K970
+C;X4;K2
+C;X5;K"LV45 Heretic Soul"
+C;Y20;X1;K105
+C;X2;K"MagicDefence"
+C;X3;K15
+C;X4;K4
+C;X5;K"LV45 Heretic Soul"
+C;Y21;X1;K105
+C;X2;K"MagicAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Heretic Soul"
+C;Y22;X1;K105
+C;X2;K"LightAttack"
+C;X3;K52
+C;X4;K8
+C;X5;K"LV45 Heretic Soul"
+C;Y24;X1;K106
+C;X2;K"MaxHP"
+C;X3;K1842
+C;X4;K2
+C;X5;K"LV90 Berzerker Soul"
+C;Y25;X1;K106
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Berzerker Soul"
+C;Y26;X1;K106
+C;X2;K"PhysicsAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV90 Berzerker Soul"
+C;Y27;X1;K106
+C;X2;K"FireAttack"
+C;X3;K92
+C;X4;K8
+C;X5;K"LV90 Berzerker Soul"
+C;Y28;X1;K107
+C;X2;K"MaxHP"
+C;X3;K2072
+C;X4;K2
+C;X5;K"LV90 Champion Soul"
+C;Y29;X1;K107
+C;X2;K"MagicDefence"
+C;X3;K29
+C;X4;K4
+C;X5;K"LV90 Champion Soul"
+C;Y30;X1;K107
+C;X2;K"PhysicsDefence"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV90 Champion Soul"
+C;Y31;X1;K107
+C;X2;K"FrostAttack"
+C;X3;K98
+C;X4;K8
+C;X5;K"LV90 Champion Soul"
+C;Y32;X1;K108
+C;X2;K"PhysicsAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV90 Slayer Soul"
+C;Y33;X1;K108
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Slayer Soul"
+C;Y34;X1;K108
+C;X2;K"AttackSpeed"
+C;X3;K11
+C;X4;K6
+C;X5;K"LV90 Slayer Soul"
+C;Y35;X1;K108
+C;X2;K"DarkAttack"
+C;X3;K98
+C;X4;K8
+C;X5;K"LV90 Slayer Soul"
+C;Y36;X1;K109
+C;X2;K"MaxMP"
+C;X3;K1842
+C;X4;K2
+C;X5;K"LV90 Magus Soul"
+C;Y37;X1;K109
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Berzerker Soul"
+C;Y38;X1;K109
+C;X2;K"MagicAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV90 Berzerker Soul"
+C;Y39;X1;K109
+C;X2;K"FireAttack"
+C;X3;K98
+C;X4;K8
+C;X5;K"LV90 Magus Soul"
+C;Y40;X1;K110
+C;X2;K"MaxMP"
+C;X3;K1842
+C;X4;K2
+C;X5;K"LV90 Heretic Soul"
+C;Y41;X1;K110
+C;X2;K"MagicDefence"
+C;X3;K29
+C;X4;K4
+C;X5;K"LV90 Heretic Soul"
+C;Y42;X1;K110
+C;X2;K"MagicAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV90 Heretic Soul"
+C;Y43;X1;K110
+C;X2;K"LightAttack"
+C;X3;K98
+C;X4;K8
+C;X5;K"LV90 Heretic Soul"
+C;Y45;X1;K111
+C;X2;K"MaxHP"
+C;X3;K1358
+C;X4;K2
+C;X5;K"LV60 Berzerker Soul"
+C;Y46;X1;K111
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV60 Berzerker Soul"
+C;Y47;X1;K111
+C;X2;K"PhysicsAttack"
+C;X3;K42
+C;X4;K6
+C;X5;K"LV60 Berzerker Soul"
+C;Y48;X1;K111
+C;X2;K"FireAttack"
+C;X3;K67
+C;X4;K8
+C;X5;K"LV60 Berzerker Soul"
+C;Y49;X1;K112
+C;X2;K"MaxHP"
+C;X3;K1527
+C;X4;K2
+C;X5;K"LV60 Champion Soul"
+C;Y50;X1;K112
+C;X2;K"PhysicsDefence"
+C;X3;K21
+C;X4;K4
+C;X5;K"LV60 Champion Soul"
+F;SM24;X7
+F;P13;F%0G;SM24;X8
+C;Y51;X1;K112
+F;SM24;X2
+C;K"ResistanceMagic"
+F;SM24;X3
+C;K3
+C;X4;K6
+C;X5;K"LV60 Champion Soul"
+C;Y52;X1;K112
+C;X2;K"FrostAttack"
+C;X3;K72
+C;X4;K8
+C;X5;K"LV60 Champion Soul"
+C;Y53;X1;K113
+C;X2;K"PhysicsAttack"
+C;X3;K33
+C;X4;K2
+C;X5;K"LV60 Slayer Soul"
+C;Y54;X1;K113
+C;X2;K"CriticalOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV60 Slayer Soul"
+C;Y55;X1;K113
+C;X2;K"AttackSpeed"
+C;X3;K10
+C;X4;K6
+C;X5;K"LV60 Slayer Soul"
+C;Y56;X1;K113
+C;X2;K"DarkAttack"
+C;X3;K72
+C;X4;K8
+C;X5;K"LV60 Slayer Soul"
+C;Y57;X1;K114
+C;X2;K"MaxMP"
+C;X3;K1358
+C;X4;K2
+C;X5;K"LV60 Magus Soul"
+C;Y58;X1;K114
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV60 Berzerker Soul"
+C;Y59;X1;K114
+C;X2;K"MagicAttack"
+C;X3;K42
+C;X4;K6
+C;X5;K"LV60 Berzerker Soul"
+C;Y60;X1;K114
+C;X2;K"FireAttack"
+C;X3;K72
+C;X4;K8
+C;X5;K"LV60 Magus Soul"
+C;Y61;X1;K115
+C;X2;K"MaxMP"
+C;X3;K1358
+C;X4;K2
+C;X5;K"LV60 Heretic Soul"
+C;Y62;X1;K115
+C;X2;K"MagicDefence"
+C;X3;K21
+C;X4;K4
+C;X5;K"LV60 Heretic Soul"
+C;Y63;X1;K115
+C;X2;K"MagicAttack"
+C;X3;K42
+C;X4;K6
+C;X5;K"LV60 Heretic Soul"
+C;Y64;X1;K115
+C;X2;K"LightAttack"
+C;X3;K72
+C;X4;K8
+C;X5;K"LV60 Heretic Soul"
+C;Y66;X1;K116
+C;X2;K"MaxHP"
+C;X3;K2578
+C;X4;K2
+C;X5;K"LV90 Berzerker Soul"
+C;Y67;X1;K116
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV90 Berzerker Soul"
+C;Y68;X1;K116
+C;X2;K"PhysicsAttack"
+C;X3;K79
+C;X4;K6
+C;X5;K"LV90 Berzerker Soul"
+C;Y69;X1;K116
+C;X2;K"FireAttack"
+C;X3;K128
+C;X4;K8
+C;X5;K"LV90 Berzerker Soul"
+C;Y70;X1;K117
+C;X2;K"MaxHP"
+C;X3;K2900
+C;X4;K2
+C;X5;K"LV90 Champion Soul"
+C;Y71;X1;K117
+C;X2;K"PhysicsDefence"
+C;X3;K40
+C;X4;K4
+C;X5;K"LV90 Champion Soul"
+C;Y72;X1;K117
+F;SM24;X2
+C;K"ResistanceMagic"
+C;X3;K5
+C;X4;K6
+C;X5;K"LV90 Champion Soul"
+C;Y73;X1;K117
+C;X2;K"FrostAttack"
+C;X3;K137
+C;X4;K8
+C;X5;K"LV90 Champion Soul"
+C;Y74;X1;K118
+C;X2;K"PhysicsAttack"
+C;X3;K64
+C;X4;K2
+C;X5;K"LV90 Slayer Soul"
+C;Y75;X1;K118
+C;X2;K"CriticalOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV90 Slayer Soul"
+C;Y76;X1;K118
+C;X2;K"AttackSpeed"
+C;X3;K12
+C;X4;K6
+C;X5;K"LV90 Slayer Soul"
+C;Y77;X1;K118
+C;X2;K"DarkAttack"
+C;X3;K137
+C;X4;K8
+C;X5;K"LV90 Slayer Soul"
+C;Y78;X1;K119
+C;X2;K"MaxMP"
+C;X3;K2578
+C;X4;K2
+C;X5;K"LV90 Magus Soul"
+C;Y79;X1;K119
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV90 Berzerker Soul"
+C;Y80;X1;K119
+C;X2;K"MagicAttack"
+C;X3;K79
+C;X4;K6
+C;X5;K"LV90 Berzerker Soul"
+C;Y81;X1;K119
+C;X2;K"FireAttack"
+C;X3;K137
+C;X4;K8
+C;X5;K"LV90 Magus Soul"
+C;Y82;X1;K120
+C;X2;K"MaxMP"
+C;X3;K2578
+C;X4;K2
+C;X5;K"LV90 Heretic Soul"
+C;Y83;X1;K120
+C;X2;K"MagicDefence"
+C;X3;K40
+C;X4;K4
+C;X5;K"LV90 Heretic Soul"
+C;Y84;X1;K120
+C;X2;K"MagicAttack"
+C;X3;K79
+C;X4;K6
+C;X5;K"LV90 Heretic Soul"
+C;Y85;X1;K120
+C;X2;K"LightAttack"
+C;X3;K137
+C;X4;K8
+C;X5;K"LV90 Heretic Soul"
+C;Y87;X1;K121
+C;X2;K"AddStrPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"100 Warrior Soul"
+C;Y88;X1;K121
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"100 Warrior Soul"
+C;Y89;X1;K121
+C;X2;K"FireAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Warrior Soul"
+C;Y90;X1;K121
+C;X2;K"FrostAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Warrior Soul"
+C;Y91;X1;K122
+C;X2;K"AddConPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"100 Knight Soul"
+C;Y92;X1;K122
+C;X2;K"ResistanceMagic"
+C;X3;K10
+C;X4;K3
+C;X5;K"100 Knight Soul"
+C;Y93;X1;K122
+C;X2;K"FrostAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Knight Soul"
+C;Y94;X1;K122
+C;X2;K"LightAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Knight Soul"
+C;Y95;X1;K123
+C;X2;K"AddAgiPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"100 Assassin Soul"
+C;Y96;X1;K123
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K3
+C;X5;K"100 Assassin Soul"
+C;Y97;X1;K123
+C;X2;K"FrostAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Assassin Soul"
+C;Y98;X1;K123
+C;X2;K"DarkAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Assassin Soul"
+C;Y99;X1;K124
+C;X2;K"AddIntPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"100 Mage Soul"
+C;Y100;X1;K124
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"100 Mage Soul"
+C;Y101;X1;K124
+F;SM20;X2
+C;K"FireAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Mage Soul"
+C;Y102;X1;K124
+F;SM20;X2
+C;K"FrostAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Mage Soul"
+C;Y103;X1;K125
+F;SM20;X2
+C;K"AddEnePercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"100 Priest Soul"
+C;Y104;X1;K125
+C;X2;K"ResistancePhysics"
+C;X3;K10
+C;X4;K3
+C;X5;K"100 Priest Soul"
+C;Y105;X1;K125
+F;SM20;X2
+C;K"LightAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Priest Soul"
+C;Y106;X1;K125
+F;SM20;X2
+C;K"DarkAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"100 Priest Soul"
+C;Y108;X1;K131
+C;X2;K"AddStrPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"LV115 Berzerker Soul"
+C;Y109;X1;K131
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K3
+C;X5;K"LV115 Berzerker Soul"
+C;Y110;X1;K131
+C;X2;K"FireAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Berzerker Soul"
+C;Y111;X1;K131
+C;X2;K"FrostAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Berzerker Soul"
+C;Y112;X1;K132
+C;X2;K"AddConPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"LV115 Champion Soul"
+C;Y113;X1;K132
+C;X2;K"ResistanceMagic"
+C;X3;K12
+C;X4;K3
+C;X5;K"LV115 Champion Soul"
+C;Y114;X1;K132
+C;X2;K"FrostAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Champion Soul"
+C;Y115;X1;K132
+C;X2;K"LightAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Champion Soul"
+C;Y116;X1;K133
+C;X2;K"AddAgiPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"LV115 Slayer Soul"
+C;Y117;X1;K133
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"LV115 Slayer Soul"
+C;Y118;X1;K133
+C;X2;K"FrostAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Slayer Soul"
+C;Y119;X1;K133
+C;X2;K"DarkAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Slayer Soul"
+C;Y120;X1;K134
+C;X2;K"AddIntPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"LV115 Magus Soul"
+C;Y121;X1;K134
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K3
+C;X5;K"LV115 Magus Soul"
+C;Y122;X1;K134
+F;SM20;X2
+C;K"FireAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Magus Soul"
+C;Y123;X1;K134
+F;SM20;X2
+C;K"FrostAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Magus Soul"
+C;Y124;X1;K135
+F;SM20;X2
+C;K"AddEnePercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"LV115 Heretic Soul"
+C;Y125;X1;K135
+C;X2;K"ResistancePhysics"
+C;X3;K12
+C;X4;K3
+C;X5;K"LV115 Heretic Soul"
+C;Y126;X1;K135
+F;SM20;X2
+C;K"LightAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Heretic Soul"
+C;Y127;X1;K135
+F;SM20;X2
+C;K"DarkAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Heretic Soul"
+F;SM20;Y128;X2
+C;Y129;X1;K136
+C;X2;K"MaxMP"
+C;X3;K970
+C;X4;K2
+C;X5;K"LV45 Summoner (Soul)"
+C;Y130;X1;K136
+C;X2;K"MagicDefence"
+C;X3;K15
+C;X4;K4
+C;X5;K"LV45 Summoner (Soul)"
+C;Y131;X1;K136
+C;X2;K"MagicAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Summoner (Soul)"
+C;Y132;X1;K136
+C;X2;K"LightAttack"
+C;X3;K52
+C;X4;K8
+C;X5;K"LV45 Summoner (Soul)"
+C;Y133;X1;K137
+C;X2;K"MaxMP"
+C;X3;K1358
+C;X4;K2
+C;X5;K"LV60 Summoner (Soul) "
+C;Y134;X1;K137
+C;X2;K"MagicDefence"
+C;X3;K21
+C;X4;K4
+C;X5;K"LV60 Summoner (Soul) "
+C;Y135;X1;K137
+C;X2;K"MagicAttack"
+C;X3;K42
+C;X4;K6
+C;X5;K"LV60 Summoner (Soul) "
+C;Y136;X1;K137
+C;X2;K"LightAttack"
+C;X3;K72
+C;X4;K8
+C;X5;K"LV60 Summoner (Soul) "
+C;Y137;X1;K138
+C;X2;K"MaxMP"
+C;X3;K1842
+C;X4;K2
+C;X5;K"LV90 Summoner (Soul) "
+C;Y138;X1;K138
+C;X2;K"MagicDefence"
+C;X3;K29
+C;X4;K4
+C;X5;K"LV90 Summoner (Soul) "
+C;Y139;X1;K138
+C;X2;K"MagicAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV90 Summoner (Soul) "
+C;Y140;X1;K138
+C;X2;K"LightAttack"
+C;X3;K98
+C;X4;K8
+C;X5;K"LV90 Summoner (Soul) "
+C;Y141;X1;K139
+C;X2;K"MaxMP"
+C;X3;K2578
+C;X4;K2
+C;X5;K"LV100 Summoner (Soul) "
+C;Y142;X1;K139
+C;X2;K"MagicDefence"
+C;X3;K40
+C;X4;K4
+C;X5;K"LV100 Summoner (Soul) "
+C;Y143;X1;K139
+C;X2;K"MagicAttack"
+C;X3;K79
+C;X4;K6
+C;X5;K"LV100 Summoner (Soul) "
+C;Y144;X1;K139
+C;X2;K"LightAttack"
+C;X3;K137
+C;X4;K8
+C;X5;K"LV100 Summoner (Soul) "
+C;Y145;X1;K140
+C;X2;K"AddIntPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"LV100 Summoner (Soul) "
+C;Y146;X1;K140
+C;X2;K"ResistancePhysics"
+C;X3;K10
+C;X4;K3
+C;X5;K"LV100 Summoner (Soul) "
+C;Y147;X1;K140
+F;SM20;X2
+C;K"LightAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"LV100 Summoner (Soul) "
+C;Y148;X1;K140
+F;SM20;X2
+C;K"FireAttackPercent"
+C;X3;K10
+C;X4;K5
+C;X5;K"LV100 Summoner (Soul) "
+C;Y149;X1;K141
+C;X2;K"AddIntPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"LV115 Summoner (Soul) "
+C;Y150;X1;K141
+C;X2;K"ResistancePhysics"
+C;X3;K12
+C;X4;K3
+C;X5;K"LV115 Summoner (Soul) "
+C;Y151;X1;K141
+F;SM20;X2
+C;K"LightAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Summoner (Soul) "
+C;Y152;X1;K141
+F;SM20;X2
+C;K"FireAttackPercent"
+C;X3;K12
+C;X4;K5
+C;X5;K"LV115 Summoner (Soul) "
+F;SM20;Y153;X2
+F;SM9;Y154;X1
+C;K142
+F;SM0;X2
+C;K"FrostAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K2
+F;SM0;X5
+C;K"Exalted LV15 Berzerker Soul"
+F;SM9;Y155;X1
+C;K142
+F;SM0;X2
+C;K"FireAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K3
+F;SM0;X5
+C;K"Exalted LV15 Berzerker Soul"
+F;SM9;Y156;X1
+C;K142
+F;SM0;X2
+C;K"LuckyHitOdds"
+F;SM0;X3
+C;K5
+F;SM0;X4
+C;K4
+F;SM0;X5
+C;K"Exalted LV15 Berzerker Soul"
+F;SM9;Y157;X1
+C;K142
+F;SM0;X2
+C;K"AddStrPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K5
+F;SM0;X5
+C;K"Exalted LV15 Berzerker Soul"
+F;SM9;Y158;X1
+C;K143
+F;SM0;X2
+C;K"LightAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K2
+F;SM0;X5
+C;K"Exalted LV15 Champion Soul"
+F;SM9;Y159;X1
+C;K143
+F;SM0;X2
+C;K"FrostAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K3
+F;SM0;X5
+C;K"Exalted LV15 Champion Soul"
+F;SM9;Y160;X1
+C;K143
+F;SM0;X2
+C;K"ResistanceMagic"
+F;SM0;X3
+C;K12
+F;SM0;X4
+C;K4
+F;SM0;X5
+C;K"Exalted LV15 Champion Soul"
+F;SM9;Y161;X1
+C;K143
+F;SM0;X2
+C;K"AddConPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K5
+F;SM0;X5
+C;K"Exalted LV15 Champion Soul"
+F;SM9;Y162;X1
+C;K144
+F;SM0;X2
+C;K"DarkAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K2
+F;SM0;X5
+C;K"Exalted LV15 Slayer Soul"
+F;SM9;Y163;X1
+C;K144
+F;SM0;X2
+C;K"FrostAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K3
+F;SM0;X5
+C;K"Exalted LV15 Slayer Soul"
+F;SM9;Y164;X1
+C;K144
+F;SM0;X2
+C;K"CriticalOdds"
+F;SM0;X3
+C;K4
+F;SM0;X4
+C;K4
+F;SM0;X5
+C;K"Exalted LV15 Slayer Soul"
+F;SM9;Y165;X1
+C;K144
+F;SM0;X2
+C;K"AddAgiPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K5
+F;SM0;X5
+C;K"Exalted LV15 Slayer Soul"
+F;SM9;Y166;X1
+C;K145
+F;SM9;X2
+C;K"FrostAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K2
+F;SM0;X5
+C;K"Exalted LV15 Magus Soul"
+F;SM9;Y167;X1
+C;K145
+F;SM9;X2
+C;K"FireAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K3
+F;SM0;X5
+C;K"Exalted LV15 Magus Soul"
+F;SM9;Y168;X1
+C;K145
+F;SM0;X2
+C;K"LuckyHitOdds"
+F;SM0;X3
+C;K5
+F;SM0;X4
+C;K4
+F;SM0;X5
+C;K"Exalted LV15 Magus Soul"
+F;SM9;Y169;X1
+C;K145
+F;SM0;X2
+C;K"AddIntPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K5
+F;SM0;X5
+C;K"Exalted LV15 Magus Soul"
+F;SM9;Y170;X1
+C;K146
+F;SM9;X2
+C;K"DarkAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K2
+F;SM0;X5
+C;K"Exalted LV15 Heretic Soul"
+F;SM9;Y171;X1
+C;K146
+F;SM9;X2
+C;K"LightAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K3
+F;SM0;X5
+C;K"Exalted LV15 Heretic Soul"
+F;SM9;Y172;X1
+C;K146
+F;SM0;X2
+C;K"ResistancePhysics"
+F;SM0;X3
+C;K12
+F;SM0;X4
+C;K4
+F;SM0;X5
+C;K"Exalted LV15 Heretic Soul"
+F;SM9;Y173;X1
+C;K146
+F;SM9;X2
+C;K"AddEnePercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K5
+F;SM0;X5
+C;K"Exalted LV15 Heretic Soul"
+F;SM9;Y174;X1
+C;K147
+F;SM9;X2
+C;K"FireAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K2
+F;SM0;X5
+C;K"Exalted LV15 Summoner Soul"
+F;SM9;Y175;X1
+C;K147
+F;SM9;X2
+C;K"LightAttackPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K3
+F;SM0;X5
+C;K"Exalted LV15 Summoner Soul"
+F;SM9;Y176;X1
+C;K147
+F;SM0;X2
+C;K"ResistancePhysics"
+F;SM0;X3
+C;K12
+F;SM0;X4
+C;K4
+F;SM0;X5
+C;K"Exalted LV15 Summoner Soul"
+F;SM9;Y177;X1
+C;K147
+F;SM0;X2
+C;K"AddIntPercent"
+F;SM0;X3
+C;K14
+F;SM0;X4
+C;K5
+F;SM0;X5
+C;K"Exalted LV15 Summoner Soul"
+F;SM9;Y178;X1
+F;SM0;X2
+F;SM0;X3
+F;SM0;X4
+F;SM0;X5
+C;Y179;X1;K151
+C;X2;K"MaxMP"
+C;X3;K1358
+C;X4;K2
+C;X5;K"LV60 Summoner (Soul) "
+C;Y180;X1;K151
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV60 Summoner (Soul) "
+C;Y181;X1;K151
+C;X2;K"MagicAttack"
+C;X3;K42
+C;X4;K6
+C;X5;K"LV60 Summoner (Soul) "
+C;Y182;X1;K151
+C;X2;K"FireAttack"
+C;X3;K72
+C;X4;K8
+C;X5;K"LV60 Summoner (Soul) "
+C;Y183;X1;K152
+C;X2;K"MaxMP"
+C;X3;K419
+C;X4;K2
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y184;X1;K152
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y185;X1;K152
+C;X2;K"MagicAttack"
+C;X3;K13
+C;X4;K6
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y186;X1;K152
+C;X2;K"FireAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y187;X1;K153
+C;X2;K"MaxMP"
+C;X3;K646
+C;X4;K2
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y188;X1;K153
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y189;X1;K153
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y190;X1;K153
+C;X2;K"FireAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y191;X1;K154
+C;X2;K"MaxMP"
+C;X3;K922
+C;X4;K2
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y192;X1;K154
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y193;X1;K154
+C;X2;K"MagicAttack"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y194;X1;K154
+C;X2;K"FireAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Summoner Green (Set) "
+F;SM9;Y196;X1
+C;K155
+C;X2;K"FrostAttackPercent"
+C;X3;K14
+C;X4;K2
+C;X5;K"Exalted LV30 Berzerker Soul"
+F;SM9;Y197;X1
+C;K155
+C;X2;K"FireAttackPercent"
+C;X3;K14
+C;X4;K3
+C;X5;K"Exalted LV30 Berzerker Soul"
+F;SM9;Y198;X1
+C;K155
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"Exalted LV30 Berzerker Soul"
+F;SM9;Y199;X1
+C;K155
+C;X2;K"AddStrPercent"
+C;X3;K14
+C;X4;K5
+C;X5;K"Exalted LV30 Berzerker Soul"
+F;SM9;Y200;X1
+C;K156
+C;X2;K"LightAttackPercent"
+C;X3;K14
+C;X4;K2
+C;X5;K"Exalted LV30 Champion Soul"
+F;SM9;Y201;X1
+C;K156
+C;X2;K"FrostAttackPercent"
+C;X3;K14
+C;X4;K3
+C;X5;K"Exalted LV30 Champion Soul"
+F;SM9;Y202;X1
+C;K156
+C;X2;K"ResistanceMagic"
+C;X3;K12
+C;X4;K4
+C;X5;K"Exalted LV30 Champion Soul"
+F;SM9;Y203;X1
+C;K156
+C;X2;K"AddConPercent"
+C;X3;K14
+C;X4;K5
+C;X5;K"Exalted LV30 Champion Soul"
+F;SM9;Y204;X1
+C;K157
+C;X2;K"DarkAttackPercent"
+C;X3;K14
+C;X4;K2
+C;X5;K"Exalted LV30 Assassin Soul"
+F;SM9;Y205;X1
+C;K157
+C;X2;K"FrostAttackPercent"
+C;X3;K14
+C;X4;K3
+C;X5;K"Exalted LV30 Assassin Soul"
+F;SM9;Y206;X1
+C;K157
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"Exalted LV30 Assassin Soul"
+F;SM9;Y207;X1
+C;K157
+C;X2;K"AddAgiPercent"
+C;X3;K14
+C;X4;K5
+C;X5;K"Exalted LV30 Assassin Soul"
+F;SM9;Y208;X1
+C;K158
+F;SM9;X2
+C;K"FrostAttackPercent"
+C;X3;K14
+C;X4;K2
+C;X5;K"Exalted LV30 Magus Soul"
+F;SM9;Y209;X1
+C;K158
+F;SM9;X2
+C;K"FireAttackPercent"
+C;X3;K14
+C;X4;K3
+C;X5;K"Exalted LV30 Magus Soul"
+F;SM9;Y210;X1
+C;K158
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"Exalted LV30 Magus Soul"
+F;SM9;Y211;X1
+C;K158
+C;X2;K"AddIntPercent"
+C;X3;K14
+C;X4;K5
+C;X5;K"Exalted LV30 Magus Soul"
+F;SM9;Y212;X1
+C;K159
+F;SM9;X2
+C;K"DarkAttackPercent"
+C;X3;K14
+C;X4;K2
+C;X5;K"Exalted LV30 Heretic Soul"
+F;SM9;Y213;X1
+C;K159
+F;SM9;X2
+C;K"LightAttackPercent"
+C;X3;K14
+C;X4;K3
+C;X5;K"Exalted LV30 Heretic Soul"
+F;SM9;Y214;X1
+C;K159
+C;X2;K"ResistancePhysics"
+C;X3;K12
+C;X4;K4
+C;X5;K"Exalted LV30 Heretic Soul"
+F;SM9;Y215;X1
+C;K159
+F;SM9;X2
+C;K"AddEnePercent"
+C;X3;K14
+C;X4;K5
+C;X5;K"Exalted LV30 Heretic Soul"
+F;SM9;Y216;X1
+C;K160
+F;SM9;X2
+C;K"FireAttackPercent"
+C;X3;K14
+C;X4;K2
+C;X5;K"Exalted LV30 Summoner Soul"
+F;SM9;Y217;X1
+C;K160
+F;SM9;X2
+C;K"LightAttackPercent"
+C;X3;K14
+C;X4;K3
+C;X5;K"Exalted LV30 Summoner Soul"
+F;SM9;Y218;X1
+C;K160
+C;X2;K"ResistancePhysics"
+C;X3;K12
+C;X4;K4
+C;X5;K"Exalted LV30 Summoner Soul"
+F;SM9;Y219;X1
+C;K160
+C;X2;K"AddIntPercent"
+C;X3;K14
+C;X4;K5
+C;X5;K"Exalted LV30 Summoner Soul"
+C;Y221;X1;K300
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K3
+C;X4;K2
+C;X5;K"Radiance"
+C;X6;K"Champion"
+C;X7;K"HP"
+C;Y222;X1;K300
+F;SM27;X2
+C;K"ResistancePhysics"
+C;X3;K3
+C;X4;K3
+C;X5;K"Radiance"
+C;X6;K"Champion"
+C;X7;K"N/A??"
+C;Y223;X1;K300
+F;SM27;X2
+C;K"ResistanceMagic"
+C;X3;K3
+C;X4;K4
+C;X5;K"Radiance"
+C;X6;K"Champion"
+C;X7;K"N/A??"
+C;Y225;X1;K301
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K3
+C;X4;K2
+C;X5;K"Radiance"
+C;X6;K"Bzkr. Slyr."
+C;X7;K"HP"
+C;Y226;X1;K301
+F;SM27;X2
+C;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K3
+C;X5;K"Radiance"
+C;X6;K"Bzkr. Slyr."
+C;X7;K"Lucky Strike"
+C;Y227;X1;K301
+F;SM27;X2
+C;K"PhysicsAttackPercent"
+C;X3;K3
+C;X4;K4
+C;X5;K"Radiance"
+C;X6;K"Bzkr. Slyr."
+C;X7;K"Physical Attack"
+C;Y229;X1;K302
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K3
+C;X4;K2
+C;X5;K"Radiance"
+C;X6;K"Mgus. Hrtc. Smnr. "
+C;X7;K"HP"
+C;Y230;X1;K302
+F;SM27;X2
+C;K"CriticalOdds"
+C;X3;K1
+C;X4;K3
+C;X5;K"Radiance"
+C;X6;K"Mgus. Hrtc. Smnr. "
+C;X7;K"Critstrike"
+C;Y231;X1;K302
+F;SM27;X2
+C;K"MagicAttackPercent"
+C;X3;K3
+C;X4;K4
+C;X5;K"Radiance"
+C;X6;K"Mgus. Hrtc. Smnr. "
+C;X7;K"Magic Attack"
+C;Y233;X1;K901
+C;X2;K"MaxHP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Berzerker Green Set"
+C;Y234;X1;K901
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Berzerker Green Set"
+C;Y235;X1;K901
+C;X2;K"PhysicsAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Berzerker Green Set"
+C;Y236;X1;K902
+C;X2;K"MaxHP"
+C;X3;K257
+C;X4;K2
+C;X5;K"LV15 Champion Green Set"
+C;Y237;X1;K902
+C;X2;K"MagicDefence"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV15 Champion Green Set"
+C;Y238;X1;K902
+C;X2;K"PhysicsDefence"
+C;X3;K4
+C;X4;K6
+C;X5;K"LV15 Champion Green Set"
+C;Y239;X1;K903
+C;X2;K"PhysicsAttack"
+C;X3;K6
+C;X4;K2
+C;X5;K"LV15 Slayer Green Set"
+C;Y240;X1;K903
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Slayer Green Set"
+C;Y241;X1;K903
+C;X2;K"AttackSpeed"
+C;X3;K5
+C;X4;K6
+C;X5;K"LV15 Slayer Green Set"
+C;Y242;X1;K904
+C;X2;K"MaxMP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Magus Green Set"
+C;Y243;X1;K904
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Magus Green Set"
+C;Y244;X1;K904
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Magus Green Set"
+C;Y245;X1;K905
+C;X2;K"MaxMP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Heretic Green Set"
+C;Y246;X1;K905
+C;X2;K"MagicDefence"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV15 Heretic Green Set"
+C;Y247;X1;K905
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Heretic Green Set"
+C;Y248;X1;K906
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"N/A??????"
+C;Y249;X1;K906
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"N/A??????"
+C;Y250;X1;K907
+C;X2;K"MaxMP"
+C;X3;K1000
+C;X4;K2
+C;X5;K"Chrono Accessory Set"
+C;Y251;X1;K907
+C;X2;K"MaxHP"
+C;X3;K1000
+C;X4;K3
+C;X5;K"Chrono Accessory Set"
+C;Y252;X1;K907
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"Chrono Accessory Set"
+C;Y253;X1;K908
+C;X2;K"MaxHP"
+C;X3;K300
+C;X4;K2
+C;X5;K"LV Quest Soul  Accessory Set"
+C;Y254;X1;K908
+C;X2;K"MaxMP"
+C;X3;K300
+C;X4;K2
+C;X5;K"LV Quest Soul  Accessory Set"
+C;Y255;X1;K908
+C;X2;K"AddCon"
+C;X3;K15
+C;X4;K3
+C;X5;K"LV Quest Soul  Accessory Set"
+C;Y256;X1;K908
+C;X2;K"AddEne"
+C;X3;K15
+C;X4;K3
+C;X5;K"LV Quest Soul  Accessory Set"
+C;Y257;X1;K909
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"Taurus Accessory Set"
+C;Y258;X1;K909
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"Taurus Accessory Set"
+C;Y259;X1;K910
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K2
+C;X5;K"Taurus Accessory Set"
+C;Y260;X1;K910
+C;X2;K"CriticalOdds"
+C;X3;K5
+C;X4;K2
+C;X5;K"Taurus Accessory Set"
+C;Y261;X1;K911
+C;X2;K"MaxMP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y262;X1;K911
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y263;X1;K911
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y265;X1;K1101
+C;X2;K"MaxHP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Berzerker Green Set"
+C;Y266;X1;K1101
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Berzerker Green Set"
+C;Y267;X1;K1101
+C;X2;K"PhysicsAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Berzerker Green Set"
+C;Y268;X1;K1101
+C;X2;K"FireAttack"
+C;X3;K12
+C;X4;K8
+C;X5;K"LV15 Berzerker Green Set"
+C;Y269;X1;K1102
+C;X2;K"MaxHP"
+C;X3;K419
+C;X4;K2
+C;X5;K"LV30 Berzerker Green Set"
+C;Y270;X1;K1102
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV30 Berzerker Green Set"
+C;Y271;X1;K1102
+C;X2;K"PhysicsAttack"
+C;X3;K13
+C;X4;K6
+C;X5;K"LV30 Berzerker Green Set"
+C;Y272;X1;K1102
+C;X2;K"FireAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Berzerker Green Set"
+C;Y273;X1;K1103
+C;X2;K"MaxHP"
+C;X3;K646
+C;X4;K2
+C;X5;K"LV45 Berzerker Green Set"
+C;Y274;X1;K1103
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV45 Berzerker Green Set"
+C;Y275;X1;K1103
+C;X2;K"PhysicsAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV45 Berzerker Green Set"
+C;Y276;X1;K1103
+C;X2;K"FireAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Berzerker Green Set"
+C;Y277;X1;K1104
+C;X2;K"MaxHP"
+C;X3;K922
+C;X4;K2
+C;X5;K"LV60 Berzerker Green Set"
+C;Y278;X1;K1104
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Berzerker Green Set"
+C;Y279;X1;K1104
+C;X2;K"PhysicsAttack"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV60 Berzerker Green Set"
+C;Y280;X1;K1104
+C;X2;K"FireAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Berzerker Green Set"
+C;Y281;X1;K1105
+C;X2;K"MaxHP"
+C;X3;K1227
+C;X4;K2
+C;X5;K"LV75 Berzerker Green Set"
+C;Y282;X1;K1105
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV75 Berzerker Green Set"
+C;Y283;X1;K1105
+C;X2;K"PhysicsAttack"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV75 Berzerker Green Set"
+C;Y284;X1;K1105
+C;X2;K"FireAttack"
+C;X3;K65
+C;X4;K8
+C;X5;K"LV75 Berzerker Green Set"
+C;Y285;X1;K1106
+C;X2;K"MaxHP"
+C;X3;K1606
+C;X4;K2
+C;X5;K"LV90 Berzerker Green Set"
+C;Y286;X1;K1106
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Berzerker Green Set"
+C;Y287;X1;K1106
+C;X2;K"PhysicsAttack"
+C;X3;K50
+C;X4;K6
+C;X5;K"LV90 Berzerker Green Set"
+C;Y288;X1;K1106
+C;X2;K"FireAttack"
+C;X3;K86
+C;X4;K8
+C;X5;K"LV90 Berzerker Green Set"
+C;Y289;X1;K1107
+C;X2;K"MaxHP"
+C;X3;K2002
+C;X4;K2
+C;X5;K"LV105 Berzerker Green Set"
+C;Y290;X1;K1107
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV105 Berzerker Green Set"
+C;Y291;X1;K1107
+C;X2;K"PhysicsAttack"
+C;X3;K63
+C;X4;K6
+C;X5;K"LV105 Berzerker Green Set"
+C;Y292;X1;K1107
+C;X2;K"FireAttack"
+C;X3;K107
+C;X4;K8
+C;X5;K"LV105 Berzerker Green Set"
+C;Y293;X1;K1108
+C;X2;K"MaxHP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV120 Berzerker Green Set"
+C;Y294;X1;K1108
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV120 Berzerker Green Set"
+C;Y295;X1;K1108
+C;X2;K"PhysicsAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV120 Berzerker Green Set"
+C;Y296;X1;K1108
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV120 Berzerker Green Set"
+C;Y297;X1;K1109
+C;X2;K"MaxHP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV135 Berzerker Green Set"
+C;Y298;X1;K1109
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV135 Berzerker Green Set"
+C;Y299;X1;K1109
+C;X2;K"PhysicsAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV135 Berzerker Green Set"
+C;Y300;X1;K1109
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV135 Berzerker Green Set"
+C;Y301;X1;K1110
+C;X2;K"MaxHP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV150 Berzerker Green Set"
+C;Y302;X1;K1110
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV150 Berzerker Green Set"
+C;Y303;X1;K1110
+C;X2;K"PhysicsAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV150 Berzerker Green Set"
+C;Y304;X1;K1110
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV150 Berzerker Green Set"
+C;Y305;X1;K1111
+C;X2;K"MaxHP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV160 Berzerker Green Set"
+C;Y306;X1;K1111
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV160 Berzerker Green Set"
+C;Y307;X1;K1111
+C;X2;K"PhysicsAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV160 Berzerker Green Set"
+C;Y308;X1;K1111
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV160 Berzerker Green Set"
+C;Y309;X1;K1112
+C;X2;K"MaxHP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV170 Berzerker Green Set"
+C;Y310;X1;K1112
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV170 Berzerker Green Set"
+C;Y311;X1;K1112
+C;X2;K"PhysicsAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV170 Berzerker Green Set"
+C;Y312;X1;K1112
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV170 Berzerker Green Set"
+C;Y313;X1;K1201
+C;X2;K"MaxHP"
+C;X3;K257
+C;X4;K2
+C;X5;K"LV15 Champion Green Set"
+C;Y314;X1;K1201
+C;X2;K"MagicDefence"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV15 Champion Green Set"
+C;Y315;X1;K1201
+C;X2;K"PhysicsDefence"
+C;X3;K4
+C;X4;K6
+C;X5;K"LV15 Champion Green Set"
+C;Y316;X1;K1201
+C;X2;K"FrostAttack"
+C;X3;K12
+C;X4;K8
+C;X5;K"LV15 Champion Green Set"
+C;Y317;X1;K1202
+C;X2;K"MaxHP"
+C;X3;K472
+C;X4;K2
+C;X5;K"LV30 Champion Green Set"
+C;Y318;X1;K1202
+C;X2;K"MagicDefence"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV30 Champion Green Set"
+C;Y319;X1;K1202
+C;X2;K"PhysicsDefence"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV30 Champion Green Set"
+C;Y320;X1;K1202
+C;X2;K"FrostAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Champion Green Set"
+C;Y321;X1;K1203
+C;X2;K"MaxHP"
+C;X3;K727
+C;X4;K2
+C;X5;K"LV45 Champion Green Set"
+C;Y322;X1;K1203
+C;X2;K"MagicDefence"
+C;X3;K9
+C;X4;K4
+C;X5;K"LV45 Champion Green Set"
+C;Y323;X1;K1203
+C;X2;K"PhysicsDefence"
+C;X3;K10
+C;X4;K6
+C;X5;K"LV45 Champion Green Set"
+C;Y324;X1;K1203
+C;X2;K"FrostAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Champion Green Set"
+C;Y325;X1;K1204
+C;X2;K"MaxHP"
+C;X3;K1037
+C;X4;K2
+C;X5;K"LV60 Champion Green Set"
+C;Y326;X1;K1204
+C;X2;K"MagicDefence"
+C;X3;K13
+C;X4;K4
+C;X5;K"LV60 Champion Green Set"
+C;Y327;X1;K1204
+C;X2;K"PhysicsDefence"
+C;X3;K14
+C;X4;K6
+C;X5;K"LV60 Champion Green Set"
+C;Y328;X1;K1204
+C;X2;K"FrostAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Champion Green Set"
+C;Y329;X1;K1205
+C;X2;K"MaxHP"
+C;X3;K1381
+C;X4;K2
+C;X5;K"LV75 Champion Green Set"
+C;Y330;X1;K1205
+C;X2;K"MagicDefence"
+C;X3;K18
+C;X4;K4
+C;X5;K"LV75 Champion Green Set"
+C;Y331;X1;K1205
+C;X2;K"PhysicsDefence"
+C;X3;K19
+C;X4;K6
+C;X5;K"LV75 Champion Green Set"
+C;Y332;X1;K1205
+C;X2;K"FrostAttack"
+C;X3;K65
+C;X4;K8
+C;X5;K"LV75 Champion Green Set"
+C;Y333;X1;K1206
+C;X2;K"MaxHP"
+C;X3;K1807
+C;X4;K2
+C;X5;K"LV90 Champion Green Set"
+C;Y334;X1;K1206
+C;X2;K"MagicDefence"
+C;X3;K23
+C;X4;K4
+C;X5;K"LV90 Champion Green Set"
+C;Y335;X1;K1206
+C;X2;K"PhysicsDefence"
+C;X3;K25
+C;X4;K6
+C;X5;K"LV90 Champion Green Set"
+C;Y336;X1;K1206
+C;X2;K"FrostAttack"
+C;X3;K86
+C;X4;K8
+C;X5;K"LV90 Champion Green Set"
+C;Y337;X1;K1207
+C;X2;K"MaxHP"
+C;X3;K2252
+C;X4;K2
+C;X5;K"LV105 Champion Green Set"
+C;Y338;X1;K1207
+C;X2;K"MagicDefence"
+C;X3;K29
+C;X4;K4
+C;X5;K"LV105 Champion Green Set"
+C;Y339;X1;K1207
+C;X2;K"PhysicsDefence"
+C;X3;K31
+C;X4;K6
+C;X5;K"LV105 Champion Green Set"
+C;Y340;X1;K1207
+C;X2;K"FrostAttack"
+C;X3;K107
+C;X4;K8
+C;X5;K"LV105 Champion Green Set"
+C;Y341;X1;K1208
+C;X2;K"MaxHP"
+C;X3;K2749
+C;X4;K2
+C;X5;K"LV120 Champion Green Set"
+C;Y342;X1;K1208
+C;X2;K"MagicDefence"
+C;X3;K36
+C;X4;K4
+C;X5;K"LV120 Champion Green Set"
+C;Y343;X1;K1208
+C;X2;K"PhysicsDefence"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV120 Champion Green Set"
+C;Y344;X1;K1208
+C;X2;K"FrostAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV120 Champion Green Set"
+C;Y345;X1;K1209
+C;X2;K"MaxHP"
+C;X3;K2749
+C;X4;K2
+C;X5;K"LV135 Champion Green Set"
+C;Y346;X1;K1209
+C;X2;K"MagicDefence"
+C;X3;K36
+C;X4;K4
+C;X5;K"LV135 Champion Green Set"
+C;Y347;X1;K1209
+C;X2;K"PhysicsDefence"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV135 Champion Green Set"
+C;Y348;X1;K1209
+C;X2;K"FrostAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV135 Champion Green Set"
+C;Y349;X1;K1210
+C;X2;K"MaxHP"
+C;X3;K2749
+C;X4;K2
+C;X5;K"LV150 Champion Green Set"
+C;Y350;X1;K1210
+C;X2;K"MagicDefence"
+C;X3;K36
+C;X4;K4
+C;X5;K"LV150 Champion Green Set"
+C;Y351;X1;K1210
+C;X2;K"PhysicsDefence"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV150 Champion Green Set"
+C;Y352;X1;K1210
+C;X2;K"FrostAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV150 Champion Green Set"
+C;Y353;X1;K1211
+C;X2;K"MaxHP"
+C;X3;K2749
+C;X4;K2
+C;X5;K"LV160 Champion Green Set"
+C;Y354;X1;K1211
+C;X2;K"MagicDefence"
+C;X3;K36
+C;X4;K4
+C;X5;K"LV160 Champion Green Set"
+C;Y355;X1;K1211
+C;X2;K"PhysicsDefence"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV160 Champion Green Set"
+C;Y356;X1;K1211
+C;X2;K"FrostAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV160 Champion Green Set"
+C;Y357;X1;K1212
+C;X2;K"MaxHP"
+C;X3;K2749
+C;X4;K2
+C;X5;K"LV170 Champion Green Set"
+C;Y358;X1;K1212
+C;X2;K"MagicDefence"
+C;X3;K36
+C;X4;K4
+C;X5;K"LV170 Champion Green Set"
+C;Y359;X1;K1212
+C;X2;K"PhysicsDefence"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV170 Champion Green Set"
+C;Y360;X1;K1212
+C;X2;K"FrostAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV170 Champion Green Set"
+C;Y361;X1;K1301
+C;X2;K"PhysicsAttack"
+C;X3;K6
+C;X4;K2
+C;X5;K"LV15 Slayer Green Set"
+C;Y362;X1;K1301
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Slayer Green Set"
+C;Y363;X1;K1301
+C;X2;K"AttackSpeed"
+C;X3;K6
+C;X4;K6
+C;X5;K"LV15 Slayer Green Set"
+C;Y364;X1;K1301
+C;X2;K"DarkAttack"
+C;X3;K12
+C;X4;K8
+C;X5;K"LV15 Slayer Green Set"
+C;Y365;X1;K1302
+C;X2;K"PhysicsAttack"
+C;X3;K10
+C;X4;K2
+C;X5;K"LV30 Slayer Green Set"
+C;Y366;X1;K1302
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV30 Slayer Green Set"
+C;Y367;X1;K1302
+C;X2;K"AttackSpeed"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV30 Slayer Green Set"
+C;Y368;X1;K1302
+C;X2;K"DarkAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Slayer Green Set"
+C;Y369;X1;K1303
+C;X2;K"PhysicsAttack"
+C;X3;K16
+C;X4;K2
+C;X5;K"LV45 Slayer Green Set"
+C;Y370;X1;K1303
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV45 Slayer Green Set"
+C;Y371;X1;K1303
+C;X2;K"AttackSpeed"
+C;X3;K8
+C;X4;K6
+C;X5;K"LV45 Slayer Green Set"
+C;Y372;X1;K1303
+C;X2;K"DarkAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Slayer Green Set"
+C;Y373;X1;K1304
+C;X2;K"PhysicsAttack"
+C;X3;K23
+C;X4;K2
+C;X5;K"LV60 Slayer Green Set"
+C;Y374;X1;K1304
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Slayer Green Set"
+C;Y375;X1;K1304
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV60 Slayer Green Set"
+C;Y376;X1;K1304
+C;X2;K"DarkAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Slayer Green Set"
+C;Y377;X1;K1305
+C;X2;K"PhysicsAttack"
+C;X3;K31
+C;X4;K2
+C;X5;K"LV75 Slayer Green Set"
+C;Y378;X1;K1305
+C;X2;K"CriticalOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV75 Slayer Green Set"
+C;Y379;X1;K1305
+C;X2;K"AttackSpeed"
+C;X3;K10
+C;X4;K6
+C;X5;K"LV75 Slayer Green Set"
+C;Y380;X1;K1305
+C;X2;K"DarkAttack"
+C;X3;K65
+C;X4;K8
+C;X5;K"LV75 Slayer Green Set"
+C;Y381;X1;K1306
+C;X2;K"PhysicsAttack"
+C;X3;K40
+C;X4;K2
+C;X5;K"LV90 Slayer Green Set"
+C;Y382;X1;K1306
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Slayer Green Set"
+C;Y383;X1;K1306
+C;X2;K"AttackSpeed"
+C;X3;K11
+C;X4;K6
+C;X5;K"LV90 Slayer Green Set"
+C;Y384;X1;K1306
+C;X2;K"DarkAttack"
+C;X3;K86
+C;X4;K8
+C;X5;K"LV90 Slayer Green Set"
+C;Y385;X1;K1307
+C;X2;K"PhysicsAttack"
+C;X3;K50
+C;X4;K2
+C;X5;K"LV105 Slayer Green Set"
+C;Y386;X1;K1307
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV105 Slayer Green Set"
+C;Y387;X1;K1307
+C;X2;K"AttackSpeed"
+C;X3;K12
+C;X4;K6
+C;X5;K"LV105 Slayer Green Set"
+C;Y388;X1;K1307
+C;X2;K"DarkAttack"
+C;X3;K107
+C;X4;K8
+C;X5;K"LV105 Slayer Green Set"
+C;Y389;X1;K1308
+C;X2;K"PhysicsAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV120 Slayer Green Set"
+C;Y390;X1;K1308
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV120 Slayer Green Set"
+C;Y391;X1;K1308
+C;X2;K"AttackSpeed"
+C;X3;K13
+C;X4;K6
+C;X5;K"LV120 Slayer Green Set"
+C;Y392;X1;K1308
+C;X2;K"DarkAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV120 Slayer Green Set"
+C;Y393;X1;K1309
+C;X2;K"PhysicsAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV135 Slayer Green Set"
+C;Y394;X1;K1309
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV135 Slayer Green Set"
+C;Y395;X1;K1309
+C;X2;K"AttackSpeed"
+C;X3;K14
+C;X4;K6
+C;X5;K"LV135 Slayer Green Set"
+C;Y396;X1;K1309
+C;X2;K"DarkAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV135 Slayer Green Set"
+C;Y397;X1;K1310
+C;X2;K"PhysicsAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV150 Slayer Green Set"
+C;Y398;X1;K1310
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV150 Slayer Green Set"
+C;Y399;X1;K1310
+C;X2;K"AttackSpeed"
+C;X3;K15
+C;X4;K6
+C;X5;K"LV150 Slayer Green Set"
+C;Y400;X1;K1310
+C;X2;K"DarkAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV150 Slayer Green Set"
+C;Y401;X1;K1311
+C;X2;K"PhysicsAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV160 Slayer Green Set"
+C;Y402;X1;K1311
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV160 Slayer Green Set"
+C;Y403;X1;K1311
+C;X2;K"AttackSpeed"
+C;X3;K15
+C;X4;K6
+C;X5;K"LV160 Slayer Green Set"
+C;Y404;X1;K1311
+C;X2;K"DarkAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV160 Slayer Green Set"
+C;Y405;X1;K1312
+C;X2;K"PhysicsAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV170 Slayer Green Set"
+C;Y406;X1;K1312
+C;X2;K"CriticalOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV170 Slayer Green Set"
+C;Y407;X1;K1312
+C;X2;K"AttackSpeed"
+C;X3;K15
+C;X4;K6
+C;X5;K"LV170 Slayer Green Set"
+C;Y408;X1;K1312
+C;X2;K"DarkAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV170 Slayer Green Set"
+C;Y409;X1;K1401
+C;X2;K"MaxMP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Magus Green Set"
+C;Y410;X1;K1401
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Magus Green Set"
+C;Y411;X1;K1401
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Magus Green Set"
+C;Y412;X1;K1401
+C;X2;K"FireAttack"
+C;X3;K12
+C;X4;K8
+C;X5;K"LV15 Magus Green Set"
+C;Y413;X1;K1402
+C;X2;K"MaxMP"
+C;X3;K419
+C;X4;K2
+C;X5;K"LV30 Magus Green Set"
+C;Y414;X1;K1402
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV30 Magus Green Set"
+C;Y415;X1;K1402
+C;X2;K"MagicAttack"
+C;X3;K13
+C;X4;K6
+C;X5;K"LV30 Magus Green Set"
+C;Y416;X1;K1402
+C;X2;K"FireAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Magus Green Set"
+C;Y417;X1;K1403
+C;X2;K"MaxMP"
+C;X3;K646
+C;X4;K2
+C;X5;K"LV45 Magus Green Set"
+C;Y418;X1;K1403
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV45 Magus Green Set"
+C;Y419;X1;K1403
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV45 Magus Green Set"
+C;Y420;X1;K1403
+C;X2;K"FireAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Magus Green Set"
+C;Y421;X1;K1404
+C;X2;K"MaxMP"
+C;X3;K922
+C;X4;K2
+C;X5;K"LV60 Magus Green Set"
+C;Y422;X1;K1404
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Magus Green Set"
+C;Y423;X1;K1404
+C;X2;K"MagicAttack"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV60 Magus Green Set"
+C;Y424;X1;K1404
+C;X2;K"FireAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Magus Green Set"
+C;Y425;X1;K1405
+C;X2;K"MaxMP"
+C;X3;K1227
+C;X4;K2
+C;X5;K"LV75 Magus Green Set"
+C;Y426;X1;K1405
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV75 Magus Green Set"
+C;Y427;X1;K1405
+C;X2;K"MagicAttack"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV75 Magus Green Set"
+C;Y428;X1;K1405
+C;X2;K"FireAttack"
+C;X3;K65
+C;X4;K8
+C;X5;K"LV75 Magus Green Set"
+C;Y429;X1;K1406
+C;X2;K"MaxMP"
+C;X3;K1606
+C;X4;K2
+C;X5;K"LV90 Magus Green Set"
+C;Y430;X1;K1406
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Magus Green Set"
+C;Y431;X1;K1406
+C;X2;K"MagicAttack"
+C;X3;K50
+C;X4;K6
+C;X5;K"LV90 Magus Green Set"
+C;Y432;X1;K1406
+C;X2;K"FireAttack"
+C;X3;K86
+C;X4;K8
+C;X5;K"LV90 Magus Green Set"
+C;Y433;X1;K1407
+C;X2;K"MaxMP"
+C;X3;K2002
+C;X4;K2
+C;X5;K"LV105 Magus Green Set"
+C;Y434;X1;K1407
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV105 Magus Green Set"
+C;Y435;X1;K1407
+C;X2;K"MagicAttack"
+C;X3;K63
+C;X4;K6
+C;X5;K"LV105 Magus Green Set"
+C;Y436;X1;K1407
+C;X2;K"FireAttack"
+C;X3;K107
+C;X4;K8
+C;X5;K"LV105 Magus Green Set"
+C;Y437;X1;K1408
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV120 Magus Green Set"
+C;Y438;X1;K1408
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV120 Magus Green Set"
+C;Y439;X1;K1408
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV120 Magus Green Set"
+C;Y440;X1;K1408
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV120 Magus Green Set"
+C;Y441;X1;K1409
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV135 Magus Green Set"
+C;Y442;X1;K1409
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV135 Magus Green Set"
+C;Y443;X1;K1409
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV135 Magus Green Set"
+C;Y444;X1;K1409
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV135 Magus Green Set"
+C;Y445;X1;K1410
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV150 Magus Green Set"
+C;Y446;X1;K1410
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV150 Magus Green Set"
+C;Y447;X1;K1410
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV150 Magus Green Set"
+C;Y448;X1;K1410
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV150 Magus Green Set"
+C;Y449;X1;K1411
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV160 Magus Green Set"
+C;Y450;X1;K1411
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV160 Magus Green Set"
+C;Y451;X1;K1411
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV160 Magus Green Set"
+C;Y452;X1;K1411
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV160 Magus Green Set"
+C;Y453;X1;K1412
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV170 Magus Green Set"
+C;Y454;X1;K1412
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV170 Magus Green Set"
+C;Y455;X1;K1412
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV170 Magus Green Set"
+C;Y456;X1;K1412
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV170 Magus Green Set"
+C;Y457;X1;K1501
+C;X2;K"MaxMP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Heretic Green Set"
+C;Y458;X1;K1501
+C;X2;K"MagicDefence"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV15 Heretic Green Set"
+C;Y459;X1;K1501
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Heretic Green Set"
+C;Y460;X1;K1501
+C;X2;K"LightAttack"
+C;X3;K12
+C;X4;K8
+C;X5;K"LV15 Heretic Green Set"
+C;Y461;X1;K1502
+C;X2;K"MaxMP"
+C;X3;K419
+C;X4;K2
+C;X5;K"LV30 Heretic Green Set"
+C;Y462;X1;K1502
+C;X2;K"MagicDefence"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV30 Heretic Green Set"
+C;Y463;X1;K1502
+C;X2;K"MagicAttack"
+C;X3;K13
+C;X4;K6
+C;X5;K"LV30 Heretic Green Set"
+C;Y464;X1;K1502
+C;X2;K"LightAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Heretic Green Set"
+C;Y465;X1;K1503
+C;X2;K"MaxMP"
+C;X3;K646
+C;X4;K2
+C;X5;K"LV45 Heretic Green Set"
+C;Y466;X1;K1503
+C;X2;K"MagicDefence"
+C;X3;K10
+C;X4;K4
+C;X5;K"LV45 Heretic Green Set"
+C;Y467;X1;K1503
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV45 Heretic Green Set"
+C;Y468;X1;K1503
+C;X2;K"LightAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Heretic Green Set"
+C;Y469;X1;K1504
+C;X2;K"MaxMP"
+C;X3;K922
+C;X4;K2
+C;X5;K"LV60 Heretic Green Set"
+C;Y470;X1;K1504
+C;X2;K"MagicDefence"
+C;X3;K14
+C;X4;K4
+C;X5;K"LV60 Heretic Green Set"
+C;Y471;X1;K1504
+C;X2;K"MagicAttack"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV60 Heretic Green Set"
+C;Y472;X1;K1504
+C;X2;K"LightAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Heretic Green Set"
+C;Y473;X1;K1505
+C;X2;K"MaxMP"
+C;X3;K1227
+C;X4;K2
+C;X5;K"LV75 Heretic Green Set"
+C;Y474;X1;K1505
+C;X2;K"MagicDefence"
+C;X3;K19
+C;X4;K4
+C;X5;K"LV75 Heretic Green Set"
+C;Y475;X1;K1505
+C;X2;K"MagicAttack"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV75 Heretic Green Set"
+C;Y476;X1;K1505
+C;X2;K"LightAttack"
+C;X3;K65
+C;X4;K8
+C;X5;K"LV75 Heretic Green Set"
+C;Y477;X1;K1506
+C;X2;K"MaxMP"
+C;X3;K1606
+C;X4;K2
+C;X5;K"LV90 Heretic Green Set"
+C;Y478;X1;K1506
+C;X2;K"MagicDefence"
+C;X3;K25
+C;X4;K4
+C;X5;K"LV90 Heretic Green Set"
+C;Y479;X1;K1506
+C;X2;K"MagicAttack"
+C;X3;K50
+C;X4;K6
+C;X5;K"LV90 Heretic Green Set"
+C;Y480;X1;K1506
+C;X2;K"LightAttack"
+C;X3;K86
+C;X4;K8
+C;X5;K"LV90 Heretic Green Set"
+C;Y481;X1;K1507
+C;X2;K"MaxMP"
+C;X3;K2002
+C;X4;K2
+C;X5;K"LV105 Heretic Green Set"
+C;Y482;X1;K1507
+C;X2;K"MagicDefence"
+C;X3;K31
+C;X4;K4
+C;X5;K"LV105 Heretic Green Set"
+C;Y483;X1;K1507
+C;X2;K"MagicAttack"
+C;X3;K63
+C;X4;K6
+C;X5;K"LV105 Heretic Green Set"
+C;Y484;X1;K1507
+C;X2;K"LightAttack"
+C;X3;K107
+C;X4;K8
+C;X5;K"LV105 Heretic Green Set"
+C;Y485;X1;K1508
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV120 Heretic Green Set"
+C;Y486;X1;K1508
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV120 Heretic Green Set"
+C;Y487;X1;K1508
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV120 Heretic Green Set"
+C;Y488;X1;K1508
+C;X2;K"LightAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV120 Heretic Green Set"
+C;Y489;X1;K1509
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV135 Heretic Green Set"
+C;Y490;X1;K1509
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV135 Heretic Green Set"
+C;Y491;X1;K1509
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV135 Heretic Green Set"
+C;Y492;X1;K1509
+C;X2;K"LightAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV135 Heretic Green Set"
+C;Y493;X1;K1510
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV150 Heretic Green Set"
+C;Y494;X1;K1510
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV150 Heretic Green Set"
+C;Y495;X1;K1510
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV150 Heretic Green Set"
+C;Y496;X1;K1510
+C;X2;K"LightAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV150 Heretic Green Set"
+C;Y497;X1;K1511
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV160 Heretic Green Set"
+C;Y498;X1;K1511
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV160 Heretic Green Set"
+C;Y499;X1;K1511
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV160 Heretic Green Set"
+C;Y500;X1;K1511
+C;X2;K"LightAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV160 Heretic Green Set"
+C;Y501;X1;K1512
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV170 Heretic Green Set"
+C;Y502;X1;K1512
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV170 Heretic Green Set"
+C;Y503;X1;K1512
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV170 Heretic Green Set"
+C;Y504;X1;K1512
+C;X2;K"LightAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV170 Heretic Green Set"
+C;Y506;X1;K1551
+C;X2;K"MaxMP"
+C;X3;K229
+C;X4;K2
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y507;X1;K1551
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y508;X1;K1551
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K6
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y509;X1;K1551
+C;X2;K"FireAttack"
+C;X3;K12
+C;X4;K8
+C;X5;K"LV15 Summoner Green (Set) "
+C;Y510;X1;K1552
+C;X2;K"MaxMP"
+C;X3;K419
+C;X4;K2
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y511;X1;K1552
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y512;X1;K1552
+C;X2;K"MagicAttack"
+C;X3;K13
+C;X4;K6
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y513;X1;K1552
+C;X2;K"FireAttack"
+C;X3;K22
+C;X4;K8
+C;X5;K"LV30 Summoner Green (Set)"
+C;Y514;X1;K1553
+C;X2;K"MaxMP"
+C;X3;K646
+C;X4;K2
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y515;X1;K1553
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y516;X1;K1553
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y517;X1;K1553
+C;X2;K"FireAttack"
+C;X3;K34
+C;X4;K8
+C;X5;K"LV45 Summoner Green (Set) "
+C;Y518;X1;K1554
+C;X2;K"MaxMP"
+C;X3;K922
+C;X4;K2
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y519;X1;K1554
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y520;X1;K1554
+C;X2;K"MagicAttack"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y521;X1;K1554
+C;X2;K"FireAttack"
+C;X3;K49
+C;X4;K8
+C;X5;K"LV60 Summoner Green (Set) "
+C;Y522;X1;K1555
+C;X2;K"MaxMP"
+C;X3;K1227
+C;X4;K2
+C;X5;K"LV75 Summoner Green (Set) "
+C;Y523;X1;K1555
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV75 Summoner Green (Set) "
+C;Y524;X1;K1555
+C;X2;K"MagicAttack"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV75 Summoner Green (Set) "
+C;Y525;X1;K1555
+C;X2;K"FireAttack"
+C;X3;K65
+C;X4;K8
+C;X5;K"LV75 Summoner Green (Set) "
+C;Y526;X1;K1556
+C;X2;K"MaxMP"
+C;X3;K1606
+C;X4;K2
+C;X5;K"LV90 Summoner Green (Set) "
+C;Y527;X1;K1556
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV90 Summoner Green (Set) "
+C;Y528;X1;K1556
+C;X2;K"MagicAttack"
+C;X3;K50
+C;X4;K6
+C;X5;K"LV90 Summoner Green (Set) "
+C;Y529;X1;K1556
+C;X2;K"FireAttack"
+C;X3;K86
+C;X4;K8
+C;X5;K"LV90 Summoner Green (Set) "
+C;Y530;X1;K1557
+C;X2;K"MaxMP"
+C;X3;K2002
+C;X4;K2
+C;X5;K"LV105 Summoner Green (Set) "
+C;Y531;X1;K1557
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV105 Summoner Green (Set) "
+C;Y532;X1;K1557
+C;X2;K"MagicAttack"
+C;X3;K63
+C;X4;K6
+C;X5;K"LV105 Summoner Green (Set) "
+C;Y533;X1;K1557
+C;X2;K"FireAttack"
+C;X3;K107
+C;X4;K8
+C;X5;K"LV105 Summoner Green (Set) "
+C;Y534;X1;K1558
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV120 Summoner Green (Set) "
+C;Y535;X1;K1558
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV120 Summoner Green (Set) "
+C;Y536;X1;K1558
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV120 Summoner Green (Set) "
+C;Y537;X1;K1558
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV120 Summoner Green (Set) "
+C;Y538;X1;K1559
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV135 Summoner Green (Set) "
+C;Y539;X1;K1559
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV135 Summoner Green (Set) "
+C;Y540;X1;K1559
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV135 Summoner Green (Set) "
+C;Y541;X1;K1559
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV135 Summoner Green (Set) "
+C;Y542;X1;K1560
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV150 Summoner Green (Set) "
+C;Y543;X1;K1560
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV150 Summoner Green (Set) "
+C;Y544;X1;K1560
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV150 Summoner Green (Set) "
+C;Y545;X1;K1560
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV150 Summoner Green (Set) "
+C;Y546;X1;K1561
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV160 Summoner Green (Set) "
+C;Y547;X1;K1561
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV160 Summoner Green (Set) "
+C;Y548;X1;K1561
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV160 Summoner Green (Set) "
+C;Y549;X1;K1561
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV160 Summoner Green (Set) "
+C;Y550;X1;K1562
+C;X2;K"MaxMP"
+C;X3;K2443
+C;X4;K2
+C;X5;K"LV170 Summoner Green (Set) "
+C;Y551;X1;K1562
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV170 Summoner Green (Set) "
+C;Y552;X1;K1562
+C;X2;K"MagicAttack"
+C;X3;K76
+C;X4;K6
+C;X5;K"LV170 Summoner Green (Set) "
+C;Y553;X1;K1562
+C;X2;K"FireAttack"
+C;X3;K130
+C;X4;K8
+C;X5;K"LV170 Summoner Green (Set) "
+C;Y555;X1;K1601
+C;X2;K"MaxHP"
+C;X3;K143
+C;X4;K2
+C;X5;K"LV15 Angelic Set"
+C;Y556;X1;K1601
+C;X2;K"MaxMP"
+C;X3;K143
+C;X4;K3
+C;X5;K"LV15 Angelic Set"
+C;Y557;X1;K1601
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV15 Angelic Set"
+C;Y558;X1;K1602
+C;X2;K"MaxHP"
+C;X3;K262
+C;X4;K2
+C;X5;K"LV30 Platinum Set"
+C;Y559;X1;K1602
+C;X2;K"MaxMP"
+C;X3;K262
+C;X4;K3
+C;X5;K"LV30 Platinum Set"
+C;Y560;X1;K1602
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV30 Platinum Set"
+C;Y561;X1;K1603
+C;X2;K"MaxHP"
+C;X3;K404
+C;X4;K2
+C;X5;K"LV45 Imperial Set"
+C;Y562;X1;K1603
+C;X2;K"MaxMP"
+C;X3;K404
+C;X4;K3
+C;X5;K"LV45 Imperial Set"
+C;Y563;X1;K1603
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV45 Imperial Set"
+C;Y564;X1;K1604
+C;X2;K"MaxHP"
+C;X3;K576
+C;X4;K2
+C;X5;K"LV60 Storm Set"
+C;Y565;X1;K1604
+C;X2;K"MaxMP"
+C;X3;K576
+C;X4;K3
+C;X5;K"LV60 Storm Set"
+C;Y566;X1;K1604
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV60 Storm Set"
+C;Y567;X1;K1605
+C;X2;K"MaxHP"
+C;X3;K767
+C;X4;K2
+C;X5;K"LV75 Inferno Set"
+C;Y568;X1;K1605
+C;X2;K"MaxMP"
+C;X3;K767
+C;X4;K3
+C;X5;K"LV75 Inferno Set"
+C;Y569;X1;K1605
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV75 Inferno Set"
+C;Y570;X1;K1606
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV90 Cloud Set"
+C;Y571;X1;K1606
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV90 Cloud Set"
+C;Y572;X1;K1606
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV90 Cloud Set"
+C;Y573;X1;K1607
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV105 Supreme Set"
+C;Y574;X1;K1607
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV105 Supreme Set"
+C;Y575;X1;K1607
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV105 Supreme Set"
+C;Y576;X1;K1608
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV120 Divine Set"
+C;Y577;X1;K1608
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV120 Divine Set"
+C;Y578;X1;K1608
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV120 Divine Set"
+C;Y579;X1;K1609
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV135 Archangel Set"
+C;Y580;X1;K1609
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV135 Archangel Set"
+C;Y581;X1;K1609
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV135 Archangel Set"
+C;Y582;X1;K1610
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV150 Paladine Set"
+C;Y583;X1;K1610
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV150 Paladine Set"
+C;Y584;X1;K1610
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV150 Paladine Set"
+C;Y585;X1;K1611
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV160 Thunder Set"
+C;Y586;X1;K1611
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV160 Thunder Set"
+C;Y587;X1;K1611
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV160 Thunder Set"
+C;Y588;X1;K1612
+C;X2;K"MaxHP"
+C;X3;K1004
+C;X4;K2
+C;X5;K"LV170 Odin's Set"
+C;Y589;X1;K1612
+C;X2;K"MaxMP"
+C;X3;K1004
+C;X4;K3
+C;X5;K"LV170 Odin's Set"
+C;Y590;X1;K1612
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV170 Odin's Set"
+C;Y592;X1;K2101
+C;X2;K"MaxHP"
+C;X3;K344
+C;X4;K2
+C;X5;K"LV15 Berzerker Green Set"
+C;Y593;X1;K2101
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV15 Berzerker Green Set"
+C;Y594;X1;K2101
+C;X2;K"PhysicsAttack"
+C;X3;K11
+C;X4;K6
+C;X5;K"LV15 Berzerker Green Set"
+C;Y595;X1;K2101
+C;X2;K"FireAttack"
+C;X3;K17
+C;X4;K8
+C;X5;K"LV15 Berzerker Green Set"
+C;Y596;X1;K2102
+C;X2;K"MaxHP"
+C;X3;K629
+C;X4;K2
+C;X5;K"LV30 Berzerker Green Set"
+C;Y597;X1;K2102
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV30 Berzerker Green Set"
+C;Y598;X1;K2102
+C;X2;K"PhysicsAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV30 Berzerker Green Set"
+C;Y599;X1;K2102
+C;X2;K"FireAttack"
+C;X3;K32
+C;X4;K8
+C;X5;K"LV30 Berzerker Green Set"
+C;Y600;X1;K2103
+C;X2;K"MaxHP"
+C;X3;K970
+C;X4;K2
+C;X5;K"LV45 Berzerker Green Set"
+C;Y601;X1;K2103
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV45 Berzerker Green Set"
+C;Y602;X1;K2103
+C;X2;K"PhysicsAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Berzerker Green Set"
+C;Y603;X1;K2103
+C;X2;K"FireAttack"
+C;X3;K48
+C;X4;K8
+C;X5;K"LV45 Berzerker Green Set"
+C;Y604;X1;K2104
+C;X2;K"MaxHP"
+C;X3;K1382
+C;X4;K2
+C;X5;K"LV60 Berzerker Green Set"
+C;Y605;X1;K2104
+C;X2;K"LuckyHitOdds"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV60 Berzerker Green Set"
+C;Y606;X1;K2104
+C;X2;K"PhysicsAttack"
+C;X3;K43
+C;X4;K6
+C;X5;K"LV60 Berzerker Green Set"
+C;Y607;X1;K2104
+C;X2;K"FireAttack"
+C;X3;K69
+C;X4;K8
+C;X5;K"LV60 Berzerker Green Set"
+C;Y608;X1;K2105
+C;X2;K"MaxHP"
+C;X3;K1842
+C;X4;K2
+C;X5;K"LV75 Berzerker Green Set"
+C;Y609;X1;K2105
+C;X2;K"LuckyHitOdds"
+C;X3;K6
+C;X4;K4
+C;X5;K"LV75 Berzerker Green Set"
+C;Y610;X1;K2105
+C;X2;K"PhysicsAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV75 Berzerker Green Set"
+C;Y611;X1;K2105
+C;X2;K"FireAttack"
+C;X3;K92
+C;X4;K8
+C;X5;K"LV75 Berzerker Green Set"
+C;Y612;X1;K2106
+C;X2;K"MaxHP"
+C;X3;K2410
+C;X4;K2
+C;X5;K"LV90 Berzerker Green Set"
+C;Y613;X1;K2106
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV90 Berzerker Green Set"
+C;Y614;X1;K2106
+C;X2;K"PhysicsAttack"
+C;X3;K75
+C;X4;K6
+C;X5;K"LV90 Berzerker Green Set"
+C;Y615;X1;K2106
+C;X2;K"FireAttack"
+C;X3;K120
+C;X4;K8
+C;X5;K"LV90 Berzerker Green Set"
+C;Y616;X1;K2107
+C;X2;K"MaxHP"
+C;X3;K3003
+C;X4;K2
+C;X5;K"LV105 Berzerker Green Set"
+C;Y617;X1;K2107
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV105 Berzerker Green Set"
+C;Y618;X1;K2107
+C;X2;K"PhysicsAttack"
+C;X3;K94
+C;X4;K6
+C;X5;K"LV105 Berzerker Green Set"
+C;Y619;X1;K2107
+C;X2;K"FireAttack"
+C;X3;K150
+C;X4;K8
+C;X5;K"LV105 Berzerker Green Set"
+C;Y620;X1;K2108
+C;X2;K"MaxHP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV120 Berzerker Green Set"
+C;Y621;X1;K2108
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV120 Berzerker Green Set"
+C;Y622;X1;K2108
+C;X2;K"PhysicsAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV120 Berzerker Green Set"
+C;Y623;X1;K2108
+C;X2;K"FireAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV120 Berzerker Green Set"
+C;Y624;X1;K2109
+C;X2;K"MaxHP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV135 Berzerker Green Set"
+C;Y625;X1;K2109
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV135 Berzerker Green Set"
+C;Y626;X1;K2109
+C;X2;K"PhysicsAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV135 Berzerker Green Set"
+C;Y627;X1;K2109
+C;X2;K"FireAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV135 Berzerker Green Set"
+C;Y628;X1;K2110
+C;X2;K"MaxHP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV150 Berzerker Green Set"
+C;Y629;X1;K2110
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV150 Berzerker Green Set"
+C;Y630;X1;K2110
+C;X2;K"PhysicsAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV150 Berzerker Green Set"
+C;Y631;X1;K2110
+C;X2;K"FireAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV150 Berzerker Green Set"
+C;Y632;X1;K2111
+C;X2;K"MaxHP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV160 Berzerker Green Set"
+C;Y633;X1;K2111
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV160 Berzerker Green Set"
+C;Y634;X1;K2111
+C;X2;K"PhysicsAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV160 Berzerker Green Set"
+C;Y635;X1;K2111
+C;X2;K"FireAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV160 Berzerker Green Set"
+C;Y636;X1;K2112
+C;X2;K"MaxHP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV170 Berzerker Green Set"
+C;Y637;X1;K2112
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV170 Berzerker Green Set"
+C;Y638;X1;K2112
+C;X2;K"PhysicsAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV170 Berzerker Green Set"
+C;Y639;X1;K2112
+C;X2;K"FireAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV170 Berzerker Green Set"
+C;Y640;X1;K2201
+C;X2;K"MaxHP"
+C;X3;K430
+C;X4;K2
+C;X5;K"LV15 Champion Green Set"
+C;Y641;X1;K2201
+C;X2;K"MagicDefence"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV15 Champion Green Set"
+C;Y642;X1;K2201
+C;X2;K"PhysicsDefence"
+C;X3;K5
+C;X4;K6
+C;X5;K"LV15 Champion Green Set"
+C;Y643;X1;K2201
+C;X2;K"FrostAttack"
+C;X3;K17
+C;X4;K8
+C;X5;K"LV15 Champion Green Set"
+C;Y644;X1;K2202
+C;X2;K"MaxHP"
+C;X3;K786
+C;X4;K2
+C;X5;K"LV30 Champion Green Set"
+C;Y645;X1;K2202
+C;X2;K"MagicDefence"
+C;X3;K10
+C;X4;K4
+C;X5;K"LV30 Champion Green Set"
+C;Y646;X1;K2202
+C;X2;K"PhysicsDefence"
+C;X3;K10
+C;X4;K6
+C;X5;K"LV30 Champion Green Set"
+C;Y647;X1;K2202
+C;X2;K"FrostAttack"
+C;X3;K32
+C;X4;K8
+C;X5;K"LV30 Champion Green Set"
+C;Y648;X1;K2203
+C;X2;K"MaxHP"
+C;X3;K1212
+C;X4;K2
+C;X5;K"LV45 Champion Green Set"
+C;Y649;X1;K2203
+C;X2;K"MagicDefence"
+C;X3;K15
+C;X4;K4
+C;X5;K"LV45 Champion Green Set"
+C;Y650;X1;K2203
+C;X2;K"PhysicsDefence"
+C;X3;K15
+C;X4;K6
+C;X5;K"LV45 Champion Green Set"
+C;Y651;X1;K2203
+C;X2;K"FrostAttack"
+C;X3;K48
+C;X4;K8
+C;X5;K"LV45 Champion Green Set"
+C;Y652;X1;K2204
+C;X2;K"MaxHP"
+C;X3;K1728
+C;X4;K2
+C;X5;K"LV60 Champion Green Set"
+C;Y653;X1;K2204
+C;X2;K"MagicDefence"
+C;X3;K22
+C;X4;K4
+C;X5;K"LV60 Champion Green Set"
+C;Y654;X1;K2204
+C;X2;K"PhysicsDefence"
+C;X3;K22
+C;X4;K6
+C;X5;K"LV60 Champion Green Set"
+C;Y655;X1;K2204
+C;X2;K"FrostAttack"
+C;X3;K69
+C;X4;K8
+C;X5;K"LV60 Champion Green Set"
+C;Y656;X1;K2205
+C;X2;K"MaxHP"
+C;X3;K2302
+C;X4;K2
+C;X5;K"LV75 Champion Green Set"
+C;Y657;X1;K2205
+C;X2;K"MagicDefence"
+C;X3;K29
+C;X4;K4
+C;X5;K"LV75 Champion Green Set"
+C;Y658;X1;K2205
+C;X2;K"PhysicsDefence"
+C;X3;K29
+C;X4;K6
+C;X5;K"LV75 Champion Green Set"
+C;Y659;X1;K2205
+C;X2;K"FrostAttack"
+C;X3;K92
+C;X4;K8
+C;X5;K"LV75 Champion Green Set"
+C;Y660;X1;K2206
+C;X2;K"MaxHP"
+C;X3;K3012
+C;X4;K2
+C;X5;K"LV90 Champion Green Set"
+C;Y661;X1;K2206
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV90 Champion Green Set"
+C;Y662;X1;K2206
+C;X2;K"PhysicsDefence"
+C;X3;K38
+C;X4;K6
+C;X5;K"LV90 Champion Green Set"
+C;Y663;X1;K2206
+C;X2;K"FrostAttack"
+C;X3;K120
+C;X4;K8
+C;X5;K"LV90 Champion Green Set"
+C;Y664;X1;K2207
+C;X2;K"MaxHP"
+C;X3;K3754
+C;X4;K2
+C;X5;K"LV105 Champion Green Set"
+C;Y665;X1;K2207
+C;X2;K"MagicDefence"
+C;X3;K47
+C;X4;K4
+C;X5;K"LV105 Champion Green Set"
+C;Y666;X1;K2207
+C;X2;K"PhysicsDefence"
+C;X3;K47
+C;X4;K6
+C;X5;K"LV105 Champion Green Set"
+C;Y667;X1;K2207
+C;X2;K"FrostAttack"
+C;X3;K150
+C;X4;K8
+C;X5;K"LV105 Champion Green Set"
+C;Y668;X1;K2208
+C;X2;K"MaxHP"
+C;X3;K4582
+C;X4;K2
+C;X5;K"LV120 Champion Green Set"
+C;Y669;X1;K2208
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV120 Champion Green Set"
+C;Y670;X1;K2208
+C;X2;K"PhysicsDefence"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV120 Champion Green Set"
+C;Y671;X1;K2208
+C;X2;K"FrostAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV120 Champion Green Set"
+C;Y672;X1;K2209
+C;X2;K"MaxHP"
+C;X3;K4124
+C;X4;K2
+C;X5;K"LV135 Champion Green Set"
+C;Y673;X1;K2209
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV135 Champion Green Set"
+C;Y674;X1;K2209
+C;X2;K"PhysicsDefence"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV135 Champion Green Set"
+C;Y675;X1;K2209
+C;X2;K"FrostAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV135 Champion Green Set"
+C;Y676;X1;K2210
+C;X2;K"MaxHP"
+C;X3;K4124
+C;X4;K2
+C;X5;K"LV150 Champion Green Set"
+C;Y677;X1;K2210
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV150 Champion Green Set"
+C;Y678;X1;K2210
+C;X2;K"PhysicsDefence"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV150 Champion Green Set"
+C;Y679;X1;K2210
+C;X2;K"FrostAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV150 Champion Green Set"
+C;Y680;X1;K2211
+C;X2;K"MaxHP"
+C;X3;K4124
+C;X4;K2
+C;X5;K"LV160 Champion Green Set"
+C;Y681;X1;K2211
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV160 Champion Green Set"
+C;Y682;X1;K2211
+C;X2;K"PhysicsDefence"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV160 Champion Green Set"
+C;Y683;X1;K2211
+C;X2;K"FrostAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV160 Champion Green Set"
+C;Y684;X1;K2212
+C;X2;K"MaxHP"
+C;X3;K4124
+C;X4;K2
+C;X5;K"LV170 Champion Green Set"
+C;Y685;X1;K2212
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV170 Champion Green Set"
+C;Y686;X1;K2212
+C;X2;K"PhysicsDefence"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV170 Champion Green Set"
+C;Y687;X1;K2212
+C;X2;K"FrostAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV170 Champion Green Set"
+C;Y688;X1;K2301
+C;X2;K"PhysicsAttack"
+C;X3;K9
+C;X4;K2
+C;X5;K"LV15 Slayer Green Set"
+C;Y689;X1;K2301
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV15 Slayer Green Set"
+C;Y690;X1;K2301
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV15 Slayer Green Set"
+C;Y691;X1;K2301
+C;X2;K"DarkAttack"
+C;X3;K17
+C;X4;K8
+C;X5;K"LV15 Slayer Green Set"
+C;Y692;X1;K2302
+C;X2;K"PhysicsAttack"
+C;X3;K16
+C;X4;K2
+C;X5;K"LV30 Slayer Green Set"
+C;Y693;X1;K2302
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV30 Slayer Green Set"
+C;Y694;X1;K2302
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV30 Slayer Green Set"
+C;Y695;X1;K2302
+C;X2;K"DarkAttack"
+C;X3;K32
+C;X4;K8
+C;X5;K"LV30 Slayer Green Set"
+C;Y696;X1;K2303
+C;X2;K"PhysicsAttack"
+C;X3;K24
+C;X4;K2
+C;X5;K"LV45 Slayer Green Set"
+C;Y697;X1;K2303
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV45 Slayer Green Set"
+C;Y698;X1;K2303
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV45 Slayer Green Set"
+C;Y699;X1;K2303
+C;X2;K"DarkAttack"
+C;X3;K48
+C;X4;K8
+C;X5;K"LV45 Slayer Green Set"
+C;Y700;X1;K2304
+C;X2;K"PhysicsAttack"
+C;X3;K35
+C;X4;K2
+C;X5;K"LV60 Slayer Green Set"
+C;Y701;X1;K2304
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Slayer Green Set"
+C;Y702;X1;K2304
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV60 Slayer Green Set"
+C;Y703;X1;K2304
+C;X2;K"DarkAttack"
+C;X3;K69
+C;X4;K8
+C;X5;K"LV60 Slayer Green Set"
+C;Y704;X1;K2305
+C;X2;K"PhysicsAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV75 Slayer Green Set"
+C;Y705;X1;K2305
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV75 Slayer Green Set"
+C;Y706;X1;K2305
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV75 Slayer Green Set"
+C;Y707;X1;K2305
+C;X2;K"DarkAttack"
+C;X3;K92
+C;X4;K8
+C;X5;K"LV75 Slayer Green Set"
+C;Y708;X1;K2306
+C;X2;K"PhysicsAttack"
+C;X3;K60
+C;X4;K2
+C;X5;K"LV90 Slayer Green Set"
+C;Y709;X1;K2306
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV90 Slayer Green Set"
+C;Y710;X1;K2306
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV90 Slayer Green Set"
+C;Y711;X1;K2306
+C;X2;K"DarkAttack"
+C;X3;K120
+C;X4;K8
+C;X5;K"LV90 Slayer Green Set"
+C;Y712;X1;K2307
+C;X2;K"PhysicsAttack"
+C;X3;K75
+C;X4;K2
+C;X5;K"LV105 Slayer Green Set"
+C;Y713;X1;K2307
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV105 Slayer Green Set"
+C;Y714;X1;K2307
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV105 Slayer Green Set"
+C;Y715;X1;K2307
+C;X2;K"DarkAttack"
+C;X3;K150
+C;X4;K8
+C;X5;K"LV105 Slayer Green Set"
+C;Y716;X1;K2308
+C;X2;K"PhysicsAttack"
+C;X3;K92
+C;X4;K2
+C;X5;K"LV120 Slayer Green Set"
+C;Y717;X1;K2308
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV120 Slayer Green Set"
+C;Y718;X1;K2308
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K6
+C;X5;K"LV120 Slayer Green Set"
+C;Y719;X1;K2308
+C;X2;K"DarkAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV120 Slayer Green Set"
+C;Y720;X1;K2309
+C;X2;K"PhysicsAttack"
+C;X3;K92
+C;X4;K2
+C;X5;K"LV135 Slayer Green Set"
+C;Y721;X1;K2309
+C;X2;K"CriticalOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV135 Slayer Green Set"
+C;Y722;X1;K2309
+C;X2;K"AttackSpeed"
+C;X3;K14
+C;X4;K6
+C;X5;K"LV135 Slayer Green Set"
+C;Y723;X1;K2309
+C;X2;K"DarkAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV135 Slayer Green Set"
+C;Y724;X1;K2310
+C;X2;K"PhysicsAttack"
+C;X3;K92
+C;X4;K2
+C;X5;K"LV150 Slayer Green Set"
+C;Y725;X1;K2310
+C;X2;K"CriticalOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV150 Slayer Green Set"
+C;Y726;X1;K2310
+C;X2;K"AttackSpeed"
+C;X3;K14
+C;X4;K6
+C;X5;K"LV150 Slayer Green Set"
+C;Y727;X1;K2310
+C;X2;K"DarkAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV150 Slayer Green Set"
+C;Y728;X1;K2311
+C;X2;K"PhysicsAttack"
+C;X3;K92
+C;X4;K2
+C;X5;K"LV160 Slayer Green Set"
+C;Y729;X1;K2311
+C;X2;K"CriticalOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV160 Slayer Green Set"
+C;Y730;X1;K2311
+C;X2;K"AttackSpeed"
+C;X3;K14
+C;X4;K6
+C;X5;K"LV160 Slayer Green Set"
+C;Y731;X1;K2311
+C;X2;K"DarkAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV160 Slayer Green Set"
+C;Y732;X1;K2312
+C;X2;K"PhysicsAttack"
+C;X3;K92
+C;X4;K2
+C;X5;K"LV170 Slayer Green Set"
+C;Y733;X1;K2312
+C;X2;K"CriticalOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV170 Slayer Green Set"
+C;Y734;X1;K2312
+C;X2;K"AttackSpeed"
+C;X3;K14
+C;X4;K6
+C;X5;K"LV170 Slayer Green Set"
+C;Y735;X1;K2312
+C;X2;K"DarkAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV170 Slayer Green Set"
+C;Y736;X1;K2401
+C;X2;K"MaxMP"
+C;X3;K344
+C;X4;K2
+C;X5;K"LV15 Magus Green Set"
+C;Y737;X1;K2401
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV15 Magus Green Set"
+C;Y738;X1;K2401
+C;X2;K"MagicAttack"
+C;X3;K11
+C;X4;K6
+C;X5;K"LV15 Magus Green Set"
+C;Y739;X1;K2401
+C;X2;K"FireAttack"
+C;X3;K17
+C;X4;K8
+C;X5;K"LV15 Magus Green Set"
+C;Y740;X1;K2402
+C;X2;K"MaxMP"
+C;X3;K629
+C;X4;K2
+C;X5;K"LV30 Magus Green Set"
+C;Y741;X1;K2402
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV30 Magus Green Set"
+C;Y742;X1;K2402
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV30 Magus Green Set"
+C;Y743;X1;K2402
+C;X2;K"FireAttack"
+C;X3;K32
+C;X4;K8
+C;X5;K"LV30 Magus Green Set"
+C;Y744;X1;K2403
+C;X2;K"MaxMP"
+C;X3;K970
+C;X4;K2
+C;X5;K"LV45 Magus Green Set"
+C;Y745;X1;K2403
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV45 Magus Green Set"
+C;Y746;X1;K2403
+C;X2;K"MagicAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Magus Green Set"
+C;Y747;X1;K2403
+C;X2;K"FireAttack"
+C;X3;K48
+C;X4;K8
+C;X5;K"LV45 Magus Green Set"
+C;Y748;X1;K2404
+C;X2;K"MaxMP"
+C;X3;K1382
+C;X4;K2
+C;X5;K"LV60 Magus Green Set"
+C;Y749;X1;K2404
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV60 Magus Green Set"
+C;Y750;X1;K2404
+C;X2;K"MagicAttack"
+C;X3;K43
+C;X4;K6
+C;X5;K"LV60 Magus Green Set"
+C;Y751;X1;K2404
+C;X2;K"FireAttack"
+C;X3;K69
+C;X4;K8
+C;X5;K"LV60 Magus Green Set"
+C;Y752;X1;K2405
+C;X2;K"MaxMP"
+C;X3;K1842
+C;X4;K2
+C;X5;K"LV75 Magus Green Set"
+C;Y753;X1;K2405
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV75 Magus Green Set"
+C;Y754;X1;K2405
+C;X2;K"MagicAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV75 Magus Green Set"
+C;Y755;X1;K2405
+C;X2;K"FireAttack"
+C;X3;K92
+C;X4;K8
+C;X5;K"LV75 Magus Green Set"
+C;Y756;X1;K2406
+C;X2;K"MaxMP"
+C;X3;K2410
+C;X4;K2
+C;X5;K"LV90 Magus Green Set"
+C;Y757;X1;K2406
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV90 Magus Green Set"
+C;Y758;X1;K2406
+C;X2;K"MagicAttack"
+C;X3;K75
+C;X4;K6
+C;X5;K"LV90 Magus Green Set"
+C;Y759;X1;K2406
+C;X2;K"FireAttack"
+C;X3;K120
+C;X4;K8
+C;X5;K"LV90 Magus Green Set"
+C;Y760;X1;K2407
+C;X2;K"MaxMP"
+C;X3;K3003
+C;X4;K2
+C;X5;K"LV105 Magus Green Set"
+C;Y761;X1;K2407
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV105 Magus Green Set"
+C;Y762;X1;K2407
+C;X2;K"MagicAttack"
+C;X3;K94
+C;X4;K6
+C;X5;K"LV105 Magus Green Set"
+C;Y763;X1;K2407
+C;X2;K"FireAttack"
+C;X3;K150
+C;X4;K8
+C;X5;K"LV105 Magus Green Set"
+C;Y764;X1;K2408
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV120 Magus Green Set"
+C;Y765;X1;K2408
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K4
+C;X5;K"LV120 Magus Green Set"
+C;Y766;X1;K2408
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV120 Magus Green Set"
+C;Y767;X1;K2408
+C;X2;K"FireAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV120 Magus Green Set"
+C;Y768;X1;K2409
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV135 Magus Green Set"
+C;Y769;X1;K2409
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV135 Magus Green Set"
+C;Y770;X1;K2409
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV135 Magus Green Set"
+C;Y771;X1;K2409
+C;X2;K"FireAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV135 Magus Green Set"
+C;Y772;X1;K2410
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV150 Magus Green Set"
+C;Y773;X1;K2410
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV150 Magus Green Set"
+C;Y774;X1;K2410
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV150 Magus Green Set"
+C;Y775;X1;K2410
+C;X2;K"FireAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV150 Magus Green Set"
+C;Y776;X1;K2411
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV160 Magus Green Set"
+C;Y777;X1;K2411
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV160 Magus Green Set"
+C;Y778;X1;K2411
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV160 Magus Green Set"
+C;Y779;X1;K2411
+C;X2;K"FireAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV160 Magus Green Set"
+C;Y780;X1;K2412
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV170 Magus Green Set"
+C;Y781;X1;K2412
+C;X2;K"LuckyHitOdds"
+C;X3;K7
+C;X4;K4
+C;X5;K"LV170 Magus Green Set"
+C;Y782;X1;K2412
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV170 Magus Green Set"
+C;Y783;X1;K2412
+C;X2;K"FireAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV170 Magus Green Set"
+C;Y784;X1;K2501
+C;X2;K"MaxMP"
+C;X3;K430
+C;X4;K2
+C;X5;K"LV15 Heretic Green Set"
+C;Y785;X1;K2501
+C;X2;K"MagicDefence"
+C;X3;K5
+C;X4;K4
+C;X5;K"LV15 Heretic Green Set"
+C;Y786;X1;K2501
+C;X2;K"MagicAttack"
+C;X3;K11
+C;X4;K6
+C;X5;K"LV15 Heretic Green Set"
+C;Y787;X1;K2501
+C;X2;K"LightAttack"
+C;X3;K17
+C;X4;K8
+C;X5;K"LV15 Heretic Green Set"
+C;Y788;X1;K2502
+C;X2;K"MaxMP"
+C;X3;K786
+C;X4;K2
+C;X5;K"LV30 Heretic Green Set"
+C;Y789;X1;K2502
+C;X2;K"MagicDefence"
+C;X3;K10
+C;X4;K4
+C;X5;K"LV30 Heretic Green Set"
+C;Y790;X1;K2502
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K6
+C;X5;K"LV30 Heretic Green Set"
+C;Y791;X1;K2502
+C;X2;K"LightAttack"
+C;X3;K32
+C;X4;K8
+C;X5;K"LV30 Heretic Green Set"
+C;Y792;X1;K2503
+C;X2;K"MaxMP"
+C;X3;K1212
+C;X4;K2
+C;X5;K"LV45 Heretic Green Set"
+C;Y793;X1;K2503
+C;X2;K"MagicDefence"
+C;X3;K15
+C;X4;K4
+C;X5;K"LV45 Heretic Green Set"
+C;Y794;X1;K2503
+C;X2;K"MagicAttack"
+C;X3;K30
+C;X4;K6
+C;X5;K"LV45 Heretic Green Set"
+C;Y795;X1;K2503
+C;X2;K"LightAttack"
+C;X3;K48
+C;X4;K8
+C;X5;K"LV45 Heretic Green Set"
+C;Y796;X1;K2504
+C;X2;K"MaxMP"
+C;X3;K1728
+C;X4;K2
+C;X5;K"LV60 Heretic Green Set"
+C;Y797;X1;K2504
+C;X2;K"MagicDefence"
+C;X3;K22
+C;X4;K4
+C;X5;K"LV60 Heretic Green Set"
+C;Y798;X1;K2504
+C;X2;K"MagicAttack"
+C;X3;K43
+C;X4;K6
+C;X5;K"LV60 Heretic Green Set"
+C;Y799;X1;K2504
+C;X2;K"LightAttack"
+C;X3;K69
+C;X4;K8
+C;X5;K"LV60 Heretic Green Set"
+C;Y800;X1;K2505
+C;X2;K"MaxMP"
+C;X3;K2302
+C;X4;K2
+C;X5;K"LV75 Heretic Green Set"
+C;Y801;X1;K2505
+C;X2;K"MagicDefence"
+C;X3;K29
+C;X4;K4
+C;X5;K"LV75 Heretic Green Set"
+C;Y802;X1;K2505
+C;X2;K"MagicAttack"
+C;X3;K57
+C;X4;K6
+C;X5;K"LV75 Heretic Green Set"
+C;Y803;X1;K2505
+C;X2;K"LightAttack"
+C;X3;K92
+C;X4;K8
+C;X5;K"LV75 Heretic Green Set"
+C;Y804;X1;K2506
+C;X2;K"MaxMP"
+C;X3;K3012
+C;X4;K2
+C;X5;K"LV90 Heretic Green Set"
+C;Y805;X1;K2506
+C;X2;K"MagicDefence"
+C;X3;K38
+C;X4;K4
+C;X5;K"LV90 Heretic Green Set"
+C;Y806;X1;K2506
+C;X2;K"MagicAttack"
+C;X3;K75
+C;X4;K6
+C;X5;K"LV90 Heretic Green Set"
+C;Y807;X1;K2506
+C;X2;K"LightAttack"
+C;X3;K120
+C;X4;K8
+C;X5;K"LV90 Heretic Green Set"
+C;Y808;X1;K2507
+C;X2;K"MaxMP"
+C;X3;K3754
+C;X4;K2
+C;X5;K"LV105 Heretic Green Set"
+C;Y809;X1;K2507
+C;X2;K"MagicDefence"
+C;X3;K47
+C;X4;K4
+C;X5;K"LV105 Heretic Green Set"
+C;Y810;X1;K2507
+C;X2;K"MagicAttack"
+C;X3;K94
+C;X4;K6
+C;X5;K"LV105 Heretic Green Set"
+C;Y811;X1;K2507
+C;X2;K"LightAttack"
+C;X3;K150
+C;X4;K8
+C;X5;K"LV105 Heretic Green Set"
+C;Y812;X1;K2508
+C;X2;K"MaxMP"
+C;X3;K4582
+C;X4;K2
+C;X5;K"LV120 Heretic Green Set"
+C;Y813;X1;K2508
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV120 Heretic Green Set"
+C;Y814;X1;K2508
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV120 Heretic Green Set"
+C;Y815;X1;K2508
+C;X2;K"LightAttack"
+C;X3;K183
+C;X4;K8
+C;X5;K"LV120 Heretic Green Set"
+C;Y816;X1;K2509
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV135 Heretic Green Set"
+C;Y817;X1;K2509
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV135 Heretic Green Set"
+C;Y818;X1;K2509
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV135 Heretic Green Set"
+C;Y819;X1;K2509
+C;X2;K"LightAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV135 Heretic Green Set"
+C;Y820;X1;K2510
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV150 Heretic Green Set"
+C;Y821;X1;K2510
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV150 Heretic Green Set"
+C;Y822;X1;K2510
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV150 Heretic Green Set"
+C;Y823;X1;K2510
+C;X2;K"LightAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV150 Heretic Green Set"
+C;Y824;X1;K2511
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV160 Heretic Green Set"
+C;Y825;X1;K2511
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV160 Heretic Green Set"
+C;Y826;X1;K2511
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV160 Heretic Green Set"
+C;Y827;X1;K2511
+C;X2;K"LightAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV160 Heretic Green Set"
+C;Y828;X1;K2512
+C;X2;K"MaxMP"
+C;X3;K3666
+C;X4;K2
+C;X5;K"LV170 Heretic Green Set"
+C;Y829;X1;K2512
+C;X2;K"MagicDefence"
+C;X3;K57
+C;X4;K4
+C;X5;K"LV170 Heretic Green Set"
+C;Y830;X1;K2512
+C;X2;K"MagicAttack"
+C;X3;K114
+C;X4;K6
+C;X5;K"LV170 Heretic Green Set"
+C;Y831;X1;K2512
+C;X2;K"LightAttack"
+C;X3;K195
+C;X4;K8
+C;X5;K"LV170 Heretic Green Set"
+C;Y833;X1;K2601
+C;X2;K"MaxHP"
+C;X3;K215
+C;X4;K2
+C;X5;K"LV15 Angelic Advanced Set"
+C;Y834;X1;K2601
+C;X2;K"MaxMP"
+C;X3;K215
+C;X4;K3
+C;X5;K"LV15 Angelic Advanced Set"
+C;Y835;X1;K2601
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV30 Platinum Advanced Set"
+C;Y836;X1;K2602
+C;X2;K"MaxHP"
+C;X3;K393
+C;X4;K2
+C;X5;K"LV30 Platinum Advanced Set"
+C;Y837;X1;K2602
+C;X2;K"MaxMP"
+C;X3;K393
+C;X4;K3
+C;X5;K"LV30 Platinum Advanced Set"
+C;Y838;X1;K2602
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K4
+C;X5;K"LV30 Platinum Advanced Set"
+C;Y839;X1;K2603
+C;X2;K"MaxHP"
+C;X3;K606
+C;X4;K2
+C;X5;K"LV45 Imperial Advanced Set"
+C;Y840;X1;K2603
+C;X2;K"MaxMP"
+C;X3;K606
+C;X4;K3
+C;X5;K"LV45 Imperial Advanced Set"
+C;Y841;X1;K2603
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV45 Imperial Advanced Set"
+C;Y842;X1;K2604
+C;X2;K"MaxHP"
+C;X3;K864
+C;X4;K2
+C;X5;K"LV60 Storm Advanced Set"
+C;Y843;X1;K2604
+C;X2;K"MaxMP"
+C;X3;K864
+C;X4;K3
+C;X5;K"LV60 Storm Advanced Set"
+C;Y844;X1;K2604
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K4
+C;X5;K"LV60 Storm Advanced Set"
+C;Y845;X1;K2605
+C;X2;K"MaxHP"
+C;X3;K1151
+C;X4;K2
+C;X5;K"LV75 Inferno Advanced Set"
+C;Y846;X1;K2605
+C;X2;K"MaxMP"
+C;X3;K1151
+C;X4;K3
+C;X5;K"LV75 Inferno Advanced Set"
+C;Y847;X1;K2605
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV75 Inferno Advanced Set"
+C;Y848;X1;K2606
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV90 Cloud Advanced Set"
+C;Y849;X1;K2606
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV90 Cloud Advanced Set"
+C;Y850;X1;K2606
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV90 Cloud Advanced Set"
+C;Y851;X1;K2607
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV105 Supreme Advanced Set"
+C;Y852;X1;K2607
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV105 Supreme Advanced Set"
+C;Y853;X1;K2607
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV105 Supreme Advanced Set"
+C;Y854;X1;K2608
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV120 Divine Advanced Set"
+C;Y855;X1;K2608
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV120 Divine Advanced Set"
+C;Y856;X1;K2608
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV120 Divine Advanced Set"
+C;Y857;X1;K2609
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV135 Archangel Advanced Set"
+C;Y858;X1;K2609
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV135 Archangel Advanced Set"
+C;Y859;X1;K2609
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV135 Archangel Advanced Set"
+C;Y860;X1;K2610
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV150 Paladine Advanced Set"
+C;Y861;X1;K2610
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV150 Paladine Advanced Set"
+C;Y862;X1;K2610
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV150 Paladine Advanced Set"
+C;Y863;X1;K2611
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV160 Thunder Advanced Set"
+C;Y864;X1;K2611
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV160 Thunder Advanced Set"
+C;Y865;X1;K2611
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV160 Thunder Advanced Set"
+C;Y866;X1;K2612
+C;X2;K"MaxHP"
+C;X3;K1506
+C;X4;K2
+C;X5;K"LV170 Odin's Advanced Set"
+C;Y867;X1;K2612
+C;X2;K"MaxMP"
+C;X3;K1506
+C;X4;K3
+C;X5;K"LV170 Odin's Advanced Set"
+C;Y868;X1;K2612
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K4
+C;X5;K"LV170 Odin's Advanced Set"
+C;Y870;X1;K3011
+C;X2;K"FireAttack"
+C;X3;K11
+C;X4;K2
+C;X5;K"LV15 Berzerker Weapon Boots Set"
+C;Y871;X1;K3012
+C;X2;K"MaxHP"
+C;X3;K258
+C;X4;K2
+C;X5;K"LV15 Berzerker Chestpiece Belt Set"
+C;Y872;X1;K3013
+C;X2;K"PhysicsAttack"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV15 Berzerker Greaves Gloves Set"
+C;Y873;X1;K3014
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"LV15 Berzerker Pauldrons Helm Set"
+C;Y875;X1;K3021
+C;X2;K"FireAttack"
+C;X3;K21
+C;X4;K2
+C;X5;K"LV30 Berzerker Weapon Boots Set"
+C;Y876;X1;K3022
+C;X2;K"MaxHP"
+C;X3;K472
+C;X4;K2
+C;X5;K"LV30 Berzerker Chestpiece Belt Set"
+C;Y877;X1;K3023
+C;X2;K"PhysicsAttack"
+C;X3;K13
+C;X4;K2
+C;X5;K"LV30 Berzerker Greaves Gloves Set"
+C;Y878;X1;K3024
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"LV30 Berzerker Pauldrons Helm Set"
+C;Y880;X1;K3031
+C;X2;K"FireAttack"
+C;X3;K32
+C;X4;K2
+C;X5;K"LV45 Berzerker Weapon Boots Set"
+C;Y881;X1;K3032
+C;X2;K"MaxHP"
+C;X3;K727
+C;X4;K2
+C;X5;K"LV45 Berzerker Chestpiece Belt Set"
+C;Y882;X1;K3033
+C;X2;K"PhysicsAttack"
+C;X3;K20
+C;X4;K2
+C;X5;K"LV45 Berzerker Greaves Gloves Set"
+C;Y883;X1;K3034
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"LV45 Berzerker Pauldrons Helm Set"
+C;Y885;X1;K3041
+C;X2;K"FireAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV60 Berzerker Weapon Boots Set"
+C;Y886;X1;K3042
+C;X2;K"MaxHP"
+C;X3;K1037
+C;X4;K2
+C;X5;K"LV60 Berzerker Chestpiece Belt Set"
+C;Y887;X1;K3043
+C;X2;K"PhysicsAttack"
+C;X3;K29
+C;X4;K2
+C;X5;K"LV60 Berzerker Greaves Gloves Set"
+C;Y888;X1;K3044
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"LV60 Berzerker Pauldrons Helm Set"
+C;Y890;X1;K3051
+C;X2;K"FireAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV75 Berzerker Weapon Boots Set"
+C;Y891;X1;K3052
+C;X2;K"MaxHP"
+C;X3;K1381
+C;X4;K2
+C;X5;K"LV75 Berzerker Chestpiece Belt Set"
+C;Y892;X1;K3053
+C;X2;K"PhysicsAttack"
+C;X3;K38
+C;X4;K2
+C;X5;K"LV75 Berzerker Greaves Gloves Set"
+C;Y893;X1;K3054
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K2
+C;X5;K"LV75 Berzerker Pauldrons Helm Set"
+C;Y895;X1;K3061
+C;X2;K"FireAttack"
+C;X3;K80
+C;X4;K2
+C;X5;K"LV90 Berzerker Weapon Boots Set"
+C;Y896;X1;K3062
+C;X2;K"MaxHP"
+C;X3;K1807
+C;X4;K2
+C;X5;K"LV90 Berzerker Chestpiece Belt Set"
+C;Y897;X1;K3063
+C;X2;K"PhysicsAttack"
+C;X3;K50
+C;X4;K2
+C;X5;K"LV90 Berzerker Greaves Gloves Set"
+C;Y898;X1;K3064
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K2
+C;X5;K"LV90 Berzerker Pauldrons Helm Set"
+C;Y900;X1;K3071
+C;X2;K"FireAttack"
+C;X3;K95
+C;X4;K2
+C;X5;K"105 Warrior's Weapon Boots Set"
+C;Y901;X1;K3072
+C;X2;K"MaxHP"
+C;X3;K2290
+C;X4;K2
+C;X5;K"105 Warrior's Clothes Belt Set"
+C;Y902;X1;K3073
+C;X2;K"PhysicsAttack"
+C;X3;K63
+C;X4;K2
+C;X5;K"105 Warrior's Greaves Gloves Set"
+C;Y903;X1;K3074
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K2
+C;X5;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y905;X1;K3111
+C;X2;K"FrostAttack"
+C;X3;K11
+C;X4;K2
+C;X5;K"LV15 Champion Weapon Boots Set"
+C;Y906;X1;K3112
+C;X2;K"MaxHP"
+C;X3;K323
+C;X4;K2
+C;X5;K"LV15 Champion Chestpiece Belt Set"
+C;Y907;X1;K3113
+C;X2;K"MagicDefence"
+C;X3;K4
+C;X4;K2
+C;X5;K"LV15 Champion Greaves Gloves Set"
+C;Y908;X1;K3114
+C;X2;K"PhysicsDefence"
+C;X3;K4
+C;X4;K2
+C;X5;K"LV15 Champion Pauldrons Helm Set"
+C;Y910;X1;K3121
+C;X2;K"FrostAttack"
+C;X3;K21
+C;X4;K2
+C;X5;K"LV30 Champion Weapon Boots Set"
+C;Y911;X1;K3122
+C;X2;K"MaxHP"
+C;X3;K590
+C;X4;K2
+C;X5;K"LV30 Champion Chestpiece Belt Set"
+C;Y912;X1;K3123
+C;X2;K"MagicDefence"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV30 Champion Greaves Gloves Set"
+C;Y913;X1;K3124
+C;X2;K"PhysicsDefence"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV30 Champion Pauldrons Helm Set"
+C;Y915;X1;K3131
+C;X2;K"FrostAttack"
+C;X3;K32
+C;X4;K2
+C;X5;K"LV45 Champion Weapon Boots Set"
+C;Y916;X1;K3132
+C;X2;K"MaxHP"
+C;X3;K909
+C;X4;K2
+C;X5;K"LV45 Champion Chestpiece Belt Set"
+C;Y917;X1;K3133
+C;X2;K"MagicDefence"
+C;X3;K10
+C;X4;K2
+C;X5;K"LV45 Champion Greaves Gloves Set"
+C;Y918;X1;K3134
+C;X2;K"PhysicsDefence"
+C;X3;K10
+C;X4;K2
+C;X5;K"LV45 Champion Pauldrons Helm Set"
+C;Y920;X1;K3141
+C;X2;K"FrostAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV60 Champion Weapon Boots Set"
+C;Y921;X1;K3142
+C;X2;K"MaxHP"
+C;X3;K1296
+C;X4;K2
+C;X5;K"LV60 Champion Chestpiece Belt Set"
+C;Y922;X1;K3143
+C;X2;K"MagicDefence"
+C;X3;K14
+C;X4;K2
+C;X5;K"LV60 Champion Greaves Gloves Set"
+C;Y923;X1;K3144
+C;X2;K"PhysicsDefence"
+C;X3;K14
+C;X4;K2
+C;X5;K"LV60 Champion Pauldrons Helm Set"
+C;Y925;X1;K3151
+C;X2;K"FrostAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV75 Champion Weapon Boots Set"
+C;Y926;X1;K3152
+C;X2;K"MaxHP"
+C;X3;K1727
+C;X4;K2
+C;X5;K"LV75 Champion Chestpiece Belt Set"
+C;Y927;X1;K3153
+C;X2;K"MagicDefence"
+C;X3;K19
+C;X4;K2
+C;X5;K"LV75 Champion Greaves Gloves Set"
+C;Y928;X1;K3154
+C;X2;K"PhysicsDefence"
+C;X3;K19
+C;X4;K2
+C;X5;K"LV75 Champion Pauldrons Helm Set"
+C;Y930;X1;K3161
+C;X2;K"FrostAttack"
+C;X3;K80
+C;X4;K2
+C;X5;K"LV90 Champion Weapon Boots Set"
+C;Y931;X1;K3162
+C;X2;K"MaxHP"
+C;X3;K2259
+C;X4;K2
+C;X5;K"LV90 Champion Chestpiece Belt Set"
+C;Y932;X1;K3163
+C;X2;K"MagicDefence"
+C;X3;K25
+C;X4;K2
+C;X5;K"LV90 Champion Greaves Gloves Set"
+C;Y933;X1;K3164
+C;X2;K"PhysicsDefence"
+C;X3;K25
+C;X4;K2
+C;X5;K"LV90 Champion Pauldrons Helm Set"
+C;Y935;X1;K3171
+C;X2;K"FrostAttack"
+C;X3;K95
+C;X4;K2
+C;X5;K"105 Warrior's Weapon Boots Set"
+C;Y936;X1;K3172
+C;X2;K"MaxHP"
+C;X3;K2780
+C;X4;K2
+C;X5;K"105 Warrior's Clothes Belt Set"
+C;Y937;X1;K3173
+C;X2;K"MagicDefence"
+C;X3;K31
+C;X4;K2
+C;X5;K"105 Warrior's Greaves Gloves Set"
+C;Y938;X1;K3174
+C;X2;K"PhysicsDefence"
+C;X3;K31
+C;X4;K2
+C;X5;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y940;X1;K3211
+C;X2;K"DarkAttack"
+C;X3;K11
+C;X4;K2
+C;X5;K"LV15 Slayer Weapon Boots Set"
+C;Y941;X1;K3212
+C;X2;K"PhysicsAttack"
+C;X3;K6
+C;X4;K2
+C;X5;K"LV15 Slayer Chestpiece Belt Set"
+C;Y942;X1;K3213
+C;X2;K"AttackSpeed"
+C;X3;K4
+C;X4;K2
+C;X5;K"LV15 Slayer Greaves Gloves Set"
+C;Y943;X1;K3214
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"LV15 Slayer Pauldrons Helm Set"
+C;Y945;X1;K3221
+C;X2;K"DarkAttack"
+C;X3;K21
+C;X4;K2
+C;X5;K"LV30 Slayer Weapon Boots Set"
+C;Y946;X1;K3222
+C;X2;K"PhysicsAttack"
+C;X3;K10
+C;X4;K2
+C;X5;K"LV30 Slayer Chestpiece Belt Set"
+C;Y947;X1;K3223
+C;X2;K"AttackSpeed"
+C;X3;K5
+C;X4;K2
+C;X5;K"LV30 Slayer Greaves Gloves Set"
+C;Y948;X1;K3224
+C;X2;K"CriticalOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"LV30 Slayer Pauldrons Helm Set"
+C;Y950;X1;K3231
+C;X2;K"DarkAttack"
+C;X3;K32
+C;X4;K2
+C;X5;K"LV45 Slayer Weapon Boots Set"
+C;Y951;X1;K3232
+C;X2;K"PhysicsAttack"
+C;X3;K16
+C;X4;K2
+C;X5;K"LV45 Slayer Chestpiece Belt Set"
+C;Y952;X1;K3233
+C;X2;K"AttackSpeed"
+C;X3;K6
+C;X4;K2
+C;X5;K"LV45 Slayer Greaves Gloves Set"
+C;Y953;X1;K3234
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"LV45 Slayer Pauldrons Helm Set"
+C;Y955;X1;K3241
+C;X2;K"DarkAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV60 Slayer Weapon Boots Set"
+C;Y956;X1;K3242
+C;X2;K"PhysicsAttack"
+C;X3;K23
+C;X4;K2
+C;X5;K"LV60 Slayer Chestpiece Belt Set"
+C;Y957;X1;K3243
+C;X2;K"AttackSpeed"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV60 Slayer Greaves Gloves Set"
+C;Y958;X1;K3244
+C;X2;K"CriticalOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"LV60 Slayer Pauldrons Helm Set"
+C;Y960;X1;K3251
+C;X2;K"DarkAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV75 Slayer Weapon Boots Set"
+C;Y961;X1;K3252
+C;X2;K"PhysicsAttack"
+C;X3;K31
+C;X4;K2
+C;X5;K"LV75 Slayer Chestpiece Belt Set"
+C;Y962;X1;K3253
+C;X2;K"AttackSpeed"
+C;X3;K8
+C;X4;K2
+C;X5;K"LV75 Slayer Greaves Gloves Set"
+C;Y963;X1;K3254
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K2
+C;X5;K"LV75 Slayer Pauldrons Helm Set"
+C;Y965;X1;K3261
+C;X2;K"DarkAttack"
+C;X3;K80
+C;X4;K2
+C;X5;K"LV90 Slayer Weapon Boots Set"
+C;Y966;X1;K3262
+C;X2;K"PhysicsAttack"
+C;X3;K40
+C;X4;K2
+C;X5;K"LV90 Slayer Chestpiece Belt Set"
+C;Y967;X1;K3263
+C;X2;K"AttackSpeed"
+C;X3;K9
+C;X4;K2
+C;X5;K"LV90 Slayer Greaves Gloves Set"
+C;Y968;X1;K3264
+C;X2;K"CriticalOdds"
+C;X3;K3
+C;X4;K2
+C;X5;K"LV90 Slayer Pauldrons Helm Set"
+C;Y970;X1;K3271
+C;X2;K"DarkAttack"
+C;X3;K95
+C;X4;K2
+C;X5;K"105 Warrior's Weapon Boots Set"
+C;Y971;X1;K3272
+C;X2;K"PhysicsAttack"
+C;X3;K63
+C;X4;K2
+C;X5;K"105 Warrior's Clothes Belt Set"
+C;Y972;X1;K3273
+C;X2;K"AttackSpeed"
+C;X3;K10
+C;X4;K2
+C;X5;K"105 Warrior's Greaves Gloves Set"
+C;Y973;X1;K3274
+C;X2;K"CriticalOdds"
+C;X3;K4
+C;X4;K2
+C;X5;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y975;X1;K3311
+C;X2;K"FireAttack"
+C;X3;K11
+C;X4;K2
+C;X5;K"LV15 Magus Weapon Boots Set"
+C;Y976;X1;K3312
+C;X2;K"MaxMP"
+C;X3;K258
+C;X4;K2
+C;X5;K"LV15 Magus Chestpiece Belt Set"
+C;Y977;X1;K3313
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV15 Magus Greaves Gloves Set"
+C;Y978;X1;K3314
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"LV15 Magus Pauldrons Helm Set"
+C;Y980;X1;K3321
+C;X2;K"FireAttack"
+C;X3;K21
+C;X4;K2
+C;X5;K"LV30 Magus Weapon Boots Set"
+C;Y981;X1;K3322
+C;X2;K"MaxMP"
+C;X3;K472
+C;X4;K2
+C;X5;K"LV30 Magus Chestpiece Belt Set"
+C;Y982;X1;K3323
+C;X2;K"MagicAttack"
+C;X3;K13
+C;X4;K2
+C;X5;K"LV30 Magus Greaves Gloves Set"
+C;Y983;X1;K3324
+C;X2;K"LuckyHitOdds"
+C;X3;K1
+C;X4;K2
+C;X5;K"LV30 Magus Pauldrons Helm Set"
+C;Y985;X1;K3331
+C;X2;K"FireAttack"
+C;X3;K32
+C;X4;K2
+C;X5;K"LV45 Magus Weapon Boots Set"
+C;Y986;X1;K3332
+C;X2;K"MaxMP"
+C;X3;K727
+C;X4;K2
+C;X5;K"LV45 Magus Chestpiece Belt Set"
+C;Y987;X1;K3333
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K2
+C;X5;K"LV45 Magus Greaves Gloves Set"
+C;Y988;X1;K3334
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"LV45 Magus Pauldrons Helm Set"
+C;Y990;X1;K3341
+C;X2;K"FireAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV60 Magus Weapon Boots Set"
+C;Y991;X1;K3342
+C;X2;K"MaxMP"
+C;X3;K1037
+C;X4;K2
+C;X5;K"LV60 Magus Chestpiece Belt Set"
+C;Y992;X1;K3343
+C;X2;K"MagicAttack"
+C;X3;K29
+C;X4;K2
+C;X5;K"LV60 Magus Greaves Gloves Set"
+C;Y993;X1;K3344
+C;X2;K"LuckyHitOdds"
+C;X3;K2
+C;X4;K2
+C;X5;K"LV60 Magus Pauldrons Helm Set"
+C;Y995;X1;K3351
+C;X2;K"FireAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV75 Magus Weapon Boots Set"
+C;Y996;X1;K3352
+C;X2;K"MaxMP"
+C;X3;K1381
+C;X4;K2
+C;X5;K"LV75 Magus Chestpiece Belt Set"
+C;Y997;X1;K3353
+C;X2;K"MagicAttack"
+C;X3;K38
+C;X4;K2
+C;X5;K"LV75 Magus Greaves Gloves Set"
+C;Y998;X1;K3354
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K2
+C;X5;K"LV75 Magus Pauldrons Helm Set"
+C;Y1000;X1;K3361
+C;X2;K"FireAttack"
+C;X3;K80
+C;X4;K2
+C;X5;K"LV90 Magus Weapon Boots Set"
+C;Y1001;X1;K3362
+C;X2;K"MaxMP"
+C;X3;K1807
+C;X4;K2
+C;X5;K"LV90 Magus Chestpiece Belt Set"
+C;Y1002;X1;K3363
+C;X2;K"MagicAttack"
+C;X3;K50
+C;X4;K2
+C;X5;K"LV90 Magus Greaves Gloves Set"
+C;Y1003;X1;K3364
+C;X2;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K2
+C;X5;K"LV90 Magus Pauldrons Helm Set"
+C;Y1005;X1;K3371
+C;X2;K"FireAttack"
+C;X3;K95
+C;X4;K2
+C;X5;K"105 Warrior's Weapon Boots Set"
+C;Y1006;X1;K3372
+C;X2;K"MaxMP"
+C;X3;K2290
+C;X4;K2
+C;X5;K"105 Warrior's Clothes Belt Set"
+C;Y1007;X1;K3373
+C;X2;K"MagicAttack"
+C;X3;K63
+C;X4;K2
+C;X5;K"105 Warrior's Greaves Gloves Set"
+C;Y1008;X1;K3374
+C;X2;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K2
+C;X5;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y1010;X1;K3411
+C;X2;K"LightAttack"
+C;X3;K11
+C;X4;K2
+C;X5;K"LV15 Heretic Weapon Boots Set"
+C;Y1011;X1;K3412
+C;X2;K"MaxMP"
+C;X3;K323
+C;X4;K2
+C;X5;K"LV15 Heretic Chestpiece Belt Set"
+C;Y1012;X1;K3413
+C;X2;K"MagicAttack"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV15 Heretic Greaves Gloves Set"
+C;Y1013;X1;K3414
+C;X2;K"MagicDefence"
+C;X3;K4
+C;X4;K2
+C;X5;K"LV15 Heretic Pauldrons Helm Set"
+C;Y1015;X1;K3421
+C;X2;K"LightAttack"
+C;X3;K21
+C;X4;K2
+C;X5;K"LV30 Heretic Weapon Boots Set"
+C;Y1016;X1;K3422
+C;X2;K"MaxMP"
+C;X3;K590
+C;X4;K2
+C;X5;K"LV30 Heretic Chestpiece Belt Set"
+C;Y1017;X1;K3423
+C;X2;K"MagicAttack"
+C;X3;K13
+C;X4;K2
+C;X5;K"LV30 Heretic Greaves Gloves Set"
+C;Y1018;X1;K3424
+C;X2;K"MagicDefence"
+C;X3;K7
+C;X4;K2
+C;X5;K"LV30 Heretic Pauldrons Helm Set"
+C;Y1020;X1;K3431
+C;X2;K"LightAttack"
+C;X3;K32
+C;X4;K2
+C;X5;K"LV45 Heretic Weapon Boots Set"
+C;Y1021;X1;K3432
+C;X2;K"MaxMP"
+C;X3;K909
+C;X4;K2
+C;X5;K"LV45 Heretic Chestpiece Belt Set"
+C;Y1022;X1;K3433
+C;X2;K"MagicAttack"
+C;X3;K20
+C;X4;K2
+C;X5;K"LV45 Heretic Greaves Gloves Set"
+C;Y1023;X1;K3434
+C;X2;K"MagicDefence"
+C;X3;K10
+C;X4;K2
+C;X5;K"LV45 Heretic Pauldrons Helm Set"
+C;Y1025;X1;K3441
+C;X2;K"LightAttack"
+C;X3;K46
+C;X4;K2
+C;X5;K"LV60 Heretic Weapon Boots Set"
+C;Y1026;X1;K3442
+C;X2;K"MaxMP"
+C;X3;K1296
+C;X4;K2
+C;X5;K"LV60 Heretic Chestpiece Belt Set"
+C;Y1027;X1;K3443
+C;X2;K"MagicAttack"
+C;X3;K29
+C;X4;K2
+C;X5;K"LV60 Heretic Greaves Gloves Set"
+C;Y1028;X1;K3444
+C;X2;K"MagicDefence"
+C;X3;K14
+C;X4;K2
+C;X5;K"LV60 Heretic Pauldrons Helm Set"
+C;Y1030;X1;K3451
+C;X2;K"LightAttack"
+C;X3;K61
+C;X4;K2
+C;X5;K"LV75 Heretic Weapon Boots Set"
+C;Y1031;X1;K3452
+C;X2;K"MaxMP"
+C;X3;K1727
+C;X4;K2
+C;X5;K"LV75 Heretic Chestpiece Belt Set"
+C;Y1032;X1;K3453
+C;X2;K"MagicAttack"
+C;X3;K38
+C;X4;K2
+C;X5;K"LV75 Heretic Greaves Gloves Set"
+C;Y1033;X1;K3454
+C;X2;K"MagicDefence"
+C;X3;K19
+C;X4;K2
+C;X5;K"LV75 Heretic Pauldrons Helm Set"
+C;Y1035;X1;K3461
+C;X2;K"LightAttack"
+C;X3;K80
+C;X4;K2
+C;X5;K"LV90 Heretic Weapon Boots Set"
+C;Y1036;X1;K3462
+C;X2;K"MaxMP"
+C;X3;K2259
+C;X4;K2
+C;X5;K"LV90 Heretic Chestpiece Belt Set"
+C;Y1037;X1;K3463
+C;X2;K"MagicAttack"
+C;X3;K50
+C;X4;K2
+C;X5;K"LV90 Heretic Greaves Gloves Set"
+C;Y1038;X1;K3464
+C;X2;K"MagicDefence"
+C;X3;K25
+C;X4;K2
+C;X5;K"LV90 Heretic Pauldrons Helm Set"
+C;Y1040;X1;K3471
+C;X2;K"LightAttack"
+C;X3;K95
+C;X4;K2
+C;X5;K"105 Warrior's Weapon Boots Set"
+C;Y1041;X1;K3472
+C;X2;K"MaxMP"
+C;X3;K2780
+C;X4;K2
+C;X5;K"105 Warrior's Clothes Belt Set"
+C;Y1042;X1;K3473
+C;X2;K"MagicAttack"
+C;X3;K63
+C;X4;K2
+C;X5;K"105 Warrior's Greaves Gloves Set"
+C;Y1043;X1;K3474
+C;X2;K"MagicDefence"
+C;X3;K31
+C;X4;K2
+C;X5;K"105 Warrior's Shoulder Parts Helm Set"
+C;Y1045;X1;K3500
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Berzerker"
+C;X7;K"HP"
+C;Y1046;X1;K3500
+F;SM27;X2
+C;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Berzerker"
+C;X7;K"Lucky Strike"
+C;Y1047;X1;K3500
+F;SM27;X2
+C;K"PhysicsAttackPercent"
+C;X3;K10
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Berzerker"
+C;X7;K"Physical Attack"
+C;Y1049;X1;K3501
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Champion"
+C;X7;K"HP"
+C;Y1050;X1;K3501
+F;SM27;X2
+C;K"ResistancePhysics"
+C;X3;K10
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Champion"
+C;X7;K"N/A??"
+C;Y1051;X1;K3501
+F;SM27;X2
+C;K"ResistanceMagic"
+C;X3;K10
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Champion"
+C;X7;K"N/A??"
+C;Y1053;X1;K3502
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Slayer"
+C;X7;K"HP"
+C;Y1054;X1;K3502
+F;SM27;X2
+C;K"LuckyHitOdds"
+C;X3;K3
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Slayer"
+C;X7;K"Lucky Strike"
+C;Y1055;X1;K3502
+F;SM27;X2
+C;K"PhysicsAttackPercent"
+C;X3;K10
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Slayer"
+C;X7;K"Physical Attack"
+C;Y1057;X1;K3503
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Magus"
+C;X7;K"HP"
+C;Y1058;X1;K3503
+F;SM27;X2
+C;K"CriticalOdds"
+C;X3;K3
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Magus"
+C;X7;K"Critstrike"
+C;Y1059;X1;K3503
+F;SM27;X2
+C;K"MagicAttackPercent"
+C;X3;K10
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Magus"
+C;X7;K"Magic Attack"
+C;Y1061;X1;K3504
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K10
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Heretic"
+C;X7;K"HP"
+C;Y1062;X1;K3504
+F;SM27;X2
+C;K"CriticalOdds"
+C;X3;K3
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Heretic"
+C;X7;K"Critstrike"
+C;Y1063;X1;K3504
+F;SM27;X2
+C;K"MagicAttackPercent"
+C;X3;K10
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Heretic"
+C;X7;K"Magic Attack"
+C;Y1065;X1;K3505
+F;SM27;X2
+C;K"PhysicsAttackPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Berzerker"
+C;X7;K"Physical Attack"
+C;Y1066;X1;K3505
+F;SM27;X2
+C;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Berzerker"
+C;X7;K"Lucky Strike"
+C;Y1067;X1;K3505
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K12
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Berzerker"
+C;X7;K"HP"
+C;Y1069;X1;K3506
+F;SM27;X2
+C;K"ResistanceMagic"
+C;X3;K12
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Champion"
+C;X7;K"N/A??"
+C;Y1070;X1;K3506
+F;SM27;X2
+C;K"ResistancePhysics"
+C;X3;K12
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Champion"
+C;X7;K"N/A??"
+C;Y1071;X1;K3506
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K12
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Champion"
+C;X7;K"HP"
+C;Y1073;X1;K3507
+F;SM27;X2
+C;K"PhysicsAttackPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Slayer"
+C;X7;K"Physical Attack"
+C;Y1074;X1;K3507
+F;SM27;X2
+C;K"LuckyHitOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Slayer"
+C;X7;K"Lucky Strike"
+C;Y1075;X1;K3507
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K12
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Slayer"
+C;X7;K"HP"
+C;Y1077;X1;K3508
+F;SM27;X2
+C;K"MagicAttackPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Magus"
+C;X7;K"Magic Attack"
+C;Y1078;X1;K3508
+F;SM27;X2
+C;K"CriticalOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Magus"
+C;X7;K"Critstrike"
+C;Y1079;X1;K3508
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K12
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Magus"
+C;X7;K"HP"
+C;Y1081;X1;K3509
+F;SM27;X2
+C;K"MagicAttackPercent"
+C;X3;K12
+C;X4;K2
+C;X5;K"Oracle"
+C;X6;K"Heretic"
+C;X7;K"Magic Attack"
+C;Y1082;X1;K3509
+F;SM27;X2
+C;K"CriticalOdds"
+C;X3;K4
+C;X4;K3
+C;X5;K"Oracle"
+C;X6;K"Heretic"
+C;X7;K"Critstrike"
+C;Y1083;X1;K3509
+F;SM27;X2
+C;K"MaxHPPercent"
+C;X3;K12
+C;X4;K4
+C;X5;K"Oracle"
+C;X6;K"Heretic"
+C;X7;K"HP"
+E

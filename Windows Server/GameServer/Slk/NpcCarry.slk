@@ -1,0 +1,1725 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M200
+F;P0;DG0G8;M285
+B;Y163;X10;D0 0 162 9
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 6
+F;W2 2 9
+F;W3 4 13
+F;W5 5 12
+F;W6 6 27
+F;W7 8 23
+F;W9 9 33
+F;W10 10 20
+F;W11 11 16
+F;W12 12 21
+C;Y1;X1;K"NPCID"
+C;X2;K"Option id"
+C;X3;K"Map ID"
+C;X4;K"Map Coordinate X"
+C;X5;K"Map Coordinate Y"
+C;X6;K"Coins Cost to current teleport location"
+C;X7;K"Requisite Level to current teleport location"
+C;X8;K"Judge Exalted Level."
+C;X9;K"Description"
+C;Y2;X1;K"NpcID"
+C;X2;K"IndexId"
+C;X3;K"MapID"
+C;X4;K"MapX"
+C;X5;K"MapY"
+C;X6;K"Money"
+C;X7;K"Level"
+F;P0;FG0C;X8
+C;K"FieldLevel"
+C;X9;K"Description"
+C;Y3;X1;K22
+C;X2;K1
+C;X3;K169
+C;X4;K47
+C;X5;K53
+C;X6;K0
+C;X7;K60
+C;X8;K0
+C;X9;K"To Chrono Mirage (LV60+)"
+C;X10;K"Easter Island to Chrono Mirage"
+C;Y4;X1;K84
+C;X2;K1
+C;X3;K475
+C;X4;K67
+C;X5;K44
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"Devilhunter Gorge to Square"
+C;Y5;X1;K85
+C;X2;K1
+C;X3;K66
+C;X4;K77
+C;X5;K78
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Devilhunter Gorge"
+C;X10;K"Square to Devilhunter Gorge"
+C;Y6;X1;K86
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K400
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (400 Coins)"
+C;X10;K"Bermuda to Square, Rally Point"
+C;Y7;X1;K86
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K400
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (400 Coins)"
+C;X10;K"Bermuda to Atlantis, Rally Point"
+C;Y8;X1;K86
+C;X2;K3
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (500 Coins)"
+C;X10;K"Bermuda to Easter Island South"
+C;Y9;X1;K86
+C;X2;K4
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (800 Coins)"
+C;X10;K"Bermuda to Angkor Encampment, Rally Point"
+C;Y10;X1;K86
+C;X2;K5
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K310
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (310 Coins)"
+C;X10;K"Bermuda to Nile River, Rally Point"
+C;Y11;X1;K86
+C;X2;K6
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (500 Coins)"
+C;X10;K"Bermuda to Aegean, Rally Point"
+C;Y12;X1;K86
+C;X2;K7
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K310
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (310 Coins, LV75+)"
+C;X10;K"Bermuda to Nordic Lands, Rally Point"
+C;Y13;X1;K87
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (500 Coins)"
+C;X10;K"Aegean to Atlantis, Rally Point"
+C;Y14;X1;K87
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (500 Coins)"
+C;X10;K"Aegean to Atlantis, Rally Point"
+C;Y15;X1;K87
+C;X2;K3
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (500 Coins)"
+C;X10;K"Aegean to Easter Island South, Rally Point"
+C;Y16;X1;K87
+C;X2;K4
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K310
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (310 Coins)"
+C;X10;K"Aegean to Angkor Encampment, Rally Point"
+C;Y17;X1;K87
+C;X2;K5
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K620
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (620 Coins)"
+C;X10;K"Aegean to Nile River, Rally Point"
+C;Y18;X1;K87
+C;X2;K6
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda Islands (500 Coins)"
+C;X10;K"Aegean to Bermuda, Rally Point"
+C;Y19;X1;K87
+C;X2;K7
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K800
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (800 Coins, LV75+)"
+C;X10;K"Aegean to Nordic Lands, Rally Point"
+C;Y20;X1;K88
+C;X2;K1
+C;X3;K133
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Aries (500 Coins, LV20+)"
+C;X10;K"Atlantis to Aries"
+C;Y21;X1;K88
+C;X2;K2
+C;X3;K134
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Taurus (500 Coins, LV20+)"
+C;X10;K"Atlantis to Taurus"
+C;Y22;X1;K88
+C;X2;K3
+C;X3;K135
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Gemini (500 Coins, LV20+)"
+C;X10;K"Atlantis to Gemini "
+C;Y23;X1;K88
+C;X2;K4
+C;X3;K136
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Cancer (500 Coins, LV20+)"
+C;X10;K"Atlantis to Cancer"
+C;Y24;X1;K88
+C;X2;K5
+C;X3;K142
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Capricorn (500 Coins, LV20+)"
+C;X10;K"Atlantis to Capricorn"
+C;Y25;X1;K88
+C;X2;K6
+C;X3;K143
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Aquarius (500 Coins, LV20+)"
+C;X10;K"Atlantis to Aquarius"
+C;Y26;X1;K88
+C;X2;K7
+C;X3;K137
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Leo (500 Coins, LV20+)"
+C;X10;K"Atlantis to Leo"
+C;Y27;X1;K88
+C;X2;K8
+C;X3;K138
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Virgo (500 Coins, LV20+)"
+C;X10;K"Atlantis to Virgo"
+C;Y28;X1;K88
+C;X2;K9
+C;X3;K139
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Libra (500 Coins, LV20+)"
+C;X10;K"Atlantis to Libra"
+C;Y29;X1;K88
+C;X2;K10
+C;X3;K140
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Scorpio (500 Coins, LV20+)"
+C;X10;K"Atlantis to Scorpio"
+C;Y30;X1;K88
+C;X2;K11
+C;X3;K141
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Sagittarius (500 Coins, LV20+)"
+C;X10;K"Atlantis to Sagittarius"
+C;Y31;X1;K88
+C;X2;K12
+C;X3;K144
+C;X4;K65
+C;X5;K68
+C;X6;K500
+C;X7;K20
+C;X8;K0
+C;X9;K"To Pisces (500 Coins, LV20+)"
+C;X10;K"Atlantis to Pisces"
+C;Y32;X1;K196
+C;X2;K1
+C;X3;K153
+C;X4;K59
+C;X5;K86
+C;X6;K0
+C;X7;K30
+C;X8;K0
+C;X9;K"To Rainbow Valley (LV30+)"
+C;X10;K"N/A????npc"
+C;Y33;X1;K197
+C;X2;K1
+C;X3;K475
+C;X4;K68
+C;X5;K90
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"N/A????????"
+C;Y34;X1;K198
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K0
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (LV20+)"
+C;X10;K"Graveyard NPC"
+C;Y35;X1;K198
+C;X2;K2
+C;X3;K128
+C;X4;K41
+C;X5;K81
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Expedition Camp"
+C;X10;K"Graveyard NPC"
+C;Y36;X1;K228
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor"
+C;X10;K"Atlantis West to East"
+C;Y37;X1;K228
+C;X2;K2
+C;X3;K128
+C;X4;K80
+C;X5;K82
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Expedition Camp"
+C;X10;K"Atlantis to Expedition Camp"
+C;Y38;X1;K228
+C;X2;K3
+C;X3;K214
+C;X4;K64
+C;X5;K64
+C;X6;K700
+C;X7;K41
+C;X8;K0
+C;X9;K"To Rocky Abyss Level 4 (700 Coins, LV41+)"
+C;X10;K"Atlantis to Rocky Abyss Level 4"
+C;Y39;X1;K228
+C;X2;K4
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K300
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (300 Coins)"
+C;X10;K"Atlantis to Easter Island South"
+C;Y40;X1;K228
+C;X2;K5
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (800 Coins)"
+C;X10;K"Atlantis to ????, Rally Point"
+C;Y41;X1;K228
+C;X2;K6
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (500 Coins)"
+C;X10;K"Atlantis to Nile River, Rally Point"
+C;Y42;X1;K228
+C;X2;K7
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K400
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda (400 Coins)"
+C;X10;K"Atlantis to Bermuda, Rally Point"
+C;Y43;X1;K228
+C;X2;K8
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (500 Coins)"
+C;X10;K"Atlantis to Aegean South, Rally Point"
+C;Y44;X1;K228
+C;X2;K9
+C;X3;K163
+C;X4;K91
+C;X5;K42
+C;X6;K900
+C;X7;K45
+C;X8;K0
+C;X9;K"To Soulbound Crypt Level 2 (900 Coins, LV45+)"
+C;X10;K"Atlantis to Soulbound Crypt Level 3"
+C;Y45;X1;K228
+C;X2;K10
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K700
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (700 Coins, LV75+)"
+C;X10;K"Atlantis to Nordic Lands, Rally Point"
+C;Y46;X1;K228
+C;X2;K11
+C;X3;K224
+C;X4;K43
+C;X5;K46
+C;X6;K900
+C;X7;K80
+C;X8;K0
+C;X9;K"To Burning Land (900 Coins, LV80+)"
+C;X10;K"Square To Burning Land"
+C;Y47;X1;K228
+C;X2;K12
+C;X3;K245
+C;X4;K36
+C;X5;K32
+C;X6;K1000
+C;X7;K80
+C;X8;K0
+C;X9;K"To Khufu Desert (1000 Coins, LV80+)"
+C;X10;K"Square To Khufu Desert Depths"
+C;Y48;X1;K228
+C;X2;K13
+C;X3;K239
+C;X4;K70
+C;X5;K63
+C;X6;K800
+C;X7;K41
+C;X8;K0
+C;X9;K"To Rocky Abyss Level 7 (800 Coins, LV41+)"
+C;X10;K"Square To Rocky Abyss Level 7"
+C;Y49;X1;K228
+C;X2;K14
+C;X3;K44
+C;X4;K105
+C;X5;K27
+C;X6;K1000
+C;X7;K90
+C;X8;K0
+C;X9;K"To Olympus (1000 Coins, LV90+)"
+C;X10;K"From the Square to the Pantheon"
+C;Y50;X1;K229
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (800 Coins)"
+C;X10;K"Angkor to Atlantis , Rally Point"
+C;Y51;X1;K229
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (800 Coins)"
+C;X10;K"Angkor to Atlantis, Rally Point"
+C;Y52;X1;K229
+C;X2;K3
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (900 Coins)"
+C;X10;K"Angkor to Easter Island South , Rally Point"
+C;Y53;X1;K229
+C;X2;K4
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (900 Coins)"
+C;X10;K"Angkor to Nile River , Rally Point"
+C;Y54;X1;K229
+C;X2;K5
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda Islands (800 Coins)"
+C;X10;K"Angkor to Nile River , Rally Point"
+C;Y55;X1;K229
+C;X2;K6
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K310
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (310 Coins)"
+C;X10;K"Angkor to Aegean , Rally Point"
+C;Y56;X1;K229
+C;X2;K7
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K980
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (980 Coins, LV75+)"
+C;X10;K"Angkor to Nordic Lands, Rally Point"
+C;Y57;X1;K230
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (500 Coins)"
+C;X10;K"Nile River to Square, Rally Point"
+C;Y58;X1;K230
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (500 Coins)"
+C;X10;K"Nile River to Atlantis, Rally Point"
+C;Y59;X1;K230
+C;X2;K3
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K600
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (600 Coins)"
+C;X10;K"Nile River to Easter Island South "
+C;Y60;X1;K230
+C;X2;K4
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (900 Coins)"
+C;X10;K"Nile River to ??, Rally Point"
+C;Y61;X1;K230
+C;X2;K5
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K310
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda Islands (310 Coins)"
+C;X10;K"Nile River to Bermuda, Rally Point"
+C;Y62;X1;K230
+C;X2;K6
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K620
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (620 Coins)"
+C;X10;K"Nile River to Aegean , Rally Point"
+C;Y63;X1;K230
+C;X2;K7
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K620
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (620 Coins, LV75+)"
+C;X10;K"Nile River to Nordic Lands, Rally Point"
+C;Y64;X1;K231
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K700
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (700 Coins)"
+C;X10;K"Nordic Lands to Square, Rally Point"
+C;Y65;X1;K231
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K700
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (700 Coins)"
+C;X10;K"Nordic Lands to Atlantis, Rally Point"
+C;Y66;X1;K231
+C;X2;K3
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (800 Coins)"
+C;X10;K"Nordic Lands to Easter Island South "
+C;Y67;X1;K231
+C;X2;K4
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K980
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (980 Coins)"
+C;X10;K"Nordic Lands to ??, Rally Point"
+C;Y68;X1;K231
+C;X2;K5
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K620
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (620 Coins)"
+C;X10;K"Nordic Lands to Khufu Desert, Rally Point"
+C;Y69;X1;K231
+C;X2;K6
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K310
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda Islands (310 Coins)"
+C;X10;K"Nordic Lands to Bermuda, Rally Point"
+C;Y70;X1;K231
+C;X2;K7
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (800 Coins)"
+C;X10;K"Nordic Lands to Aegean , Rally Point"
+C;Y71;X1;K1555
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter"
+C;X10;K"Rainbow Valley to Atlantis "
+C;Y72;X1;K1559
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter"
+C;X10;K"Atlantis West to East"
+C;Y73;X1;K1559
+C;X2;K2
+C;X3;K128
+C;X4;K80
+C;X5;K82
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Expedition Camp"
+C;X10;K"Atlantis to Expedition Camp"
+C;Y74;X1;K1559
+C;X2;K3
+C;X3;K214
+C;X4;K64
+C;X5;K64
+C;X6;K700
+C;X7;K41
+C;X8;K0
+C;X9;K"To Rocky Abyss Level 4 (700 Coins, LV41+)"
+C;X10;K"Atlantis to Rocky Abyss Level 4"
+C;Y75;X1;K1559
+C;X2;K4
+C;X3;K106
+C;X4;K43
+C;X5;K73
+C;X6;K300
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island South (300 Coins)"
+C;X10;K"Atlantis to Easter Island South "
+C;Y76;X1;K1559
+C;X2;K5
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (800 Coins)"
+C;X10;K"Atlantis to ????, Rally Point"
+C;Y77;X1;K1559
+C;X2;K6
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (500 Coins)"
+C;X10;K"Atlantis to Nile River , Rally Point"
+C;Y78;X1;K1559
+C;X2;K7
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K400
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda (400 Coins)"
+C;X10;K"Atlantis to Bermuda, Rally Point"
+C;Y79;X1;K1559
+C;X2;K8
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (500 Coins)"
+C;X10;K"Atlantis to Aegean South, Rally Point"
+C;Y80;X1;K1559
+C;X2;K9
+C;X3;K163
+C;X4;K91
+C;X5;K42
+C;X6;K900
+C;X7;K45
+C;X8;K0
+C;X9;K"To Soulbound Crypt Level 2 (900 Coins, LV45+)"
+C;X10;K"Atlantis to Soulbound Crypt"
+C;Y81;X1;K1559
+C;X2;K10
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K700
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (700 Coins, LV75+)"
+C;X10;K"Atlantis to Nordic Lands, Rally Point"
+C;Y82;X1;K1559
+C;X2;K11
+C;X3;K224
+C;X4;K43
+C;X5;K46
+C;X6;K900
+C;X7;K80
+C;X8;K0
+C;X9;K"To Burning Land (900 Coins, LV80+)"
+C;X10;K"Main City To Burning Land"
+C;Y83;X1;K1559
+C;X2;K12
+C;X3;K245
+C;X4;K36
+C;X5;K32
+C;X6;K1000
+C;X7;K80
+C;X8;K0
+C;X9;K"To Khufu Desert (1000 Coins, LV80+)"
+C;X10;K"Main City To Burning Land"
+C;Y84;X1;K1559
+C;X2;K13
+C;X3;K239
+C;X4;K70
+C;X5;K63
+C;X6;K800
+C;X7;K41
+C;X8;K0
+C;X9;K"To Rocky Abyss Level 7 (800 Coins, LV41+)"
+C;X10;K"Main City To Rocky Abyss Level 7"
+C;Y85;X1;K1559
+C;X2;K14
+C;X3;K44
+C;X4;K105
+C;X5;K27
+C;X6;K1000
+C;X7;K90
+C;X8;K0
+C;X9;K"To Olympus (1000 Coins, LV90+)"
+C;X10;K"From the Main City to the Pantheon"
+C;Y86;X1;K1560
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K300
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (300 Coins)"
+C;X10;K"Easter Island South to Square"
+C;Y87;X1;K1560
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K300
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (300 Coins)"
+C;X10;K"Easter Island South to Atlantis"
+C;Y88;X1;K1560
+C;X2;K3
+C;X3;K5
+C;X4;K65
+C;X5;K81
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Aegean South (500 Coins)"
+C;X10;K"Easter Island South to Aegean"
+C;Y89;X1;K1560
+C;X2;K4
+C;X3;K8
+C;X4;K74
+C;X5;K51
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Angkor Encampment (800 Coins)"
+C;X10;K"Easter Island South to Angkor"
+C;Y90;X1;K1560
+C;X2;K5
+C;X3;K7
+C;X4;K54
+C;X5;K97
+C;X6;K400
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda (400 Coins)"
+C;X10;K"Easter Island South to Bermuda"
+C;Y91;X1;K1560
+C;X2;K6
+C;X3;K90
+C;X4;K53
+C;X5;K70
+C;X6;K500
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West (500 Coins)"
+C;X10;K"Easter Island South to Nile River "
+C;Y92;X1;K1560
+C;X2;K7
+C;X3;K21
+C;X4;K99
+C;X5;K43
+C;X6;K700
+C;X7;K75
+C;X8;K0
+C;X9;K"To Nordic Lands (700 Coins, LV75+)"
+C;X10;K"Easter Island South to Nordic Lands"
+C;Y93;X1;K1561
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K0
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Harbor (LV20+)"
+C;X10;K"Expedition Camp to Atlantis"
+C;Y94;X1;K1561
+C;X2;K2
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K0
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (LV20+)"
+C;X10;K"Expedition Camp to Square"
+C;Y95;X1;K1562
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K600
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Harbor (600 Coins, LV20+)"
+C;X10;K"Expedition Camp to Atlantis"
+C;Y96;X1;K1562
+C;X2;K2
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K600
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (600 Coins, LV20+)"
+C;X10;K"Expedition Camp to Square"
+C;Y97;X1;K1563
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K600
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Harbor (600 Coins, LV20+)"
+C;X10;K"Expedition Camp to Atlantis"
+C;Y98;X1;K1563
+C;X2;K2
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K600
+C;X7;K20
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (600 Coins, LV20+)"
+C;X10;K"Expedition Camp to Square"
+C;Y99;X1;K1564
+C;X2;K1
+C;X3;K164
+C;X4;K48
+C;X5;K83
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Soulbound Crypt Level 3"
+C;X10;K"N/A???????"
+C;Y100;X1;K1564
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (900 Coins)"
+C;X10;K"N/A???????"
+C;Y101;X1;K1564
+C;X2;K3
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (900 Coins)"
+C;X10;K"N/A????????"
+C;Y102;X1;K1566
+C;X2;K1
+C;X3;K90
+C;X4;K91
+C;X5;K91
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West "
+C;X10;K"Karnak Temple to Nile River West "
+C;Y103;X1;K1567
+C;X2;K1
+C;X3;K90
+C;X4;K91
+C;X5;K91
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West "
+C;X10;K"Karnak Temple to Nile River West "
+C;Y104;X1;K1568
+C;X2;K1
+C;X3;K90
+C;X4;K48
+C;X5;K78
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Nile River West "
+C;X10;K"Pharaoh's Catacomb to Nile River West "
+C;Y105;X1;K1569
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K700
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (700 Coins)"
+C;X10;K"Rocky Abyss Level 4 to Square"
+C;Y106;X1;K1569
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K700
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (700 Coins)"
+C;X10;K"Rocky Abyss Level 4 to Atlantis"
+C;Y107;X1;K1571
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (900 Coins)"
+C;X10;K"Burning Land to Atlantis"
+C;Y108;X1;K1571
+C;X2;K2
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (900 Coins)"
+C;X10;K"Burning Land to Square"
+C;Y109;X1;K1578
+C;X2;K1
+C;X3;K475
+C;X4;K85
+C;X5;K30
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"Atrium To Muto"
+C;Y110;X1;K1586
+C;X2;K1
+C;X3;K164
+C;X4;K76
+C;X5;K50
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Soulbound Crypt Level 3"
+C;X10;K"N/A???????"
+C;Y111;X1;K1586
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (900 Coins)"
+C;X10;K"N/A???????"
+C;Y112;X1;K1586
+C;X2;K3
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K900
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (900 Coins)"
+C;X10;K"N/A????????"
+C;Y113;X1;K1621
+C;X2;K1
+C;X3;K99
+C;X4;K103
+C;X5;K66
+C;X6;K1000
+C;X7;K101
+C;X8;K0
+C;X9;K"To Killing Grounds (1000 Coins, LV101+)"
+C;X10;K"Dimensional Gate - Scarlet Phoenix"
+C;Y114;X1;K1621
+C;X2;K2
+C;X3;K455
+C;X4;K94
+C;X5;K68
+C;X6;K1000
+C;X7;K101
+C;X8;K0
+C;X9;K"To Emerald Dragon Island (1000 Coins, LV101+)"
+C;X10;K"Dimensional Gate - Emerald Dragon"
+C;Y115;X1;K1621
+C;X2;K3
+C;X3;K456
+C;X4;K76
+C;X5;K29
+C;X6;K1000
+C;X7;K101
+C;X8;K0
+C;X9;K"To White Tiger Den (1000 Coins, LV101+)"
+C;X10;K"Dimensional Gate - White Tiger"
+C;Y116;X1;K1621
+C;X2;K4
+C;X3;K457
+C;X4;K74
+C;X5;K101
+C;X6;K1000
+C;X7;K101
+C;X8;K0
+C;X9;K"To Obsidian Turtle Pool (1000 Coins, LV101+)"
+C;X10;K"Dimensional Gate - Dark Tortoise"
+C;Y117;X1;K1622
+C;X2;K1
+C;X3;K475
+C;X4;K98
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis [1000 Coin] "
+C;X10;K"Scarlet Phoenix Realm - Main City"
+C;Y118;X1;K1623
+C;X2;K1
+C;X3;K475
+C;X4;K98
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis [1000 Coin] "
+C;X10;K"Emerald Dragon Realm - Main City"
+C;Y119;X1;K1624
+C;X2;K1
+C;X3;K475
+C;X4;K98
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis [1000 Coin] "
+C;X10;K"White Tiger Realm - Main City"
+C;Y120;X1;K1625
+C;X2;K1
+C;X3;K475
+C;X4;K98
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis [1000 Coin] "
+C;X10;K"Dark Tortoise Realm - Main City"
+C;Y121;X1;K1768
+C;X2;K1
+C;X3;K475
+C;X4;K83
+C;X5;K44
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"Wonderland to Atlantis "
+C;Y122;X1;K1785
+C;X2;K1
+C;X3;K0
+C;X4;K55
+C;X5;K32
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Easter Island North"
+C;X10;K"Chrono Rift to Easter Island North"
+C;Y123;X1;K1786
+C;X2;K1
+C;X3;K7
+C;X4;K37
+C;X5;K51
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Bermuda Islands "
+C;X10;K"Chrono Rift to Bermuda Islands "
+C;Y124;X1;K1787
+C;X2;K1
+C;X3;K171
+C;X4;K36
+C;X5;K67
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Chrono Lair Level 2"
+C;X10;K"Chrono Rift to Chrono Lair Level 2"
+C;Y125;X1;K1788
+C;X2;K1
+C;X3;K170
+C;X4;K77
+C;X5;K81
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Chrono Lair Level 1"
+C;X10;K"Chrono Rift to Chrono Lair Level 1"
+C;Y126;X1;K1930
+C;X2;K1
+C;X3;K173
+C;X4;K64
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"Return to Guild Manor"
+C;Y127;X1;K1931
+C;X2;K1
+C;X3;K173
+C;X4;K64
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"Return to Guild Manor"
+C;Y128;X1;K2023
+C;X2;K1
+C;X3;K173
+C;X4;K64
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"Return to Guild Manor"
+C;Y129;X1;K2025
+C;X2;K1
+C;X3;K218
+C;X4;K68
+C;X5;K55
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"Return to Fort Glacier"
+C;Y130;X1;K1979
+C;X2;K1
+C;X3;K475
+C;X4;K44
+C;X5;K55
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;Y131;X1;K1577
+C;X2;K1
+C;X3;K245
+C;X4;K18
+C;X5;K17
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Khufu Desert Depths"
+C;X10;K"To Khufu Desert"
+C;Y132;X1;K1580
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (1000 Coins)"
+C;X10;K"The Deep Of Khufu Desert To Atlantis "
+C;Y133;X1;K1580
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (1000 Coins)"
+C;X10;K"The Deep Of Khufu Desert To Atlantis "
+C;Y134;X1;K1581
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (800 Coins)"
+C;X10;K"Rocky Abyss Level 7 To Atlantis"
+C;Y135;X1;K1581
+C;X2;K2
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K800
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (800 Coins)"
+C;X10;K"Rocky Abyss Level 7 To Atlantis"
+C;Y136;X1;K2097
+C;X2;K1
+C;X3;K132
+C;X4;K55
+C;X5;K60
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Quetzalcoatl Ruins"
+C;X10;K"To Quetzalcoatl Ruins"
+C;Y137;X1;K488
+C;X2;K1
+C;X3;K475
+C;X4;K89
+C;X5;K60
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"New Foraging Grounds To Square"
+C;Y138;X1;K540
+C;X2;K1
+C;X3;K227
+C;X4;K24
+C;X5;K70
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"Leave the Waking World"
+C;X10;K"N/ALand of Reality?????"
+C;Y139;X1;K568
+C;X2;K1
+C;X3;K227
+C;X4;K24
+C;X5;K70
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"Leave the Waking World"
+C;X10;K"N/ALand of Reality?????"
+C;Y140;X1;K2199
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (1000 Coins)"
+C;X10;K"N/A??????"
+C;Y141;X1;K2199
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (1000 Coins)"
+C;X10;K"N/A??????"
+C;Y142;X1;K2252
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter"
+C;X10;K"N/APoseidon Temple???"
+C;Y143;X1;K548
+C;X2;K1
+C;X3;K227
+C;X4;K70
+C;X5;K27
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Land of the Dead"
+C;X10;K"N/AHades??????"
+C;Y144;X1;K2198
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter (1000 Coins)"
+C;X10;K"N/A??????"
+C;Y145;X1;K2198
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K1000
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor (1000 Coins)"
+C;X10;K"N/A??????"
+C;Y146;X1;K2300
+C;X2;K1
+C;X3;K475
+C;X4;K59
+C;X5;K63
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Trade Quarter"
+C;X10;K"N/A??????"
+C;Y147;X1;K2300
+C;X2;K2
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis Harbor"
+C;X10;K"N/A??????"
+C;Y148;X1;K712
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"Ruins Guardian Chief"
+C;Y149;X1;K713
+C;X2;K1
+C;X3;K475
+C;X4;K100
+C;X5;K64
+C;X6;K0
+C;X7;K0
+C;X8;K0
+C;X9;K"To Atlantis"
+C;X10;K"Ruins Guardian Chief"
+C;Y150;X1;K766
+C;X2;K1
+C;X3;K533
+C;X4;K50
+C;X5;K79
+C;X6;K5000
+C;X7;K120
+C;X8;K1
+C;X9;K"To Elysium (5000 Coins)"
+C;X10;K"Exalted Gate"
+C;Y151;X1;K766
+C;X2;K2
+C;X3;K537
+C;X4;K95
+C;X5;K113
+C;X6;K5000
+C;X7;K120
+C;X8;K15
+C;X9;K"To Sunken Atlantis (5000 Coins, Exalted LV15+)"
+C;X10;K"Exalted Gate"
+C;Y152;X1;K766
+C;X2;K3
+C;X3;K538
+C;X4;K77
+C;X5;K42
+C;X6;K5000
+C;X7;K120
+C;X8;K15
+C;X9;K"To Twilight Zone (5000 Coins, Exalted LV15+)"
+C;X10;K"Exalted Gate"
+C;Y153;X1;K766
+C;X2;K4
+C;X3;K542
+C;X4;K27
+C;X5;K86
+C;X6;K5000
+C;X7;K120
+C;X8;K25
+C;X9;K"To Fate's Expanse (5000 Coins, Exalted LV25+)"
+C;X10;K"Exalted Gate"
+C;Y154;X1;K766
+C;X2;K5
+C;X3;K562
+C;X4;K29
+C;X5;K64
+C;X6;K5000
+C;X7;K120
+C;X8;K30
+C;X9;K"To Celestial Spire (5000 Coins, Exalted LV30+)"
+C;X10;K"Exalted Gate"
+C;Y155;X1;K766
+C;X2;K6
+C;X3;K563
+C;X4;K72
+C;X5;K85
+C;X6;K5000
+C;X7;K120
+C;X8;K30
+C;X9;K"To Infernal Depths (5000 Coins, Exalted LV30+)"
+C;X10;K"Exalted Gate"
+C;Y156;X1;K766
+C;X2;K7
+C;X3;K564
+C;X4;K21
+C;X5;K105
+C;X6;K5000
+C;X7;K120
+C;X8;K30
+C;X9;K"To the Last Bastion (5000 Coins, Exalted LV30+)"
+C;X10;K"Exalted Gate"
+C;Y157;X1;K763
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K1
+C;X9;K"To Atlantis (5000 Coins)"
+C;X10;K"Mantara"
+C;Y158;X1;K772
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K15
+C;X9;K"To Atlantis (5000 Coins)"
+C;X10;K"Alluring Gate"
+C;Y159;X1;K878
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K25
+C;X9;K"To Atlantis (5000 Coins)"
+C;X10;K"Luis"
+C;Y160;X1;K776
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K15
+C;X9;K"To Atlantis (5000 Coins, Exalted LV15+)"
+C;X10;K"Zerrot"
+C;Y161;X1;K939
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K30
+C;X9;K"To Atlantis (5000 Coins, Exalted LV30+)"
+C;X10;K"Oxys"
+C;Y162;X1;K944
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K30
+C;X9;K"To Atlantis (5000 Coins, Exalted LV30+)"
+C;X10;K"Agritt"
+C;Y163;X1;K947
+C;X2;K1
+C;X3;K475
+C;X4;K103
+C;X5;K43
+C;X6;K5000
+C;X7;K120
+C;X8;K30
+C;X9;K"To Atlantis (5000 Coins, Exalted LV30+)"
+C;X10;K"Petas"
+E
